@@ -1,0 +1,356 @@
+[
+  {
+    "id": "term-2025-autumn/lesson-01",
+    "term": "term-2025-autumn",
+    "number": 1,
+    "date": "2025-09-01",
+    "item_ids": [
+      "d9d38677e1d2",
+      "66d37a7fcf3b",
+      "cd9a3654a517",
+      "63027501c95f",
+      "b3937c93f32d"
+    ]
+  },
+  {
+    "id": "term-2025-autumn/lesson-02",
+    "term": "term-2025-autumn",
+    "number": 2,
+    "date": "2025-09-08",
+    "item_ids": [
+      "93f4e710c54c",
+      "f24eea9bb16c",
+      "8b57197e093a",
+      "f0a7803715f2",
+      "e74ccb90a1fa"
+    ]
+  },
+  {
+    "id": "term-2025-autumn/lesson-03",
+    "term": "term-2025-autumn",
+    "number": 3,
+    "date": "2025-09-15",
+    "item_ids": [
+      "656477d71be2",
+      "bf442440fffe",
+      "f824571eef2c",
+      "d7bb2c552832",
+      "4bc3bf3c6e82",
+      "f94e194bf548"
+    ]
+  },
+  {
+    "id": "term-2025-autumn/lesson-04",
+    "term": "term-2025-autumn",
+    "number": 4,
+    "date": "2025-09-22",
+    "item_ids": [
+      "ec3484d5f521",
+      "c03c47bf71cd",
+      "0ffccf47ea27",
+      "c5b7bcae34b4",
+      "219acca7d0b8",
+      "238f7d80b4c2",
+      "2d9879ecb366",
+      "fdb60ded47bc",
+      "5efb0bba8a9a",
+      "eca9e3451773",
+      "e502b3767e10"
+    ]
+  },
+  {
+    "id": "term-2025-autumn/lesson-05",
+    "term": "term-2025-autumn",
+    "number": 5,
+    "date": "2025-09-29",
+    "item_ids": [
+      "23708a2d120a",
+      "927b0be0e254",
+      "34f208fc1de9",
+      "0137aac0fb73"
+    ]
+  },
+  {
+    "id": "term-2025-autumn/lesson-06",
+    "term": "term-2025-autumn",
+    "number": 6,
+    "date": "2025-10-06",
+    "item_ids": [
+      "479e08551a2c",
+      "95b77c9680d2",
+      "e9520c0d1ff2",
+      "cd817b9160a6",
+      "8832f0de95b2",
+      "2e4a605eec5b"
+    ]
+  },
+  {
+    "id": "term-2025-autumn/lesson-07",
+    "term": "term-2025-autumn",
+    "number": 7,
+    "date": "2025-10-13",
+    "item_ids": [
+      "bf0e835a5267",
+      "56d72d29e197",
+      "09fe0e59f880",
+      "73d5bd857dad",
+      "27f26d11b5b5",
+      "4ffbc59bdf1c",
+      "7523ac917a22"
+    ]
+  },
+  {
+    "id": "term-2025-autumn/lesson-09",
+    "term": "term-2025-autumn",
+    "number": 9,
+    "date": "2025-11-03",
+    "item_ids": [
+      "ebe1c8e14606",
+      "9fc75643b489",
+      "a2d5cb55c68b",
+      "ecff0677c037",
+      "0709d074db98",
+      "063a3aa06417",
+      "3eeeeb439b63"
+    ]
+  },
+  {
+    "id": "term-2025-autumn/lesson-10",
+    "term": "term-2025-autumn",
+    "number": 10,
+    "date": "2025-11-10",
+    "item_ids": [
+      "e6e87b0941cd",
+      "ae2c5c1c53c0",
+      "b2b2b29df64f",
+      "fd544d057c7e",
+      "141fd219c02f",
+      "7647bb2768d4"
+    ]
+  },
+  {
+    "id": "term-2025-autumn/lesson-11",
+    "term": "term-2025-autumn",
+    "number": 11,
+    "date": "2025-11-17",
+    "item_ids": [
+      "e6e87b0941cd",
+      "b2b2b29df64f",
+      "fd544d057c7e",
+      "141fd219c02f",
+      "ebe1c8e14606",
+      "685383c0f272",
+      "b6e1d75fa01f",
+      "7647bb2768d4",
+      "9fc75643b489"
+    ]
+  },
+  {
+    "id": "term-2025-autumn/lesson-12",
+    "term": "term-2025-autumn",
+    "number": 12,
+    "date": "2025-11-24",
+    "item_ids": [
+      "58f7f1496d9d",
+      "2b7d059aceef",
+      "81350605166d",
+      "37dcf2b37be5",
+      "af22534e8b7e",
+      "d80040f26e87",
+      "17b8356f8748",
+      "6b68a1db6de4",
+      "85421ad20cd7",
+      "51afff468492"
+    ]
+  },
+  {
+    "id": "term-2025-autumn/lesson-13",
+    "term": "term-2025-autumn",
+    "number": 13,
+    "date": "2025-12-01",
+    "item_ids": [
+      "a41800a850fa",
+      "8f858926a9cb",
+      "5e951858fd3c"
+    ]
+  },
+  {
+    "id": "term-2025-autumn/lesson-14",
+    "term": "term-2025-autumn",
+    "number": 14,
+    "date": "2025-12-08",
+    "item_ids": [
+      "d8f474a0072a",
+      "474784e5c294",
+      "e1ef44748733",
+      "82037f5a968b",
+      "4b093e549383",
+      "5e951858fd3c"
+    ]
+  },
+  {
+    "id": "term-2026-spring/lesson-01",
+    "term": "term-2026-spring",
+    "number": 1,
+    "date": "2026-04-20",
+    "item_ids": [
+      "3aa4f38ac963",
+      "d04ec85b2a76"
+    ]
+  },
+  {
+    "id": "term-2026-spring/lesson-02",
+    "term": "term-2026-spring",
+    "number": 2,
+    "date": "2026-04-27",
+    "item_ids": [
+      "ac868087b0a9",
+      "3ef857cb94d5",
+      "cab27ed33e6c",
+      "a7c04a1df1b0",
+      "345e7040e090"
+    ]
+  },
+  {
+    "id": "term-2026-winter/lesson-01",
+    "term": "term-2026-winter",
+    "number": 1,
+    "date": "2026-01-12",
+    "item_ids": [
+      "dabc5075c5b1",
+      "16741372e468",
+      "859f9478bd56",
+      "a41800a850fa",
+      "8f858926a9cb",
+      "4b093e549383",
+      "5e951858fd3c"
+    ]
+  },
+  {
+    "id": "term-2026-winter/lesson-02",
+    "term": "term-2026-winter",
+    "number": 2,
+    "date": "2026-01-19",
+    "item_ids": [
+      "0d25506d3e93",
+      "a41800a850fa",
+      "8f858926a9cb",
+      "bc3dbfcd3a6f"
+    ]
+  },
+  {
+    "id": "term-2026-winter/lesson-03",
+    "term": "term-2026-winter",
+    "number": 3,
+    "date": "2026-01-26",
+    "item_ids": [
+      "6bfdc40d8980",
+      "8756a8cee2cb",
+      "c1601e50a879",
+      "a41800a850fa",
+      "8f858926a9cb",
+      "1f1a0d45b8c0"
+    ]
+  },
+  {
+    "id": "term-2026-winter/lesson-04",
+    "term": "term-2026-winter",
+    "number": 4,
+    "date": "2026-02-02",
+    "item_ids": [
+      "6bfdc40d8980",
+      "8756a8cee2cb",
+      "c1601e50a879",
+      "8f858926a9cb",
+      "1f1a0d45b8c0"
+    ]
+  },
+  {
+    "id": "term-2026-winter/lesson-05",
+    "term": "term-2026-winter",
+    "number": 5,
+    "date": "2026-02-09",
+    "item_ids": [
+      "9e885ff78d67",
+      "b850c6ffe41c",
+      "144451647bb3",
+      "9dd47b870ef0",
+      "9856706038bb",
+      "766289093ae8"
+    ]
+  },
+  {
+    "id": "term-2026-winter/lesson-06",
+    "term": "term-2026-winter",
+    "number": 6,
+    "date": "2026-02-16",
+    "item_ids": [
+      "b1dc67dd3947",
+      "766289093ae8",
+      "b0f4c935f496",
+      "f42357a71bfe"
+    ]
+  },
+  {
+    "id": "term-2026-winter/lesson-07",
+    "term": "term-2026-winter",
+    "number": 7,
+    "date": "2026-02-23",
+    "item_ids": [
+      "b50a215759de",
+      "2f49bdeab8ed",
+      "1ab6d884c992",
+      "b75321f7bced"
+    ]
+  },
+  {
+    "id": "term-2026-winter/lesson-08",
+    "term": "term-2026-winter",
+    "number": 8,
+    "date": "2026-03-02",
+    "item_ids": [
+      "050651a0dfe4",
+      "38bc414db2d5",
+      "f42357a71bfe",
+      "3d557126cf57"
+    ]
+  },
+  {
+    "id": "term-2026-winter/lesson-09",
+    "term": "term-2026-winter",
+    "number": 9,
+    "date": "2026-03-09",
+    "item_ids": [
+      "f16942a72a7c",
+      "3f2d6357f304",
+      "3f4331c74f7b",
+      "ce30687f2861",
+      "e1264b276df5",
+      "1346a6cece3e",
+      "42b2d17b0b46",
+      "c131163de182",
+      "6a81d9084719",
+      "b59e9f5374c1",
+      "0e0ebd03d558"
+    ]
+  },
+  {
+    "id": "term-2026-winter/lesson-10",
+    "term": "term-2026-winter",
+    "number": 10,
+    "date": "2026-03-16",
+    "item_ids": [
+      "06c3211f6dee",
+      "85e406a557f0"
+    ]
+  },
+  {
+    "id": "term-2026-winter/lesson-12",
+    "term": "term-2026-winter",
+    "number": 12,
+    "date": "2026-03-30",
+    "item_ids": [
+      "c663027f01b8"
+    ]
+  }
+]
