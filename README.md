@@ -2,6 +2,10 @@
 
 A friendly, game-like web app for learning the Finnish language — built as a Progressive Web App (PWA) that installs natively on iPhone and Mac. Based on the real vocabulary, grammar and exercises from Gavin's in-person Finnish beginner course.
 
+**Live app:** <https://gavinglorieux.github.io/Learn-Finnish/>
+
+Every push to `main` rebuilds and redeploys via the `.github/workflows/deploy.yml` GitHub Actions workflow.
+
 ## What's inside
 
 Content is normalised by `scripts/normalize.py` into four JSON files under `content/`:
