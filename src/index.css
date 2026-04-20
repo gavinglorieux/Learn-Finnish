@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+.dark { color-scheme: dark; }
+
+html, body, #root { height: 100%; }
+
+body {
+  @apply bg-slate-50 text-slate-900 antialiased;
+  font-feature-settings: "ss01", "cv11";
+  padding-top: env(safe-area-inset-top);
+  padding-bottom: env(safe-area-inset-bottom);
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
+  overscroll-behavior-y: none;
+}
+.dark body { @apply bg-slate-950 text-slate-100; }
+
+button, [role="button"] { touch-action: manipulation; -webkit-tap-highlight-color: transparent; }
+
+@layer components {
+  .card {
+    @apply rounded-2xl bg-white shadow-card border border-slate-100;
+  }
+  .dark .card { @apply bg-slate-900 border-slate-800; }
+
+  .btn {
+    @apply inline-flex items-center justify-center rounded-xl px-4 py-2.5 font-semibold transition
+      active:scale-[0.98] focus:outline-none focus-visible:ring-2 focus-visible:ring-finnish-400 focus-visible:ring-offset-2;
+  }
+  .btn-primary { @apply btn bg-finnish-500 text-white hover:bg-finnish-600; }
+  .btn-secondary { @apply btn bg-slate-100 text-slate-900 hover:bg-slate-200; }
+  .dark .btn-secondary { @apply bg-slate-800 text-slate-100 hover:bg-slate-700; }
+  .btn-ghost { @apply btn text-finnish-500 hover:bg-finnish-50; }
+  .dark .btn-ghost { @apply text-finnish-200 hover:bg-slate-800; }
+  .btn-success { @apply btn bg-emerald-500 text-white hover:bg-emerald-600; }
+  .btn-danger { @apply btn bg-rose-500 text-white hover:bg-rose-600; }
+
+  .chip {
+    @apply inline-flex items-center rounded-full px-2.5 py-1 text-xs font-medium bg-slate-100 text-slate-600;
+  }
+  .dark .chip { @apply bg-slate-800 text-slate-300; }
+
+  .choice {
+    @apply w-full text-left rounded-xl border-2 border-slate-200 bg-white px-4 py-3 font-medium transition
+      hover:border-finnish-300 active:scale-[0.99] focus:outline-none focus-visible:ring-2 focus-visible:ring-finnish-400;
+  }
+  .dark .choice { @apply bg-slate-900 border-slate-800 text-slate-100; }
+  .choice-correct { @apply !border-emerald-400 !bg-emerald-50 !text-emerald-900; }
+  .dark .choice-correct { @apply !bg-emerald-900/40 !text-emerald-100 !border-emerald-500; }
+  .choice-wrong { @apply !border-rose-400 !bg-rose-50 !text-rose-900; }
+  .dark .choice-wrong { @apply !bg-rose-900/40 !text-rose-100 !border-rose-500; }
+  .choice-reveal { @apply !border-emerald-400 !bg-emerald-50/60 !text-emerald-900; }
+  .dark .choice-reveal { @apply !bg-emerald-900/30 !text-emerald-100 !border-emerald-500; }
+}
+
+/* Flip-card for flashcards */
+.flip { perspective: 1000px; }
+.flip-inner { transform-style: preserve-3d; transition: transform 500ms; }
+.flip.flipped .flip-inner { transform: rotateY(180deg); }
+.flip-face { backface-visibility: hidden; -webkit-backface-visibility: hidden; }
+.flip-back { transform: rotateY(180deg); }
+
+/* Confetti (simple) */
+.confetti {
+  position: fixed; pointer-events: none; top: 0; left: 0; right: 0; height: 100vh;
+  overflow: hidden; z-index: 80;
+}
+.confetti span {
+  position: absolute; top: -10vh; width: 8px; height: 14px; border-radius: 2px;
+  animation: fall 1800ms ease-in forwards;
+}
+@keyframes fall {
+  0% { transform: translateY(0) rotate(0); opacity: 1 }
+  100% { transform: translateY(120vh) rotate(540deg); opacity: 0 }
+}
+
+/* Scrollbar polish */
+.scroll-contain { overscroll-behavior: contain; }
+
+/* Progress bar */
+.progress-bar { @apply h-2 bg-slate-200 rounded-full overflow-hidden; }
+.dark .progress-bar { @apply bg-slate-800; }
+.progress-bar > span { @apply block h-full bg-finnish-500 transition-all; }
+
+/* Section container */
+.container-app { @apply mx-auto w-full max-w-3xl px-4 sm:px-6; }

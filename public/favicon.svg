@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Learn Finnish">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#003580"/>
+      <stop offset="1" stop-color="#002761"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <!-- Finnish cross -->
+  <rect x="44" y="200" width="424" height="112" fill="#ffffff" opacity="0.92"/>
+  <rect x="156" y="64" width="112" height="384" fill="#ffffff" opacity="0.92"/>
+  <!-- Letter Ä (for Finnish distinctive character) -->
+  <g transform="translate(300 145)">
+    <circle cx="40" cy="0" r="16" fill="#ffcc00"/>
+    <circle cx="108" cy="0" r="16" fill="#ffcc00"/>
+  </g>
+  <g transform="translate(300 175)" fill="#003580">
+    <path d="M0 220 L76 40 L148 40 L224 220 L176 220 L158 168 L66 168 L48 220 Z M82 120 L142 120 L112 48 Z" />
+  </g>
+</svg>

@@ -1,6 +1,22 @@
+# Source material (not committed)
 raw/
 parsed/
+
+# Node / build
 node_modules/
+dist/
+dist-ssr/
+dev-dist/
+.vite/
+*.local
+tsconfig.tsbuildinfo
+
+# OS
 .DS_Store
+
+# Claude local agent state
+.claude/
+
+# Env
 .env
 .env.local
