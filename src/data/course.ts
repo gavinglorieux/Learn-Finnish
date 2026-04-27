@@ -90,10 +90,14 @@ export type CourseWord = {
   fi: string
   en: string
   itemId: string
+  /** Synthetic category key used by the Words / Learn pages — multiple itemIds can share one. */
+  categoryId: string
   sectionHeading?: string
   topics: string[]
   lesson?: number
   abbreviation?: string
+  /** True if this word is a verb infinitive (en starts with "to "). Used for the Verbs category. */
+  isVerb?: boolean
 }
 
 const slug = (s: string): string =>
@@ -114,6 +118,38 @@ const isWordRow = (fi: unknown, en: unknown): fi is string =>
   typeof fi === 'string' && fi.trim().length > 0 && fi.length <= 80 &&
   typeof en === 'string' && (en as string).trim().length > 0
 
+// --------- category merging ---------
+// Same topic appears under near-duplicate titles in the source material
+// ("Clothes" + "Clothes" + "Clothes and accessories", "Professions (part 1/2)",
+// "Being ill / Being sick" variants etc.). Group them into one logical category.
+type MergeRule = { match: RegExp; key: string; title: string; emoji: string; description?: string }
+const MERGE_RULES: MergeRule[] = [
+  { match: /^(in the bag|contents of a bag)\b/i, key: 'bag-contents', title: 'In the bag', emoji: '🎒', description: 'Everyday items you carry around.' },
+  { match: /^professions/i, key: 'professions', title: 'Professions', emoji: '💼', description: 'Jobs and occupations.' },
+  { match: /^family and relatives/i, key: 'family', title: 'Family & relatives', emoji: '👨‍👩‍👧', description: 'Family members and relatives.' },
+  { match: /(times? of day|time and colours)/i, key: 'time-seasons-colours', title: 'Time, seasons & colours', emoji: '📅', description: 'Parts of the day, seasons, months and colours.' },
+  { match: /^where\?/i, key: 'locative-where', title: 'Where? From where? To where?', emoji: '🧭', description: 'Locative cases — open and enclosed places.' },
+  { match: /^(being ill|being sick)/i, key: 'illness-health', title: 'Illness & health', emoji: '🩺', description: 'Symptoms, illnesses, body parts and recovery.' },
+  { match: /^clothes( and accessories)?$/i, key: 'clothes', title: 'Clothes & accessories', emoji: '👕', description: 'Clothing, footwear and accessories.' },
+  { match: /^on the farm/i, key: 'on-the-farm', title: 'On the farm', emoji: '🐄', description: 'Farm animals and agriculture.' },
+  { match: /^furniture/i, key: 'furniture', title: 'Furniture & household items', emoji: '🛋️', description: 'Furniture and items around the home.' },
+  { match: /^weather$/i, key: 'weather', title: 'Weather', emoji: '🌦️', description: 'Weather conditions and phrases.' }
+]
+
+const ruleForItem = (item: CourseItem): MergeRule | null => {
+  const title = (item.title.en ?? item.title.fi ?? '').trim()
+  if (!title) return null
+  for (const rule of MERGE_RULES) if (rule.match.test(title)) return rule
+  return null
+}
+
+const categoryIdForItem = (item: CourseItem): string =>
+  ruleForItem(item)?.key ?? item.id
+
+// Verb infinitives — "to ski" / hiihtää etc. Surfaced as their own synthetic category.
+const VERBS_CATEGORY_ID = 'verbs'
+const isInfinitiveEn = (en: string): boolean => /^to [a-z]/i.test(en.trim())
+
 export const extractWords = (): CourseWord[] => {
   const out: CourseWord[] = []
   for (const item of ITEMS) {
@@ -121,6 +157,7 @@ export const extractWords = (): CourseWord[] => {
     if (item.content.format !== 'structured') continue
     const sections = item.content.sections ?? []
     const lesson = lessonNumberFor(item) ?? undefined
+    const categoryId = categoryIdForItem(item)
     // Dedup only within an item so the same word can appear in multiple categories/items.
     const seenInItem = new Set<string>()
     for (const sec of sections) {
@@ -133,16 +170,67 @@ export const extractWords = (): CourseWord[] => {
           const key = `${fi.toLowerCase()}|${(en as string).toLowerCase()}`
           if (seenInItem.has(key)) continue
           seenInItem.add(key)
+          // Include en in the id so two rows in the same item with the same Finnish
+          // word but different English meanings (e.g. alushousut → knickers / pants)
+          // don't collide on the React key.
+          const baseSlug = slug(fi)
+          const enHint = slug(en as string).slice(0, 12)
           out.push({
-            id: `${item.id}-${slug(fi)}`.slice(0, 80),
+            id: `${item.id}-${baseSlug}${enHint ? `-${enHint}` : ''}`.slice(0, 96),
             fi: fi.trim(),
             en: (en as string).trim(),
             itemId: item.id,
+            categoryId,
             sectionHeading: heading,
             topics: item.topics,
             lesson,
-            abbreviation
+            abbreviation,
+            isVerb: isInfinitiveEn(en as string)
           })
+          continue
+        }
+        // Number row: { value: 1, fi: "yksi" } — synthesise an English value.
+        const value = row['value']
+        const numFi = row['fi'] as unknown
+        if (typeof numFi === 'string' && numFi.trim().length > 0 && (typeof value === 'number' || typeof value === 'string')) {
+          const enText = String(value)
+          const key = `${numFi.toLowerCase()}|${enText.toLowerCase()}`
+          if (!seenInItem.has(key)) {
+            seenInItem.add(key)
+            out.push({
+              id: `${item.id}-${slug(numFi)}-${slug(enText)}`,
+              fi: numFi.trim(),
+              en: enText,
+              itemId: item.id,
+              categoryId,
+              sectionHeading: heading,
+              topics: item.topics,
+              lesson
+            })
+          }
+          continue
+        }
+        // Alphabet row: { letter: "Ä", example_fi: "äiti", example_en: "mother" }
+        const letter = row['letter'] as string | undefined
+        const exampleFi = row['example_fi'] as string | undefined
+        const exampleEn = row['example_en'] as string | undefined
+        if (letter && exampleFi && exampleEn) {
+          const fiText = `${letter} — ${exampleFi}`
+          const enText = `${letter}: ${exampleEn}`
+          const key = `${fiText.toLowerCase()}|${enText.toLowerCase()}`
+          if (!seenInItem.has(key)) {
+            seenInItem.add(key)
+            out.push({
+              id: `${item.id}-${slug(letter)}-${slug(exampleFi)}`,
+              fi: fiText,
+              en: enText,
+              itemId: item.id,
+              categoryId,
+              sectionHeading: heading,
+              topics: item.topics,
+              lesson
+            })
+          }
           continue
         }
         // verb conjugation row: pronoun_fi + form → surface as "olen / I am" style pair
@@ -161,6 +249,7 @@ export const extractWords = (): CourseWord[] => {
               fi: fiText,
               en: enText,
               itemId: item.id,
+              categoryId,
               sectionHeading: heading,
               topics: item.topics,
               lesson
@@ -174,15 +263,67 @@ export const extractWords = (): CourseWord[] => {
   return out
 }
 
-// Returns one entry per distinct (fi, en) pair — useful for the "all vocabulary" browser.
+// Aggressive English/Finnish normalisation so near-duplicate translations
+// ("it's sunny." vs "it is sunny.") collapse into a single entry.
+const expandContractions = (s: string): string =>
+  s
+    .replace(/\bit's\b/g, 'it is')
+    .replace(/\bthat's\b/g, 'that is')
+    .replace(/\bthere's\b/g, 'there is')
+    .replace(/\bhe's\b/g, 'he is')
+    .replace(/\bshe's\b/g, 'she is')
+    .replace(/\bwhat's\b/g, 'what is')
+    .replace(/\blet's\b/g, 'let us')
+    .replace(/\bdoesn't\b/g, 'does not')
+    .replace(/\bdon't\b/g, 'do not')
+    .replace(/\bdidn't\b/g, 'did not')
+    .replace(/\bisn't\b/g, 'is not')
+    .replace(/\baren't\b/g, 'are not')
+    .replace(/\bwasn't\b/g, 'was not')
+    .replace(/\bweren't\b/g, 'were not')
+    .replace(/\bcan't\b/g, 'cannot')
+    .replace(/\bwon't\b/g, 'will not')
+    .replace(/\bi'm\b/g, 'i am')
+
+const normalizeForDedup = (s: string): string =>
+  expandContractions(
+    s
+      .toLowerCase()
+      .normalize('NFKC')
+      .replace(/[‘’]/g, "'")
+      .replace(/[“”]/g, '"')
+      .replace(/[–—]/g, '-')
+  )
+    .replace(/[.,;:!?…()/]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+
+// Returns one entry per distinct Finnish word. When the same Finnish word has
+// several English translations across the course (alushousut → knickers / pants /
+// underpants) they're folded into a single row, joined with " / ".
 export const uniqueCourseWords = (): CourseWord[] => {
-  const seen = new Set<string>()
-  const out: CourseWord[] = []
+  const byFi = new Map<string, CourseWord & { _allEn: Set<string> }>()
   for (const w of COURSE_WORDS) {
-    const k = `${w.fi.toLowerCase()}|${w.en.toLowerCase()}`
-    if (seen.has(k)) continue
-    seen.add(k)
-    out.push(w)
+    const k = normalizeForDedup(w.fi)
+    const existing = byFi.get(k)
+    if (existing) {
+      // Merge — record the English translation if not seen in any normalised form.
+      const enKey = normalizeForDedup(w.en)
+      const haveAny = Array.from(existing._allEn).some((e) => normalizeForDedup(e) === enKey)
+      if (!haveAny) existing._allEn.add(w.en)
+      continue
+    }
+    byFi.set(k, { ...w, _allEn: new Set([w.en]) })
+  }
+  const out: CourseWord[] = []
+  for (const w of byFi.values()) {
+    const allEn = Array.from(w._allEn)
+    const merged: CourseWord = {
+      ...w,
+      en: allEn.length > 1 ? allEn.join(' / ') : allEn[0]
+    }
+    delete (merged as Partial<typeof w>)._allEn
+    out.push(merged)
   }
   return out
 }
@@ -203,8 +344,13 @@ export type CourseCategory = {
   emoji: string
   description: string
   lessons: number[]
+  /** All source-item ids that contribute to this category. */
+  itemIds: string[]
+  /** Convenience — first item id (kept for backwards compatibility with single-source code paths). */
   itemId: string
   wordCount: number
+  /** Synthetic categories (e.g. Verbs) aren't backed by a single source item. */
+  virtual?: boolean
 }
 
 // Emoji hinting based on title/topics — fallback to book.
@@ -246,23 +392,81 @@ const emojiFor = (item: CourseItem): string => {
   return '📘'
 }
 
-export const CATEGORIES: CourseCategory[] = ITEMS
-  .filter((i) => i.type === 'vocabulary_table' || i.type === 'phrase_list' || i.type === 'number_list')
-  .map((i) => {
-    const wordCount = COURSE_WORDS.filter((w) => w.itemId === i.id).length
-    const lessons = Array.from(new Set(i.lessons.map((l) => l.number))).sort((a, b) => a - b)
-    return {
-      id: i.id,
-      title: (i.title.en ?? i.title.fi ?? 'Untitled').trim(),
-      emoji: emojiFor(i),
-      description: describeItem(i),
-      lessons,
-      itemId: i.id,
-      wordCount
+// Group source items by their merged category key so duplicate / "part 1/2"
+// items collapse into a single Category in the UI.
+const buildCategoriesFromItems = (): CourseCategory[] => {
+  const groups = new Map<string, { items: CourseItem[]; rule: MergeRule | null }>()
+  for (const i of ITEMS) {
+    if (i.type !== 'vocabulary_table' && i.type !== 'phrase_list' && i.type !== 'number_list' && i.type !== 'alphabet_chart') continue
+    const rule = ruleForItem(i)
+    const key = rule?.key ?? i.id
+    if (!groups.has(key)) groups.set(key, { items: [], rule })
+    groups.get(key)!.items.push(i)
+  }
+  const out: CourseCategory[] = []
+  for (const [key, { items, rule }] of groups) {
+    const wordIdsInGroup = COURSE_WORDS.filter((w) => w.categoryId === key)
+    // Word count is the number of unique fi/en pairs in the group (not raw row count).
+    const seen = new Set<string>()
+    for (const w of wordIdsInGroup) {
+      seen.add(`${normalizeForDedup(w.fi)}|${normalizeForDedup(w.en)}`)
     }
-  })
-  .filter((c) => c.wordCount > 0)
-  .sort((a, b) => (a.lessons[0] ?? 99) - (b.lessons[0] ?? 99))
+    const wordCount = seen.size
+    if (wordCount === 0) continue
+    const allLessons = Array.from(new Set(items.flatMap((i) => i.lessons.map((l) => l.number)))).sort((a, b) => a - b)
+    const primary = items[0]
+    if (rule) {
+      out.push({
+        id: rule.key,
+        title: rule.title,
+        emoji: rule.emoji,
+        description: rule.description ?? describeItem(primary),
+        lessons: allLessons,
+        itemIds: items.map((i) => i.id),
+        itemId: primary.id,
+        wordCount
+      })
+    } else {
+      out.push({
+        id: primary.id,
+        title: (primary.title.en ?? primary.title.fi ?? 'Untitled').trim(),
+        emoji: emojiFor(primary),
+        description: describeItem(primary),
+        lessons: allLessons,
+        itemIds: [primary.id],
+        itemId: primary.id,
+        wordCount
+      })
+    }
+  }
+  return out
+}
+
+// Synthetic "Verbs" category: every infinitive across the course.
+const buildVerbsCategory = (): CourseCategory | null => {
+  const verbWords = COURSE_WORDS.filter((w) => w.isVerb)
+  const seen = new Set<string>()
+  for (const w of verbWords) seen.add(`${normalizeForDedup(w.fi)}|${normalizeForDedup(w.en)}`)
+  if (seen.size === 0) return null
+  const lessons = Array.from(new Set(verbWords.map((w) => w.lesson).filter((l): l is number => typeof l === 'number'))).sort((a, b) => a - b)
+  return {
+    id: VERBS_CATEGORY_ID,
+    title: 'Verbs',
+    emoji: '🏃',
+    description: 'All verb infinitives from the course — practise meaning before conjugating.',
+    lessons,
+    itemIds: Array.from(new Set(verbWords.map((w) => w.itemId))),
+    itemId: verbWords[0]?.itemId ?? '',
+    wordCount: seen.size,
+    virtual: true
+  }
+}
+
+export const CATEGORIES: CourseCategory[] = (() => {
+  const real = buildCategoriesFromItems().sort((a, b) => (a.lessons[0] ?? 99) - (b.lessons[0] ?? 99))
+  const verbs = buildVerbsCategory()
+  return verbs ? [verbs, ...real] : real
+})()
 
 function describeItem(item: CourseItem): string {
   if (item.content.format === 'markdown') return 'Reference document from the course.'

@@ -1,23 +1,34 @@
 import { useMemo, useState } from 'react'
-import { WORDS, CATEGORIES } from '@/data/vocabulary'
+import { WORDS, CATEGORIES, wordsByCategory } from '@/data/vocabulary'
 type CategoryId = string
 import { speak } from '@/lib/tts'
-import { SearchIcon, SpeakerIcon } from '@/components/Icons'
+import { SearchIcon, SpeakerIcon, XIcon } from '@/components/Icons'
 import { useApp } from '@/state/AppState'
 import { masteryLevel } from '@/lib/srs'
 
 export default function VocabularyPage() {
   const { srs } = useApp()
   const [q, setQ] = useState('')
-  const [cat, setCat] = useState<CategoryId | 'all'>('all')
+  const [cat, setCat] = useState<CategoryId | 'all' | 'verbs'>('all')
+
+  // The category dropdown lists categories alphabetically by title.
+  // The synthetic "Verbs" entry is pinned so it's easy to find.
+  const sortedCategories = useMemo(() => {
+    const verbs = CATEGORIES.find((c) => c.id === 'verbs')
+    const rest = CATEGORIES.filter((c) => c.id !== 'verbs').slice().sort((a, b) => a.title.localeCompare(b.title))
+    return verbs ? [verbs, ...rest] : rest
+  }, [])
 
   const filtered = useMemo(() => {
     const s = q.trim().toLowerCase()
-    return WORDS.filter((w) => {
-      if (cat !== 'all' && w.category !== cat) return false
-      if (!s) return true
-      return w.fi.toLowerCase().includes(s) || w.en.toLowerCase().includes(s)
-    })
+    const pool = cat === 'verbs'
+      ? wordsByCategory('verbs')
+      : cat === 'all'
+        ? WORDS
+        : WORDS.filter((w) => w.category === cat)
+
+    if (!s) return pool
+    return pool.filter((w) => w.fi.toLowerCase().includes(s) || w.en.toLowerCase().includes(s))
   }, [q, cat])
 
   return (
@@ -34,20 +45,34 @@ export default function VocabularyPage() {
           <span className="sr-only">Search words</span>
           <SearchIcon size={18} className="absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" />
           <input
-            type="search"
+            type="text"
             value={q}
             onChange={(e) => setQ(e.target.value)}
             placeholder="Search Finnish or English"
-            className="w-full rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 pl-10 pr-4 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-finnish-400"
+            autoComplete="off"
+            spellCheck={false}
+            className="w-full rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 pl-10 pr-10 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-finnish-400"
           />
+          {q && (
+            <button
+              type="button"
+              onClick={() => setQ('')}
+              aria-label="Clear search"
+              className="absolute right-2 top-1/2 -translate-y-1/2 rounded-full p-1.5 text-slate-400 hover:text-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800"
+            >
+              <XIcon size={16} />
+            </button>
+          )}
         </label>
         <select
           value={cat}
-          onChange={(e) => setCat(e.target.value as CategoryId | 'all')}
+          onChange={(e) => setCat(e.target.value as CategoryId | 'all' | 'verbs')}
           className="rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-finnish-400"
         >
           <option value="all">All categories</option>
-          {CATEGORIES.map((c) => <option key={c.id} value={c.id}>{c.emoji} {c.title}</option>)}
+          {sortedCategories.map((c) => (
+            <option key={c.id} value={c.id}>{c.emoji} {c.title}</option>
+          ))}
         </select>
       </div>
 

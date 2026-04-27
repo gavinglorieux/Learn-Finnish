@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react'
 import { useNavigate, useParams, useSearchParams } from 'react-router-dom'
-import { WORDS, CATEGORIES, type Word } from '@/data/vocabulary'
+import { WORDS, CATEGORIES, wordsByCategory, type Word } from '@/data/vocabulary'
 type CategoryId = string
 import { useApp } from '@/state/AppState'
 import { dueWordIds } from '@/lib/srs'
@@ -42,7 +42,12 @@ export default function ExercisePage() {
 
   const pool = useMemo<Word[]>(() => {
     let list = WORDS
-    if (categoryFilter) list = list.filter((w) => w.category === categoryFilter)
+    if (categoryFilter) {
+      // wordsByCategory handles synthetic categories (e.g. "verbs") that aren't
+      // backed by a single source item — fall back to the simple filter for the rest.
+      const scoped = wordsByCategory(categoryFilter)
+      list = scoped.length > 0 ? scoped : list.filter((w) => w.category === categoryFilter)
+    }
     if (ex === 'review') {
       const dueIds = dueWordIds(srs)
       const dueWords = dueIds.map((id) => WORDS.find((w) => w.id === id)).filter((w): w is Word => !!w)

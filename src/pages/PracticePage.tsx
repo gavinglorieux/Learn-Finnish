@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import { useApp } from '@/state/AppState'
 import { dueWordIds } from '@/lib/srs'
-import { WORDS } from '@/data/vocabulary'
+import { WORDS, CATEGORIES } from '@/data/vocabulary'
 import { useMemo } from 'react'
 
 type Mode = {
@@ -25,11 +25,33 @@ const MODES: Mode[] = [
   { id: 'course', title: 'Course exercises', emoji: '🎓', accent: 'from-finnish-600 to-finnish-700', body: 'Real class exercises — type the missing word in inflected form.', path: '/practice/course' }
 ]
 
+// Hand-picked shortlist of high-value topics for one-tap focused practice.
+// Verbs is pinned first because it's the user's biggest pain point.
+const TOPIC_PICK_IDS = [
+  'verbs',
+  'family',
+  'illness-health',
+  'clothes',
+  'professions',
+  'time-seasons-colours',
+  'weather',
+  'on-the-farm',
+  'furniture',
+  'bag-contents'
+] as const
+
 export default function PracticePage() {
   const { srs } = useApp()
   const due = useMemo(() => dueWordIds(srs).length, [srs])
   const seen = useMemo(() => Object.keys(srs).length, [srs])
   const unseen = WORDS.length - seen
+
+  const topicPicks = useMemo(() => {
+    return TOPIC_PICK_IDS
+      .map((id) => CATEGORIES.find((c) => c.id === id))
+      .filter((c): c is (typeof CATEGORIES)[number] => Boolean(c))
+  }, [])
+
   return (
     <div className="space-y-6 animate-fade-in">
       <div>
@@ -48,17 +70,41 @@ export default function PracticePage() {
         <Link to="/practice/review" className="btn-primary">Start</Link>
       </div>
 
-      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
-        {MODES.filter((m) => m.id !== 'review').map((m) => (
-          <Link key={m.id} to={m.path} className="card p-4 flex gap-3 min-w-0 hover:-translate-y-0.5 transition">
-            <div className={`shrink-0 rounded-xl text-white text-2xl w-12 h-12 flex items-center justify-center bg-gradient-to-br ${m.accent}`}>{m.emoji}</div>
-            <div className="min-w-0 flex-1">
-              <div className="font-semibold">{m.title}</div>
-              <div className="text-sm text-slate-500 dark:text-slate-400">{m.body}</div>
-            </div>
-          </Link>
-        ))}
-      </div>
+      <section>
+        <div className="flex items-baseline justify-between mb-2">
+          <h2 className="font-semibold">Practice a topic</h2>
+          <Link to="/learn" className="text-xs text-finnish-500 hover:underline">All topics →</Link>
+        </div>
+        <p className="text-sm text-slate-500 dark:text-slate-400 mb-3">Drill one theme at a time. Tap a topic for a multiple-choice round.</p>
+        <div className="flex flex-wrap gap-2">
+          {topicPicks.map((c) => (
+            <Link
+              key={c.id}
+              to={`/practice/multiple-choice?category=${c.id}`}
+              className="chip !text-sm !py-1.5 !px-3 hover:bg-finnish-50 dark:hover:bg-slate-800"
+            >
+              <span className="mr-1.5">{c.emoji}</span>
+              {c.title}
+              <span className="ml-1.5 text-slate-400">· {c.wordCount}</span>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      <section>
+        <h2 className="font-semibold mb-2">All exercise modes</h2>
+        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+          {MODES.filter((m) => m.id !== 'review').map((m) => (
+            <Link key={m.id} to={m.path} className="card p-4 flex gap-3 min-w-0 hover:-translate-y-0.5 transition">
+              <div className={`shrink-0 rounded-xl text-white text-2xl w-12 h-12 flex items-center justify-center bg-gradient-to-br ${m.accent}`}>{m.emoji}</div>
+              <div className="min-w-0 flex-1">
+                <div className="font-semibold">{m.title}</div>
+                <div className="text-sm text-slate-500 dark:text-slate-400">{m.body}</div>
+              </div>
+            </Link>
+          ))}
+        </div>
+      </section>
     </div>
   )
 }

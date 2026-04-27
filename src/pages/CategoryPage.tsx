@@ -1,5 +1,6 @@
 import { Link, useNavigate, useParams } from 'react-router-dom'
-import { CATEGORIES, wordsByCategory } from '@/data/vocabulary'
+import { useMemo } from 'react'
+import { CATEGORIES, wordsByCategory, type Word } from '@/data/vocabulary'
 import { useApp } from '@/state/AppState'
 import { masteryLevel } from '@/lib/srs'
 import { ChevronLeftIcon, SpeakerIcon, DumbbellIcon } from '@/components/Icons'
@@ -10,8 +11,24 @@ export default function CategoryPage() {
   const navigate = useNavigate()
   const { srs } = useApp()
   const cat = CATEGORIES.find((c) => c.id === categoryId)
+
+  // Merged categories aggregate words from multiple source items, so dedupe on
+  // the (fi, en) pair to avoid showing the same word twice on the topic page.
+  const words = useMemo<Word[]>(() => {
+    if (!cat) return []
+    const raw = wordsByCategory(cat.id)
+    const seen = new Set<string>()
+    const out: Word[] = []
+    for (const w of raw) {
+      const k = `${w.fi.toLowerCase()}|${w.en.toLowerCase()}`
+      if (seen.has(k)) continue
+      seen.add(k)
+      out.push(w)
+    }
+    return out
+  }, [cat])
+
   if (!cat) return <div>Not found.</div>
-  const words = wordsByCategory(cat.id)
 
   return (
     <div className="space-y-5 animate-fade-in">

@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Learn Finnish">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1761c4"/>
+      <stop offset="0.55" stop-color="#0a4ea3"/>
+      <stop offset="1" stop-color="#022a64"/>
+    </linearGradient>
+    <radialGradient id="sheen" cx="0.28" cy="0.18" r="0.85">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bubble" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#e6edfa"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6"/>
+      <feOffset dx="0" dy="4" result="off"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.32"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Full-bleed background (fills past the safe zone for maskable icons) -->
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <rect width="512" height="512" fill="url(#sheen)"/>
+
+  <!-- Design scaled into the inner 80% safe zone (from x=51 to x=461) -->
+  <g transform="translate(51 51) scale(0.8)">
+    <!-- Speech bubble -->
+    <g filter="url(#shadow)">
+      <path
+        d="M128 96
+           h256
+           a64 64 0 0 1 64 64
+           v192
+           a64 64 0 0 1 -64 64
+           h-176
+           l-64 60
+           a8 8 0 0 1 -13 -7
+           l8 -53
+           h-11
+           a64 64 0 0 1 -64 -64
+           v-192
+           a64 64 0 0 1 64 -64
+           z"
+        fill="url(#bubble)"
+      />
+    </g>
+
+    <!-- Letter Ä -->
+    <g>
+      <circle cx="226" cy="158" r="14" fill="#ffcc00"/>
+      <circle cx="286" cy="158" r="14" fill="#ffcc00"/>
+      <path
+        d="M163 348
+           L242 184
+           h28
+           L349 348
+           h-44
+           l-15 -38
+           h-68
+           l-15 38
+           z
+           M226 274
+           h60
+           l-30 -76
+           z"
+        fill="#0a4ea3"
+      />
+    </g>
+  </g>
+</svg>

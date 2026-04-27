@@ -1,20 +1,75 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Learn Finnish">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#003580"/>
-      <stop offset="1" stop-color="#002761"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1761c4"/>
+      <stop offset="0.55" stop-color="#0a4ea3"/>
+      <stop offset="1" stop-color="#022a64"/>
     </linearGradient>
+    <radialGradient id="sheen" cx="0.28" cy="0.18" r="0.85">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bubble" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#e6edfa"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="8"/>
+      <feOffset dx="0" dy="6" result="off"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.32"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
   </defs>
+
+  <!-- Rounded background tile -->
   <rect width="512" height="512" rx="112" fill="url(#bg)"/>
-  <!-- Finnish cross -->
-  <rect x="44" y="200" width="424" height="112" fill="#ffffff" opacity="0.92"/>
-  <rect x="156" y="64" width="112" height="384" fill="#ffffff" opacity="0.92"/>
-  <!-- Letter Ä (for Finnish distinctive character) -->
-  <g transform="translate(300 145)">
-    <circle cx="40" cy="0" r="16" fill="#ffcc00"/>
-    <circle cx="108" cy="0" r="16" fill="#ffcc00"/>
+  <rect width="512" height="512" rx="112" fill="url(#sheen)"/>
+
+  <!-- Subtle inner ring for depth -->
+  <rect x="14" y="14" width="484" height="484" rx="100" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="2"/>
+
+  <!-- Speech bubble with tail bottom-left -->
+  <g filter="url(#shadow)">
+    <path
+      d="M128 96
+         h256
+         a64 64 0 0 1 64 64
+         v192
+         a64 64 0 0 1 -64 64
+         h-176
+         l-64 60
+         a8 8 0 0 1 -13 -7
+         l8 -53
+         h-11
+         a64 64 0 0 1 -64 -64
+         v-192
+         a64 64 0 0 1 64 -64
+         z"
+      fill="url(#bubble)"
+    />
   </g>
-  <g transform="translate(300 175)" fill="#003580">
-    <path d="M0 220 L76 40 L148 40 L224 220 L176 220 L158 168 L66 168 L48 220 Z M82 120 L142 120 L112 48 Z" />
+
+  <!-- Letter Ä centered in bubble -->
+  <g>
+    <!-- Two dots (umlaut) — Finnish gold -->
+    <circle cx="226" cy="158" r="14" fill="#ffcc00"/>
+    <circle cx="286" cy="158" r="14" fill="#ffcc00"/>
+    <!-- Ä body -->
+    <path
+      d="M163 348
+         L242 184
+         h28
+         L349 348
+         h-44
+         l-15 -38
+         h-68
+         l-15 38
+         z
+         M226 274
+         h60
+         l-30 -76
+         z"
+      fill="#0a4ea3"
+    />
   </g>
 </svg>
