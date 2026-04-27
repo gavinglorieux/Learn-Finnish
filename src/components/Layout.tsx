@@ -3,6 +3,7 @@ import { useApp } from '@/state/AppState'
 import { HomeIcon, BookIcon, DumbbellIcon, ScrollIcon, ListIcon, CogIcon, FinnishFlag } from './Icons'
 import Toasts from './Toasts'
 import Confetti from './Confetti'
+import PullToRefresh from './PullToRefresh'
 
 const navItems = [
   { to: '/', label: 'Home', icon: HomeIcon },
@@ -18,6 +19,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
   const isExercise = location.pathname.startsWith('/practice/')
   return (
     <div className="min-h-full flex flex-col">
+      {!isExercise && <PullToRefresh />}
       <header className="sticky top-0 z-20 bg-white/80 dark:bg-slate-950/80 backdrop-blur border-b border-slate-200/60 dark:border-slate-800/60">
         <div className="container-app flex items-center justify-between h-14">
           <NavLink to="/" className="flex items-center gap-2 font-semibold text-finnish-500">
