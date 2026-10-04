@@ -59,6 +59,19 @@ export default defineConfig(({ command }) => ({
     }),
     spaFallback()
   ],
+  build: {
+    chunkSizeWarningLimit: 1500,
+    rollupOptions: {
+      output: {
+        // Keep the (large, rarely changing) course content apart from the app code so a
+        // code-only release doesn't make the service worker re-download the whole content.
+        manualChunks(id) {
+          if (id.includes('/content/') && id.endsWith('.json') && !id.endsWith('handouts.json')) return 'content'
+          if (id.includes('node_modules')) return 'vendor'
+        }
+      }
+    }
+  },
   resolve: {
     alias: { '@': path.resolve(__dirname, 'src') }
   },

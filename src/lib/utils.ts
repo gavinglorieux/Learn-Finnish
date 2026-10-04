@@ -15,19 +15,51 @@ export const sampleN = <T,>(arr: readonly T[], n: number): T[] => shuffle(arr).s
 
 export const distinct = <T,>(arr: readonly T[]): T[] => Array.from(new Set(arr))
 
+/** Keep the first element for each key (e.g. one word per English gloss). */
+export const uniqueBy = <T,>(arr: readonly T[], key: (t: T) => string): T[] => {
+  const seen = new Set<string>()
+  return arr.filter((t) => {
+    const k = key(t)
+    if (seen.has(k)) return false
+    seen.add(k)
+    return true
+  })
+}
+
 export const normalize = (s: string) =>
   s
     .toLowerCase()
     .trim()
     // keep Finnish special chars
-    .replace(/[\u2018\u2019']/g, "'")
+    .replace(/[‘’']/g, "'")
+    // en/em dashes typed as a plain hyphen (ei – eikä)
+    .replace(/[–—]/g, '-')
+    .replace(/\s*-\s*/g, ' - ')
     .replace(/\s+/g, ' ')
 
-// Loose equality for typing — ignores punctuation and case.
+const stripPunctuation = (s: string) => normalize(s).replace(/[.!?,]/g, '').trim()
+
+/** Key for comparing glosses: "the grandma", "grandma (mother's side)" and "Grandma" all collide. */
+export const glossKey = (s: string) =>
+  stripPunctuation(s).replace(/\s*\(.*?\)\s*/g, ' ').replace(/^(to|the|a|an) /, '').trim()
+
+/**
+ * Forms of a vocabulary entry a learner may legitimately type: the entry itself, and
+ * for "mitä (sinulle) kuuluu?" both with and without the optional part in brackets.
+ */
+export const answerVariants = (target: string): string[] => {
+  const out = [target]
+  if (/\(.+?\)/.test(target)) {
+    out.push(target.replace(/\s*\(.+?\)\s*/g, ' '))
+    out.push(target.replace(/[()]/g, ''))
+  }
+  return distinct(out.map((t) => t.trim()))
+}
+
+// Loose equality for typing — ignores punctuation, case and bracketed optional parts.
 export const answerMatches = (input: string, target: string): boolean => {
-  const a = normalize(input).replace(/[.!?,]/g, '')
-  const b = normalize(target).replace(/[.!?,]/g, '')
-  return a === b
+  const a = stripPunctuation(input)
+  return answerVariants(target).some((t) => stripPunctuation(t) === a)
 }
 
 export const clamp = (n: number, min: number, max: number) => Math.max(min, Math.min(max, n))

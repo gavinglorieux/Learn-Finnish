@@ -71,6 +71,7 @@ test('exercises: every item has a prompt and an answer; drills point at grammar'
     for (const it of ex.items) {
       assert.ok(it.prompt.trim() && it.answer.trim(), `${ex.id}: empty item`)
       assert.ok((it.prompt.match(/____/g) ?? []).length <= 1, `${ex.id}: several blanks in "${it.prompt}"`)
+      assert.ok(!it.answer.includes('__'), `${ex.id}: answer "${it.answer}" is itself a gap (open question)`)
     }
   }
   assert.ok(exercises.filter((e) => e.kind === 'drill').length >= 10)

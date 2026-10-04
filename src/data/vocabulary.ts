@@ -2,6 +2,7 @@
 // Words and groups come from content/vocab.json — edit content/, not this file.
 
 import { VOCAB_WORDS, VOCAB_GROUPS, wordsInGroup, POS_LABEL, type VocabWord } from './content'
+import { answerMatches, glossKey, shuffle } from '@/lib/utils'
 
 export type CategoryId = string
 export type Word = {
@@ -54,6 +55,47 @@ export const wordsByCategory = (cat: CategoryId): Word[] =>
 
 export const getCategory = (id: CategoryId): Category | undefined => CATEGORIES.find((c) => c.id === id)
 export const TOTAL_WORDS = WORDS.length
+
+// ---------- synonyms & distractors ----------
+// Several entries share one English gloss (mummo / mummi / isoäiti → "grandma"). A typed
+// answer that matches any of them is right, and none of them may appear as a distractor.
+const BY_GLOSS = new Map<string, Word[]>()
+for (const w of WORDS) {
+  const k = glossKey(w.en)
+  const list = BY_GLOSS.get(k)
+  if (list) list.push(w)
+  else BY_GLOSS.set(k, [w])
+}
+
+/** Every Finnish entry with the same English meaning as `word` (including itself). */
+export const synonymsOf = (word: Word): Word[] => BY_GLOSS.get(glossKey(word.en)) ?? [word]
+
+/** True when `input` is `word` or one of its synonyms. */
+export const isCorrectFinnish = (input: string, word: Word): boolean =>
+  synonymsOf(word).some((w) => answerMatches(input, w.fi))
+
+/**
+ * `n` wrong options for `word`, distinct in the shown language and never equal to the
+ * right answer (or a synonym of it). Same-group words first, then anything.
+ */
+export const pickDistractors = (word: Word, lang: 'fi' | 'en', n: number, pool: Word[] = WORDS): Word[] => {
+  const taken = new Set([glossKey(word.en), ...synonymsOf(word).map((w) => glossKey(w[lang]))])
+  taken.add(glossKey(word[lang]))
+  const ok = (w: Word) => w.id !== word.id && !taken.has(glossKey(w[lang])) && !taken.has(glossKey(w.en))
+  const out: Word[] = []
+  const add = (candidates: Word[]) => {
+    for (const w of shuffle(candidates)) {
+      if (out.length >= n) return
+      if (!ok(w)) continue
+      taken.add(glossKey(w[lang]))
+      out.push(w)
+    }
+  }
+  add(pool.filter((w) => w.category === word.category))
+  if (out.length < n) add(pool)
+  if (out.length < n && pool !== WORDS) add(WORDS)
+  return out
+}
 
 // ---------- SRS id migration ----------
 // v1 word ids looked like "<12-hex item id>-<slug of the Finnish>-<english hint>".

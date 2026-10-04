@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom'
 import { useApp } from '@/state/AppState'
-import { CATEGORIES, WORDS } from '@/data/vocabulary'
+import { CATEGORIES, WORDS, wordById } from '@/data/vocabulary'
+import { DATA_STATS } from '@/data/content'
 import { speak, ttsAvailable } from '@/lib/tts'
 import { TrashIcon, DownloadIcon } from '@/components/Icons'
 import { useState } from 'react'
@@ -8,7 +9,8 @@ import { useState } from 'react'
 export default function SettingsPage() {
   const { settings, updateSettings, resetAll, progress, srs } = useApp()
   const [confirming, setConfirming] = useState(false)
-  const seen = Object.keys(srs).length
+  // The SRS store also holds verb-drill and course-exercise keys; only count real words.
+  const seen = Object.keys(srs).filter((id) => wordById(id)).length
   return (
     <div className="space-y-6 animate-fade-in">
       <div>
@@ -78,7 +80,7 @@ export default function SettingsPage() {
         <Link to="/install" className="btn-primary mt-3 inline-flex">How to install</Link>
       </section>
 
-      <p className="text-xs text-slate-400 text-center">Learn Finnish · made with love. Content based on course Lessons 1–14.</p>
+      <p className="text-xs text-slate-400 text-center">Learn Finnish · made with love. Content from {DATA_STATS.lessons} classes with Teija.</p>
     </div>
   )
 }

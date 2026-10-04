@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import type { Word } from '@/data/vocabulary'
 import type { ShellCtx } from './ExerciseShell'
-import { shuffle } from '@/lib/utils'
+import { glossKey, shuffle, uniqueBy } from '@/lib/utils'
 import { hapticError, hapticSuccess } from '@/lib/haptics'
 
 type Tile = { id: string; wordId: string; lang: 'fi' | 'en'; text: string; matched?: boolean; wrong?: boolean }
@@ -14,8 +14,8 @@ type Props = {
 }
 
 export default function MatchPairs({ pool, onAnswer, onComplete }: Props) {
-  // Use up to 8 words per round
-  const subset = useMemo(() => pool.slice(0, 8), [pool])
+  // Up to 8 words per round; two tiles with the same English (or Finnish) would make a pair unguessable.
+  const subset = useMemo(() => uniqueBy(uniqueBy(pool, (w) => glossKey(w.en)), (w) => glossKey(w.fi)).slice(0, 8), [pool])
   const [tiles, setTiles] = useState<Tile[]>(() => buildTiles(subset))
   const [selected, setSelected] = useState<Tile | null>(null)
   const [mistakes, setMistakes] = useState(0)

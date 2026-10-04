@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
-import { WORDS, type Word } from '@/data/vocabulary'
+import { pickDistractors, type Word } from '@/data/vocabulary'
 import type { ShellCtx } from './ExerciseShell'
-import { shuffle, sampleN } from '@/lib/utils'
+import { shuffle } from '@/lib/utils'
 import { speak } from '@/lib/tts'
 import { SpeakerIcon, CheckIcon, XIcon } from '@/components/Icons'
 import { hapticError, hapticSuccess } from '@/lib/haptics'
@@ -21,12 +21,8 @@ export default function MultipleChoice({ pool, onAnswer, onComplete, ctx, autoSp
 
   const options = useMemo(() => {
     const sourceKey = fiToEn ? 'en' : 'fi'
-    const correct = word[sourceKey]
-    // Find distractors from the same category if possible
-    const sameCat = WORDS.filter((w) => w.category === word.category && w.id !== word.id)
-    const candidates = sameCat.length >= 3 ? sameCat : WORDS.filter((w) => w.id !== word.id)
-    const distractors = sampleN(candidates, 3).map((w) => w[sourceKey])
-    return shuffle([correct, ...distractors])
+    // Distractors are distinct from each other and never a synonym of the right answer.
+    return shuffle([word[sourceKey], ...pickDistractors(word, sourceKey, 3).map((w) => w[sourceKey])])
   }, [word, fiToEn])
 
   const [picked, setPicked] = useState<string | null>(null)

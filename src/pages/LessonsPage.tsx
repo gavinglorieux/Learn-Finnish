@@ -1,8 +1,8 @@
 import { Link } from 'react-router-dom'
-import { LESSONS, TERMS, DATA_STATS, formatDate, grammarById } from '@/data/content'
+import { LESSONS, TERMS, DATA_STATS, formatDate, grammarById, localToday } from '@/data/content'
 
 export default function LessonsPage() {
-  const today = new Date().toISOString().slice(0, 10)
+  const today = localToday()
   return (
     <div className="space-y-6 animate-fade-in">
       <div>

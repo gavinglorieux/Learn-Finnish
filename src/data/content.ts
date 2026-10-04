@@ -151,6 +151,10 @@ export const lessonLabel = (l: Lesson): string => `${termById(l.term)?.title ?? 
 
 export const wordsForLesson = (lessonId: string): VocabWord[] => VOCAB_WORDS.filter((w) => w.lessons.includes(lessonId))
 
+/** Today's date as YYYY-MM-DD in the device's own timezone (toISOString would give UTC). */
+export const localToday = (d = new Date()): string =>
+  `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
+
 export const formatDate = (iso: string, style: 'short' | 'long' = 'short'): string => {
   const d = new Date(`${iso}T12:00:00`)
   if (isNaN(d.getTime())) return iso

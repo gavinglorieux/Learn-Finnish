@@ -2582,36 +2582,6 @@
   ]
  },
  {
-  "id": "ex-426b726f72",
-  "title": "Questions for you",
-  "instruction": "Answer about yourself (model answers).",
-  "topic": "questions-ko",
-  "lessons": [
-   "term-2025-autumn/lesson-04",
-   "term-2025-autumn/lesson-05"
-  ],
-  "source": "term-2025-autumn/Lesson 4 (22.9.2025)/1758387550668.jpg",
-  "answerSource": "derived",
-  "kind": "course",
-  "items": [
-   {
-    "prompt": "Mikä sinun ammatti on?",
-    "answer": "Olen ____.",
-    "en": "What is your profession?"
-   },
-   {
-    "prompt": "Kuinka vanha sinä olet?",
-    "answer": "Olen ____-vuotias.",
-    "en": "How old are you?"
-   },
-   {
-    "prompt": "Milloin olet suomenkurssilla?",
-    "answer": "Olen suomenkurssilla maanantaina.",
-    "en": "When are you at the Finnish course?"
-   }
-  ]
- },
- {
   "id": "ex-8472c9321e",
   "title": "How do you ask..? Kuinka sinä kysyt…?",
   "instruction": "Say in Finnish using the genitive.",
