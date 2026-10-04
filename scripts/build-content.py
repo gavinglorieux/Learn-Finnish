@@ -273,6 +273,10 @@ def build_texts(sources: list[dict]) -> list[dict]:
 
 # --------------------------------------------------------------------------- exercises
 
+ENGLISH = re.compile(r"\b(the|is|are|I|you|we|they|do|does|what|where|how|my|your|have|has|an?|in|to|this|it)\b", re.I)
+# Guessing games and open questions don't make fair typed exercises.
+SKIP_EXERCISE_TITLES = re.compile(r"kuka minä olen|who am i", re.I)
+
 PLACEHOLDER = re.compile(r"(own answer|student|teacher says|depends|vapaa|esim\.|e\.g\.|\.\.\.|…)", re.I)
 
 
@@ -280,15 +284,22 @@ def build_exercises(sources: list[dict], drills: list[dict], grammar_ids: set[st
     out = []
     for src in sources:
         for i, ex in enumerate(src.get("exercises", [])):
+            if SKIP_EXERCISE_TITLES.search(ex.get("title") or ""):
+                continue
             items = []
             for it in ex.get("items", []):
                 prompt = nfc((it.get("prompt") or "").strip())
                 answer = nfc(str(it.get("answer") or "").strip())
                 if not prompt or not answer or len(answer) > 48 or PLACEHOLDER.search(answer):
                     continue
+                answer = re.sub(r"\s*\([^)]*\)", "", answer).strip()
                 prompt = re.sub(r"_{2,}", "____", prompt)
                 prompt = re.sub(r"____(?:\s+____)+", "____", prompt)  # multi-word answer → one gap
                 if prompt.count("____") > 1:
+                    continue
+                # Without a gap the item must be a translation (English prompt) or have a short answer;
+                # open comprehension questions ("Kuka pelaa jääkiekkoa?") can't be marked by string match.
+                if "____" not in prompt and len(answer.split()) > 3 and not ENGLISH.search(prompt):
                     continue
                 item = {"prompt": prompt, "answer": answer}
                 if it.get("base"):

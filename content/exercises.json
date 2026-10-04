@@ -104,77 +104,6 @@
   ]
  },
  {
-  "id": "ex-36681d7ab8",
-  "title": "Millainen sää ... on? (map)",
-  "instruction": "Ask and answer about the weather in each city, following the model.",
-  "topic": "weather",
-  "lessons": [
-   "term-2025-autumn/lesson-10",
-   "term-2025-autumn/lesson-11",
-   "term-2025-autumn/lesson-12"
-  ],
-  "source": "term-2025-autumn/Lesson 10 (10.11.2025)/1762631378798.jpg",
-  "answerSource": "derived",
-  "kind": "course",
-  "items": [
-   {
-    "prompt": "– Millainen sää Vancouverissa on? (fog, +9)",
-    "answer": "Siellä on sumuista. On +9 astetta.",
-    "en": "What is the weather like in Vancouver? — It is foggy there. It is +9 degrees."
-   },
-   {
-    "prompt": "– Millainen sää Los Angelesissa on? (sun+cloud, +17)",
-    "answer": "Siellä on puolipilvistä. On +17 astetta.",
-    "en": "What is the weather like in Los Angeles? — It is partly cloudy there. It is +17 degrees."
-   },
-   {
-    "prompt": "– Millainen sää New Yorkissa on? (cloud, +15)",
-    "answer": "Siellä on pilvistä. On +15 astetta.",
-    "en": "What is the weather like in New York? — It is cloudy there. It is +15 degrees."
-   },
-   {
-    "prompt": "– Millainen sää Berliinissä on? (wind, +14)",
-    "answer": "Siellä tuulee. On +14 astetta.",
-    "en": "What is the weather like in Berlin? — It is windy there. It is +14 degrees."
-   },
-   {
-    "prompt": "– Millainen sää Novosibirskissa on? (cloud, snow, -5)",
-    "answer": "Siellä sataa lunta ja on kylmä. On -5 astetta.",
-    "en": "What is the weather like in Novosibirsk? — It is snowing and cold there. It is -5 degrees."
-   },
-   {
-    "prompt": "– Millainen sää Dakarissa on? (sun, +25)",
-    "answer": "Siellä on aurinkoista ja lämmin. On +25 astetta.",
-    "en": "What is the weather like in Dakar? — It is sunny and warm there. It is +25 degrees."
-   },
-   {
-    "prompt": "– Millainen sää Caracasissa on? (cloud, rain, +17)",
-    "answer": "Siellä sataa vettä. On +17 astetta.",
-    "en": "What is the weather like in Caracas? — It is raining there. It is +17 degrees."
-   },
-   {
-    "prompt": "– Millainen sää Nairobissa on? (thunderstorm, +22)",
-    "answer": "Siellä on ukkonen ja sataa. On +22 astetta.",
-    "en": "What is the weather like in Nairobi? — There is a thunderstorm and it is raining there. It is +22 degrees."
-   },
-   {
-    "prompt": "– Millainen sää Singaporessa on? (thunderstorm, +28)",
-    "answer": "Siellä on ukkonen ja sataa. On +28 astetta.",
-    "en": "What is the weather like in Singapore? — There is a thunderstorm and it is raining there. It is +28 degrees."
-   },
-   {
-    "prompt": "– Millainen sää Buenos Airesissa on? (cloud, +15)",
-    "answer": "Siellä on pilvistä. On +15 astetta.",
-    "en": "What is the weather like in Buenos Aires? — It is cloudy there. It is +15 degrees."
-   },
-   {
-    "prompt": "– Millainen sää Kapkaupungissa on? (wind, +19)",
-    "answer": "Siellä tuulee. On +19 astetta.",
-    "en": "What is the weather like in Cape Town? — It is windy there. It is +19 degrees."
-   }
-  ]
- },
- {
   "id": "ex-e6c563e01f",
   "title": "Verbityyppi 1: Mitä he tekevät ja missä?",
   "instruction": "Answer the question using a verb phrase from the list (verb type 1 conjugation; place in inessive -ssa/-ssä or adessive -lla/-llä).",
@@ -383,40 +312,6 @@
   ]
  },
  {
-  "id": "ex-b319ea69cb",
-  "title": "Kysymykset",
-  "instruction": "Answer the questions in Finnish (1–2 from the text; the rest are personal/open — model answers given).",
-  "topic": "question-words",
-  "lessons": [
-   "term-2025-autumn/lesson-12"
-  ],
-  "source": "term-2025-autumn/Lesson 12 (24.11.2025)/ASUNTO.pdf",
-  "answerSource": "derived",
-  "kind": "course",
-  "items": [
-   {
-    "prompt": "2. Mitä Tuuli harrastaa?",
-    "answer": "Hän urheilee; hän on innokas urheilija.",
-    "en": "What does Tuuli do as a hobby?"
-   },
-   {
-    "prompt": "7. Mikä on sinun \"hamstrausostos\"?",
-    "answer": "(personal) Minun hamstrausostos on vessapaperi.",
-    "en": "What is your stockpiling item?"
-   },
-   {
-    "prompt": "8. Oletko sinä järjestelmällinen ihminen?",
-    "answer": "(personal) Kyllä, olen. / Ei, en ole.",
-    "en": "Are you an organised person?"
-   },
-   {
-    "prompt": "10. Kerro minulle kaksi adjektiivia, joilla paras ystäväsi kuvailee sinua?",
-    "answer": "(personal) Hauska ja ystävällinen.",
-    "en": "Tell me two adjectives your best friend describes you with."
-   }
-  ]
- },
- {
   "id": "ex-16b32ee780",
   "title": "Kuinka sanot suomeksi?",
   "instruction": "How do you say it in Finnish? (partitive, questions with -ko/-kö, 'Saanko...?')",
@@ -502,21 +397,6 @@
     "prompt": "17. May I have some more butter?",
     "answer": "Saanko lisää voita?",
     "en": "May I have some more butter?"
-   },
-   {
-    "prompt": "18. Two alcohol-free mulled wines, please.",
-    "answer": "Kaksi alkoholitonta glögiä, kiitos.",
-    "en": "Two alcohol-free mulled wines, please."
-   },
-   {
-    "prompt": "21. Three warm Karelian pies, please.",
-    "answer": "Kolme lämmintä karjalanpiirakkaa, kiitos.",
-    "en": "Three warm Karelian pies, please."
-   },
-   {
-    "prompt": "22. One black tea, two coffees and some milk, please.",
-    "answer": "Yksi musta tee, kaksi kahvia ja maitoa, kiitos.",
-    "en": "One black tea, two coffees and some milk, please."
    },
    {
     "prompt": "24. Is this bun lactose free?",
@@ -651,21 +531,6 @@
     "prompt": "17. May I have some more butter?",
     "answer": "Saanko lisää voita?",
     "en": "May I have some more butter?"
-   },
-   {
-    "prompt": "18. Two alcohol-free mulled wines, please.",
-    "answer": "Kaksi alkoholitonta glögiä, kiitos.",
-    "en": "Two alcohol-free mulled wines, please."
-   },
-   {
-    "prompt": "21. Three warm Karelian pies, please.",
-    "answer": "Kolme lämmintä karjalanpiirakkaa, kiitos.",
-    "en": "Three warm Karelian pies, please."
-   },
-   {
-    "prompt": "22. One black tea, two coffees and some milk, please.",
-    "answer": "Yksi musta tee, kaksi kahvia ja maitoa, kiitos.",
-    "en": "One black tea, two coffees and some milk, please."
    },
    {
     "prompt": "24. Is this bun lactose free?",
@@ -1826,59 +1691,14 @@
     "en": "It's four o'clock."
    },
    {
-    "prompt": "2. Mitä kello on? (8.30)",
-    "answer": "Kello on puoli yhdeksän.",
-    "en": "It's half past eight."
-   },
-   {
-    "prompt": "3. Mitä kello on? (1.20)",
-    "answer": "Kello on kaksikymmentä yli yksi.",
-    "en": "It's twenty past one."
-   },
-   {
     "prompt": "4. Mitä kello on? (7.00)",
     "answer": "Kello on seitsemän.",
     "en": "It's seven o'clock."
    },
    {
-    "prompt": "5. Mitä kello on? (4.50)",
-    "answer": "Kello on kymmentä vaille viisi.",
-    "en": "It's ten to five."
-   },
-   {
-    "prompt": "6. Mitä kello on? (10.30)",
-    "answer": "Kello on puoli yksitoista.",
-    "en": "It's half past ten."
-   },
-   {
-    "prompt": "7. Mitä kello on? (11.45)",
-    "answer": "Kello on varttia vaille kaksitoista.",
-    "en": "It's quarter to twelve."
-   },
-   {
-    "prompt": "8. Mitä kello on? (8.15)",
-    "answer": "Kello on varttia yli kahdeksan.",
-    "en": "It's quarter past eight."
-   },
-   {
-    "prompt": "9. Mitä kello on? (12.05)",
-    "answer": "Kello on viisi yli kaksitoista.",
-    "en": "It's five past twelve."
-   },
-   {
-    "prompt": "10. Mitä kello on? (2.30)",
-    "answer": "Kello on puoli kolme.",
-    "en": "It's half past two."
-   },
-   {
     "prompt": "11. Mitä kello on? (10.00)",
     "answer": "Kello on kymmenen.",
     "en": "It's ten o'clock."
-   },
-   {
-    "prompt": "12. Mitä kello on? (2.35)",
-    "answer": "Kello on kaksikymmentäviisi vaille kolme.",
-    "en": "It's twenty-five to three."
    }
   ]
  },
@@ -1909,46 +1729,6 @@
     "prompt": "Itä-Suomi (rain + snow, 1/1): ____",
     "answer": "Sataa räntää. On yksi aste lämmintä.",
     "en": "It's sleeting. It's plus one."
-   }
-  ]
- },
- {
-  "id": "ex-14988c5bed",
-  "title": "Kuka minä olen?",
-  "instruction": "Read the clues and guess who the famous person is.",
-  "topic": "have-adessive",
-  "lessons": [
-   "term-2025-autumn/lesson-14",
-   "term-2026-winter/lesson-01"
-  ],
-  "source": "term-2025-autumn/Lesson 14 (8.12.2025)/KUKA MINÄ OLEN.docx",
-  "answerSource": "derived",
-  "kind": "course",
-  "items": [
-   {
-    "prompt": "1. Olen 55-vuotias nainen. Asun nyt Amerikassa, mutta olen slovenialainen ja myös jugoslavialainen. Minulla on yksi lapsi. Hän on poika. Minulla on pitkä, ruskea, suora tukka. Minun mieheni on 79 vuotta vanha. Hän on amerikkalainen. Miehelläni on viisi lasta. Minun mieheni matkustaa paljon. Mieheni oli Amerikan The Apprentice- ohjelmassa televisiossa. Hän harrastaa golfia. Kuka minä olen?",
-    "answer": "Melania Trump",
-    "en": "Who am I?"
-   },
-   {
-    "prompt": "2. Minä olen ruotsalainen tyttö. Olen 22-vuotias. Minä myös matkustan paljon, mutta en matkusta lentokoneella. Minulla on yksi sisko. Minulla on Aspergerin syndrooma. minun äiti on oopperalaulaja ja minun isä on näyttelijä. Minä olen aktivisti. Donald Trump ei tykkää minusta. Kuka minä olen?",
-    "answer": "Greta Thunberg",
-    "en": "Who am I?"
-   },
-   {
-    "prompt": "3. Minä olen ranskalainen nainen. Minun ammatti oli opettaja. Minä olen naimisissa. Minulla on viisi sisarusta. Minä olen eronnut, mutta nyt olen taas naimisissa. Minä ja mieheni asumme Pariisissa. Minulla on kolme lasta. Mieheni on poliitikko. Olen 72-vuotias. Minun mieheni on 47-vuotias. Kuka minä olen?",
-    "answer": "Brigitte Macron",
-    "en": "Who am I?"
-   },
-   {
-    "prompt": "4. Minä olen britti ja olen mies. Minulla on harmaa tai valkoinen tukka. Olen leskimies. Olen usein televisiossa. Minun veljeni on näyttelijä ja hän tekee elokuvia. Tykkään biologiasta. Tykkään myös Greta Thunbergista. Olen 99-vuotias. Minun ohjelma TV:ssä on nimeltään \"Life On Our Planet\". Kuka minä olen?",
-    "answer": "David Attenborough",
-    "en": "Who am I?"
-   },
-   {
-    "prompt": "5. Minä olen brittimies. Olen 50 vuotta vanha. Minulla on kaksi siskoa. Minun vanhemmat ovat eronneet. Minulla on kolme poikaa ja yksi tytär. Minä olen naimisissa. Minulla on vaaleanruskea tukka, viikset ja parta. Asun Amerikassa ja myös Englannissa. Minulla on muutama kana ja muutama koira. Harrastan jalkapalloa ja tykkään olla minun puutarhassa. Minun vaimo oli laulaja, kun hän oli nuori. Kuka minä olen?",
-    "answer": "David Beckham",
-    "en": "Who am I?"
    }
   ]
  },
@@ -2756,7 +2536,7 @@
    },
    {
     "prompt": "sister= ____",
-    "answer": "sisko (sisar)",
+    "answer": "sisko",
     "en": "sister"
    },
    {
@@ -2785,11 +2565,6 @@
   "kind": "course",
   "items": [
    {
-    "prompt": "Mikä hänen nimi on?",
-    "answer": "Hänen nimi on Jukka (Jukka Mäkinen).",
-    "en": "What is his name?"
-   },
-   {
     "prompt": "Kuinka vanha hän on?",
     "answer": "Hän on 27-vuotias.",
     "en": "How old is he?"
@@ -2800,29 +2575,9 @@
     "en": "What is his profession?"
    },
    {
-    "prompt": "Milloin hän ei ole töissä?",
-    "answer": "Viikonloppuna hän ei ole töissä.",
-    "en": "When is he not at work?"
-   },
-   {
-    "prompt": "Mitä kieliä hän puhuu?",
-    "answer": "Hän puhuu suomea, ruotsia ja hiukan saksaa.",
-    "en": "What languages does he speak?"
-   },
-   {
-    "prompt": "Mikä hänen lempinimi on?",
-    "answer": "Hänen lempinimi on Jukkis.",
-    "en": "What is his nickname?"
-   },
-   {
     "prompt": "Minkämaalainen hän on?",
     "answer": "Hän on suomalainen.",
     "en": "What nationality is he?"
-   },
-   {
-    "prompt": "Onko hän poikamies?",
-    "answer": "Ei ole. Hän on naimisissa.",
-    "en": "Is he a bachelor?"
    }
   ]
  },
@@ -2840,11 +2595,6 @@
   "kind": "course",
   "items": [
    {
-    "prompt": "Mikä sinun nimi on?",
-    "answer": "Minun nimi on ____.",
-    "en": "What is your name?"
-   },
-   {
     "prompt": "Mikä sinun ammatti on?",
     "answer": "Olen ____.",
     "en": "What is your profession?"
@@ -2853,36 +2603,6 @@
     "prompt": "Kuinka vanha sinä olet?",
     "answer": "Olen ____-vuotias.",
     "en": "How old are you?"
-   },
-   {
-    "prompt": "Puhutko sinä suomea?",
-    "answer": "Puhun. / Puhun vähän. / En puhu.",
-    "en": "Do you speak Finnish?"
-   },
-   {
-    "prompt": "Mikä sinun lempinimi on?",
-    "answer": "Minun lempinimi on ____.",
-    "en": "What is your nickname?"
-   },
-   {
-    "prompt": "Mitä kieliä sinä puhut?",
-    "answer": "Puhun ____ ja ____.",
-    "en": "What languages do you speak?"
-   },
-   {
-    "prompt": "Oletko sinä suomalainen?",
-    "answer": "Olen. / En ole.",
-    "en": "Are you Finnish?"
-   },
-   {
-    "prompt": "Oletko sinä naimisissa?",
-    "answer": "Olen. / En ole.",
-    "en": "Are you married?"
-   },
-   {
-    "prompt": "Oletko sinä töissä?",
-    "answer": "Olen. / En ole.",
-    "en": "Are you working?"
    },
    {
     "prompt": "Milloin olet suomenkurssilla?",
@@ -3180,19 +2900,9 @@
   "kind": "course",
   "items": [
    {
-    "prompt": "One small salmon, please.",
-    "answer": "Yksi pieni lohi, kiitos.",
-    "en": "One small salmon, please."
-   },
-   {
     "prompt": "Two perches, please.",
     "answer": "Kaksi ahventa, kiitos.",
     "en": "Two perches, please."
-   },
-   {
-    "prompt": "Two large perches, please.",
-    "answer": "Kaksi isoa ahventa, kiitos.",
-    "en": "Two large perches, please."
    },
    {
     "prompt": "A piece of Dutch cheese, please.",
@@ -3200,77 +2910,9 @@
     "en": "A piece of Dutch cheese, please."
    },
    {
-    "prompt": "Two small tubs of salad, please.",
-    "answer": "Kaksi pientä purkkia salaattia, kiitos.",
-    "en": "Two small tubs of salad, please."
-   },
-   {
     "prompt": "Half a kilo of mincemeat.",
     "answer": "Puoli kiloa jauhelihaa, kiitos.",
     "en": "Half a kilo of mincemeat."
-   },
-   {
-    "prompt": "Two fresh wholemeal breads.",
-    "answer": "Kaksi tuoretta täysjyväleipää, kiitos.",
-    "en": "Two fresh wholemeal breads."
-   }
-  ]
- },
- {
-  "id": "ex-c0b9b8293f",
-  "title": "Kahvilassa (in a coffee shop)",
-  "instruction": "Say it in Finnish (partitive after numbers and quantity words).",
-  "topic": "partitive",
-  "lessons": [
-   "term-2025-autumn/lesson-09"
-  ],
-  "source": "term-2025-autumn/Lesson 9 (3.11.2025)/PARTITIIVI ESIMERKKEJÄ (1).pdf",
-  "answerSource": "derived",
-  "kind": "course",
-  "items": [
-   {
-    "prompt": "Two glasses of water, please.",
-    "answer": "Kaksi lasia vettä, kiitos.",
-    "en": "Two glasses of water, please."
-   },
-   {
-    "prompt": "Four warm Karelian pies, please.",
-    "answer": "Neljä lämmintä karjalanpiirakkaa, kiitos.",
-    "en": "Four warm Karelian pies, please."
-   },
-   {
-    "prompt": "Two Cokes (kokis) and two meat pies, please.",
-    "answer": "Kaksi kokista ja kaksi lihapiirakkaa, kiitos.",
-    "en": "Two Cokes (kokis) and two meat pies, please."
-   }
-  ]
- },
- {
-  "id": "ex-3938803c0c",
-  "title": "Baarissa (in a bar)",
-  "instruction": "Say it in Finnish (partitive after numbers and quantity words).",
-  "topic": "partitive",
-  "lessons": [
-   "term-2025-autumn/lesson-09"
-  ],
-  "source": "term-2025-autumn/Lesson 9 (3.11.2025)/PARTITIIVI ESIMERKKEJÄ (1).pdf",
-  "answerSource": "derived",
-  "kind": "course",
-  "items": [
-   {
-    "prompt": "Glass of orange juice, please.",
-    "answer": "Lasi appelsiinimehua, kiitos.",
-    "en": "Glass of orange juice, please."
-   },
-   {
-    "prompt": "Three cans of Lapin Kulta (Finnish beer brand), please.",
-    "answer": "Kolme tölkkiä Lapin Kultaa, kiitos.",
-    "en": "Three cans of Lapin Kulta (Finnish beer brand), please."
-   },
-   {
-    "prompt": "Two large glasses of sparkling wine and the bill, please.",
-    "answer": "Kaksi isoa lasia kuohuviiniä ja lasku, kiitos.",
-    "en": "Two large glasses of sparkling wine and the bill, please."
    }
   ]
  },
@@ -3292,24 +2934,9 @@
     "en": "One coffee, please."
    },
    {
-    "prompt": "2. ONE BLACK COFFEE, PLEASE?",
-    "answer": "Yksi musta kahvi, kiitos.",
-    "en": "One black coffee, please."
-   },
-   {
     "prompt": "3. TWO COFFEES, PLEASE?",
     "answer": "Kaksi kahvia, kiitos.",
     "en": "Two coffees, please."
-   },
-   {
-    "prompt": "4. TWO LARGE COFFEES, PLEASE?",
-    "answer": "Kaksi isoa kahvia, kiitos.",
-    "en": "Two large coffees, please."
-   },
-   {
-    "prompt": "5. THREE LARGE BLACK COFFEES, PLEASE?",
-    "answer": "Kolme isoa mustaa kahvia, kiitos.",
-    "en": "Three large black coffees, please."
    },
    {
     "prompt": "6. A GLASS OF WATER, PLEASE?",
@@ -3317,34 +2944,9 @@
     "en": "A glass of water, please."
    },
    {
-    "prompt": "7. TWO GLASSES OF WATER, PLEASE?",
-    "answer": "Kaksi lasia vettä, kiitos.",
-    "en": "Two glasses of water, please."
-   },
-   {
     "prompt": "8. A LARGE GLASS OF BEER, PLEASE?",
     "answer": "Iso lasi olutta, kiitos.",
     "en": "A large glass of beer, please."
-   },
-   {
-    "prompt": "9. TWO LARGE GLASSES OF BEER, PLEASE?",
-    "answer": "Kaksi isoa lasia olutta, kiitos.",
-    "en": "Two large glasses of beer, please."
-   },
-   {
-    "prompt": "10. FOUR COLD CIDERS, PLEASE?",
-    "answer": "Neljä kylmää siideriä, kiitos.",
-    "en": "Four cold ciders, please."
-   },
-   {
-    "prompt": "11. THREE PINTS OF BEER, PLEASE?",
-    "answer": "Kolme tuoppia olutta, kiitos.",
-    "en": "Three pints of beer, please."
-   },
-   {
-    "prompt": "12. THREE BOTTLES OF OLVI, PLEASE?",
-    "answer": "Kolme pulloa Olvia, kiitos.",
-    "en": "Three bottles of olvi, please."
    },
    {
     "prompt": "13. A PIECE OF CHOCOLATE CAKE, PLEASE?",
@@ -3355,11 +2957,6 @@
     "prompt": "14. A SMALL COFFEE AND TWO TEAS, PLEASE?",
     "answer": "Pieni kahvi ja kaksi teetä, kiitos.",
     "en": "A small coffee and two teas, please."
-   },
-   {
-    "prompt": "20. TWO LARGE TEAS AND SOME MILK AND SOME SUGAR, PLEASE?",
-    "answer": "Kaksi isoa teetä ja maitoa ja sokeria, kiitos.",
-    "en": "Two large teas and some milk and some sugar, please."
    }
   ]
  },
@@ -5964,7 +5561,7 @@
    },
    {
     "prompt": "Kuka istuu Riinan vasemmalla puolella?",
-    "answer": "Tero (ja Teron vieressä Pekka)",
+    "answer": "Tero",
     "en": "Who sits on Riina's left?"
    },
    {
@@ -5974,18 +5571,13 @@
    },
    {
     "prompt": "Kuka istuu Santerin oikealla puolella?",
-    "answer": "Anna-Mari (Rauhan takana)",
+    "answer": "Anna-Mari",
     "en": "Who sits on Santeri's right?"
    },
    {
     "prompt": "Kuka istuu Santerin vasemmalla puolella?",
-    "answer": "Timo (Teron takana)",
+    "answer": "Timo",
     "en": "Who sits on Santeri's left?"
-   },
-   {
-    "prompt": "Missä Jaakko istuu ensin?",
-    "answer": "Pekan takana, kolmannella rivillä Timon vieressä",
-    "en": "Where does Jaakko sit at first?"
    }
   ]
  },
@@ -6233,7 +5825,7 @@
   "items": [
    {
     "prompt": "a) Mihin aikaan pankki menee kiinni tiistaina? ____",
-    "answer": "Pankki menee kiinni kello 16.30 (puoli viisi).",
+    "answer": "Pankki menee kiinni kello 16.30.",
     "en": "What time does the bank close on Tuesday? – At 4.30 pm."
    },
    {
@@ -6739,10 +6331,6 @@
    {
     "prompt": "Who will bake the cakes? (leipoa)",
     "answer": "Kuka leipoo kakut?"
-   },
-   {
-    "prompt": "Grandma will bring her blueberry pies.",
-    "answer": "Mummo tuo hänen mustikkapiirakat."
    },
    {
     "prompt": "Where are your vegetarian salads?",
@@ -8777,65 +8365,6 @@
     "prompt": "Minkä maan pääkaupunki on Kööpenhamina? Se on ____ pääkaupunki.",
     "answer": "Tanskan",
     "en": "Which country's capital is Kööpenhamina? It is the capital of Denmark."
-   }
-  ]
- },
- {
-  "id": "ex-9c8210c1c7",
-  "title": "Kysymyksiä tekstistä",
-  "instruction": "Answer the questions about the text in Finnish.",
-  "topic": "question-words",
-  "lessons": [
-   "term-2026-winter/lesson-09"
-  ],
-  "source": "term-2026-winter/Lesson 9 (9.3.2026)/JOS TALVELLA ON LUNTA verbit 1-5.docx",
-  "answerSource": "derived",
-  "kind": "course",
-  "items": [
-   {
-    "prompt": "Kuka pelaa jääkiekkoa?",
-    "answer": "Hänen miehensä (mies) pelaa jääkiekkoa.",
-    "en": "Who plays ice hockey?"
-   },
-   {
-    "prompt": "Mitä hän tekee laskettelukeskuksessa, kun hänen mies laskettelee?",
-    "answer": "Hän lumilautailee.",
-    "en": "What does she do at the ski resort while her husband skis?"
-   },
-   {
-    "prompt": "Milloin heillä on pulkka mukana?",
-    "answer": "Kun kummityttö tulee mukaan.",
-    "en": "When do they have a sledge with them?"
-   },
-   {
-    "prompt": "Mitä he syövät ja juovat grillikioskilla?",
-    "answer": "He syövät hampurilaiset ja juovat kaakaota.",
-    "en": "What do they eat and drink at the grill kiosk?"
-   },
-   {
-    "prompt": "Mistä vanhat ihmiset puhuvat, kun he seisovat jäällä ja odottavat mennä avantoon?",
-    "answer": "He puhuvat säästä.",
-    "en": "What do the old people talk about when they stand on the ice?"
-   },
-   {
-    "prompt": "Kenen ystävä Mari on?",
-    "answer": "Mari on kummitytön ystävä.",
-    "en": "Whose friend is Mari?"
-   },
-   {
-    "prompt": "Mitä Marilla ja kummitytöllä on eväänä?",
-    "answer": "Kuumaa mehua termospullossa ja rahkapiirakkaa.",
-    "en": "What do Mari and the god-daughter have as a snack?"
-   },
-   {
-    "prompt": "Milloin sinä tarvitset nastakengät Suomessa?",
-    "answer": "Kun on liukas keli.",
-    "en": "When do you need spiked shoes in Finland?"
-   },
-   {
-    "prompt": "Mitä ”lumiaura” tekee?",
-    "answer": "Lumiaura auraa lumet pois tieltä ja avaa tiet.",
-    "en": "What does a snowplough do?"
    }
   ]
  },

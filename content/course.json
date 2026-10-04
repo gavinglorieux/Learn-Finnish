@@ -723,8 +723,6 @@
    ],
    "exercises": [
     "ex-4fe35f1467",
-    "ex-c0b9b8293f",
-    "ex-3938803c0c",
     "ex-dff78f4f4d",
     "ex-86027a8971",
     "ex-26444ddb1b",
@@ -832,7 +830,6 @@
    ],
    "exercises": [
     "ex-19ee29d700",
-    "ex-36681d7ab8",
     "ex-e6c563e01f"
    ],
    "materials": [
@@ -929,7 +926,6 @@
     "sairastaminen-fb2a9b"
    ],
    "exercises": [
-    "ex-36681d7ab8",
     "ex-e6c563e01f",
     "ex-f6114f6972"
    ],
@@ -1054,9 +1050,7 @@
     "suomi-tänään-18-marraskuuta-kello-14-068ac2"
    ],
    "exercises": [
-    "ex-36681d7ab8",
     "ex-791624d869",
-    "ex-b319ea69cb",
     "ex-16b32ee780",
     "ex-9d723ea5f3"
    ],
@@ -1266,8 +1260,7 @@
    "exercises": [
     "ex-afbc5a3a9a",
     "ex-00b83d4a3c",
-    "ex-0531ba9223",
-    "ex-14988c5bed"
+    "ex-0531ba9223"
    ],
    "materials": [
     {
@@ -1379,7 +1372,6 @@
     "ex-777e305bec",
     "ex-07a702a6f8",
     "ex-0531ba9223",
-    "ex-14988c5bed",
     "ex-a9b6f6ad9f"
    ],
    "materials": [
@@ -2102,7 +2094,6 @@
    "exercises": [
     "ex-4de34419b7",
     "ex-3068aa75f5",
-    "ex-9c8210c1c7",
     "ex-a8652c8ed3"
    ],
    "materials": [
