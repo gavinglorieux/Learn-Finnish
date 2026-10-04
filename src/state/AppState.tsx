@@ -10,7 +10,7 @@ import {
 } from '@/lib/progress'
 import { loadSrs, saveSrs, review as srsReview, type SrsStore } from '@/lib/srs'
 import { loadSettings, saveSettings, applyTheme, type Settings } from './settings'
-import { WORDS } from '@/data/vocabulary'
+import { migrateWordId } from '@/data/vocabulary'
 
 type Toast = { id: string; title: string; emoji?: string; body?: string }
 
@@ -31,10 +31,27 @@ type AppContextValue = {
 
 const AppContext = createContext<AppContextValue | null>(null)
 
+// Content v2 renamed word ids; carry SRS boxes over (keeping the better box on collisions).
+// Non-word keys (verb drills, course exercises) are kept as-is.
+const migrateSrs = (store: SrsStore): SrsStore => {
+  let changed = false
+  const next: SrsStore = {}
+  for (const [key, entry] of Object.entries(store)) {
+    const isWordLike = /^[0-9a-f]{12}-/.test(key)
+    const id = isWordLike ? migrateWordId(key) : key
+    if (!id) { changed = true; continue }
+    if (id !== key) changed = true
+    const prev = next[id]
+    if (!prev || entry.box > prev.box) next[id] = { ...entry, wordId: id }
+  }
+  if (changed) saveSrs(next)
+  return next
+}
+
 export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const [progress, setProgress] = useState<Progress>(() => loadProgress())
   const [settings, setSettings] = useState<Settings>(() => loadSettings())
-  const [srs, setSrs] = useState<SrsStore>(() => loadSrs())
+  const [srs, setSrs] = useState<SrsStore>(() => migrateSrs(loadSrs()))
   const [toasts, setToasts] = useState<Toast[]>([])
   const [celebrate, setCelebrate] = useState(false)
   const celebrateTimer = useRef<number | null>(null)
@@ -139,9 +156,6 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     }),
     [progress, settings, srs, toasts, addToast, award, reviewWord, endSession, updateSettings, resetAll, celebrate, triggerCelebrate]
   )
-
-  // Keep a simple memo of all word ids for library mastery calc if needed later.
-  useMemo(() => WORDS.map((w) => w.id), [])
 
   return <AppContext.Provider value={value}>{children}</AppContext.Provider>
 }

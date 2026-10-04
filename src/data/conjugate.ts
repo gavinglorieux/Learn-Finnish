@@ -131,6 +131,9 @@ export const strengthenStem = (body: string, allowAmbiguous = false): string => 
 // Verbs whose weak grade is v (→ p) or l (→ lk) in the infinitive.
 const STRONG_EXCEPTIONS = new Set(['tavata', 'luvata', 'kaivata', 'levätä', 'pelätä', 'hylätä', 'kavuta', 'kiivetä'])
 
+// Loanwords whose double consonant is not a weak grade (grillata → grillaan, not ✗griltaan).
+const NO_GRADATION_VERBS = new Set(['grillata', 'stressata', 'chillata'])
+
 // ---------- type detection ----------
 
 export const detectVerbType = (inf: string): VerbType => {
@@ -238,7 +241,8 @@ export const conjugate = (infinitive: string, typeHint?: VerbType): Conjugation 
       const cons = inf.slice(0, -2) // tul, men, nous, ajatel
       const finalC = cons.slice(-1)
       const body = cons.slice(0, -1) // ajate
-      const strongBody = strengthenStem(body, STRONG_EXCEPTIONS.has(inf))
+      // -sta/-stä verbs (nousta, kutista, pestä) never alternate.
+      const strongBody = /st[aä]$/.test(inf) || NO_GRADATION_VERBS.has(inf) ? body : strengthenStem(body, STRONG_EXCEPTIONS.has(inf))
       const stem = strongBody + finalC + 'e'
       forms = personal(stem, stem + 'e', stem, a)
       negativeStem = stem
@@ -250,7 +254,7 @@ export const conjugate = (infinitive: string, typeHint?: VerbType): Conjugation 
     case 4: {
       // haluta → halua-, avata → avaa-, tavata → tapaa-
       const body = inf.slice(0, -2) // halu, ava, tava
-      const stem = strengthenStem(body, STRONG_EXCEPTIONS.has(inf)) + a
+      const stem = (NO_GRADATION_VERBS.has(inf) ? body : strengthenStem(body, STRONG_EXCEPTIONS.has(inf))) + a
       forms = personal(stem, lengthen(stem), stem, a)
       negativeStem = stem
       impSg = stem

@@ -16,6 +16,7 @@ Outputs (generated — don't edit by hand):
   content/exercises.json  course exercises (with answers) + drills
   content/grammar.json    { parts, topics } with lesson back-links
   content/course.json     { terms, lessons }
+  content/handouts.json   { source path: full transcript } (lazy-loaded)
   content/report.json     counts
 """
 
@@ -246,6 +247,8 @@ def build_texts(sources: list[dict]) -> list[dict]:
             if sig in seen:
                 continue
             seen.add(sig)
+            # Only keep glossary entries for word forms that actually occur in this text.
+            tokens = {re.sub(r"[^\w-]", "", tok.lower()) for ln in lines for tok in ln["fi"].split()}
             glossary = {}
             for w in src_words:
                 fi = clean_fi(w.get("fi") or "")
@@ -253,7 +256,8 @@ def build_texts(sources: list[dict]) -> list[dict]:
                 if not fi or not en:
                     continue
                 for form in {fi.lower(), clean_fi(w.get("form_seen") or "").lower()} - {""}:
-                    glossary.setdefault(form, {"fi": fi, "en": en})
+                    if form in tokens:
+                        glossary.setdefault(form, {"fi": fi, "en": en})
             texts.append({
                 "id": f"{slug(title_fi)[:40]}-{short_hash(src['source'], str(i))[:6]}",
                 "title": {"fi": title_fi, "en": (title.get("en") or src["title"].get("en") or "").strip()},
@@ -283,6 +287,9 @@ def build_exercises(sources: list[dict], drills: list[dict], grammar_ids: set[st
                 if not prompt or not answer or len(answer) > 48 or PLACEHOLDER.search(answer):
                     continue
                 prompt = re.sub(r"_{2,}", "____", prompt)
+                prompt = re.sub(r"____(?:\s+____)+", "____", prompt)  # multi-word answer → one gap
+                if prompt.count("____") > 1:
+                    continue
                 item = {"prompt": prompt, "answer": answer}
                 if it.get("base"):
                     item["base"] = nfc(str(it["base"]).strip())
@@ -357,7 +364,10 @@ def build_course(sources, lessons_cfg, texts, exercises, vocab, grammar_ids) -> 
         lid = lesson_id(l["term"], l["number"])
         srcs = by_lesson_sources.get(lid, [])
         topics = list(l.get("topics", []))
+        # Curated topics first; only grammar handouts add more (other sheets' topic tags are too loose).
         for s in srcs:
+            if s.get("kind") != "grammar":
+                continue
             for t in s.get("topics", []):
                 t = TOPIC_ALIASES.get(t, t)
                 if t in grammar_ids and t not in topics:
@@ -377,8 +387,7 @@ def build_course(sources, lessons_cfg, texts, exercises, vocab, grammar_ids) -> 
             "texts": [t["id"] for t in texts if lid in t["lessons"]],
             "exercises": [e["id"] for e in exercises if lid in e.get("lessons", [])],
             "materials": [
-                {"title": s["title"], "kind": s.get("kind"), "summary": s.get("summary"), "source": s["source"],
-                 "transcript": s.get("transcript") or ""}
+                {"title": s["title"], "kind": s.get("kind"), "summary": s.get("summary"), "source": s["source"]}
                 for s in srcs
             ],
             **({"pending": l["gmailOnly"]} if l.get("gmailOnly") else {}),
@@ -419,6 +428,8 @@ def main() -> int:
     write("exercises.json", exercises)
     write("grammar.json", grammar)
     write("course.json", course)
+    # Full handout transcripts are large; the app lazy-loads them on the lesson page.
+    write("handouts.json", {s["source"]: s.get("transcript") or "" for s in sources})
     report = {
         "sources": len(sources),
         "words": len(vocab["words"]),

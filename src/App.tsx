@@ -13,6 +13,9 @@ import ExercisePage from './pages/ExercisePage'
 import LessonsPage from './pages/LessonsPage'
 import LessonPage from './pages/LessonPage'
 import CourseExercisePage from './pages/CourseExercisePage'
+import GrammarTopicPage from './pages/GrammarTopicPage'
+import TextsPage from './pages/TextsPage'
+import TextPage from './pages/TextPage'
 
 export default function App() {
   return (
@@ -29,6 +32,9 @@ export default function App() {
           <Route path="/lessons" element={<LessonsPage />} />
           <Route path="/lessons/*" element={<LessonPage />} />
           <Route path="/grammar" element={<GrammarPage />} />
+          <Route path="/grammar/:topicId" element={<GrammarTopicPage />} />
+          <Route path="/texts" element={<TextsPage />} />
+          <Route path="/texts/:textId" element={<TextPage />} />
           <Route path="/vocabulary" element={<VocabularyPage />} />
           <Route path="/settings" element={<SettingsPage />} />
           <Route path="/install" element={<InstallPage />} />

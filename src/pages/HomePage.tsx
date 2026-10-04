@@ -3,6 +3,7 @@ import { useApp } from '@/state/AppState'
 import { FlameIcon, TargetIcon, TrophyIcon, SparklesIcon, DumbbellIcon, BookIcon, ScrollIcon, DownloadIcon } from '@/components/Icons'
 import { ACHIEVEMENTS, xpProgressInLevel } from '@/lib/progress'
 import { WORDS } from '@/data/vocabulary'
+import { LESSONS, formatDate, grammarById, DATA_STATS } from '@/data/content'
 import { totalMastery } from '@/lib/srs'
 import { useMemo } from 'react'
 
@@ -12,6 +13,10 @@ export default function HomePage() {
   const goalPct = Math.min(1, progress.xpToday / progress.dailyGoalXp)
   const mastery = useMemo(() => totalMastery(srs, WORDS.map((w) => w.id)), [srs])
   const greeting = getGreeting()
+  // The latest class that has happened (or the next one if it's today/upcoming within a week).
+  const today = new Date().toISOString().slice(0, 10)
+  const latest = LESSONS.filter((l) => l.date <= today).at(-1) ?? LESSONS.at(-1)
+  const upcoming = LESSONS.find((l) => l.date > today)
 
   return (
     <div className="animate-fade-in space-y-6">
@@ -46,15 +51,37 @@ export default function HomePage() {
         </div>
       </section>
 
+      {latest && (
+        <section className="card p-4">
+          <div className="text-xs uppercase tracking-wide text-slate-500">Latest class · {formatDate(latest.date)}</div>
+          <Link to={`/lessons/${latest.id}`} className="block mt-1">
+            <div className="font-semibold text-lg">{latest.title}</div>
+            <div className="text-sm text-slate-500 dark:text-slate-400">{latest.summary}</div>
+          </Link>
+          <div className="mt-3 flex flex-wrap gap-2">
+            <Link to={`/lessons/${latest.id}`} className="btn-primary">Open lesson</Link>
+            {latest.topics[0] && grammarById(latest.topics[0]) && (
+              <Link to={`/grammar/${latest.topics[0]}`} className="btn-secondary">{grammarById(latest.topics[0])!.emoji} {grammarById(latest.topics[0])!.title}</Link>
+            )}
+          </div>
+          {upcoming && (
+            <Link to={`/lessons/${upcoming.id}`} className="block mt-3 text-sm text-finnish-500 dark:text-finnish-200 hover:underline">
+              Next: {formatDate(upcoming.date)} — {upcoming.title} →
+            </Link>
+          )}
+        </section>
+      )}
+
       <section>
         <h2 className="font-semibold mb-3">Jump in</h2>
         <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
           <TileLink to="/practice/review" title="Review due words" body="Spaced-repetition review of everything you've learned." icon={<DumbbellIcon />} accent="from-finnish-500 to-finnish-700" />
           <TileLink to="/practice" title="All practice modes" body="Flashcards, typing, listen & match and more." icon={<SparklesIcon />} accent="from-emerald-500 to-emerald-700" />
           <TileLink to="/learn" title="Pick a topic" body="Learn vocabulary by theme — family, food, weather…" icon={<BookIcon />} accent="from-sun-400 to-sun-500" />
-          <TileLink to="/lessons" title="Browse by lesson" body="Everything from the course, lesson by lesson." icon={<ScrollIcon />} accent="from-cyan-400 to-cyan-600" />
-          <TileLink to="/practice/course" title="Course exercises" body="Real fill-the-blank exercises straight from class." icon={<TargetIcon />} accent="from-amber-400 to-amber-600" />
-          <TileLink to="/grammar" title="Grammar reference" body="Brush up on verb types, cases and question words." icon={<ScrollIcon />} accent="from-rose-400 to-rose-600" />
+          <TileLink to="/lessons" title="Browse by lesson" body={`All ${DATA_STATS.lessons} classes, term by term.`} icon={<ScrollIcon />} accent="from-cyan-400 to-cyan-600" />
+          <TileLink to="/texts" title="Reading" body={`${DATA_STATS.texts} texts & dialogues with tap-to-translate.`} icon={<BookIcon />} accent="from-teal-500 to-teal-700" />
+          <TileLink to="/practice/course" title="Course exercises" body="Worksheets from class and grammar drills." icon={<TargetIcon />} accent="from-amber-400 to-amber-600" />
+          <TileLink to="/grammar" title="Grammar course" body={`${DATA_STATS.grammarTopics} lessons: sounds, cases, verb types, KPT, imperative.`} icon={<ScrollIcon />} accent="from-rose-400 to-rose-600" />
         </div>
       </section>
 

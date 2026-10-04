@@ -1024,7 +1024,6 @@
    "part": "basics",
    "lessons": [
     "term-2025-autumn/lesson-01",
-    "term-2025-autumn/lesson-02",
     "term-2025-autumn/lesson-03",
     "term-2026-winter/lesson-06"
    ]
@@ -1153,12 +1152,7 @@
    "part": "basics",
    "lessons": [
     "term-2025-autumn/lesson-01",
-    "term-2025-autumn/lesson-02",
-    "term-2025-autumn/lesson-03",
-    "term-2025-autumn/lesson-04",
-    "term-2025-autumn/lesson-05",
-    "term-2025-autumn/lesson-14",
-    "term-2026-winter/lesson-01"
+    "term-2025-autumn/lesson-02"
    ]
   },
   {
@@ -1301,29 +1295,14 @@
    "part": "basics",
    "lessons": [
     "term-2025-autumn/lesson-02",
-    "term-2025-autumn/lesson-03",
     "term-2025-autumn/lesson-04",
     "term-2025-autumn/lesson-05",
-    "term-2025-autumn/lesson-06",
-    "term-2025-autumn/lesson-09",
-    "term-2025-autumn/lesson-11",
-    "term-2025-autumn/lesson-12",
     "term-2025-autumn/lesson-13",
-    "term-2025-autumn/lesson-14",
-    "term-2026-winter/lesson-01",
-    "term-2026-winter/lesson-02",
-    "term-2026-winter/lesson-03",
-    "term-2026-winter/lesson-04",
-    "term-2026-winter/lesson-05",
-    "term-2026-winter/lesson-06",
-    "term-2026-winter/lesson-07",
-    "term-2026-winter/lesson-08",
     "term-2026-winter/lesson-10",
     "term-2026-spring/lesson-01",
     "term-2026-spring/lesson-02",
     "term-2026-spring/lesson-04",
     "term-2026-spring/lesson-05",
-    "term-2026-spring/lesson-08",
     "term-2026-spring/lesson-09"
    ]
   },
@@ -1421,24 +1400,9 @@
    "lessons": [
     "term-2025-autumn/lesson-02",
     "term-2025-autumn/lesson-04",
-    "term-2025-autumn/lesson-05",
-    "term-2025-autumn/lesson-09",
-    "term-2025-autumn/lesson-11",
-    "term-2025-autumn/lesson-12",
     "term-2025-autumn/lesson-13",
-    "term-2026-winter/lesson-01",
-    "term-2026-winter/lesson-02",
-    "term-2026-winter/lesson-03",
-    "term-2026-winter/lesson-04",
-    "term-2026-winter/lesson-06",
-    "term-2026-winter/lesson-07",
-    "term-2026-winter/lesson-08",
-    "term-2026-winter/lesson-10",
     "term-2026-spring/lesson-01",
-    "term-2026-spring/lesson-02",
-    "term-2026-spring/lesson-04",
-    "term-2026-spring/lesson-05",
-    "term-2026-spring/lesson-08"
+    "term-2026-spring/lesson-05"
    ]
   },
   {
@@ -1615,17 +1579,6 @@
    "lessons": [
     "term-2025-autumn/lesson-03",
     "term-2025-autumn/lesson-04",
-    "term-2025-autumn/lesson-05",
-    "term-2025-autumn/lesson-09",
-    "term-2025-autumn/lesson-10",
-    "term-2025-autumn/lesson-11",
-    "term-2025-autumn/lesson-13",
-    "term-2026-winter/lesson-01",
-    "term-2026-winter/lesson-02",
-    "term-2026-winter/lesson-03",
-    "term-2026-winter/lesson-04",
-    "term-2026-winter/lesson-05",
-    "term-2026-winter/lesson-07",
     "term-2026-spring/lesson-06"
    ]
   },
@@ -1848,15 +1801,11 @@
    "part": "basics",
    "lessons": [
     "term-2025-autumn/lesson-01",
-    "term-2025-autumn/lesson-02",
     "term-2025-autumn/lesson-04",
     "term-2025-autumn/lesson-05",
     "term-2025-autumn/lesson-09",
-    "term-2025-autumn/lesson-10",
-    "term-2025-autumn/lesson-11",
     "term-2025-autumn/lesson-12",
-    "term-2025-autumn/lesson-14",
-    "term-2026-winter/lesson-01"
+    "term-2025-autumn/lesson-14"
    ]
   },
   {
@@ -2049,13 +1998,7 @@
    ],
    "part": "basics",
    "lessons": [
-    "term-2025-autumn/lesson-02",
-    "term-2025-autumn/lesson-03",
-    "term-2025-autumn/lesson-04",
-    "term-2025-autumn/lesson-09",
-    "term-2025-autumn/lesson-14",
-    "term-2026-winter/lesson-01",
-    "term-2026-winter/lesson-09"
+    "term-2025-autumn/lesson-03"
    ]
   },
   {
@@ -2312,9 +2255,6 @@
    "lessons": [
     "term-2025-autumn/lesson-03",
     "term-2025-autumn/lesson-04",
-    "term-2025-autumn/lesson-05",
-    "term-2025-autumn/lesson-06",
-    "term-2026-winter/lesson-09",
     "term-2026-spring/lesson-06",
     "term-2026-spring/lesson-07"
    ]
@@ -2427,8 +2367,7 @@
    "part": "nouns",
    "lessons": [
     "term-2025-autumn/lesson-03",
-    "term-2025-autumn/lesson-04",
-    "term-2025-autumn/lesson-06"
+    "term-2025-autumn/lesson-04"
    ]
   },
   {
@@ -2559,28 +2498,13 @@
    ],
    "part": "nouns",
    "lessons": [
-    "term-2025-autumn/lesson-02",
     "term-2025-autumn/lesson-04",
     "term-2025-autumn/lesson-05",
     "term-2025-autumn/lesson-06",
     "term-2025-autumn/lesson-07",
-    "term-2025-autumn/lesson-09",
-    "term-2025-autumn/lesson-11",
     "term-2025-autumn/lesson-12",
-    "term-2025-autumn/lesson-13",
-    "term-2025-autumn/lesson-14",
-    "term-2026-winter/lesson-01",
-    "term-2026-winter/lesson-02",
     "term-2026-winter/lesson-03",
-    "term-2026-winter/lesson-04",
-    "term-2026-winter/lesson-06",
-    "term-2026-winter/lesson-07",
-    "term-2026-winter/lesson-09",
-    "term-2026-winter/lesson-10",
-    "term-2026-spring/lesson-01",
-    "term-2026-spring/lesson-06",
-    "term-2026-spring/lesson-07",
-    "term-2026-spring/lesson-08"
+    "term-2026-winter/lesson-09"
    ]
   },
   {
@@ -2691,22 +2615,11 @@
    ],
    "part": "nouns",
    "lessons": [
-    "term-2025-autumn/lesson-01",
     "term-2025-autumn/lesson-04",
     "term-2025-autumn/lesson-05",
     "term-2025-autumn/lesson-06",
     "term-2025-autumn/lesson-09",
-    "term-2025-autumn/lesson-10",
-    "term-2025-autumn/lesson-11",
-    "term-2025-autumn/lesson-12",
-    "term-2025-autumn/lesson-13",
-    "term-2025-autumn/lesson-14",
-    "term-2026-winter/lesson-01",
-    "term-2026-winter/lesson-02",
-    "term-2026-winter/lesson-03",
-    "term-2026-winter/lesson-04",
-    "term-2026-winter/lesson-09",
-    "term-2026-winter/lesson-12"
+    "term-2025-autumn/lesson-12"
    ]
   },
   {
@@ -2806,10 +2719,6 @@
    "part": "nouns",
    "lessons": [
     "term-2025-autumn/lesson-07",
-    "term-2025-autumn/lesson-09",
-    "term-2025-autumn/lesson-11",
-    "term-2025-autumn/lesson-12",
-    "term-2026-winter/lesson-09",
     "term-2026-winter/lesson-12"
    ]
   },
@@ -3110,11 +3019,7 @@
     "term-2025-autumn/lesson-09",
     "term-2025-autumn/lesson-10",
     "term-2025-autumn/lesson-11",
-    "term-2025-autumn/lesson-12",
-    "term-2025-autumn/lesson-13",
-    "term-2025-autumn/lesson-14",
-    "term-2026-winter/lesson-01",
-    "term-2026-winter/lesson-07"
+    "term-2025-autumn/lesson-12"
    ]
   },
   {
@@ -3358,7 +3263,6 @@
    "lessons": [
     "term-2025-autumn/lesson-03",
     "term-2025-autumn/lesson-04",
-    "term-2026-winter/lesson-05",
     "term-2026-winter/lesson-09",
     "term-2026-winter/lesson-10",
     "term-2026-winter/lesson-12",
@@ -3593,17 +3497,12 @@
    "part": "verbs",
    "lessons": [
     "term-2025-autumn/lesson-09",
-    "term-2026-winter/lesson-03",
-    "term-2026-winter/lesson-04",
-    "term-2026-winter/lesson-05",
     "term-2026-winter/lesson-06",
     "term-2026-winter/lesson-07",
-    "term-2026-winter/lesson-08",
     "term-2026-winter/lesson-09",
     "term-2026-winter/lesson-10",
     "term-2026-spring/lesson-01",
     "term-2026-spring/lesson-04",
-    "term-2026-spring/lesson-06",
     "term-2026-spring/lesson-08"
    ]
   },
@@ -3829,20 +3728,10 @@
    "part": "verbs",
    "lessons": [
     "term-2025-autumn/lesson-09",
-    "term-2025-autumn/lesson-10",
     "term-2025-autumn/lesson-11",
-    "term-2025-autumn/lesson-12",
     "term-2026-winter/lesson-02",
-    "term-2026-winter/lesson-05",
-    "term-2026-winter/lesson-06",
-    "term-2026-winter/lesson-07",
-    "term-2026-winter/lesson-09",
-    "term-2026-winter/lesson-10",
     "term-2026-spring/lesson-02",
-    "term-2026-spring/lesson-03",
-    "term-2026-spring/lesson-04",
-    "term-2026-spring/lesson-06",
-    "term-2026-spring/lesson-07"
+    "term-2026-spring/lesson-04"
    ]
   },
   {
@@ -4078,7 +3967,6 @@
    "part": "verbs",
    "lessons": [
     "term-2026-winter/lesson-02",
-    "term-2026-winter/lesson-10",
     "term-2026-spring/lesson-02",
     "term-2026-spring/lesson-03",
     "term-2026-spring/lesson-04",
@@ -4278,13 +4166,7 @@
     "term-2025-autumn/lesson-13",
     "term-2026-winter/lesson-01",
     "term-2026-winter/lesson-02",
-    "term-2026-winter/lesson-03",
-    "term-2026-winter/lesson-04",
-    "term-2026-winter/lesson-05",
-    "term-2026-winter/lesson-06",
-    "term-2026-winter/lesson-07",
-    "term-2026-winter/lesson-09",
-    "term-2026-winter/lesson-10"
+    "term-2026-winter/lesson-04"
    ]
   },
   {
@@ -4491,11 +4373,6 @@
    "lessons": [
     "term-2026-winter/lesson-03",
     "term-2026-winter/lesson-04",
-    "term-2026-winter/lesson-05",
-    "term-2026-winter/lesson-06",
-    "term-2026-winter/lesson-07",
-    "term-2026-winter/lesson-09",
-    "term-2026-winter/lesson-10",
     "term-2026-autumn/lesson-02"
    ]
   },
@@ -4694,8 +4571,6 @@
    "lessons": [
     "term-2026-winter/lesson-06",
     "term-2026-winter/lesson-08",
-    "term-2026-winter/lesson-09",
-    "term-2026-winter/lesson-10",
     "term-2026-autumn/lesson-02"
    ]
   },
@@ -4809,9 +4684,7 @@
    "part": "verbs",
    "lessons": [
     "term-2026-winter/lesson-06",
-    "term-2026-winter/lesson-08",
-    "term-2026-winter/lesson-09",
-    "term-2026-winter/lesson-10"
+    "term-2026-winter/lesson-08"
    ]
   },
   {
@@ -5343,8 +5216,6 @@
    ],
    "part": "verbs",
    "lessons": [
-    "term-2026-winter/lesson-08",
-    "term-2026-winter/lesson-09",
     "term-2026-spring/lesson-09",
     "term-2026-autumn/lesson-04"
    ]
@@ -5482,17 +5353,7 @@
     "kpt-verbs-3-4"
    ],
    "part": "verbs",
-   "lessons": [
-    "term-2025-autumn/lesson-14",
-    "term-2026-winter/lesson-01",
-    "term-2026-winter/lesson-06",
-    "term-2026-winter/lesson-08",
-    "term-2026-winter/lesson-09",
-    "term-2026-winter/lesson-12",
-    "term-2026-spring/lesson-01",
-    "term-2026-spring/lesson-06",
-    "term-2026-spring/lesson-08"
-   ]
+   "lessons": []
   },
   {
    "id": "local-cases",
@@ -5625,11 +5486,7 @@
    "lessons": [
     "term-2025-autumn/lesson-10",
     "term-2025-autumn/lesson-11",
-    "term-2025-autumn/lesson-12",
     "term-2026-winter/lesson-05",
-    "term-2026-winter/lesson-06",
-    "term-2026-winter/lesson-08",
-    "term-2026-winter/lesson-09",
     "term-2026-spring/lesson-02",
     "term-2026-spring/lesson-06",
     "term-2026-spring/lesson-07"
@@ -5819,12 +5676,7 @@
     "term-2025-autumn/lesson-10",
     "term-2025-autumn/lesson-11",
     "term-2025-autumn/lesson-12",
-    "term-2026-winter/lesson-05",
-    "term-2026-winter/lesson-06",
-    "term-2026-winter/lesson-10",
-    "term-2026-winter/lesson-12",
-    "term-2026-spring/lesson-02",
-    "term-2026-spring/lesson-04"
+    "term-2026-winter/lesson-05"
    ]
   },
   {
@@ -5979,11 +5831,7 @@
    "lessons": [
     "term-2025-autumn/lesson-10",
     "term-2025-autumn/lesson-11",
-    "term-2026-winter/lesson-05",
-    "term-2026-winter/lesson-06",
-    "term-2026-winter/lesson-07",
-    "term-2026-spring/lesson-02",
-    "term-2026-spring/lesson-04"
+    "term-2026-winter/lesson-05"
    ]
   },
   {
@@ -6082,11 +5930,7 @@
     "term-2025-autumn/lesson-11",
     "term-2025-autumn/lesson-12",
     "term-2026-winter/lesson-05",
-    "term-2026-winter/lesson-06",
-    "term-2026-winter/lesson-07",
-    "term-2026-winter/lesson-10",
-    "term-2026-spring/lesson-02",
-    "term-2026-spring/lesson-04"
+    "term-2026-winter/lesson-07"
    ]
   },
   {
@@ -6239,17 +6083,9 @@
    ],
    "part": "places",
    "lessons": [
-    "term-2025-autumn/lesson-03",
-    "term-2025-autumn/lesson-04",
-    "term-2025-autumn/lesson-10",
     "term-2025-autumn/lesson-11",
     "term-2025-autumn/lesson-12",
-    "term-2025-autumn/lesson-14",
-    "term-2026-winter/lesson-01",
-    "term-2026-winter/lesson-05",
-    "term-2026-winter/lesson-09",
     "term-2026-winter/lesson-10",
-    "term-2026-spring/lesson-02",
     "term-2026-autumn/lesson-01"
    ]
   },
@@ -6406,8 +6242,7 @@
    "part": "places",
    "lessons": [
     "term-2026-winter/lesson-05",
-    "term-2026-winter/lesson-06",
-    "term-2026-spring/lesson-02"
+    "term-2026-winter/lesson-06"
    ]
   },
   {
@@ -6603,7 +6438,6 @@
    ],
    "part": "places",
    "lessons": [
-    "term-2026-winter/lesson-05",
     "term-2026-spring/lesson-06",
     "term-2026-spring/lesson-07",
     "term-2026-spring/lesson-08"
@@ -6765,10 +6599,8 @@
    ],
    "part": "time",
    "lessons": [
-    "term-2025-autumn/lesson-12",
     "term-2025-autumn/lesson-14",
-    "term-2026-winter/lesson-01",
-    "term-2026-spring/lesson-01"
+    "term-2026-winter/lesson-01"
    ]
   },
   {
@@ -6951,14 +6783,11 @@
    "part": "time",
    "lessons": [
     "term-2025-autumn/lesson-01",
-    "term-2025-autumn/lesson-04",
-    "term-2025-autumn/lesson-05",
     "term-2025-autumn/lesson-10",
     "term-2025-autumn/lesson-11",
     "term-2025-autumn/lesson-12",
     "term-2025-autumn/lesson-14",
-    "term-2026-winter/lesson-01",
-    "term-2026-winter/lesson-07"
+    "term-2026-winter/lesson-01"
    ]
   },
   {
@@ -7161,11 +6990,8 @@
     "term-2025-autumn/lesson-10",
     "term-2025-autumn/lesson-11",
     "term-2025-autumn/lesson-12",
-    "term-2026-winter/lesson-06",
     "term-2026-winter/lesson-07",
-    "term-2026-winter/lesson-08",
-    "term-2026-winter/lesson-09",
-    "term-2026-spring/lesson-01"
+    "term-2026-winter/lesson-08"
    ]
   },
   {
@@ -7369,12 +7195,8 @@
    "part": "time",
    "lessons": [
     "term-2025-autumn/lesson-10",
-    "term-2025-autumn/lesson-11",
     "term-2025-autumn/lesson-12",
     "term-2025-autumn/lesson-14",
-    "term-2026-winter/lesson-01",
-    "term-2026-winter/lesson-09",
-    "term-2026-spring/lesson-01",
     "term-2026-autumn/lesson-01"
    ]
   }
