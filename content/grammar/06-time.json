@@ -1,5 +1,10 @@
 {
-  "part": { "id": "time", "title": "Time & everyday life", "emoji": "🕒", "description": "Telling the time, days and dates, months and seasons, and talking about the weather." },
+  "part": {
+    "id": "time",
+    "title": "Time & everyday life",
+    "emoji": "🕒",
+    "description": "Telling the time, days and dates, months and seasons, and talking about the weather."
+  },
   "topics": [
     {
       "id": "clock",
@@ -7,24 +12,70 @@
       "fi": "Kello",
       "emoji": "🕒",
       "summary": "Kello on kolme (It's three). Puoli neljä = half past three — 'half to four'! Varttia yli / vaille = quarter past / to.",
-      "requires": ["numbers"],
+      "requires": [
+        "numbers"
+      ],
       "sections": [
         {
           "heading": "What time is it?",
           "body": "**Paljonko kello on?** or **Mitä kello on?** — Answer: **Kello on …** (the clock is …).",
           "table": {
-            "headers": ["Time", "Finnish", "Literally"],
+            "headers": [
+              "Time",
+              "Finnish",
+              "Literally"
+            ],
             "rows": [
-              ["3.00", "Kello on kolme.", "the clock is three"],
-              ["3.05", "Kello on viisi yli kolme.", "five over three"],
-              ["3.15", "Kello on varttia yli kolme.", "quarter over three"],
-              ["3.20", "Kello on kaksikymmentä yli kolme.", "twenty over three"],
-              ["3.30", "Kello on puoli neljä.", "half four (half way to four!)"],
-              ["3.40", "Kello on kaksikymmentä vaille neljä.", "twenty lacking four"],
-              ["3.45", "Kello on varttia vaille neljä.", "quarter lacking four"],
-              ["3.55", "Kello on viisi vaille neljä.", "five lacking four"],
-              ["12.00", "Kello on kaksitoista. On keskipäivä.", "noon"],
-              ["24.00", "Kello on kaksitoista. On keskiyö.", "midnight"]
+              [
+                "3.00",
+                "Kello on kolme.",
+                "the clock is three"
+              ],
+              [
+                "3.05",
+                "Kello on viisi yli kolme.",
+                "five over three"
+              ],
+              [
+                "3.15",
+                "Kello on varttia yli kolme.",
+                "quarter over three"
+              ],
+              [
+                "3.20",
+                "Kello on kaksikymmentä yli kolme.",
+                "twenty over three"
+              ],
+              [
+                "3.30",
+                "Kello on puoli neljä.",
+                "half four (half way to four!)"
+              ],
+              [
+                "3.40",
+                "Kello on kaksikymmentä vaille neljä.",
+                "twenty lacking four"
+              ],
+              [
+                "3.45",
+                "Kello on varttia vaille neljä.",
+                "quarter lacking four"
+              ],
+              [
+                "3.55",
+                "Kello on viisi vaille neljä.",
+                "five lacking four"
+              ],
+              [
+                "12.00",
+                "Kello on kaksitoista. On keskipäivä.",
+                "noon"
+              ],
+              [
+                "24.00",
+                "Kello on kaksitoista. On keskiyö.",
+                "midnight"
+              ]
             ]
           },
           "tip": "**puoli** + the NEXT hour: *puoli kaksi* = 1.30, not 2.30. This trips up every English speaker!"
@@ -33,10 +84,22 @@
           "heading": "At what time? — Mihin aikaan? / Milloin?",
           "body": "Use **kello** + time, or **-lta/-ltä** with the number in speech: *kello kahdeksalta* (at 8). With the hour on its own, just *kello kahdeksan* is fine.",
           "examples": [
-            { "fi": "Mihin aikaan sinä heräät? — Herään kello seitsemän.", "en": "What time do you wake up? — At seven." },
-            { "fi": "Kurssi alkaa kello puoli seitsemän.", "en": "The course starts at half past six." },
-            { "fi": "Kauppa on auki kello yhdeksästä kello kahteenkymmeneenyhteen.", "en": "The shop is open from 9 to 21." },
-            { "fi": "Juna lähtee kello 14.25 (neljätoista kaksikymmentäviisi).", "en": "The train leaves at 14:25." }
+            {
+              "fi": "Mihin aikaan sinä heräät? — Herään kello seitsemän.",
+              "en": "What time do you wake up? — At seven."
+            },
+            {
+              "fi": "Kurssi alkaa kello puoli seitsemän.",
+              "en": "The course starts at half past six."
+            },
+            {
+              "fi": "Kauppa on auki kello yhdeksästä kello kahteenkymmeneenyhteen.",
+              "en": "The shop is open from 9 to 21."
+            },
+            {
+              "fi": "Juna lähtee kello 14.25 (neljätoista kaksikymmentäviisi).",
+              "en": "The train leaves at 14:25."
+            }
           ]
         },
         {
@@ -46,22 +109,57 @@
         {
           "heading": "Useful time words",
           "table": {
-            "headers": ["Finnish", "English"],
+            "headers": [
+              "Finnish",
+              "English"
+            ],
             "rows": [
-              ["tunti — tunnin", "hour"],
-              ["minuutti", "minute"],
-              ["sekunti", "second"],
-              ["puoli tuntia", "half an hour"],
-              ["vartti", "quarter of an hour"],
-              ["aamupäivällä / iltapäivällä", "in the morning (am) / afternoon (pm)"],
-              ["ajoissa / myöhässä", "on time / late"],
-              ["auki / kiinni", "open / closed"]
+              [
+                "tunti — tunnin",
+                "hour"
+              ],
+              [
+                "minuutti",
+                "minute"
+              ],
+              [
+                "sekunti",
+                "second"
+              ],
+              [
+                "puoli tuntia",
+                "half an hour"
+              ],
+              [
+                "vartti",
+                "quarter of an hour"
+              ],
+              [
+                "aamupäivällä / iltapäivällä",
+                "in the morning (am) / afternoon (pm)"
+              ],
+              [
+                "ajoissa / myöhässä",
+                "on time / late"
+              ],
+              [
+                "auki / kiinni",
+                "open / closed"
+              ]
             ]
           }
         }
       ],
-      "related": ["numbers", "days-dates"],
-      "practice": [{ "label": "Clock drill", "to": "/practice/course/drill-clock" }]
+      "related": [
+        "numbers",
+        "days-dates"
+      ],
+      "practice": [
+        {
+          "label": "Clock drill",
+          "to": "/practice/course/drill-clock"
+        }
+      ]
     },
     {
       "id": "days-dates",
@@ -69,20 +167,54 @@
       "fi": "Viikonpäivät ja päivämäärät",
       "emoji": "📅",
       "summary": "maanantai → maanantaina (on Monday), maanantaisin (on Mondays). Dates use ordinal numbers: neljäs lokakuuta.",
-      "requires": ["numbers"],
+      "requires": [
+        "numbers"
+      ],
       "sections": [
         {
           "heading": "Days of the week (viikonpäivät)",
           "table": {
-            "headers": ["Day", "On … (-na/-nä)", "Every … (-isin)"],
+            "headers": [
+              "Day",
+              "On … (-na/-nä)",
+              "Every … (-isin)"
+            ],
             "rows": [
-              ["maanantai — Monday", "maanantaina", "maanantaisin"],
-              ["tiistai — Tuesday", "tiistaina", "tiistaisin"],
-              ["keskiviikko — Wednesday", "keskiviikkona", "keskiviikkoisin"],
-              ["torstai — Thursday", "torstaina", "torstaisin"],
-              ["perjantai — Friday", "perjantaina", "perjantaisin"],
-              ["lauantai — Saturday", "lauantaina", "lauantaisin"],
-              ["sunnuntai — Sunday", "sunnuntaina", "sunnuntaisin"]
+              [
+                "maanantai — Monday",
+                "maanantaina",
+                "maanantaisin"
+              ],
+              [
+                "tiistai — Tuesday",
+                "tiistaina",
+                "tiistaisin"
+              ],
+              [
+                "keskiviikko — Wednesday",
+                "keskiviikkona",
+                "keskiviikkoisin"
+              ],
+              [
+                "torstai — Thursday",
+                "torstaina",
+                "torstaisin"
+              ],
+              [
+                "perjantai — Friday",
+                "perjantaina",
+                "perjantaisin"
+              ],
+              [
+                "lauantai — Saturday",
+                "lauantaina",
+                "lauantaisin"
+              ],
+              [
+                "sunnuntai — Sunday",
+                "sunnuntaina",
+                "sunnuntaisin"
+              ]
             ]
           },
           "note": "Days and months are written with a small letter. The -na/-nä ending is the **essive** case."
@@ -90,31 +222,89 @@
         {
           "heading": "Today, tomorrow, yesterday",
           "table": {
-            "headers": ["Finnish", "English"],
+            "headers": [
+              "Finnish",
+              "English"
+            ],
             "rows": [
-              ["tänään", "today"],
-              ["huomenna", "tomorrow"],
-              ["ylihuomenna", "the day after tomorrow"],
-              ["eilen", "yesterday"],
-              ["toissapäivänä", "the day before yesterday"],
-              ["viikonloppuna", "at the weekend"],
-              ["tällä viikolla / ensi viikolla / viime viikolla", "this / next / last week"],
-              ["joka päivä / joka maanantai", "every day / every Monday"],
-              ["arkisin", "on weekdays"]
+              [
+                "tänään",
+                "today"
+              ],
+              [
+                "huomenna",
+                "tomorrow"
+              ],
+              [
+                "ylihuomenna",
+                "the day after tomorrow"
+              ],
+              [
+                "eilen",
+                "yesterday"
+              ],
+              [
+                "toissapäivänä",
+                "the day before yesterday"
+              ],
+              [
+                "viikonloppuna",
+                "at the weekend"
+              ],
+              [
+                "tällä viikolla / ensi viikolla / viime viikolla",
+                "this / next / last week"
+              ],
+              [
+                "joka päivä / joka maanantai",
+                "every day / every Monday"
+              ],
+              [
+                "arkisin",
+                "on weekdays"
+              ]
             ]
           }
         },
         {
           "heading": "Parts of the day (adessive -lla)",
           "table": {
-            "headers": ["Noun", "When", "English"],
+            "headers": [
+              "Noun",
+              "When",
+              "English"
+            ],
             "rows": [
-              ["aamu", "aamulla", "in the morning"],
-              ["aamupäivä", "aamupäivällä", "late morning"],
-              ["päivä", "päivällä", "during the day"],
-              ["iltapäivä", "iltapäivällä", "in the afternoon"],
-              ["ilta", "illalla", "in the evening"],
-              ["yö", "yöllä", "at night"]
+              [
+                "aamu",
+                "aamulla",
+                "in the morning"
+              ],
+              [
+                "aamupäivä",
+                "aamupäivällä",
+                "late morning"
+              ],
+              [
+                "päivä",
+                "päivällä",
+                "during the day"
+              ],
+              [
+                "iltapäivä",
+                "iltapäivällä",
+                "in the afternoon"
+              ],
+              [
+                "ilta",
+                "illalla",
+                "in the evening"
+              ],
+              [
+                "yö",
+                "yöllä",
+                "at night"
+              ]
             ]
           }
         },
@@ -122,14 +312,32 @@
           "heading": "Dates",
           "body": "**Monesko päivä tänään on?** (What's the date?) — Ordinal number + month in the **partitive** (-ta/-tä): *Tänään on neljäs lokakuuta.* (4 October). Written: 4.10.2026 (day.month.year).",
           "examples": [
-            { "fi": "Tänään on maanantai, neljästoista syyskuuta.", "en": "Today is Monday, 14 September." },
-            { "fi": "Milloin sinulla on syntymäpäivä? — Kahdentenatoista toukokuuta.", "en": "When is your birthday? — On the 12th of May (essive ordinal)." },
-            { "fi": "Joulu on kahdeskymmenesneljäs joulukuuta.", "en": "Christmas Eve is the 24th of December." }
+            {
+              "fi": "Tänään on maanantai, neljästoista syyskuuta.",
+              "en": "Today is Monday, 14 September."
+            },
+            {
+              "fi": "Milloin sinulla on syntymäpäivä? — Kahdentenatoista toukokuuta.",
+              "en": "When is your birthday? — On the 12th of May (essive ordinal)."
+            },
+            {
+              "fi": "Joulu on kahdeskymmenesneljäs joulukuuta.",
+              "en": "Christmas Eve is the 24th of December."
+            }
           ]
         }
       ],
-      "related": ["months-seasons", "clock", "numbers"],
-      "practice": [{ "label": "Days & months drill", "to": "/practice/course/drill-when" }]
+      "related": [
+        "months-seasons",
+        "clock",
+        "numbers"
+      ],
+      "practice": [
+        {
+          "label": "Days & months drill",
+          "to": "/practice/course/drill-when"
+        }
+      ]
     },
     {
       "id": "months-seasons",
@@ -137,25 +345,80 @@
       "fi": "Kuukaudet ja vuodenajat",
       "emoji": "🍂",
       "summary": "All months end in -kuu (moon): tammikuu, helmikuu… In January = tammikuussa. In winter = talvella.",
-      "requires": ["inner-local-cases", "outer-local-cases"],
+      "requires": [
+        "inner-local-cases",
+        "outer-local-cases"
+      ],
       "sections": [
         {
           "heading": "Months (kuukaudet) — in … = -kuussa",
           "table": {
-            "headers": ["Month", "In …", "Meaning of the name"],
+            "headers": [
+              "Month",
+              "In …",
+              "Meaning of the name"
+            ],
             "rows": [
-              ["tammikuu — January", "tammikuussa", "oak month (heart of winter)"],
-              ["helmikuu — February", "helmikuussa", "pearl month (icy pearls on trees)"],
-              ["maaliskuu — March", "maaliskuussa", "earth month (snow melts)"],
-              ["huhtikuu — April", "huhtikuussa", "slash-and-burn month"],
-              ["toukokuu — May", "toukokuussa", "sowing month"],
-              ["kesäkuu — June", "kesäkuussa", "summer month"],
-              ["heinäkuu — July", "heinäkuussa", "hay month"],
-              ["elokuu — August", "elokuussa", "harvest (life) month"],
-              ["syyskuu — September", "syyskuussa", "autumn month"],
-              ["lokakuu — October", "lokakuussa", "mud month"],
-              ["marraskuu — November", "marraskuussa", "dead month"],
-              ["joulukuu — December", "joulukuussa", "Christmas month"]
+              [
+                "tammikuu — January",
+                "tammikuussa",
+                "core month (heart of winter; tammi may also mean 'oak')"
+              ],
+              [
+                "helmikuu — February",
+                "helmikuussa",
+                "pearl month (icy pearls on trees)"
+              ],
+              [
+                "maaliskuu — March",
+                "maaliskuussa",
+                "earth month (snow melts)"
+              ],
+              [
+                "huhtikuu — April",
+                "huhtikuussa",
+                "slash-and-burn month"
+              ],
+              [
+                "toukokuu — May",
+                "toukokuussa",
+                "sowing month"
+              ],
+              [
+                "kesäkuu — June",
+                "kesäkuussa",
+                "summer month"
+              ],
+              [
+                "heinäkuu — July",
+                "heinäkuussa",
+                "hay month"
+              ],
+              [
+                "elokuu — August",
+                "elokuussa",
+                "harvest (life) month"
+              ],
+              [
+                "syyskuu — September",
+                "syyskuussa",
+                "autumn month"
+              ],
+              [
+                "lokakuu — October",
+                "lokakuussa",
+                "mud month"
+              ],
+              [
+                "marraskuu — November",
+                "marraskuussa",
+                "dead month"
+              ],
+              [
+                "joulukuu — December",
+                "joulukuussa",
+                "Christmas month"
+              ]
             ]
           },
           "note": "Months use the **inessive** -ssa (in), and the elative/illative for ranges: *tammikuusta maaliskuuhun* — from January to March."
@@ -163,12 +426,32 @@
         {
           "heading": "Seasons (vuodenajat) — in … = -lla/-llä",
           "table": {
-            "headers": ["Season", "In …", "Months"],
+            "headers": [
+              "Season",
+              "In …",
+              "Months"
+            ],
             "rows": [
-              ["kevät — spring", "keväällä", "maaliskuu, huhtikuu, toukokuu"],
-              ["kesä — summer", "kesällä", "kesäkuu, heinäkuu, elokuu"],
-              ["syksy — autumn", "syksyllä", "syyskuu, lokakuu, marraskuu"],
-              ["talvi — winter", "talvella", "joulukuu, tammikuu, helmikuu"]
+              [
+                "kevät — spring",
+                "keväällä",
+                "maaliskuu, huhtikuu, toukokuu"
+              ],
+              [
+                "kesä — summer",
+                "kesällä",
+                "kesäkuu, heinäkuu, elokuu"
+              ],
+              [
+                "syksy — autumn",
+                "syksyllä",
+                "syyskuu, lokakuu, marraskuu"
+              ],
+              [
+                "talvi — winter",
+                "talvella",
+                "joulukuu, tammikuu, helmikuu"
+              ]
             ]
           },
           "note": "Seasons use the **adessive** -lla/-llä. Note the stems: *kevät → keväällä*, *talvi → talvella*."
@@ -176,30 +459,81 @@
         {
           "heading": "Examples from the course",
           "examples": [
-            { "fi": "Milloin te menette lomalle? — Menemme lomalle heinäkuussa.", "en": "When are you going on holiday? — In July." },
-            { "fi": "Talvella Suomessa on kylmä ja paljon lunta.", "en": "In winter it's cold in Finland and there's lots of snow." },
-            { "fi": "Syksyllä mökillä on paljon töitä.", "en": "In autumn there's lots of work at the cottage." },
-            { "fi": "Kesällä aurinko paistaa koko yön Lapissa.", "en": "In summer the sun shines all night in Lapland." },
-            { "fi": "Minun syntymäpäiväni on toukokuussa.", "en": "My birthday is in May." }
+            {
+              "fi": "Milloin te menette lomalle? — Menemme lomalle heinäkuussa.",
+              "en": "When are you going on holiday? — In July."
+            },
+            {
+              "fi": "Talvella Suomessa on kylmä ja paljon lunta.",
+              "en": "In winter it's cold in Finland and there's lots of snow."
+            },
+            {
+              "fi": "Syksyllä mökillä on paljon töitä.",
+              "en": "In autumn there's lots of work at the cottage."
+            },
+            {
+              "fi": "Kesällä aurinko paistaa koko yön Lapissa.",
+              "en": "In summer the sun shines all night in Lapland."
+            },
+            {
+              "fi": "Minun syntymäpäiväni on toukokuussa.",
+              "en": "My birthday is in May."
+            }
           ]
         },
         {
           "heading": "Summary: 'when' in Finnish",
           "table": {
-            "headers": ["Time word", "Case", "Example"],
+            "headers": [
+              "Time word",
+              "Case",
+              "Example"
+            ],
             "rows": [
-              ["months", "-ssa (inessive)", "tammikuussa"],
-              ["seasons, parts of the day", "-lla (adessive)", "talvella, illalla"],
-              ["days of the week", "-na (essive)", "maanantaina"],
-              ["dates", "ordinal + month partitive", "neljäs lokakuuta"],
-              ["years", "-lla or vuonna", "vuonna 2026"],
-              ["holidays", "-na / -lla", "jouluna, pääsiäisenä, juhannuksena"]
+              [
+                "months",
+                "-ssa (inessive)",
+                "tammikuussa"
+              ],
+              [
+                "seasons, parts of the day",
+                "-lla (adessive)",
+                "talvella, illalla"
+              ],
+              [
+                "days of the week",
+                "-na (essive)",
+                "maanantaina"
+              ],
+              [
+                "dates",
+                "ordinal + month partitive",
+                "neljäs lokakuuta"
+              ],
+              [
+                "years",
+                "-lla or vuonna",
+                "vuonna 2026"
+              ],
+              [
+                "holidays",
+                "-na / -lla",
+                "jouluna, pääsiäisenä, juhannuksena"
+              ]
             ]
           }
         }
       ],
-      "related": ["days-dates", "weather"],
-      "practice": [{ "label": "When? drill", "to": "/practice/course/drill-when" }]
+      "related": [
+        "days-dates",
+        "weather"
+      ],
+      "practice": [
+        {
+          "label": "When? drill",
+          "to": "/practice/course/drill-when"
+        }
+      ]
     },
     {
       "id": "weather",
@@ -207,35 +541,92 @@
       "fi": "Sää",
       "emoji": "🌦️",
       "summary": "Millainen sää on? — Aurinko paistaa. Sataa lunta. On kylmä. Lämpötila on miinus viisi astetta.",
-      "requires": ["olla", "partitive"],
+      "requires": [
+        "olla",
+        "partitive"
+      ],
       "sections": [
         {
           "heading": "Asking",
           "examples": [
-            { "fi": "Millainen sää tänään on?", "en": "What's the weather like today?" },
-            { "fi": "Millainen sää Helsingissä on?", "en": "What's the weather like in Helsinki?" },
-            { "fi": "Paljonko on lämmintä / pakkasta?", "en": "How warm is it? / How many degrees below zero?" }
+            {
+              "fi": "Millainen sää tänään on?",
+              "en": "What's the weather like today?"
+            },
+            {
+              "fi": "Millainen sää Helsingissä on?",
+              "en": "What's the weather like in Helsinki?"
+            },
+            {
+              "fi": "Paljonko on lämmintä / pakkasta?",
+              "en": "How warm is it? / How many degrees below zero?"
+            }
           ]
         },
         {
           "heading": "Weather expressions",
           "table": {
-            "headers": ["Finnish", "English"],
+            "headers": [
+              "Finnish",
+              "English"
+            ],
             "rows": [
-              ["Aurinko paistaa. / On aurinkoista.", "The sun is shining. / It's sunny."],
-              ["On pilvistä. / On puolipilvistä.", "It's cloudy. / Partly cloudy."],
-              ["Sataa. / Sataa vettä.", "It's raining."],
-              ["Sataa lunta.", "It's snowing."],
-              ["Sataa räntää.", "It's sleeting."],
-              ["Tuulee. / On tuulista.", "It's windy."],
-              ["On sumuista.", "It's foggy."],
-              ["Ukkostaa. / On ukkosta.", "There's a thunderstorm."],
-              ["On kuuma / lämmin / viileä / kylmä.", "It's hot / warm / cool / cold."],
-              ["On liukasta.", "It's slippery."],
-              ["On pakkasta.", "It's below freezing."],
-              ["Lämpötila on plus kymmenen astetta.", "The temperature is +10 °C."],
-              ["On kymmenen astetta pakkasta. / On miinus kymmenen.", "It's −10 °C."],
-              ["On kaksikymmentä astetta lämmintä.", "It's +20 °C."]
+              [
+                "Aurinko paistaa. / On aurinkoista.",
+                "The sun is shining. / It's sunny."
+              ],
+              [
+                "On pilvistä. / On puolipilvistä.",
+                "It's cloudy. / Partly cloudy."
+              ],
+              [
+                "Sataa. / Sataa vettä.",
+                "It's raining."
+              ],
+              [
+                "Sataa lunta.",
+                "It's snowing."
+              ],
+              [
+                "Sataa räntää.",
+                "It's sleeting."
+              ],
+              [
+                "Tuulee. / On tuulista.",
+                "It's windy."
+              ],
+              [
+                "On sumuista.",
+                "It's foggy."
+              ],
+              [
+                "Ukkostaa. / On ukkosta.",
+                "There's a thunderstorm."
+              ],
+              [
+                "On kuuma / lämmin / viileä / kylmä.",
+                "It's hot / warm / cool / cold."
+              ],
+              [
+                "On liukasta.",
+                "It's slippery."
+              ],
+              [
+                "On pakkasta.",
+                "It's below freezing."
+              ],
+              [
+                "Lämpötila on plus kymmenen astetta.",
+                "The temperature is +10 °C."
+              ],
+              [
+                "On kymmenen astetta pakkasta. / On miinus kymmenen.",
+                "It's −10 °C."
+              ],
+              [
+                "On kaksikymmentä astetta lämmintä.",
+                "It's +20 °C."
+              ]
             ]
           },
           "note": "Weather sentences have **no subject**: *Sataa.* (not 'it rains'), *On kylmä.* After numbers: **astetta** (partitive of aste, degree)."
@@ -243,32 +634,105 @@
         {
           "heading": "Weather words",
           "table": {
-            "headers": ["Noun", "", "Adjective", ""],
+            "headers": [
+              "Noun",
+              "",
+              "Adjective",
+              ""
+            ],
             "rows": [
-              ["aurinko", "sun", "aurinkoinen", "sunny"],
-              ["pilvi", "cloud", "pilvinen", "cloudy"],
-              ["sade", "rain", "sateinen", "rainy"],
-              ["lumi", "snow", "luminen", "snowy"],
-              ["tuuli", "wind", "tuulinen", "windy"],
-              ["sumu", "fog", "sumuinen", "foggy"],
-              ["ukkonen", "thunder", "", ""],
-              ["pakkanen", "frost", "", ""],
-              ["jää", "ice", "jäinen", "icy"],
-              ["sää", "weather", "sääennuste", "weather forecast"]
+              [
+                "aurinko",
+                "sun",
+                "aurinkoinen",
+                "sunny"
+              ],
+              [
+                "pilvi",
+                "cloud",
+                "pilvinen",
+                "cloudy"
+              ],
+              [
+                "sade",
+                "rain",
+                "sateinen",
+                "rainy"
+              ],
+              [
+                "lumi",
+                "snow",
+                "luminen",
+                "snowy"
+              ],
+              [
+                "tuuli",
+                "wind",
+                "tuulinen",
+                "windy"
+              ],
+              [
+                "sumu",
+                "fog",
+                "sumuinen",
+                "foggy"
+              ],
+              [
+                "ukkonen",
+                "thunder",
+                "",
+                ""
+              ],
+              [
+                "pakkanen",
+                "frost",
+                "",
+                ""
+              ],
+              [
+                "jää",
+                "ice",
+                "jäinen",
+                "icy"
+              ],
+              [
+                "sää",
+                "weather",
+                "sääennuste",
+                "weather forecast"
+              ]
             ]
           }
         },
         {
           "heading": "Reading a weather map",
           "examples": [
-            { "fi": "Helsingissä on pilvistä ja lämpötila on kolme astetta.", "en": "In Helsinki it's cloudy and 3 degrees." },
-            { "fi": "Rovaniemellä sataa lunta ja on viisitoista astetta pakkasta.", "en": "In Rovaniemi it's snowing and −15 °C." },
-            { "fi": "Huomenna tuulee ja sataa vettä koko päivän.", "en": "Tomorrow it'll be windy and rain all day." }
+            {
+              "fi": "Helsingissä on pilvistä ja lämpötila on kolme astetta.",
+              "en": "In Helsinki it's cloudy and 3 degrees."
+            },
+            {
+              "fi": "Rovaniemellä sataa lunta ja on viisitoista astetta pakkasta.",
+              "en": "In Rovaniemi it's snowing and −15 °C."
+            },
+            {
+              "fi": "Huomenna tuulee ja sataa vettä koko päivän.",
+              "en": "Tomorrow it'll be windy and rain all day."
+            }
           ]
         }
       ],
-      "related": ["months-seasons", "place-names", "verb-type-6"],
-      "practice": [{ "label": "Weather flashcards", "to": "/practice/flashcards?category=weather" }]
+      "related": [
+        "months-seasons",
+        "place-names",
+        "verb-type-6"
+      ],
+      "practice": [
+        {
+          "label": "Weather flashcards",
+          "to": "/practice/flashcards?category=weather"
+        }
+      ]
     }
   ]
 }

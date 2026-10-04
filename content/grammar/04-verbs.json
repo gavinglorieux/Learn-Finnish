@@ -1679,7 +1679,7 @@
         },
         {
           "heading": "Plural / polite (to several people, te)",
-          "body": "Take the **infinitive stem** (type 1 & 2: drop -a/-ä or -da/-dä; types 3–5: drop only the last vowel) and add **-kaa/-kää**. Negative: **älkää** + stem + **-ko/-kö**. Type 1 keeps the **strong** grade.",
+          "body": "Type 1 and 2: drop -a/-ä or -da/-dä (*puhu-kaa*, *teh-kää*). Type 3: drop the last two letters, -la/-na/-ra/-ta (*tul-kaa*, *men-kää*, *nous-kaa*). Types 4–6: drop the final -a/-ä (*avat-kaa*, *tarvit-kaa*). Then add **-kaa/-kää**. Negative: **älkää** + the same stem + **-ko/-kö**. Type 1 keeps the **strong** grade (*nukkukaa*).",
           "table": {
             "headers": [
               "Type",
@@ -1750,7 +1750,7 @@
               ]
             ]
           },
-          "tip": "Shortcut for types 3, 4 and 5: infinitive minus final -a/-ä + kaa: *tulla → tul(l) → tulkaa*, *avata → avat + kaa*."
+          "tip": "Shortcut: types 4–6 = infinitive minus -a/-ä + kaa (*avata → avat-kaa*); type 3 = infinitive minus its last two letters + kaa (*tulla → tul-kaa*)."
         },
         {
           "heading": "Let's …! (me)",
