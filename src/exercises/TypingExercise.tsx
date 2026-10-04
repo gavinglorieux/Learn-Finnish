@@ -1,7 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
-import type { Word } from '@/data/vocabulary'
+import { isCorrectFinnish, type Word } from '@/data/vocabulary'
 import type { ShellCtx } from './ExerciseShell'
-import { answerMatches } from '@/lib/utils'
 import { speak } from '@/lib/tts'
 import { hapticError, hapticSuccess } from '@/lib/haptics'
 import { SpeakerIcon } from '@/components/Icons'
@@ -31,7 +30,8 @@ export default function TypingExercise({ pool, onAnswer, onComplete, ctx }: Prop
 
   const submit = () => {
     if (state !== 'idle') return
-    const ok = answerMatches(input, word.fi)
+    // Any Finnish word with this meaning counts (mummo / mummi / isoäiti for "grandma").
+    const ok = isCorrectFinnish(input, word)
     setState(ok ? 'correct' : 'wrong')
     onAnswer(word.id, ok)
     if (ok) { ctx.markCorrect(); hapticSuccess() } else { ctx.markWrong(); hapticError() }

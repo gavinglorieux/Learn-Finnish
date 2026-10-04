@@ -3,7 +3,7 @@ import { useApp } from '@/state/AppState'
 import { FlameIcon, TargetIcon, TrophyIcon, SparklesIcon, DumbbellIcon, BookIcon, ScrollIcon, DownloadIcon } from '@/components/Icons'
 import { ACHIEVEMENTS, xpProgressInLevel } from '@/lib/progress'
 import { WORDS } from '@/data/vocabulary'
-import { LESSONS, formatDate, grammarById, DATA_STATS } from '@/data/content'
+import { LESSONS, formatDate, grammarById, DATA_STATS, localToday } from '@/data/content'
 import { totalMastery } from '@/lib/srs'
 import { useMemo } from 'react'
 
@@ -14,7 +14,7 @@ export default function HomePage() {
   const mastery = useMemo(() => totalMastery(srs, WORDS.map((w) => w.id)), [srs])
   const greeting = getGreeting()
   // The latest class that has happened (or the next one if it's today/upcoming within a week).
-  const today = new Date().toISOString().slice(0, 10)
+  const today = localToday()
   const latest = LESSONS.filter((l) => l.date <= today).at(-1) ?? LESSONS.at(-1)
   const upcoming = LESSONS.find((l) => l.date > today)
 

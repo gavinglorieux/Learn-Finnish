@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
-import { WORDS, type Word } from '@/data/vocabulary'
+import { pickDistractors, type Word } from '@/data/vocabulary'
 import type { ShellCtx } from './ExerciseShell'
-import { sampleN, shuffle } from '@/lib/utils'
+import { shuffle } from '@/lib/utils'
 import { speak, ttsAvailable } from '@/lib/tts'
 import { SpeakerIcon, CheckIcon, XIcon } from '@/components/Icons'
 import { hapticError, hapticSuccess } from '@/lib/haptics'
@@ -15,11 +15,8 @@ type Props = {
 
 export default function ListenMatch({ pool, onAnswer, onComplete, ctx }: Props) {
   const word = pool[ctx.index]
-  const options = useMemo(() => {
-    const distractors = sampleN(WORDS.filter((w) => w.id !== word.id && w.category === word.category), 3)
-    const extra = distractors.length < 3 ? sampleN(WORDS.filter((w) => w.id !== word.id), 3 - distractors.length) : []
-    return shuffle([word, ...distractors, ...extra].slice(0, 4))
-  }, [word])
+  // Meanings are shown in English, so distractors must differ from the answer in English.
+  const options = useMemo(() => shuffle([word, ...pickDistractors(word, 'en', 3)]), [word])
   const [picked, setPicked] = useState<string | null>(null)
 
   useEffect(() => {

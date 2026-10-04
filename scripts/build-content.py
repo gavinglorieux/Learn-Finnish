@@ -292,6 +292,9 @@ def build_exercises(sources: list[dict], drills: list[dict], grammar_ids: set[st
                 answer = nfc(str(it.get("answer") or "").strip())
                 if not prompt or not answer or len(answer) > 48 or PLACEHOLDER.search(answer):
                     continue
+                # "Olen ____." — a model answer with its own gap is a personal question, not a checkable item.
+                if "__" in answer:
+                    continue
                 answer = re.sub(r"\s*\([^)]*\)", "", answer).strip()
                 prompt = re.sub(r"_{2,}", "____", prompt)
                 prompt = re.sub(r"____(?:\s+____)+", "____", prompt)  # multi-word answer → one gap

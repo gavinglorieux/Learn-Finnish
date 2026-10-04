@@ -13,7 +13,7 @@ import Conjugator, { CONJUGATOR_TOTAL, type ConjugatorMode, type ConjugatorOptio
 import FillGap, { FILL_GAP_TOTAL } from '@/exercises/FillGap'
 import ExerciseShell from '@/exercises/ExerciseShell'
 import SessionSummary from '@/exercises/SessionSummary'
-import { shuffle } from '@/lib/utils'
+import { shuffle, uniqueBy } from '@/lib/utils'
 import { ChevronLeftIcon } from '@/components/Icons'
 
 const SESSION_LEN = 10
@@ -53,17 +53,20 @@ export default function ExercisePage() {
     if (categoryFilter) list = wordsByCategory(categoryFilter)
     if (lessonFilter) list = wordsForLesson(lessonFilter).map((w) => wordById(w.id)).filter((w): w is Word => !!w)
     if (ex === 'review') {
-      // Only real words: the SRS store also tracks verb-drill and exercise keys.
-      const dueWords = dueWordIds(srs).map(wordById).filter((w): w is Word => !!w)
+      // Only real words (the SRS store also tracks verb-drill and exercise keys), and only
+      // from the chosen topic/lesson when there is one.
+      const inList = new Set(list.map((w) => w.id))
+      const dueWords = dueWordIds(srs).map(wordById).filter((w): w is Word => !!w && inList.has(w.id))
       // Fill up with unseen words (shuffled, so it's not always the same alphabetical batch).
       const unseen = shuffle(list.filter((w) => !srs[w.id]))
       const combined = [...dueWords, ...unseen]
       if (combined.length < SESSION_LEN) {
         combined.push(...shuffle(list).slice(0, SESSION_LEN - combined.length))
       }
-      return combined.slice(0, SESSION_LEN)
+      // The top-up can repeat a word already in the round.
+      return uniqueBy(combined, (w) => w.id).slice(0, SESSION_LEN)
     }
-    // remove single-token-less-helpful words for match/typing (e.g., super long phrases)
+    // Long phrases don't fit tiles / aren't fair to type.
     if (ex === 'match' || ex === 'typing') {
       list = list.filter((w) => w.fi.length <= 18)
     }

@@ -14,7 +14,7 @@ All content comes from Gavin's Monday Finnish course with **Teija Perttilä** (F
 - **44 grammar lessons** in 6 parts, in learning order: sounds & spelling → first steps → nouns & cases → verbs (types 1–6, K-P-T, imperative) → places & movement (local cases, postpositions) → time & everyday life. Each has rules, full tables, course examples, exceptions, cross-links and practice links
 - **37 lessons** (every class across Autumn 2025, Spring 2026, Summer 2026 and Autumn 2026), each linking its grammar, vocabulary, texts, exercises and the full handout transcripts
 - **61 reading texts & dialogues** with line-by-line translations and tap-to-translate
-- **113 exercises (1,478 questions)**: 102 real course worksheets and 11 grammar drills
+- **112 exercises (1,475 questions)**: 101 real course worksheets and 11 grammar drills
 - **Practice modes**:
   - **Smart review**: spaced repetition (Leitner boxes)
   - **Flashcards**, **Multiple choice**, **Typing**, **Match pairs**, **Listen & match**: by group or by lesson

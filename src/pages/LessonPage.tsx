@@ -2,8 +2,9 @@ import { useEffect, useState } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
 import {
   lessonById, termById, formatDate, grammarById, textById, exerciseById, wordsForLesson,
-  VOCAB_GROUPS, LESSONS, loadHandouts
+  LESSONS, loadHandouts
 } from '@/data/content'
+import { getCategory } from '@/data/vocabulary'
 import { ChevronLeftIcon, ChevronRightIcon, SpeakerIcon } from '@/components/Icons'
 import { speak } from '@/lib/tts'
 
@@ -32,7 +33,8 @@ export default function LessonPage() {
   const words = wordsForLesson(lesson.id)
   const texts = lesson.texts.map(textById).filter(Boolean)
   const exercises = lesson.exercises.map(exerciseById).filter(Boolean)
-  const groups = lesson.groups.map((g) => VOCAB_GROUPS.find((x) => x.id === g)).filter(Boolean)
+  // Only link groups that actually have words (a group can be empty while its handouts are pending).
+  const groups = lesson.groups.map(getCategory).filter(Boolean)
   const idx = LESSONS.findIndex((l) => l.id === lesson.id)
   const prev = LESSONS[idx - 1]
   const next = LESSONS[idx + 1]
