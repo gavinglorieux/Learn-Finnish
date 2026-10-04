@@ -24,56 +24,61 @@ const spaFallback = () => ({
   }
 })
 
-export default defineConfig(({ command }) => ({
-  base: command === 'build' ? BASE : '/',
-  plugins: [
-    react(),
-    VitePWA({
-      registerType: 'autoUpdate',
-      includeAssets: ['favicon.svg', 'icons/apple-touch-icon.png'],
-      devOptions: { enabled: true, type: 'module' },
-      manifest: {
-        name: 'Learn Finnish',
-        short_name: 'Finnish',
-        description: 'Learn Finnish vocabulary and grammar with games and spaced repetition.',
-        theme_color: '#003580',
-        background_color: '#ffffff',
-        display: 'standalone',
-        orientation: 'portrait',
-        start_url: '.',
-        scope: '.',
-        icons: [
-          { src: 'icons/icon-192.png', sizes: '192x192', type: 'image/png' },
-          { src: 'icons/icon-512.png', sizes: '512x512', type: 'image/png' },
-          { src: 'icons/icon-512-maskable.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' }
-        ]
-      },
-      workbox: {
-        globPatterns: ['**/*.{js,css,html,svg,png,webp,woff2}'],
-        // The course content is bundled into JS; keep the whole app precached for offline use.
-        maximumFileSizeToCacheInBytes: 6 * 1024 * 1024,
-        // When the SW can't match a route (e.g. deep link into the SPA),
-        // fall back to the app shell so React Router can take over.
-        navigateFallback: `${command === 'build' ? BASE : '/'}index.html`
-      }
-    }),
-    spaFallback()
-  ],
-  build: {
-    chunkSizeWarningLimit: 1500,
-    rollupOptions: {
-      output: {
-        // Keep the (large, rarely changing) course content apart from the app code so a
-        // code-only release doesn't make the service worker re-download the whole content.
-        manualChunks(id) {
-          if (id.includes('/content/') && id.endsWith('.json') && !id.endsWith('handouts.json')) return 'content'
-          if (id.includes('node_modules')) return 'vendor'
+// `vite preview` runs with command === 'serve', but it serves the built dist, whose
+// index.html points at /Learn-Finnish/assets/* — so it needs the deploy base too.
+export default defineConfig(({ command, isPreview }) => {
+  const base = command === 'build' || isPreview ? BASE : '/'
+  return {
+    base,
+    plugins: [
+      react(),
+      VitePWA({
+        registerType: 'autoUpdate',
+        includeAssets: ['favicon.svg', 'icons/apple-touch-icon.png'],
+        devOptions: { enabled: true, type: 'module' },
+        manifest: {
+          name: 'Learn Finnish',
+          short_name: 'Finnish',
+          description: 'Learn Finnish vocabulary and grammar with games and spaced repetition.',
+          theme_color: '#003580',
+          background_color: '#ffffff',
+          display: 'standalone',
+          orientation: 'portrait',
+          start_url: '.',
+          scope: '.',
+          icons: [
+            { src: 'icons/icon-192.png', sizes: '192x192', type: 'image/png' },
+            { src: 'icons/icon-512.png', sizes: '512x512', type: 'image/png' },
+            { src: 'icons/icon-512-maskable.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' }
+          ]
+        },
+        workbox: {
+          globPatterns: ['**/*.{js,css,html,svg,png,webp,woff2}'],
+          // The course content is bundled into JS; keep the whole app precached for offline use.
+          maximumFileSizeToCacheInBytes: 6 * 1024 * 1024,
+          // When the SW can't match a route (e.g. deep link into the SPA),
+          // fall back to the app shell so React Router can take over.
+          navigateFallback: `${base}index.html`
+        }
+      }),
+      spaFallback()
+    ],
+    build: {
+      chunkSizeWarningLimit: 1500,
+      rollupOptions: {
+        output: {
+          // Keep the (large, rarely changing) course content apart from the app code so a
+          // code-only release doesn't make the service worker re-download the whole content.
+          manualChunks(id) {
+            if (id.includes('/content/') && id.endsWith('.json') && !id.endsWith('handouts.json')) return 'content'
+            if (id.includes('node_modules')) return 'vendor'
+          }
         }
       }
-    }
-  },
-  resolve: {
-    alias: { '@': path.resolve(__dirname, 'src') }
-  },
-  server: { host: true, port: 5173 }
-}))
+    },
+    resolve: {
+      alias: { '@': path.resolve(__dirname, 'src') }
+    },
+    server: { host: true, port: 5173 }
+  }
+})
