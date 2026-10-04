@@ -1,0 +1,1296 @@
+{
+  "part": {
+    "id": "nouns",
+    "title": "Nouns & cases",
+    "emoji": "📦",
+    "description": "How nouns change: stems, the genitive, 'I have', the partitive, plurals, adjectives and consonant gradation."
+  },
+  "topics": [
+    {
+      "id": "word-stems",
+      "title": "Noun stems: what happens before an ending",
+      "fi": "Sanatyypit ja vartalo",
+      "emoji": "🧱",
+      "summary": "Before you add a case ending, many words change shape. A handful of patterns covers almost every word you'll meet.",
+      "requires": [
+        "vowel-harmony"
+      ],
+      "sections": [
+        {
+          "heading": "Why stems matter",
+          "body": "Finnish has about 15 cases, but they all attach to the same **stem**. If you know the genitive (-n form) of a word, you know its stem: just remove the -n. *talon → talo-*, *huoneen → huonee-*, *naisen → naise-*.",
+          "tip": "When you learn a new noun, learn it as a pair: **basic form + genitive** (talo, talon · kieli, kielen · huone, huoneen)."
+        },
+        {
+          "heading": "The main patterns",
+          "table": {
+            "headers": [
+              "Word ends in",
+              "Change",
+              "Example",
+              "Genitive",
+              "Inessive"
+            ],
+            "rows": [
+              [
+                "a, o, u, y, ä, ö",
+                "no change",
+                "talo, kissa, katu",
+                "talon",
+                "talossa"
+              ],
+              [
+                "-i (new/loan word)",
+                "no change",
+                "kahvi, bussi, pankki",
+                "kahvin",
+                "kahvissa"
+              ],
+              [
+                "-i (old word)",
+                "i → e",
+                "kieli, järvi, ovi, nimi",
+                "kielen",
+                "kielessä"
+              ],
+              [
+                "-si",
+                "si → de (sg. stems)",
+                "vesi, käsi, uusi",
+                "veden",
+                "vedessä"
+              ],
+              [
+                "-e",
+                "add e (long ee)",
+                "huone, kappale, perhe",
+                "huoneen",
+                "huoneessa"
+              ],
+              [
+                "-nen",
+                "nen → se",
+                "nainen, suomalainen",
+                "naisen",
+                "naisessa"
+              ],
+              [
+                "-as / -is / -us (adj. & some nouns)",
+                "s → a/ä (long vowel)",
+                "rikas, kallis, opas",
+                "rikkaan, kalliin",
+                "rikkaassa"
+              ],
+              [
+                "-in",
+                "in → ime",
+                "puhelin, avain",
+                "puhelimen",
+                "puhelimessa"
+              ],
+              [
+                "-us / -ys (abstract)",
+                "us → ude",
+                "rakkaus, ystävyys",
+                "rakkauden",
+                ""
+              ],
+              [
+                "consonant (-l, -r, -n)",
+                "add e",
+                "sisar, askel",
+                "sisaren, askelen",
+                "sisaressa"
+              ]
+            ]
+          },
+          "note": "Old -i words (kieli, ovi, järvi, lumi, nimi, uni, tuli, meri, pilvi, lehti…) must simply be learnt. New words and loans (kahvi, banaani, pankki, bussi, hotelli) keep the i."
+        },
+        {
+          "heading": "Plus consonant gradation",
+          "body": "On top of the stem change, many words switch between a strong and weak consonant (kauppa → kaupassa, katu → kadulla). See [[kpt-nouns|Consonant gradation in nouns]]."
+        }
+      ],
+      "related": [
+        "genitive",
+        "kpt-nouns",
+        "local-cases"
+      ]
+    },
+    {
+      "id": "genitive",
+      "title": "Genitive -n (of, 's)",
+      "fi": "Genetiivi",
+      "emoji": "🔗",
+      "summary": "The genitive ends in -n and means 'of' or 's: Pekan auto (Pekka's car), Suomen pääkaupunki (the capital of Finland).",
+      "requires": [
+        "word-stems"
+      ],
+      "sections": [
+        {
+          "heading": "Formation",
+          "body": "Stem + **-n**. Watch the stem (see [[word-stems|Noun stems]]) and K-P-T gradation (the -n closes the syllable, so the weak grade appears).",
+          "table": {
+            "headers": [
+              "Basic form",
+              "Genitive",
+              "Rule"
+            ],
+            "rows": [
+              [
+                "talo",
+                "talon",
+                "+n"
+              ],
+              [
+                "äiti",
+                "äidin",
+                "t → d (KPT)"
+              ],
+              [
+                "Pekka",
+                "Pekan",
+                "kk → k (KPT)"
+              ],
+              [
+                "kauppa",
+                "kaupan",
+                "pp → p"
+              ],
+              [
+                "katu",
+                "kadun",
+                "t → d"
+              ],
+              [
+                "Helsinki",
+                "Helsingin",
+                "nk → ng"
+              ],
+              [
+                "kieli",
+                "kielen",
+                "old -i word: i → e"
+              ],
+              [
+                "vesi",
+                "veden",
+                "si → de"
+              ],
+              [
+                "huone",
+                "huoneen",
+                "-e word: +en"
+              ],
+              [
+                "nainen",
+                "naisen",
+                "-nen → -sen"
+              ],
+              [
+                "sisar",
+                "sisaren",
+                "consonant: +en"
+              ],
+              [
+                "minä / sinä / hän",
+                "minun / sinun / hänen",
+                "pronouns"
+              ],
+              [
+                "me / te / he",
+                "meidän / teidän / heidän",
+                "pronouns"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Uses",
+          "bullets": [
+            "**Possession**: *Liisan koira* — Liisa's dog; *minun äitini* — my mother.",
+            "**'of'**: *Suomen pääkaupunki* — the capital of Finland; *talon katto* — the roof of the house.",
+            "**Before postpositions**: *talon edessä* — in front of the house; *pöydän alla* — under the table (see [[postpositions|Postpositions]]).",
+            "**'Whose?'** = *Kenen?*: *Kenen kirja tämä on? — Se on Annan kirja.*",
+            "**Total object** (a whole, finished thing): *Ostan auton.* — I (will) buy a/the car (see [[object-case|Object]])."
+          ]
+        },
+        {
+          "heading": "Examples from the course",
+          "examples": [
+            {
+              "fi": "Minun isäni nimi on Juhani.",
+              "en": "My father's name is Juhani."
+            },
+            {
+              "fi": "Pekan sisko asuu Turussa.",
+              "en": "Pekka's sister lives in Turku."
+            },
+            {
+              "fi": "Kenen laukku tämä on? — Se on opettajan laukku.",
+              "en": "Whose bag is this? — It's the teacher's bag."
+            },
+            {
+              "fi": "Suomen lippu on sininen ja valkoinen.",
+              "en": "Finland's flag is blue and white."
+            }
+          ]
+        },
+        {
+          "heading": "Plural genitive (for recognition)",
+          "body": "The plural genitive usually ends in **-den/-tten** or **-jen/-ien**: *talojen* (of the houses), *naisten* (of the women), *lasten* (of the children). You'll meet it in set phrases: *lasten huone* (children's room)."
+        }
+      ],
+      "related": [
+        "possessive",
+        "postpositions",
+        "kpt-nouns"
+      ],
+      "practice": [
+        {
+          "label": "Genitive drill",
+          "to": "/practice/course/drill-genitive"
+        }
+      ]
+    },
+    {
+      "id": "possessive",
+      "title": "My, your, his — possessives",
+      "fi": "Omistusrakenne",
+      "emoji": "🏷️",
+      "summary": "minun kirja(ni), sinun kirja(si)… Possession is shown with a genitive pronoun and (in written Finnish) a possessive suffix.",
+      "requires": [
+        "genitive",
+        "pronouns"
+      ],
+      "sections": [
+        {
+          "heading": "The full pattern",
+          "table": {
+            "headers": [
+              "Owner",
+              "Written Finnish",
+              "Spoken Finnish",
+              "English"
+            ],
+            "rows": [
+              [
+                "minä",
+                "minun kirjani",
+                "mun kirja",
+                "my book"
+              ],
+              [
+                "sinä",
+                "sinun kirjasi",
+                "sun kirja",
+                "your book"
+              ],
+              [
+                "hän",
+                "hänen kirjansa",
+                "sen kirja",
+                "his/her book"
+              ],
+              [
+                "me",
+                "meidän kirjamme",
+                "meidän kirja",
+                "our book"
+              ],
+              [
+                "te",
+                "teidän kirjanne",
+                "teidän kirja",
+                "your (pl.) book"
+              ],
+              [
+                "he",
+                "heidän kirjansa",
+                "niiden kirja",
+                "their book"
+              ]
+            ]
+          },
+          "bullets": [
+            "The suffixes are **-ni, -si, -nsa/-nsä, -mme, -nne, -nsa/-nsä**.",
+            "With *minä, sinä, me, te* the pronoun can be dropped: *Kirjani on tässä.* (My book is here.)",
+            "Before a suffix the word takes its stem + weak/strong grade as in the genitive: *äiti → äitini*, *nimi → nimeni*, *huone → huoneeni*.",
+            "In everyday speech and in this course you can safely say **minun kirja** / **mun kirja**; recognise the suffixes when you read."
+          ]
+        },
+        {
+          "heading": "Examples",
+          "examples": [
+            {
+              "fi": "Mikä sinun nimesi on? — Minun nimeni on Gavin.",
+              "en": "What's your name? — My name is Gavin."
+            },
+            {
+              "fi": "Tämä on minun perheeni.",
+              "en": "This is my family."
+            },
+            {
+              "fi": "Hänen poikansa on opettaja.",
+              "en": "His/her son is a teacher."
+            },
+            {
+              "fi": "Meidän talomme on vanha.",
+              "en": "Our house is old."
+            }
+          ]
+        },
+        {
+          "heading": "Whose? — Kenen?",
+          "examples": [
+            {
+              "fi": "Kenen tämä puhelin on? — Se on minun.",
+              "en": "Whose phone is this? — It's mine."
+            },
+            {
+              "fi": "Onko tämä sinun? — Ei, se on Pekan.",
+              "en": "Is this yours? — No, it's Pekka's."
+            }
+          ]
+        }
+      ],
+      "related": [
+        "genitive",
+        "have-adessive"
+      ]
+    },
+    {
+      "id": "have-adessive",
+      "title": "To have: minulla on",
+      "fi": "Omistuslause: minulla on",
+      "emoji": "🤲",
+      "summary": "Finnish has no verb 'to have'. Instead: 'at me is' — Minulla on koira (I have a dog).",
+      "requires": [
+        "olla",
+        "pronouns"
+      ],
+      "sections": [
+        {
+          "heading": "The structure: owner in -lla/-llä + on + thing",
+          "table": {
+            "headers": [
+              "Person",
+              "I have…",
+              "I don't have…",
+              "Do you have…?"
+            ],
+            "rows": [
+              [
+                "minä",
+                "minulla on",
+                "minulla ei ole",
+                "onko minulla?"
+              ],
+              [
+                "sinä",
+                "sinulla on",
+                "sinulla ei ole",
+                "onko sinulla?"
+              ],
+              [
+                "hän",
+                "hänellä on",
+                "hänellä ei ole",
+                "onko hänellä?"
+              ],
+              [
+                "me",
+                "meillä on",
+                "meillä ei ole",
+                "onko meillä?"
+              ],
+              [
+                "te",
+                "teillä on",
+                "teillä ei ole",
+                "onko teillä?"
+              ],
+              [
+                "he",
+                "heillä on",
+                "heillä ei ole",
+                "onko heillä?"
+              ],
+              [
+                "Pekka",
+                "Pekalla on",
+                "Pekalla ei ole",
+                "onko Pekalla?"
+              ]
+            ]
+          },
+          "bullets": [
+            "The verb is **always on** (3rd person singular) — even with *meillä* or *heillä*, even with plural things.",
+            "The owner goes into the **adessive** (-lla/-llä): *äiti → äidillä*, *Anna → Annalla*, *opettaja → opettajalla*.",
+            "Negative: **ei ole** + thing in the **partitive**: *Minulla ei ole autoa.*"
+          ]
+        },
+        {
+          "heading": "Examples",
+          "examples": [
+            {
+              "fi": "Minulla on kaksi lasta.",
+              "en": "I have two children."
+            },
+            {
+              "fi": "Onko sinulla sisaruksia? — On, minulla on yksi veli.",
+              "en": "Do you have siblings? — Yes, I have one brother."
+            },
+            {
+              "fi": "Meillä ei ole koiraa, mutta meillä on kissa.",
+              "en": "We don't have a dog, but we have a cat."
+            },
+            {
+              "fi": "Hänellä on siniset silmät ja pitkä tukka.",
+              "en": "He/she has blue eyes and long hair."
+            },
+            {
+              "fi": "Minulla on nälkä / jano / kylmä / kuuma.",
+              "en": "I'm hungry / thirsty / cold / hot."
+            },
+            {
+              "fi": "Minulla on flunssa. Minulla on päänsärky.",
+              "en": "I have the flu. I have a headache."
+            },
+            {
+              "fi": "Minulla on kiire.",
+              "en": "I'm in a hurry."
+            }
+          ]
+        },
+        {
+          "heading": "Answering",
+          "examples": [
+            {
+              "fi": "Onko sinulla lemmikkiä? — On. / Ei ole.",
+              "en": "Do you have a pet? — Yes. / No."
+            }
+          ],
+          "tip": "Questions with 'onko … ?' often use the partitive for things you'd count: *Onko sinulla lapsia?* (any children?)."
+        }
+      ],
+      "related": [
+        "outer-local-cases",
+        "partitive",
+        "negation"
+      ],
+      "practice": [
+        {
+          "label": "Minulla on drill",
+          "to": "/practice/course/drill-have"
+        }
+      ]
+    },
+    {
+      "id": "partitive",
+      "title": "Partitive singular",
+      "fi": "Partitiivi",
+      "emoji": "🍰",
+      "summary": "The partitive (-a/-ä, -ta/-tä, -tta/-ttä) is the 'some / part of / not whole' case — used after numbers, in negative sentences, for uncountables and with many verbs.",
+      "requires": [
+        "word-stems",
+        "vowel-harmony"
+      ],
+      "sections": [
+        {
+          "heading": "Endings — the rules from the course",
+          "table": {
+            "headers": [
+              "Word ends in",
+              "Ending",
+              "Examples"
+            ],
+            "rows": [
+              [
+                "one short vowel (talo, kissa, kahvi, omena, leipä)",
+                "-a / -ä",
+                "taloa, kissaa, kahvia, omenaa, leipää"
+              ],
+              [
+                "long vowel or diphthong (maa, tee, puu, tie)",
+                "-ta / -tä",
+                "maata, teetä, puuta, tietä"
+              ],
+              [
+                "consonant (-n, -s, -l, -r, -t)",
+                "-ta / -tä",
+                "puhelinta, kysymystä, sisarta, lyhyttä"
+              ],
+              [
+                "-nen",
+                "-sta / -stä",
+                "naista, suomalaista, punaista"
+              ],
+              [
+                "-e",
+                "-tta / -ttä",
+                "huonetta, perhettä, kappaletta"
+              ],
+              [
+                "old -i words (kieli, järvi, nimi, vesi)",
+                "-ta/-tä after l, n, r, s; otherwise -ea/-eä",
+                "kieltä, lunta, vettä · järveä, nimeä, ovea"
+              ],
+              [
+                "-as / -is / -us",
+                "-ta / -tä",
+                "rikasta, kallista, opasta, kaunista"
+              ]
+            ]
+          },
+          "note": "Partitive never takes the weak grade: *kauppa → kauppaa*, *äiti → äitiä* (strong grade, open syllable)."
+        },
+        {
+          "heading": "When to use it",
+          "bullets": [
+            "**After numbers (2+)** and quantity words: *kaksi kahvia*, *paljon lunta*, *vähän rahaa*, *kilo omenoita*.",
+            "**Negative sentences**: *Minulla ei ole autoa.* *En juo kahvia.*",
+            "**Uncountable things** (mass nouns) — some, an amount: *Juon vettä.* *Ostan maitoa ja leipää.*",
+            "**Ongoing / unfinished action** and verbs that always take it: *rakastaa, odottaa, auttaa, ajatella, katsoa (TV), kuunnella, opiskella, harrastaa*: *Rakastan sinua. Odotan bussia. Opiskelen suomea.*",
+            "**Languages you speak**: *Puhun suomea.*",
+            "**Questions about having**: *Onko sinulla lapsia?*",
+            "**Describing uncountable subjects**: *Kahvi on kuumaa.* (the coffee is hot — material/mass)",
+            "**Greetings and wishes**: *Hyvää huomenta! Hyvää joulua!*"
+          ]
+        },
+        {
+          "heading": "Examples from the café exercise",
+          "examples": [
+            {
+              "fi": "Saanko kupin kahvia ja palan kakkua?",
+              "en": "Can I have a cup of coffee and a piece of cake?"
+            },
+            {
+              "fi": "Haluaisin teetä ja kaksi pullaa.",
+              "en": "I'd like (some) tea and two buns."
+            },
+            {
+              "fi": "Onko teillä gluteenitonta leipää?",
+              "en": "Do you have gluten-free bread?"
+            },
+            {
+              "fi": "Ei kiitos, en juo maitoa.",
+              "en": "No thanks, I don't drink milk."
+            }
+          ]
+        }
+      ],
+      "related": [
+        "numbers",
+        "negation",
+        "partitive-plural",
+        "object-case"
+      ],
+      "practice": [
+        {
+          "label": "Partitive drill",
+          "to": "/practice/course/drill-partitive"
+        }
+      ]
+    },
+    {
+      "id": "plural",
+      "title": "Plural: -t",
+      "fi": "Monikko",
+      "emoji": "👥",
+      "summary": "The basic plural is stem + -t: talo → talot, kauppa → kaupat, huone → huoneet.",
+      "requires": [
+        "word-stems",
+        "kpt-nouns"
+      ],
+      "sections": [
+        {
+          "heading": "Nominative plural",
+          "body": "Take the genitive singular and replace **-n with -t**. So the stem and weak grade are the same as in the genitive.",
+          "table": {
+            "headers": [
+              "Singular",
+              "Genitive sg.",
+              "Plural"
+            ],
+            "rows": [
+              [
+                "talo",
+                "talon",
+                "talot"
+              ],
+              [
+                "kauppa",
+                "kaupan",
+                "kaupat"
+              ],
+              [
+                "katu",
+                "kadun",
+                "kadut"
+              ],
+              [
+                "kenkä",
+                "kengän",
+                "kengät"
+              ],
+              [
+                "huone",
+                "huoneen",
+                "huoneet"
+              ],
+              [
+                "kieli",
+                "kielen",
+                "kielet"
+              ],
+              [
+                "nainen",
+                "naisen",
+                "naiset"
+              ],
+              [
+                "lapsi",
+                "lapsen",
+                "lapset"
+              ],
+              [
+                "silmä",
+                "silmän",
+                "silmät"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "When to use the -t plural",
+          "bullets": [
+            "Specific, whole groups as subject: *Lapset leikkivät pihalla.* — The children are playing in the yard.",
+            "Things that come in pairs or sets are often plural in Finnish: *housut* (trousers), *farkut* (jeans), *sakset* (scissors), *silmälasit* (glasses), *häät* (wedding), *juhlat* (party), *synttärit* (birthday party).",
+            "Adjectives agree: *siniset silmät* (blue eyes), *mustat kengät* (black shoes).",
+            "After numbers you still use the **singular partitive**: *kaksi taloa* (not ✗taloja)."
+          ]
+        },
+        {
+          "heading": "Plural in other cases (for recognition)",
+          "body": "Inside the plural, the marker is **-i-** (or -j- between vowels): *taloissa* (in the houses), *kaupoissa*, *kaduilla*, *huoneissa*. A short vowel before -i- often changes: a → o/–, ä → –, e → –: *kauppa → kaupoissa*, *kissa → kissoilla*, *päivä → päivinä*."
+        }
+      ],
+      "related": [
+        "partitive-plural",
+        "adjectives",
+        "kpt-nouns"
+      ],
+      "practice": [
+        {
+          "label": "Plural drill",
+          "to": "/practice/course/drill-plural"
+        }
+      ]
+    },
+    {
+      "id": "partitive-plural",
+      "title": "Partitive plural",
+      "fi": "Monikon partitiivi",
+      "emoji": "🍎",
+      "summary": "Some / many of a countable thing: omenoita (apples), kirjoja (books), lapsia (children).",
+      "requires": [
+        "partitive",
+        "plural"
+      ],
+      "sections": [
+        {
+          "heading": "Endings",
+          "table": {
+            "headers": [
+              "Word",
+              "Rule",
+              "Plural partitive"
+            ],
+            "rows": [
+              [
+                "talo, katu, pöllö",
+                "o/u/y/ö + ja/jä",
+                "taloja, katuja, pöllöjä"
+              ],
+              [
+                "kahvi, pankki, bussi",
+                "i → e + ja",
+                "kahveja, pankkeja, busseja"
+              ],
+              [
+                "kissa, kukka, kauppa (o/u in 1st syllable)",
+                "a → o + ja",
+                "kissoja, kukkia*, kauppoja"
+              ],
+              [
+                "koira, päivä, leipä, kenkä",
+                "a/ä drops → i + a/ä",
+                "koiria, päiviä, leipiä, kenkiä"
+              ],
+              [
+                "huone, perhe",
+                "e + ita/itä",
+                "huoneita, perheitä"
+              ],
+              [
+                "nainen, suomalainen",
+                "-nen → sia/siä",
+                "naisia, suomalaisia"
+              ],
+              [
+                "maa, puu, tee",
+                "long vowel shortens + ita/itä",
+                "maita, puita, teitä"
+              ],
+              [
+                "omena, mansikka, peruna (3+ syllables)",
+                "-oita / -öitä (or -ia)",
+                "omenoita, mansikoita, perunoita"
+              ],
+              [
+                "lapsi, kieli (old -i)",
+                "i → ia/iä",
+                "lapsia, kieliä"
+              ]
+            ]
+          },
+          "note": "*kukka → kukkia is an exception to the o-rule. The partitive plural is one of the trickiest forms — learn the common ones as vocabulary: lapsia, omenoita, perunoita, mansikoita, kirjoja, kukkia, ystäviä, kenkiä, vaatteita, huoneita, naisia."
+        },
+        {
+          "heading": "When",
+          "bullets": [
+            "Indefinite amount of countable things: *Ostan omenoita.* — I'm buying (some) apples.",
+            "Negative and questions with plural meaning: *Onko sinulla lapsia? — Ei, minulla ei ole lapsia.*",
+            "After *paljon* (a lot) and *vähän* (a little): *Kaupassa on paljon ihmisiä.* (But *monta* + singular partitive: *monta ihmistä*.)",
+            "Plural 'are': *He ovat suomalaisia. Kengät ovat kalliita.*"
+          ]
+        }
+      ],
+      "related": [
+        "partitive",
+        "plural"
+      ]
+    },
+    {
+      "id": "adjectives",
+      "title": "Adjectives, colours & describing people",
+      "fi": "Adjektiivit ja kuvailu",
+      "emoji": "🎨",
+      "summary": "Adjectives come before the noun and take the same case ending: iso talo → isossa talossa. Millainen hän on? describes people.",
+      "requires": [
+        "word-stems"
+      ],
+      "sections": [
+        {
+          "heading": "Agreement",
+          "body": "An adjective in front of a noun takes **the same case and number** as the noun.",
+          "table": {
+            "headers": [
+              "Case",
+              "Example",
+              "English"
+            ],
+            "rows": [
+              [
+                "nominative",
+                "iso talo",
+                "a big house"
+              ],
+              [
+                "genitive",
+                "ison talon edessä",
+                "in front of the big house"
+              ],
+              [
+                "partitive",
+                "isoa taloa",
+                "(some) big house"
+              ],
+              [
+                "inessive",
+                "isossa talossa",
+                "in a big house"
+              ],
+              [
+                "plural",
+                "isot talot",
+                "big houses"
+              ],
+              [
+                "predicative",
+                "Talo on iso.",
+                "The house is big. (no agreement needed after 'on')"
+              ],
+              [
+                "predicative plural",
+                "Talot ovat isoja.",
+                "The houses are big. (partitive plural)"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Describing people — Millainen hän on?",
+          "table": {
+            "headers": [
+              "Question",
+              "Answer"
+            ],
+            "rows": [
+              [
+                "Millainen hän on?",
+                "Hän on pitkä ja hoikka. Hän on iloinen ja ystävällinen."
+              ],
+              [
+                "Minkä näköinen hän on?",
+                "Hänellä on lyhyt, vaalea tukka ja siniset silmät."
+              ],
+              [
+                "Kuinka vanha hän on?",
+                "Hän on noin neljäkymmentä vuotta vanha."
+              ],
+              [
+                "Mitä hänellä on päällä?",
+                "Hänellä on päällä punainen takki ja mustat housut."
+              ]
+            ]
+          },
+          "tip": "Appearance with 'have': *hänellä on* + plural nominative: *siniset silmät*, *pitkät hiukset*. Height and build with 'is': *hän on pitkä / lyhyt / hoikka / tukeva*."
+        },
+        {
+          "heading": "Colours — Minkä värinen?",
+          "table": {
+            "headers": [
+              "Colour",
+              "",
+              "Colour",
+              ""
+            ],
+            "rows": [
+              [
+                "punainen",
+                "red",
+                "musta",
+                "black"
+              ],
+              [
+                "sininen",
+                "blue",
+                "valkoinen",
+                "white"
+              ],
+              [
+                "keltainen",
+                "yellow",
+                "harmaa",
+                "grey"
+              ],
+              [
+                "vihreä",
+                "green",
+                "ruskea",
+                "brown"
+              ],
+              [
+                "oranssi",
+                "orange",
+                "vaaleanpunainen",
+                "pink"
+              ],
+              [
+                "violetti / lila",
+                "purple",
+                "beige",
+                "beige"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "fi": "Minkä värinen sinun autosi on? — Se on punainen.",
+              "en": "What colour is your car? — It's red."
+            },
+            {
+              "fi": "vaaleansininen / tummansininen",
+              "en": "light blue / dark blue (vaalea- light, tumma- dark)"
+            }
+          ],
+          "note": "Colours ending in -nen inflect like *nainen*: *punaisessa talossa*, *punaista*, *punaiset*."
+        },
+        {
+          "heading": "Opposites",
+          "table": {
+            "headers": [
+              "",
+              "",
+              "",
+              ""
+            ],
+            "rows": [
+              [
+                "iso — big",
+                "pieni — small",
+                "pitkä — tall/long",
+                "lyhyt — short"
+              ],
+              [
+                "uusi — new",
+                "vanha — old",
+                "nuori — young",
+                "vanha — old"
+              ],
+              [
+                "hyvä — good",
+                "huono — bad",
+                "kaunis — beautiful",
+                "ruma — ugly"
+              ],
+              [
+                "kallis — expensive",
+                "halpa — cheap",
+                "kuuma — hot",
+                "kylmä — cold"
+              ],
+              [
+                "iloinen — happy",
+                "surullinen — sad",
+                "helppo — easy",
+                "vaikea — difficult"
+              ]
+            ]
+          }
+        }
+      ],
+      "related": [
+        "plural",
+        "partitive"
+      ],
+      "practice": [
+        {
+          "label": "Adjectives flashcards",
+          "to": "/practice/flashcards?category=adjectives"
+        },
+        {
+          "label": "Colours flashcards",
+          "to": "/practice/flashcards?category=colours"
+        }
+      ]
+    },
+    {
+      "id": "kpt-nouns",
+      "title": "Consonant gradation in nouns (K-P-T)",
+      "fi": "Astevaihtelu: substantiivit",
+      "emoji": "🔀",
+      "summary": "k, p and t change when a syllable closes: kauppa → kaupassa, katu → kadulla, Helsinki → Helsingissä.",
+      "requires": [
+        "long-short",
+        "word-stems"
+      ],
+      "sections": [
+        {
+          "heading": "Strong and weak grade",
+          "body": "The consonants **k, p, t** in the last syllable of a word have a *strong* and a *weak* form. Which one you use depends on whether the **syllable is open or closed** after the ending is added.",
+          "bullets": [
+            "Open syllable (ends in a vowel) → **strong**: *kaup-pa*, *ka-tu*.",
+            "Closed syllable (ends in a consonant, e.g. -n, -t, -ssa, -lla) → **weak**: *kau-pan*, *ka-dun*, *kau-pas-sa*, *ka-dul-la*.",
+            "For basic-form words that end in a vowel, the basic form is strong and most endings make it weak."
+          ]
+        },
+        {
+          "heading": "The K-P-T table",
+          "table": {
+            "headers": [
+              "Strong",
+              "Weak",
+              "Example (strong → weak)"
+            ],
+            "rows": [
+              [
+                "kk",
+                "k",
+                "pankki → pankissa, kirkko → kirkon"
+              ],
+              [
+                "pp",
+                "p",
+                "kauppa → kaupassa, kaappi → kaapissa"
+              ],
+              [
+                "tt",
+                "t",
+                "tyttö → tytön, matto → matolla"
+              ],
+              [
+                "k",
+                "– (disappears)",
+                "jalka → jalan, reikä → reiän"
+              ],
+              [
+                "k (uku/yky)",
+                "v",
+                "puku → puvun, kyky → kyvyn"
+              ],
+              [
+                "p",
+                "v",
+                "leipä → leivän, tupa → tuvassa"
+              ],
+              [
+                "t",
+                "d",
+                "katu → kadulla, äiti → äidin, pöytä → pöydällä"
+              ],
+              [
+                "nk",
+                "ng",
+                "Helsinki → Helsingissä, kenkä → kengät"
+              ],
+              [
+                "mp",
+                "mm",
+                "lampi → lammella, kampa → kamman"
+              ],
+              [
+                "nt",
+                "nn",
+                "ranta → rannalla, Englanti → Englannissa"
+              ],
+              [
+                "lt",
+                "ll",
+                "silta → sillalla, kulta → kullan"
+              ],
+              [
+                "rt",
+                "rr",
+                "parta → parran, kerta → kerran"
+              ],
+              [
+                "lk",
+                "lj / l",
+                "jälki → jäljen, kylki → kyljen, (olki → oljen)"
+              ],
+              [
+                "rk",
+                "rj / r",
+                "järki → järjen, (Turku → Turun: k → –)"
+              ],
+              [
+                "ht",
+                "hd",
+                "lahti → lahden, lehti → lehden"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Which endings make it weak?",
+          "table": {
+            "headers": [
+              "Ending",
+              "Grade",
+              "kauppa",
+              "katu",
+              "pöytä"
+            ],
+            "rows": [
+              [
+                "nominative",
+                "strong",
+                "kauppa",
+                "katu",
+                "pöytä"
+              ],
+              [
+                "genitive -n",
+                "weak",
+                "kaupan",
+                "kadun",
+                "pöydän"
+              ],
+              [
+                "plural -t",
+                "weak",
+                "kaupat",
+                "kadut",
+                "pöydät"
+              ],
+              [
+                "inessive -ssa",
+                "weak",
+                "kaupassa",
+                "kadussa",
+                "pöydässä"
+              ],
+              [
+                "elative -sta",
+                "weak",
+                "kaupasta",
+                "kadusta",
+                "pöydästä"
+              ],
+              [
+                "adessive -lla",
+                "weak",
+                "kaupalla",
+                "kadulla",
+                "pöydällä"
+              ],
+              [
+                "ablative -lta",
+                "weak",
+                "kaupalta",
+                "kadulta",
+                "pöydältä"
+              ],
+              [
+                "allative -lle",
+                "weak",
+                "kaupalle",
+                "kadulle",
+                "pöydälle"
+              ],
+              [
+                "partitive -a",
+                "strong",
+                "kauppaa",
+                "katua",
+                "pöytää"
+              ],
+              [
+                "illative -Vn",
+                "strong",
+                "kauppaan",
+                "katuun",
+                "pöytään"
+              ],
+              [
+                "essive -na",
+                "strong",
+                "kauppana",
+                "katuna",
+                "pöytänä"
+              ]
+            ]
+          },
+          "tip": "Memory hook: the **partitive, illative and essive** keep the strong grade (their ending starts a new open syllable or lengthens the vowel); almost everything else is weak."
+        },
+        {
+          "heading": "Reverse gradation: -e words",
+          "body": "Words ending in **-e** (and many in -as, -is, -in) work the other way round: the basic form is **weak** and the inflected forms are **strong**: **sade → sateen** (rain), **koe → kokeen** (test), **opas → oppaan** (guide), **rikas → rikkaan** (rich), **hammas → hampaan** (tooth), **lammas → lampaan** (sheep), **soitin → soittimen** (instrument), **keitin → keittimen** (kettle).",
+          "note": "The same reverse pattern happens in verb types 3 and 4: see [[kpt-verbs-3-4|K-P-T in verb types 3 & 4]]."
+        },
+        {
+          "heading": "Farm animals and food from the course",
+          "examples": [
+            {
+              "fi": "lehmä → lehmät · lammas → lampaat · vuohi → vuohet",
+              "en": "cow → cows · sheep → sheep (reverse: mm → mp) · goat → goats"
+            },
+            {
+              "fi": "kukko → kukon · porsas → porsaan · pukki → pukin",
+              "en": "rooster · piglet · billy goat"
+            },
+            {
+              "fi": "leipä → leivän · peruna → perunan · liha → lihan",
+              "en": "bread · potato · meat"
+            },
+            {
+              "fi": "Ostan kaupasta leipää ja tomaatteja.",
+              "en": "I buy bread and tomatoes from the shop."
+            }
+          ]
+        }
+      ],
+      "related": [
+        "kpt-verbs",
+        "kpt-verbs-3-4",
+        "local-cases"
+      ],
+      "practice": [
+        {
+          "label": "K-P-T nouns drill",
+          "to": "/practice/course/drill-kpt-nouns"
+        }
+      ]
+    },
+    {
+      "id": "object-case",
+      "title": "The object: genitive-n, partitive or nominative",
+      "fi": "Objekti",
+      "emoji": "🎯",
+      "summary": "A whole, finished object takes -n (Ostan auton); a partial, ongoing or negative one takes the partitive (Ostan maitoa, En osta autoa).",
+      "requires": [
+        "genitive",
+        "partitive"
+      ],
+      "sections": [
+        {
+          "heading": "Three object forms",
+          "table": {
+            "headers": [
+              "When",
+              "Form",
+              "Example"
+            ],
+            "rows": [
+              [
+                "Negative sentence",
+                "partitive",
+                "En syö lihaa. — I don't eat meat."
+              ],
+              [
+                "Uncountable / some",
+                "partitive",
+                "Juon kahvia. — I drink coffee."
+              ],
+              [
+                "Ongoing action / partitive verbs",
+                "partitive",
+                "Luen kirjaa. — I'm reading a book (not finished)."
+              ],
+              [
+                "Whole, countable, completed",
+                "-n (genitive form)",
+                "Luen kirjan. — I'll read the (whole) book."
+              ],
+              [
+                "Imperative / passive, whole object",
+                "basic form",
+                "Osta leipä! — Buy a loaf! · Syö omena! — Eat an apple!"
+              ],
+              [
+                "Plural, whole",
+                "-t",
+                "Ostan liput. — I'll buy the tickets."
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Verbs that always take the partitive",
+          "body": "Some verbs express ongoing feelings or activities and always take a partitive object: **rakastaa** (love), **odottaa** (wait for), **auttaa** (help), **ajatella** (think of), **harrastaa** (have as a hobby), **opiskella** (study), **soittaa** (play an instrument), **kuunnella** (listen to), **katsoa** (watch).",
+          "examples": [
+            {
+              "fi": "Odotan bussia.",
+              "en": "I'm waiting for the bus."
+            },
+            {
+              "fi": "Harrastan joogaa ja hiihtoa.",
+              "en": "My hobbies are yoga and skiing."
+            },
+            {
+              "fi": "Soitan kitaraa.",
+              "en": "I play the guitar."
+            }
+          ]
+        }
+      ],
+      "related": [
+        "partitive",
+        "imperative"
+      ]
+    }
+  ]
+}

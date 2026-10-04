@@ -1,0 +1,551 @@
+{
+  "source": "term-2025-autumn/Lesson 4 (22.9.2025)/GENETIIVIÄ TEKSTI.docx",
+  "md5": "3535dce8f08a00cfddc00ff792bd6076",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 4,
+    "date": "2025-09-22"
+  },
+  "kind": "dialogue",
+  "title": {
+    "fi": "GENETIIVIÄ",
+    "en": "Genitive – dialogues"
+  },
+  "topics": [
+    "genitive",
+    "nationalities",
+    "question-words"
+  ],
+  "summary": "Two dialogues practising the genitive: Anna and Juan introduce themselves (names, nationality, professions), and customers ask a shop assistant about bike prices (kenen vuoro, tämän pyörän hinta).",
+  "transcript": "GENETIIVIÄ\nANNA: MOI! MIKÄ SINUN NIMI ON?\nJUAN: MINUN NIMI ON JUAN. MIKÄ SINUN NIMI ON?\nANNA: - MINÄ OLEN ANNA.\nJUAN: - MIKÄ SINUN SUKUNIMI ON?\nANNA: - HEINONEN. ENTÄ SINUN? (ENTÄ= HOW ABOUT)\nJUAN: - GARCIA.\nANNA: - OLETKO SINÄ PORTUGALILAINEN?\nJUAN: - EN. MINÄ OLEN MEKSIKOLAINEN.\nANNA: - ONKO TUO SINUN TYTTÖYSTÄVÄ? (THAT OVER THERE)\nJUAN: - JOO. HÄN ON SUOMALAINEN.\nANNA: - MIKÄ HÄNEN NIMI ON?\nJUAN: - TIINA. HÄN ON NÄYTTELIJÄ. MIKÄ SINUN AMMATTI ON? (ACTRESS, OCCUPATION/ PROFESSION)\nANNA: - MINÄ OLEN MYYJÄ. (SHOP ASSISTANT)\nJUAN: - MINÄ OLEN ENSIHOITAJA. OLI KIVA TAVATA. (PARAMEDIC, OLI= (IT) WAS)\nANNA: - JOO. NÄHDÄÄN MYÖHEMMIN! MOIKKA! (LATER)\nMYYJÄ: - JAHA JA KENEN VUORO? (MYYJÄ= SHOP ASSISTANT, JAHA= ALRIGHT, VUORO= TURN)\nSIMO: - MINUN! MIKÄ TÄMÄN PYÖRÄN HINTA ON? (TÄMÄ= THIS, PYÖRÄ= BIKE, HINTA= PRICE)\nMYYJÄ: - SEN HINTA ON AIKA KORKEA. 450 EUROA. (AIKA= RATHER, KORKEA= HIGH)\nSIMO: - JA MIKÄ TUON PYÖRÄN HINTA ON?\nMYYJÄ: - SE ON VÄHÄN HALVEMPI. SE ON 385 EUROA. (VÄHÄN= A LITTLE BIT, HALVEMPI= CHEAPER)\nSIMO: - SELVÄ. KIITOS.\nMYYJÄ: - OLE HYVÄ. KENEN VUORO? TEIDÄN?\nRIITTA JA PASI: - JOO, MEIDÄN VUORO. ONKO TÄMÄ PYÖRÄ SUOMALAINEN?\nMYYJÄ: - HETKINEN. EI, TÄMÄN PYÖRÄN VALMISTAJA ON ”HAAGEN”. TÄMÄ ON BELGIALAINEN PYÖRÄ.\n(HETKINEN= ONE MOMENT, VALMISTAJA= MANUFACTURER)\nRIITTA JA PASI: - OKEI. MEIDÄN VANHA PYÖRÄ ON SUOMALAINEN JA SE ON TOSI HYVÄ. (REALLY GOOD)\nMYYJÄ: - TUO PYÖRÄ ON ”VIIKINKI”. SE ON SUOMALAINEN. SE ON VÄHÄN KALLIIMPI, MUTTA\nKEVYT PYÖRÄ. SE ON ALENNUKSESSA JA MAKSAA NYT VAIN 525 EUROA.\n(KALLIIMPI= MORE EXPENSIVE, KEVYT= LIGHT, ALENNUKSESSA= ON SALE, MAKSAA= COSTS, NYT= NOW)",
+  "words": [
+    {
+      "fi": "genetiivi",
+      "en": "genitive",
+      "pos": "noun",
+      "form_seen": "genetiiviä",
+      "theme": "classroom"
+    },
+    {
+      "fi": "moi",
+      "en": "hi",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "mikä",
+      "en": "what",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "minun",
+      "en": "my",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "sinun",
+      "en": "your",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "hänen",
+      "en": "his, her",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "meidän",
+      "en": "our",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "teidän",
+      "en": "your (pl)",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "nimi",
+      "en": "name",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "sukunimi",
+      "en": "surname",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "entä",
+      "en": "how about",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "portugalilainen",
+      "en": "Portuguese",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "meksikolainen",
+      "en": "Mexican",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "suomalainen",
+      "en": "Finnish",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "belgialainen",
+      "en": "Belgian",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "en",
+      "en": "I don't; no (negative verb, 1st sg)",
+      "pos": "verb",
+      "theme": "little-words"
+    },
+    {
+      "fi": "tuo",
+      "en": "that (over there)",
+      "pos": "pron",
+      "form_seen": "tuon",
+      "theme": "little-words"
+    },
+    {
+      "fi": "tyttöystävä",
+      "en": "girlfriend",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "joo",
+      "en": "yeah",
+      "pos": "interj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "näyttelijä",
+      "en": "actor, actress",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "ammatti",
+      "en": "occupation, profession",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "myyjä",
+      "en": "shop assistant",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "ensihoitaja",
+      "en": "paramedic",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "oli",
+      "theme": "common-verbs",
+      "note": "oli = (it) was"
+    },
+    {
+      "fi": "kiva",
+      "en": "nice",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "tavata",
+      "en": "to meet",
+      "pos": "verb",
+      "verb_type": 4,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "oli kiva tavata",
+      "en": "nice to have met (you)",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "nähdään",
+      "en": "see you",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "myöhemmin",
+      "en": "later",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "moikka",
+      "en": "bye",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "jaha",
+      "en": "alright, I see",
+      "pos": "interj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kenen",
+      "en": "whose",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "vuoro",
+      "en": "turn",
+      "pos": "noun",
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "tämä",
+      "en": "this",
+      "pos": "pron",
+      "form_seen": "tämän",
+      "theme": "little-words"
+    },
+    {
+      "fi": "pyörä",
+      "en": "bike, bicycle",
+      "pos": "noun",
+      "form_seen": "pyörän",
+      "theme": "transport"
+    },
+    {
+      "fi": "hinta",
+      "en": "price",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "se",
+      "en": "it",
+      "pos": "pron",
+      "form_seen": "sen",
+      "theme": "little-words"
+    },
+    {
+      "fi": "aika",
+      "en": "rather, quite",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "korkea",
+      "en": "high",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "euro",
+      "en": "euro",
+      "pos": "noun",
+      "form_seen": "euroa",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "vähän",
+      "en": "a little bit",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "halpa",
+      "en": "cheap",
+      "pos": "adj",
+      "form_seen": "halvempi",
+      "theme": "shopping-money",
+      "note": "halvempi = cheaper; p → v"
+    },
+    {
+      "fi": "selvä",
+      "en": "clear; OK, got it",
+      "pos": "interj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kiitos",
+      "en": "thank you",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "ole hyvä",
+      "en": "you're welcome; here you are",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "hetkinen",
+      "en": "one moment",
+      "pos": "interj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "valmistaja",
+      "en": "manufacturer",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "okei",
+      "en": "okay",
+      "pos": "interj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "vanha",
+      "en": "old",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "tosi",
+      "en": "really",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "hyvä",
+      "en": "good",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "kallis",
+      "en": "expensive",
+      "pos": "adj",
+      "form_seen": "kalliimpi",
+      "theme": "shopping-money",
+      "note": "kalliimpi = more expensive"
+    },
+    {
+      "fi": "mutta",
+      "en": "but",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kevyt",
+      "en": "light (weight)",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "alennuksessa",
+      "en": "on sale",
+      "pos": "adv",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "maksaa",
+      "en": "to cost; to pay",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "nyt",
+      "en": "now",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "vain",
+      "en": "only",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "ja",
+      "en": "and",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "viikinki",
+      "en": "Viking",
+      "pos": "noun",
+      "theme": "other"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Mikä sinun nimi on?",
+        "en": "What's your name?"
+      },
+      "kind": "dialogue",
+      "lines": [
+        {
+          "speaker": "Anna",
+          "fi": "Moi! Mikä sinun nimi on?",
+          "en": "Hi! What's your name?"
+        },
+        {
+          "speaker": "Juan",
+          "fi": "Minun nimi on Juan. Mikä sinun nimi on?",
+          "en": "My name is Juan. What's your name?"
+        },
+        {
+          "speaker": "Anna",
+          "fi": "Minä olen Anna.",
+          "en": "I'm Anna."
+        },
+        {
+          "speaker": "Juan",
+          "fi": "Mikä sinun sukunimi on?",
+          "en": "What's your surname?"
+        },
+        {
+          "speaker": "Anna",
+          "fi": "Heinonen. Entä sinun?",
+          "en": "Heinonen. How about yours?"
+        },
+        {
+          "speaker": "Juan",
+          "fi": "Garcia.",
+          "en": "Garcia."
+        },
+        {
+          "speaker": "Anna",
+          "fi": "Oletko sinä portugalilainen?",
+          "en": "Are you Portuguese?"
+        },
+        {
+          "speaker": "Juan",
+          "fi": "En. Minä olen meksikolainen.",
+          "en": "No. I'm Mexican."
+        },
+        {
+          "speaker": "Anna",
+          "fi": "Onko tuo sinun tyttöystävä?",
+          "en": "Is that your girlfriend?"
+        },
+        {
+          "speaker": "Juan",
+          "fi": "Joo. Hän on suomalainen.",
+          "en": "Yeah. She's Finnish."
+        },
+        {
+          "speaker": "Anna",
+          "fi": "Mikä hänen nimi on?",
+          "en": "What's her name?"
+        },
+        {
+          "speaker": "Juan",
+          "fi": "Tiina. Hän on näyttelijä. Mikä sinun ammatti on?",
+          "en": "Tiina. She's an actress. What's your profession?"
+        },
+        {
+          "speaker": "Anna",
+          "fi": "Minä olen myyjä.",
+          "en": "I'm a shop assistant."
+        },
+        {
+          "speaker": "Juan",
+          "fi": "Minä olen ensihoitaja. Oli kiva tavata.",
+          "en": "I'm a paramedic. It was nice to meet you."
+        },
+        {
+          "speaker": "Anna",
+          "fi": "Joo. Nähdään myöhemmin! Moikka!",
+          "en": "Yeah. See you later! Bye!"
+        }
+      ]
+    },
+    {
+      "title": {
+        "fi": "Pyöräkaupassa: kenen vuoro?",
+        "en": "At the bike shop: whose turn?"
+      },
+      "kind": "dialogue",
+      "lines": [
+        {
+          "speaker": "Myyjä",
+          "fi": "Jaha, ja kenen vuoro?",
+          "en": "Alright, and whose turn is it?"
+        },
+        {
+          "speaker": "Simo",
+          "fi": "Minun! Mikä tämän pyörän hinta on?",
+          "en": "Mine! What's the price of this bike?"
+        },
+        {
+          "speaker": "Myyjä",
+          "fi": "Sen hinta on aika korkea. 450 euroa.",
+          "en": "Its price is rather high. 450 euros."
+        },
+        {
+          "speaker": "Simo",
+          "fi": "Ja mikä tuon pyörän hinta on?",
+          "en": "And what's the price of that bike?"
+        },
+        {
+          "speaker": "Myyjä",
+          "fi": "Se on vähän halvempi. Se on 385 euroa.",
+          "en": "It's a bit cheaper. It's 385 euros."
+        },
+        {
+          "speaker": "Simo",
+          "fi": "Selvä. Kiitos.",
+          "en": "OK. Thanks."
+        },
+        {
+          "speaker": "Myyjä",
+          "fi": "Ole hyvä. Kenen vuoro? Teidän?",
+          "en": "You're welcome. Whose turn? Yours?"
+        },
+        {
+          "speaker": "Riitta ja Pasi",
+          "fi": "Joo, meidän vuoro. Onko tämä pyörä suomalainen?",
+          "en": "Yes, our turn. Is this bike Finnish?"
+        },
+        {
+          "speaker": "Myyjä",
+          "fi": "Hetkinen. Ei, tämän pyörän valmistaja on \"Haagen\". Tämä on belgialainen pyörä.",
+          "en": "One moment. No, this bike's manufacturer is \"Haagen\". This is a Belgian bike."
+        },
+        {
+          "speaker": "Riitta ja Pasi",
+          "fi": "Okei. Meidän vanha pyörä on suomalainen ja se on tosi hyvä.",
+          "en": "Okay. Our old bike is Finnish and it's really good."
+        },
+        {
+          "speaker": "Myyjä",
+          "fi": "Tuo pyörä on \"Viikinki\". Se on suomalainen. Se on vähän kalliimpi, mutta kevyt pyörä. Se on alennuksessa ja maksaa nyt vain 525 euroa.",
+          "en": "That bike is a \"Viikinki\". It's Finnish. It's a bit more expensive, but a light bike. It's on sale and now costs only 525 euros."
+        }
+      ]
+    }
+  ],
+  "exercises": [],
+  "grammar_notes": []
+}

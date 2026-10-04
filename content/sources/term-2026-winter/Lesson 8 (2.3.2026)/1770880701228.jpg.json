@@ -1,0 +1,209 @@
+{
+  "source": "term-2026-winter/Lesson 8 (2.3.2026)/1770880701228.jpg",
+  "md5": "e94de9d1df183e909db7b80306b52dbf",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 8,
+    "date": "2026-03-02"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "24. Talvella",
+    "en": "In winter"
+  },
+  "topics": [
+    "months-seasons"
+  ],
+  "summary": "Crossword (24. Talvella): name ten pictured winter items (kick sled, skis, hockey stick, puck, sled, snow shovel, toboggan, snow castle, skates, ski poles); the highlighted column completes 'Silloin on hauskaa, kun tulee lunta.'",
+  "transcript": "24. Talvella\nSilloin on hauskaa, kun ________ ________.\n(Ristikko 1–10, kuvat 1–10; korostettu sarake = ratkaisu)",
+  "exercises": [
+    {
+      "title": "24. Talvella – ristikko",
+      "instruction": "Write the names of the numbered pictures in the crossword. The highlighted column gives the missing words.",
+      "topic": "other",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "1. (kuva 1) ____ (11 kirjainta)",
+          "answer": "potkukelkka",
+          "en": "kick sled",
+          "note": "solution letter: t"
+        },
+        {
+          "prompt": "2. (kuva 2) ____ (6 kirjainta)",
+          "answer": "sukset",
+          "en": "skis",
+          "note": "solution letter: u"
+        },
+        {
+          "prompt": "3. (kuva 3) ____ (5 kirjainta)",
+          "answer": "maila",
+          "en": "hockey stick",
+          "note": "solution letter: l"
+        },
+        {
+          "prompt": "4. (kuva 4) ____ (9 kirjainta)",
+          "answer": "jääkiekko",
+          "en": "ice hockey puck / ice hockey",
+          "note": "solution letter: e"
+        },
+        {
+          "prompt": "5. (kuva 5) ____ (6 kirjainta)",
+          "answer": "kelkka",
+          "en": "sled",
+          "note": "solution letter: e"
+        },
+        {
+          "prompt": "6. (kuva 6) ____ (9 kirjainta)",
+          "answer": "lumilapio",
+          "en": "snow shovel",
+          "note": "solution letter: l"
+        },
+        {
+          "prompt": "7. (kuva 7) ____ (6 kirjainta)",
+          "answer": "pulkka",
+          "en": "plastic sled",
+          "note": "solution letter: u"
+        },
+        {
+          "prompt": "8. (kuva 8) ____ (9 kirjainta)",
+          "answer": "lumilinna",
+          "en": "snow castle / snow fort",
+          "note": "solution letter: n"
+        },
+        {
+          "prompt": "9. (kuva 9) ____ (9 kirjainta)",
+          "answer": "luistimet",
+          "en": "skates",
+          "note": "solution letter: t"
+        },
+        {
+          "prompt": "10. (kuva 10) ____ (11 kirjainta)",
+          "answer": "suksisauvat",
+          "en": "ski poles",
+          "note": "solution letter: a"
+        },
+        {
+          "prompt": "Silloin on hauskaa, kun ____ ____.",
+          "answer": "tulee lunta",
+          "en": "It's fun when it snows."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "fi": "talvi",
+      "en": "winter",
+      "pos": "noun",
+      "form_seen": "talvella",
+      "theme": "winter"
+    },
+    {
+      "fi": "silloin",
+      "en": "then, at that time",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "hauska",
+      "en": "fun, nice",
+      "pos": "adj",
+      "form_seen": "hauskaa",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "kun",
+      "en": "when",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "tulla",
+      "en": "to come",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "tulee",
+      "note": "tulee lunta = it snows",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "lumi",
+      "en": "snow",
+      "pos": "noun",
+      "form_seen": "lunta",
+      "theme": "winter"
+    },
+    {
+      "fi": "potkukelkka",
+      "en": "kick sled",
+      "pos": "noun",
+      "uncertain": true,
+      "theme": "winter"
+    },
+    {
+      "fi": "sukset",
+      "en": "skis",
+      "pos": "noun",
+      "note": "plural of suksi",
+      "theme": "winter"
+    },
+    {
+      "fi": "maila",
+      "en": "hockey stick",
+      "pos": "noun",
+      "theme": "winter"
+    },
+    {
+      "fi": "jääkiekko",
+      "en": "ice hockey; puck",
+      "pos": "noun",
+      "uncertain": true,
+      "theme": "winter"
+    },
+    {
+      "fi": "kelkka",
+      "en": "sled",
+      "pos": "noun",
+      "uncertain": true,
+      "theme": "winter"
+    },
+    {
+      "fi": "lumilapio",
+      "en": "snow shovel",
+      "pos": "noun",
+      "uncertain": true,
+      "theme": "winter"
+    },
+    {
+      "fi": "pulkka",
+      "en": "plastic sled, toboggan",
+      "pos": "noun",
+      "theme": "winter"
+    },
+    {
+      "fi": "lumilinna",
+      "en": "snow castle",
+      "pos": "noun",
+      "uncertain": true,
+      "theme": "winter"
+    },
+    {
+      "fi": "luistimet",
+      "en": "skates",
+      "pos": "noun",
+      "note": "plural of luistin",
+      "theme": "winter"
+    },
+    {
+      "fi": "suksisauvat",
+      "en": "ski poles",
+      "pos": "noun",
+      "uncertain": true,
+      "theme": "winter"
+    }
+  ],
+  "texts": [],
+  "grammar_notes": []
+}

@@ -1,0 +1,190 @@
+{
+  "source": "term-2026-winter/Lesson 9 (9.3.2026)/1771322906345.jpg",
+  "md5": "a12861df75fb1e0cd846d48aa156bc3d",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 9,
+    "date": "2026-03-09"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "Mikä vaivaa? (kuvat 1–9)",
+    "en": "What's wrong? (pictures 1–9)"
+  },
+  "topics": [
+    "have-adessive"
+  ],
+  "summary": "Nine photos of health problems (broken arm, back pain, red eye, vomiting, runny nose, headache, sore throat, itchy rash, eye examination) each with two blank lines for the learner to write what is wrong. No printed text; answers are derived.",
+  "transcript": "(No printed text — 9 photos, each followed by two blank writing lines.)",
+  "exercises": [
+    {
+      "title": "Kirjoita, mikä vaivaa",
+      "instruction": "Write under each picture what is wrong (Minulla on …).",
+      "topic": "have-adessive",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Kuva 1 (arm in a plaster cast): ____",
+          "answer": "Minulla on käsi kipsissä. / Käsi on murtunut.",
+          "en": "My arm is in a cast. / My arm is broken."
+        },
+        {
+          "prompt": "Kuva 2 (woman holding her lower back): ____",
+          "answer": "Minulla on selkä kipeä.",
+          "en": "My back hurts."
+        },
+        {
+          "prompt": "Kuva 3 (red, irritated eye): ____",
+          "answer": "Minulla on silmä kipeä. / Silmä on punainen.",
+          "en": "My eye is sore. / My eye is red."
+        },
+        {
+          "prompt": "Kuva 4 (man vomiting into a toilet): ____",
+          "answer": "Minulla on paha olo. Minä oksennan.",
+          "en": "I feel sick. I am vomiting."
+        },
+        {
+          "prompt": "Kuva 5 (man blowing his nose): ____",
+          "answer": "Minulla on nuha.",
+          "en": "I have a runny nose."
+        },
+        {
+          "prompt": "Kuva 6 (man with a headache): ____",
+          "answer": "Minulla on pää kipeä. / Minulla on päänsärky.",
+          "en": "I have a headache."
+        },
+        {
+          "prompt": "Kuva 7 (woman holding her throat): ____",
+          "answer": "Minulla on kurkku kipeä.",
+          "en": "I have a sore throat."
+        },
+        {
+          "prompt": "Kuva 8 (scratching a red rash on the arm): ____",
+          "answer": "Minulla on ihottuma. Iho kutiaa.",
+          "en": "I have a rash. My skin itches."
+        },
+        {
+          "prompt": "Kuva 9 (eye examination at the eye doctor): ____",
+          "answer": "Hän on silmälääkärissä.",
+          "en": "He is at the eye doctor's."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "fi": "käsi",
+      "en": "hand, arm",
+      "pos": "noun",
+      "uncertain": true,
+      "theme": "body"
+    },
+    {
+      "fi": "kipsi",
+      "en": "plaster cast",
+      "pos": "noun",
+      "uncertain": true,
+      "theme": "illness"
+    },
+    {
+      "fi": "murtua",
+      "en": "to break (bone)",
+      "pos": "verb",
+      "verb_type": 1,
+      "uncertain": true,
+      "theme": "illness"
+    },
+    {
+      "fi": "selkä",
+      "en": "back",
+      "pos": "noun",
+      "uncertain": true,
+      "theme": "body"
+    },
+    {
+      "fi": "kipeä",
+      "en": "sore",
+      "pos": "adj",
+      "uncertain": true,
+      "theme": "illness"
+    },
+    {
+      "fi": "silmä",
+      "en": "eye",
+      "pos": "noun",
+      "uncertain": true,
+      "theme": "body"
+    },
+    {
+      "fi": "oksentaa",
+      "en": "to vomit",
+      "pos": "verb",
+      "verb_type": 1,
+      "note": "nt → nn: oksennan",
+      "uncertain": true,
+      "theme": "illness"
+    },
+    {
+      "fi": "nuha",
+      "en": "runny nose",
+      "pos": "noun",
+      "uncertain": true,
+      "theme": "illness"
+    },
+    {
+      "fi": "pää",
+      "en": "head",
+      "pos": "noun",
+      "uncertain": true,
+      "theme": "body"
+    },
+    {
+      "fi": "päänsärky",
+      "en": "headache",
+      "pos": "noun",
+      "uncertain": true,
+      "theme": "illness"
+    },
+    {
+      "fi": "kurkku",
+      "en": "throat",
+      "pos": "noun",
+      "uncertain": true,
+      "theme": "body"
+    },
+    {
+      "fi": "ihottuma",
+      "en": "rash",
+      "pos": "noun",
+      "uncertain": true,
+      "theme": "illness"
+    },
+    {
+      "fi": "iho",
+      "en": "skin",
+      "pos": "noun",
+      "uncertain": true,
+      "theme": "body"
+    },
+    {
+      "fi": "kutista",
+      "en": "to itch",
+      "pos": "verb",
+      "verb_type": 5,
+      "form_seen": "kutiaa",
+      "note": "also kutiaa (type 1)",
+      "uncertain": true,
+      "theme": "illness"
+    },
+    {
+      "fi": "silmälääkäri",
+      "en": "eye doctor, ophthalmologist",
+      "pos": "noun",
+      "uncertain": true,
+      "theme": "health"
+    }
+  ],
+  "texts": [],
+  "grammar_notes": []
+}

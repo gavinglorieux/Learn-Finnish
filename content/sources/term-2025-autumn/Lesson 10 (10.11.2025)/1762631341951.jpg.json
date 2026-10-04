@@ -1,0 +1,407 @@
+{
+  "source": "term-2025-autumn/Lesson 10 (10.11.2025)/1762631341951.jpg",
+  "md5": "e97f3b70814fc655fb7ff12b4d43d820",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 10,
+    "date": "2025-11-10"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "1.2. Millä sinä matkustat? — Harjoitus 3",
+    "en": "1.2. How do you travel? — Exercise 3"
+  },
+  "topics": [
+    "outer-local-cases",
+    "illative",
+    "place-names"
+  ],
+  "summary": "Picture of 15 numbered vehicles plus a fill-in exercise: put the vehicle in brackets into the adessive (\"by bus\" = bussilla).",
+  "transcript": "1.2.\nMILLÄ SINÄ MATKUSTAT?\n[picture of vehicles numbered 1–15]\nHarjoitus 3\n1. Minä menen kotiin .......... (BUSSI) numero 62.\n2. Minä ajan sairaalaan .......... (TAKSI).\n3. Sinä voit mennä keskustaan .......... (RAITIOVAUNU).\n4. Mummo ja vaari ajavat .......... (TRAKTORI).\n5. Markku ajaa .......... (MOOTTORIPYÖRÄ).\n6. Minä menen Herttoniemeen .......... (METRO).\n7. Anneli ajaa .......... (PYÖRÄ) kirjastoon.\n8. Jani ajaa .......... (MOPO).\n9. Me menemme maalle .......... (MOOTTORIVENE).\n10. Niko ja Saila purjehtivat usein .......... (PURJEVENE).\n11. Me matkustamme Ruotsiin .......... (LAIVA).\n12. Minä menen Espooseen .......... (JUNA).\n13. Poliisi lentää .......... (HELIKOPTERI).\n14. Oskari matkustaa .......... (LENTOKONE) Pariisiin.\n15. Tuletko sinä kurssille .......... (OMA AUTO)?",
+  "words": [
+    {
+      "fi": "millä",
+      "en": "by what, with what",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "matkustaa",
+      "en": "to travel",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "matkustat, matkustamme",
+      "theme": "travel"
+    },
+    {
+      "fi": "mennä",
+      "en": "to go",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "menen, menemme",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "ajaa",
+      "en": "to drive, to ride",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "ajan, ajaa, ajavat",
+      "theme": "transport"
+    },
+    {
+      "fi": "voida",
+      "en": "can, to be able",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "voit",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "purjehtia",
+      "en": "to sail",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "purjehtivat",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "lentää",
+      "en": "to fly",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "lentää",
+      "theme": "transport"
+    },
+    {
+      "fi": "tulla",
+      "en": "to come",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "tuletko",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "koti",
+      "en": "home",
+      "pos": "noun",
+      "form_seen": "kotiin",
+      "theme": "home"
+    },
+    {
+      "fi": "numero",
+      "en": "number",
+      "pos": "noun",
+      "theme": "numbers"
+    },
+    {
+      "fi": "sairaala",
+      "en": "hospital",
+      "pos": "noun",
+      "form_seen": "sairaalaan",
+      "theme": "places-town"
+    },
+    {
+      "fi": "keskusta",
+      "en": "town centre",
+      "pos": "noun",
+      "form_seen": "keskustaan",
+      "theme": "places-town"
+    },
+    {
+      "fi": "mummo",
+      "en": "grandma",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "vaari",
+      "en": "grandpa",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "kirjasto",
+      "en": "library",
+      "pos": "noun",
+      "form_seen": "kirjastoon",
+      "theme": "places-town"
+    },
+    {
+      "fi": "maa",
+      "en": "country; land (maalle = to the countryside)",
+      "pos": "noun",
+      "form_seen": "maalle",
+      "theme": "places-town"
+    },
+    {
+      "fi": "usein",
+      "en": "often",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "Ruotsi",
+      "en": "Sweden",
+      "pos": "proper",
+      "form_seen": "Ruotsiin",
+      "theme": "travel"
+    },
+    {
+      "fi": "poliisi",
+      "en": "police, police officer",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "kurssi",
+      "en": "course",
+      "pos": "noun",
+      "form_seen": "kurssille",
+      "theme": "school-work"
+    },
+    {
+      "fi": "oma",
+      "en": "own",
+      "pos": "adj",
+      "theme": "transport"
+    },
+    {
+      "fi": "Pariisi",
+      "en": "Paris",
+      "pos": "proper",
+      "form_seen": "Pariisiin",
+      "theme": "travel"
+    },
+    {
+      "fi": "Espoo",
+      "en": "Espoo",
+      "pos": "proper",
+      "form_seen": "Espooseen",
+      "theme": "places-town"
+    },
+    {
+      "fi": "bussi",
+      "en": "bus",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "taksi",
+      "en": "taxi",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "raitiovaunu",
+      "en": "tram",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "traktori",
+      "en": "tractor",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "moottoripyörä",
+      "en": "motorbike",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "metro",
+      "en": "metro, underground",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "pyörä",
+      "en": "bicycle; wheel",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "mopo",
+      "en": "moped",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "moottorivene",
+      "en": "motorboat",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "purjevene",
+      "en": "sailing boat",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "laiva",
+      "en": "ship",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "juna",
+      "en": "train",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "helikopteri",
+      "en": "helicopter",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "lentokone",
+      "en": "aeroplane",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "auto",
+      "en": "car",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "ja",
+      "en": "and",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "minä",
+      "en": "I",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "sinä",
+      "en": "you",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "me",
+      "en": "we",
+      "pos": "pron",
+      "theme": "people"
+    }
+  ],
+  "texts": [],
+  "exercises": [
+    {
+      "title": "Harjoitus 3. Millä sinä matkustat?",
+      "instruction": "Write the means of transport in the adessive (millä? = by what?).",
+      "topic": "outer-local-cases",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Minä menen kotiin ____ numero 62.",
+          "base": "bussi",
+          "answer": "bussilla",
+          "en": "I go home by bus number 62."
+        },
+        {
+          "prompt": "Minä ajan sairaalaan ____.",
+          "base": "taksi",
+          "answer": "taksilla",
+          "en": "I drive to the hospital by taxi."
+        },
+        {
+          "prompt": "Sinä voit mennä keskustaan ____.",
+          "base": "raitiovaunu",
+          "answer": "raitiovaunulla",
+          "en": "You can go to the centre by tram."
+        },
+        {
+          "prompt": "Mummo ja vaari ajavat ____.",
+          "base": "traktori",
+          "answer": "traktorilla",
+          "en": "Grandma and grandpa drive a tractor."
+        },
+        {
+          "prompt": "Markku ajaa ____.",
+          "base": "moottoripyörä",
+          "answer": "moottoripyörällä",
+          "en": "Markku rides a motorbike."
+        },
+        {
+          "prompt": "Minä menen Herttoniemeen ____.",
+          "base": "metro",
+          "answer": "metrolla",
+          "en": "I go to Herttoniemi by metro."
+        },
+        {
+          "prompt": "Anneli ajaa ____ kirjastoon.",
+          "base": "pyörä",
+          "answer": "pyörällä",
+          "en": "Anneli cycles to the library."
+        },
+        {
+          "prompt": "Jani ajaa ____.",
+          "base": "mopo",
+          "answer": "mopolla",
+          "en": "Jani rides a moped."
+        },
+        {
+          "prompt": "Me menemme maalle ____.",
+          "base": "moottorivene",
+          "answer": "moottoriveneellä",
+          "en": "We go to the countryside by motorboat."
+        },
+        {
+          "prompt": "Niko ja Saila purjehtivat usein ____.",
+          "base": "purjevene",
+          "answer": "purjeveneellä",
+          "en": "Niko and Saila often sail in a sailing boat."
+        },
+        {
+          "prompt": "Me matkustamme Ruotsiin ____.",
+          "base": "laiva",
+          "answer": "laivalla",
+          "en": "We travel to Sweden by ship."
+        },
+        {
+          "prompt": "Minä menen Espooseen ____.",
+          "base": "juna",
+          "answer": "junalla",
+          "en": "I go to Espoo by train."
+        },
+        {
+          "prompt": "Poliisi lentää ____.",
+          "base": "helikopteri",
+          "answer": "helikopterilla",
+          "en": "The police fly by helicopter."
+        },
+        {
+          "prompt": "Oskari matkustaa ____ Pariisiin.",
+          "base": "lentokone",
+          "answer": "lentokoneella",
+          "en": "Oskari travels to Paris by plane."
+        },
+        {
+          "prompt": "Tuletko sinä kurssille ____?",
+          "base": "oma auto",
+          "answer": "omalla autolla",
+          "en": "Are you coming to the course in your own car?"
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "outer-local-cases",
+      "heading": "Millä? — means of transport",
+      "text": "Means of transport is expressed with the adessive -lla/-llä: bussilla, junalla, pyörällä, omalla autolla."
+    }
+  ]
+}

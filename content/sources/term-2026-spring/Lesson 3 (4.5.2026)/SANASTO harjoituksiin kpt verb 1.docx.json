@@ -1,0 +1,206 @@
+{
+  "source": "term-2026-spring/Lesson 3 (4.5.2026)/SANASTO harjoituksiin kpt verb 1.docx",
+  "md5": "0e6b2f3580e7cfaedc4e664ed27c0b01",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 3,
+    "date": "2026-05-04"
+  },
+  "kind": "vocab_list",
+  "title": {
+    "fi": "Sanasto, KPT verbityyppi 1 -harjoitukset",
+    "en": "Vocabulary for the KPT verb type 1 exercises"
+  },
+  "topics": [
+    "kpt-verbs",
+    "verb-type-1"
+  ],
+  "summary": "Vocabulary list (Finnish = English) of the 21 type-1 verbs used in textbook exercises 20 and 21 on consonant gradation (KPT) in verbs.",
+  "transcript": "SANASTO, KPT VERBITYYPPI 1- HARJOITUKSET\n\nHARJOITUS 20:\n\nOTTAA= TO TAKE (GRAB) KIRJOITTAA= TO WRITE TIETÄÄ= TO KNOW LENTÄÄ= TO FLY HIIHTÄÄ= TO SKI (CROSS COUNTRY) YMMÄRTÄÄ= TO UNDERSTAND LÄHTEÄ= TO LEAVE (TO TAKE OFF) LÄHETTÄÄ= TO SEND SULKEA= TO CLOSE SOITTAA= TO PLAY AN INSTRUMENT (or TO CALL SOMEONE BY PHONE)\n\nHARJOITUS 21:\n\nLUKEA= TO READ LÖYTÄÄ= TO FIND AJAA= TO DRIVE KATSOA= TO LOOK AT YÖPYÄ= TO STAY OVERNIGHT ISTUA= TO SIT NUKKUA= TO SLEEP KERTOA= TO TELL ODOTTAA= TO WAIT OSTAA= TO BUY SAAPUA= TO ARRIVE",
+  "words": [
+    {
+      "fi": "ottaa",
+      "en": "to take (grab)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "tt → t (otan)"
+    },
+    {
+      "fi": "kirjoittaa",
+      "en": "to write",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "school-work",
+      "note": "tt → t (kirjoitan)"
+    },
+    {
+      "fi": "tietää",
+      "en": "to know",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "t → d (tiedän)"
+    },
+    {
+      "fi": "lentää",
+      "en": "to fly",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "travel",
+      "note": "nt → nn (lennän)"
+    },
+    {
+      "fi": "hiihtää",
+      "en": "to ski (cross-country)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "winter",
+      "note": "ht → hd (hiihdän)"
+    },
+    {
+      "fi": "ymmärtää",
+      "en": "to understand",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "classroom",
+      "note": "rt → rr (ymmärrän)"
+    },
+    {
+      "fi": "lähteä",
+      "en": "to leave (to take off)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "ht → hd (lähden)"
+    },
+    {
+      "fi": "lähettää",
+      "en": "to send",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "tt → t (lähetän)"
+    },
+    {
+      "fi": "sulkea",
+      "en": "to close",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "lk → l (suljen)"
+    },
+    {
+      "fi": "soittaa",
+      "en": "to play an instrument; to call someone by phone",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "tt → t (soitan)"
+    },
+    {
+      "fi": "lukea",
+      "en": "to read",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "school-work",
+      "note": "k → ∅ (luen)"
+    },
+    {
+      "fi": "löytää",
+      "en": "to find",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "t → d (löydän)"
+    },
+    {
+      "fi": "ajaa",
+      "en": "to drive",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "transport",
+      "note": "no KPT (ajan)"
+    },
+    {
+      "fi": "katsoa",
+      "en": "to look at",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "no KPT (katson)"
+    },
+    {
+      "fi": "yöpyä",
+      "en": "to stay overnight",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "travel",
+      "note": "p → v (yövyn)"
+    },
+    {
+      "fi": "istua",
+      "en": "to sit",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "no KPT (istun)"
+    },
+    {
+      "fi": "nukkua",
+      "en": "to sleep",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "daily-routine",
+      "note": "kk → k (nukun)"
+    },
+    {
+      "fi": "kertoa",
+      "en": "to tell",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "rt → rr (kerron)"
+    },
+    {
+      "fi": "odottaa",
+      "en": "to wait",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "tt → t (odotan)"
+    },
+    {
+      "fi": "ostaa",
+      "en": "to buy",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "shopping-money",
+      "note": "no KPT (ostan)"
+    },
+    {
+      "fi": "saapua",
+      "en": "to arrive",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "travel",
+      "note": "p → v (saavun)"
+    },
+    {
+      "fi": "sanasto",
+      "en": "vocabulary",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "harjoitus",
+      "en": "exercise",
+      "pos": "noun",
+      "theme": "classroom"
+    }
+  ],
+  "texts": [],
+  "exercises": [],
+  "grammar_notes": []
+}

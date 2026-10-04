@@ -1,0 +1,222 @@
+{
+  "source": "term-2026-winter/Lesson 5 (9.2.2026)/1770295433635.jpg",
+  "md5": "94d71c744d3fa6f14721c80ccb0cbbc4",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 5,
+    "date": "2026-02-09"
+  },
+  "kind": "picture_vocab",
+  "title": {
+    "fi": "1.2. Missä? – Mistä? – Mihin? Minne?",
+    "en": "Where (at)? – Where from? – Where to?"
+  },
+  "topics": [
+    "inner-local-cases",
+    "local-cases",
+    "question-words",
+    "locative-verbs"
+  ],
+  "summary": "Textbook picture page (1.2) illustrating the inner local cases: being in (-ssa), coming/leaving from (-sta) and going to (illative) the post office, library, swimming hall and restaurant.",
+  "transcript": "1.2.\nMISSÄ? - MISTÄ? - MIHIN?\nMINNE?\nMinä olen postissa.\nMinä tulen postista.\nMinä menen postiin.\nMinä olen kirjastossa.\nMinä tulen kirjastosta.\nMinä menen kirjastoon.\nHän on uimahallissa.\nHän lähtee uimahallista.\nHän menee uimahalliin.\nHän on ravintolassa.\nHän lähtee ravintolasta.\nHän menee ravintolaan.",
+  "texts": [
+    {
+      "title": {
+        "fi": "Missä? – Mistä? – Mihin?",
+        "en": "Where? – From where? – To where?"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Minä olen postissa.",
+          "en": "I am at the post office."
+        },
+        {
+          "fi": "Minä tulen postista.",
+          "en": "I am coming from the post office."
+        },
+        {
+          "fi": "Minä menen postiin.",
+          "en": "I am going to the post office."
+        },
+        {
+          "fi": "Minä olen kirjastossa.",
+          "en": "I am in the library."
+        },
+        {
+          "fi": "Minä tulen kirjastosta.",
+          "en": "I am coming from the library."
+        },
+        {
+          "fi": "Minä menen kirjastoon.",
+          "en": "I am going to the library."
+        },
+        {
+          "fi": "Hän on uimahallissa.",
+          "en": "He is at the swimming hall."
+        },
+        {
+          "fi": "Hän lähtee uimahallista.",
+          "en": "He is leaving the swimming hall."
+        },
+        {
+          "fi": "Hän menee uimahalliin.",
+          "en": "He is going to the swimming hall."
+        },
+        {
+          "fi": "Hän on ravintolassa.",
+          "en": "He is in the restaurant."
+        },
+        {
+          "fi": "Hän lähtee ravintolasta.",
+          "en": "He is leaving the restaurant."
+        },
+        {
+          "fi": "Hän menee ravintolaan.",
+          "en": "He is going into the restaurant."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "inner-local-cases",
+      "heading": "Missä? – Mistä? – Mihin?/Minne?",
+      "text": "Missä? (where, in) → -ssa/-ssä (olla); Mistä? (from where) → -sta/-stä (tulla, lähteä); Mihin?/Minne? (where to) → illative -Vn/-hVn/-seen (mennä).",
+      "table": [
+        [
+          "Missä?",
+          "Mistä?",
+          "Mihin?"
+        ],
+        [
+          "postissa",
+          "postista",
+          "postiin"
+        ],
+        [
+          "kirjastossa",
+          "kirjastosta",
+          "kirjastoon"
+        ],
+        [
+          "uimahallissa",
+          "uimahallista",
+          "uimahalliin"
+        ],
+        [
+          "ravintolassa",
+          "ravintolasta",
+          "ravintolaan"
+        ]
+      ]
+    }
+  ],
+  "words": [
+    {
+      "fi": "missä",
+      "en": "where (in/at)",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "mistä",
+      "en": "where from",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "mihin",
+      "en": "where to",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "minne",
+      "en": "where to",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "minä",
+      "en": "I",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "hän",
+      "en": "he, she",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "forms": {
+        "minä": "olen",
+        "hän": "on"
+      },
+      "note": "irregular",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "tulla",
+      "en": "to come",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "tulen",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "mennä",
+      "en": "to go",
+      "pos": "verb",
+      "verb_type": 3,
+      "forms": {
+        "minä": "menen",
+        "hän": "menee"
+      },
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "lähteä",
+      "en": "to leave",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "lähtee",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "posti",
+      "en": "post office",
+      "pos": "noun",
+      "note": "postissa, postista, postiin",
+      "theme": "places-town"
+    },
+    {
+      "fi": "kirjasto",
+      "en": "library",
+      "pos": "noun",
+      "note": "kirjastossa, kirjastosta, kirjastoon",
+      "theme": "places-town"
+    },
+    {
+      "fi": "uimahalli",
+      "en": "swimming hall, indoor pool",
+      "pos": "noun",
+      "note": "uimahallissa, uimahallista, uimahalliin",
+      "theme": "places-town"
+    },
+    {
+      "fi": "ravintola",
+      "en": "restaurant",
+      "pos": "noun",
+      "note": "ravintolassa, ravintolasta, ravintolaan",
+      "theme": "places-town"
+    }
+  ],
+  "exercises": []
+}

@@ -1,0 +1,160 @@
+{
+  "source": "term-2026-spring/Lesson 1 (20.4.2026)/1775653882256.jpg",
+  "md5": "14963e3a7a09495d8b7b81a96a92cce1",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 1,
+    "date": "2026-04-20"
+  },
+  "kind": "picture_vocab",
+  "title": {
+    "fi": "",
+    "en": "A family on an autumn walk (picture)"
+  },
+  "topics": [
+    "months-seasons"
+  ],
+  "summary": "Watercolour illustration with no Finnish text: a father in a green hat and jacket holds the hand of a small child in a pink snowsuit picking up a maple leaf; a mother in a purple jacket and blue hat pushes a pram along a path with fallen autumn leaves. Used as a speaking/vocabulary prompt.",
+  "transcript": "(no text on the page — illustration only)",
+  "words": [
+    {
+      "fi": "perhe",
+      "en": "family",
+      "pos": "noun",
+      "theme": "family",
+      "note": "depicted in the picture, not labelled on the page"
+    },
+    {
+      "fi": "isä",
+      "en": "father",
+      "pos": "noun",
+      "theme": "family",
+      "note": "depicted in the picture, not labelled on the page"
+    },
+    {
+      "fi": "äiti",
+      "en": "mother",
+      "pos": "noun",
+      "theme": "family",
+      "note": "depicted in the picture, not labelled on the page"
+    },
+    {
+      "fi": "lapsi",
+      "en": "child",
+      "pos": "noun",
+      "theme": "family",
+      "note": "depicted in the picture, not labelled on the page"
+    },
+    {
+      "fi": "vauva",
+      "en": "baby",
+      "pos": "noun",
+      "theme": "family",
+      "note": "depicted in the picture, not labelled on the page"
+    },
+    {
+      "fi": "lastenvaunut",
+      "en": "pram, baby carriage",
+      "pos": "noun",
+      "theme": "family",
+      "note": "depicted in the picture, not labelled on the page; plural only"
+    },
+    {
+      "fi": "pipo",
+      "en": "beanie, knitted hat",
+      "pos": "noun",
+      "theme": "clothes",
+      "note": "depicted in the picture, not labelled on the page"
+    },
+    {
+      "fi": "takki",
+      "en": "jacket, coat",
+      "pos": "noun",
+      "theme": "clothes",
+      "note": "depicted in the picture, not labelled on the page"
+    },
+    {
+      "fi": "housut",
+      "en": "trousers",
+      "pos": "noun",
+      "theme": "clothes",
+      "note": "depicted in the picture, not labelled on the page; plural only"
+    },
+    {
+      "fi": "hanskat",
+      "en": "gloves",
+      "pos": "noun",
+      "theme": "clothes",
+      "note": "depicted in the picture, not labelled on the page; plural (hanska)"
+    },
+    {
+      "fi": "haalari",
+      "en": "overalls, snowsuit",
+      "pos": "noun",
+      "theme": "clothes",
+      "note": "depicted in the picture, not labelled on the page"
+    },
+    {
+      "fi": "kengät",
+      "en": "shoes",
+      "pos": "noun",
+      "theme": "clothes",
+      "note": "depicted in the picture, not labelled on the page; plural (kenkä)"
+    },
+    {
+      "fi": "syksy",
+      "en": "autumn",
+      "pos": "noun",
+      "theme": "months-seasons",
+      "note": "depicted in the picture, not labelled on the page"
+    },
+    {
+      "fi": "lehti",
+      "en": "leaf",
+      "pos": "noun",
+      "theme": "nature",
+      "note": "depicted in the picture, not labelled on the page"
+    },
+    {
+      "fi": "vaahteranlehti",
+      "en": "maple leaf",
+      "pos": "noun",
+      "theme": "nature",
+      "note": "depicted in the picture, not labelled on the page"
+    },
+    {
+      "fi": "pensas",
+      "en": "bush",
+      "pos": "noun",
+      "theme": "nature",
+      "note": "depicted in the picture, not labelled on the page"
+    },
+    {
+      "fi": "polku",
+      "en": "path",
+      "pos": "noun",
+      "theme": "nature",
+      "note": "depicted in the picture, not labelled on the page"
+    },
+    {
+      "fi": "kävellä",
+      "en": "to walk",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs",
+      "note": "depicted in the picture, not labelled on the page"
+    },
+    {
+      "fi": "ulkoilla",
+      "en": "to spend time outdoors",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "hobbies-sport",
+      "note": "depicted in the picture, not labelled on the page"
+    }
+  ],
+  "texts": [],
+  "exercises": [],
+  "grammar_notes": []
+}

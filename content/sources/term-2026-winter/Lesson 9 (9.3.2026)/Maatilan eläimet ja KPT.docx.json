@@ -1,0 +1,656 @@
+{
+  "source": "term-2026-winter/Lesson 9 (9.3.2026)/Maatilan eläimet ja KPT.docx",
+  "md5": "bac494a979f00dec0352f0291931bf29",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 9,
+    "date": "2026-03-09"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "Maatilan eläimet ja KPT",
+    "en": "Farm animals and consonant gradation"
+  },
+  "topics": [
+    "kpt-nouns",
+    "have-adessive",
+    "local-cases",
+    "genitive",
+    "partitive",
+    "plural"
+  ],
+  "summary": "Farm-animal vocabulary list (lammas, lehmä, vasikka, ankka, hanhi, kukko, hevonen, vuohi, sika, kana…) where each word heads a sentence with an English phrase in brackets to translate, practising KPT gradation in plurals, local cases, genitive and 'have' (-lla on).",
+  "transcript": "Maatilan eläimet ja KPT\n\nLAMMAS: LAMPAAT\n\nLampaat syövät ruohoa ____ (on the field). (grass)\n\nKARITSA:\n\n____ (the lamb has) musta pää. (head)\n\nLEHMÄ:\n\n____ (What is the name of your cow)?\n\nVASIKKA:\n\n____ (What is the name of its calf)?\n\nANKANPOIKA:\n\n____ (the ducklings) juoksevat järveen. (lake)\n\nANKKA:\n\n____ (the ducks) uivat järvessä.\n\nHEDELMÄTARHA:\n\n____ (in our orchard) kasvaa monta omena-, päärynä-, luumu- ja kirsikkapuuta.\n\nKUKKO:\n\nNaapurin ____ (roosters) ovat joskus tosi vihaisia. (angry)\n\nKALKKUNA:\n\nJouluna me syömme ____ (some turkey).\n\nHANHENPOIKA:\n\nMihin ____ (the goslings) juoksevat?\n\nHANHI (old Finnish word):\n\n____ (the goose has) neljä poikasta. (young)\n\nVARSA:\n\nMinä tuon porkkanaa ____ (to the foal).\n\nHEVONEN:\n\nMe ratsastamme joka päivä ____ (on our horse).\n\nHÄRKÄ:\n\nMissä ____ (is the bull`s paddock)? (aitaus)\n\nTRAKTORI:\n\nIsä ajaa ____ (with his new tractor).\n\nKILI:\n\nMinä tykkään meidän ____ (small billygoat).\n\nVUOHI (old Finnish word):\n\nKuinka monta kiliä ____ (your goat has)?\n\nSIKA:\n\nÄiti ruokkii ____ (the pigs) joka aamu ja ilta. (ruokkia= to feed)\n\nPORSAS: PORSAAT\n\nMe viemme porsaat aamulla ____ (to the field).\n\nKANA:\n\n____ (How many chickens do you have)?\n\nKANANPOIKA:\n\nMeidän ____ (chicklets) ovat tarhassa. Muuten kettu vie ne. (otherwise, kettu= fox)\n\nAITA:\n\nIsä ja minun veli rakentavat ____ (new fences) huomenna. (rakentaa= to build)",
+  "words": [
+    {
+      "fi": "maatila",
+      "en": "farm",
+      "pos": "noun",
+      "form_seen": "maatilan",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "eläin",
+      "en": "animal",
+      "pos": "noun",
+      "form_seen": "eläimet",
+      "theme": "animals"
+    },
+    {
+      "fi": "lammas",
+      "en": "sheep",
+      "pos": "noun",
+      "theme": "farm-animals",
+      "note": "lammas → lampaa- (mm → mp, reverse KPT): lampaat"
+    },
+    {
+      "fi": "ruoho",
+      "en": "grass",
+      "pos": "noun",
+      "form_seen": "ruohoa",
+      "theme": "nature"
+    },
+    {
+      "fi": "pelto",
+      "en": "field",
+      "pos": "noun",
+      "form_seen": "pellolla",
+      "theme": "farm-animals",
+      "note": "lt → ll"
+    },
+    {
+      "fi": "karitsa",
+      "en": "lamb",
+      "pos": "noun",
+      "form_seen": "karitsalla",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "musta",
+      "en": "black",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "pää",
+      "en": "head",
+      "pos": "noun",
+      "theme": "body"
+    },
+    {
+      "fi": "lehmä",
+      "en": "cow",
+      "pos": "noun",
+      "form_seen": "lehmän",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "nimi",
+      "en": "name",
+      "pos": "noun",
+      "theme": "people",
+      "note": "nimi → nime-"
+    },
+    {
+      "fi": "vasikka",
+      "en": "calf",
+      "pos": "noun",
+      "form_seen": "vasikan",
+      "theme": "farm-animals",
+      "note": "kk → k"
+    },
+    {
+      "fi": "ankanpoika",
+      "en": "duckling",
+      "pos": "noun",
+      "form_seen": "ankanpojat",
+      "theme": "farm-animals",
+      "note": "k → j (poika → pojat)"
+    },
+    {
+      "fi": "juosta",
+      "en": "to run",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "juoksevat",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "järvi",
+      "en": "lake",
+      "pos": "noun",
+      "form_seen": "järveen",
+      "theme": "nature",
+      "note": "järvi → järve-"
+    },
+    {
+      "fi": "ankka",
+      "en": "duck",
+      "pos": "noun",
+      "form_seen": "ankat",
+      "theme": "farm-animals",
+      "note": "kk → k"
+    },
+    {
+      "fi": "uida",
+      "en": "to swim",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "uivat",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "hedelmätarha",
+      "en": "orchard",
+      "pos": "noun",
+      "form_seen": "hedelmätarhassa",
+      "theme": "garden"
+    },
+    {
+      "fi": "kasvaa",
+      "en": "to grow",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "garden"
+    },
+    {
+      "fi": "monta",
+      "en": "many",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "omenapuu",
+      "en": "apple tree",
+      "pos": "noun",
+      "form_seen": "omena-",
+      "theme": "garden"
+    },
+    {
+      "fi": "päärynäpuu",
+      "en": "pear tree",
+      "pos": "noun",
+      "form_seen": "päärynä-",
+      "theme": "garden"
+    },
+    {
+      "fi": "luumupuu",
+      "en": "plum tree",
+      "pos": "noun",
+      "form_seen": "luumu-",
+      "theme": "garden"
+    },
+    {
+      "fi": "kirsikkapuu",
+      "en": "cherry tree",
+      "pos": "noun",
+      "form_seen": "kirsikkapuuta",
+      "theme": "garden"
+    },
+    {
+      "fi": "kukko",
+      "en": "rooster",
+      "pos": "noun",
+      "form_seen": "kukot",
+      "theme": "farm-animals",
+      "note": "kk → k"
+    },
+    {
+      "fi": "naapuri",
+      "en": "neighbour",
+      "pos": "noun",
+      "form_seen": "naapurin",
+      "theme": "people"
+    },
+    {
+      "fi": "joskus",
+      "en": "sometimes",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "tosi",
+      "en": "really",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "vihainen",
+      "en": "angry",
+      "pos": "adj",
+      "form_seen": "vihaisia",
+      "theme": "feelings"
+    },
+    {
+      "fi": "kalkkuna",
+      "en": "turkey",
+      "pos": "noun",
+      "form_seen": "kalkkunaa",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "joulu",
+      "en": "Christmas",
+      "pos": "noun",
+      "form_seen": "jouluna",
+      "theme": "celebrations"
+    },
+    {
+      "fi": "syödä",
+      "en": "to eat",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "syömme",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "hanhenpoika",
+      "en": "gosling",
+      "pos": "noun",
+      "form_seen": "hanhenpojat",
+      "theme": "farm-animals",
+      "note": "k → j"
+    },
+    {
+      "fi": "mihin",
+      "en": "where to",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "hanhi",
+      "en": "goose",
+      "pos": "noun",
+      "form_seen": "hanhella",
+      "theme": "farm-animals",
+      "note": "old Finnish word: hanhi → hanhe-"
+    },
+    {
+      "fi": "poikanen",
+      "en": "young (of an animal)",
+      "pos": "noun",
+      "form_seen": "poikasta",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "varsa",
+      "en": "foal",
+      "pos": "noun",
+      "form_seen": "varsalle",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "tuoda",
+      "en": "to bring",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "tuon",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "porkkana",
+      "en": "carrot",
+      "pos": "noun",
+      "form_seen": "porkkanaa",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "hevonen",
+      "en": "horse",
+      "pos": "noun",
+      "form_seen": "hevosella",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "ratsastaa",
+      "en": "to ride (a horse)",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "ratsastamme",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "joka päivä",
+      "en": "every day",
+      "pos": "phrase",
+      "theme": "days-time"
+    },
+    {
+      "fi": "härkä",
+      "en": "bull",
+      "pos": "noun",
+      "form_seen": "härän",
+      "theme": "farm-animals",
+      "note": "k → ∅ (härän)"
+    },
+    {
+      "fi": "aitaus",
+      "en": "paddock, enclosure",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "traktori",
+      "en": "tractor",
+      "pos": "noun",
+      "form_seen": "traktorilla",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "isä",
+      "en": "father",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "ajaa",
+      "en": "to drive",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "transport"
+    },
+    {
+      "fi": "uusi",
+      "en": "new",
+      "pos": "adj",
+      "form_seen": "uudella",
+      "theme": "adjectives",
+      "note": "uusi → uude-"
+    },
+    {
+      "fi": "kili",
+      "en": "kid (young goat)",
+      "pos": "noun",
+      "form_seen": "kilistä",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "pieni",
+      "en": "small",
+      "pos": "adj",
+      "form_seen": "pienestä",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "tykätä",
+      "en": "to like (+ -sta)",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "tykkään",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "vuohi",
+      "en": "goat",
+      "pos": "noun",
+      "form_seen": "vuohella",
+      "theme": "farm-animals",
+      "note": "old Finnish word: vuohi → vuohe-"
+    },
+    {
+      "fi": "kuinka monta",
+      "en": "how many",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "sika",
+      "en": "pig",
+      "pos": "noun",
+      "form_seen": "siat",
+      "theme": "farm-animals",
+      "note": "k → ∅ (sika → siat)"
+    },
+    {
+      "fi": "äiti",
+      "en": "mother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "ruokkia",
+      "en": "to feed",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "ruokkii",
+      "theme": "farm-animals",
+      "note": "kk → k (ruokin)"
+    },
+    {
+      "fi": "aamu",
+      "en": "morning",
+      "pos": "noun",
+      "theme": "days-time"
+    },
+    {
+      "fi": "ilta",
+      "en": "evening",
+      "pos": "noun",
+      "theme": "days-time"
+    },
+    {
+      "fi": "porsas",
+      "en": "piglet",
+      "pos": "noun",
+      "theme": "farm-animals",
+      "note": "porsas → porsaa- (reverse KPT): porsaat"
+    },
+    {
+      "fi": "viedä",
+      "en": "to take (somewhere)",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "viemme",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kana",
+      "en": "hen, chicken",
+      "pos": "noun",
+      "form_seen": "kanaa",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "kananpoika",
+      "en": "chick",
+      "pos": "noun",
+      "form_seen": "kananpojat",
+      "theme": "farm-animals",
+      "note": "k → j"
+    },
+    {
+      "fi": "tarha",
+      "en": "enclosure, run (yard)",
+      "pos": "noun",
+      "form_seen": "tarhassa",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "muuten",
+      "en": "otherwise",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kettu",
+      "en": "fox",
+      "pos": "noun",
+      "theme": "animals",
+      "note": "tt → t"
+    },
+    {
+      "fi": "aita",
+      "en": "fence",
+      "pos": "noun",
+      "form_seen": "aidat",
+      "theme": "farm-animals",
+      "note": "t → d"
+    },
+    {
+      "fi": "veli",
+      "en": "brother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "rakentaa",
+      "en": "to build",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "rakentavat",
+      "theme": "common-verbs",
+      "note": "nt → nn"
+    },
+    {
+      "fi": "huomenna",
+      "en": "tomorrow",
+      "pos": "adv",
+      "theme": "days-time"
+    }
+  ],
+  "texts": [],
+  "exercises": [
+    {
+      "title": "Maatilan eläimet ja KPT",
+      "instruction": "Translate the words in brackets into Finnish with the correct ending (KPT changes!).",
+      "topic": "kpt-nouns",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Lampaat syövät ruohoa ____ .",
+          "base": "on the field",
+          "answer": "pellolla",
+          "en": "The sheep eat grass in the field."
+        },
+        {
+          "prompt": "____ musta pää.",
+          "base": "the lamb has",
+          "answer": "Karitsalla on",
+          "en": "The lamb has a black head."
+        },
+        {
+          "prompt": "____ ?",
+          "base": "What is the name of your cow",
+          "answer": "Mikä sinun lehmän nimi on",
+          "en": "What is the name of your cow?"
+        },
+        {
+          "prompt": "____ ?",
+          "base": "What is the name of its calf",
+          "answer": "Mikä sen vasikan nimi on",
+          "en": "What is the name of its calf?"
+        },
+        {
+          "prompt": "____ juoksevat järveen.",
+          "base": "the ducklings",
+          "answer": "Ankanpojat",
+          "en": "The ducklings run into the lake."
+        },
+        {
+          "prompt": "____ uivat järvessä.",
+          "base": "the ducks",
+          "answer": "Ankat",
+          "en": "The ducks swim in the lake."
+        },
+        {
+          "prompt": "____ kasvaa monta omena-, päärynä-, luumu- ja kirsikkapuuta.",
+          "base": "in our orchard",
+          "answer": "Meidän hedelmätarhassa",
+          "en": "In our orchard grow many apple, pear, plum and cherry trees."
+        },
+        {
+          "prompt": "Naapurin ____ ovat joskus tosi vihaisia.",
+          "base": "roosters",
+          "answer": "kukot",
+          "en": "The neighbour's roosters are sometimes really angry."
+        },
+        {
+          "prompt": "Jouluna me syömme ____ .",
+          "base": "some turkey",
+          "answer": "kalkkunaa",
+          "en": "At Christmas we eat (some) turkey."
+        },
+        {
+          "prompt": "Mihin ____ juoksevat?",
+          "base": "the goslings",
+          "answer": "hanhenpojat",
+          "en": "Where are the goslings running to?"
+        },
+        {
+          "prompt": "____ neljä poikasta.",
+          "base": "the goose has",
+          "answer": "Hanhella on",
+          "en": "The goose has four young."
+        },
+        {
+          "prompt": "Minä tuon porkkanaa ____ .",
+          "base": "to the foal",
+          "answer": "varsalle",
+          "en": "I bring carrots to the foal."
+        },
+        {
+          "prompt": "Me ratsastamme joka päivä ____ .",
+          "base": "on our horse",
+          "answer": "meidän hevosella",
+          "en": "We ride our horse every day."
+        },
+        {
+          "prompt": "Missä ____ ?",
+          "base": "is the bull's paddock",
+          "answer": "härän aitaus on",
+          "en": "Where is the bull's paddock?"
+        },
+        {
+          "prompt": "Isä ajaa ____ .",
+          "base": "with his new tractor",
+          "answer": "uudella traktorillaan",
+          "en": "Dad drives his new tractor."
+        },
+        {
+          "prompt": "Minä tykkään meidän ____ .",
+          "base": "small billygoat",
+          "answer": "pienestä kilistä",
+          "en": "I like our little kid (goat)."
+        },
+        {
+          "prompt": "Kuinka monta kiliä ____ ?",
+          "base": "your goat has",
+          "answer": "sinun vuohella on",
+          "en": "How many kids does your goat have?"
+        },
+        {
+          "prompt": "Äiti ruokkii ____ joka aamu ja ilta.",
+          "base": "the pigs",
+          "answer": "siat",
+          "en": "Mum feeds the pigs every morning and evening."
+        },
+        {
+          "prompt": "Me viemme porsaat aamulla ____ .",
+          "base": "to the field",
+          "answer": "pellolle",
+          "en": "We take the piglets to the field in the morning."
+        },
+        {
+          "prompt": "____ ?",
+          "base": "How many chickens do you have",
+          "answer": "Kuinka monta kanaa teillä on",
+          "en": "How many chickens do you have?"
+        },
+        {
+          "prompt": "Meidän ____ ovat tarhassa.",
+          "base": "chicklets",
+          "answer": "kananpojat",
+          "en": "Our chicks are in the run. Otherwise the fox will take them."
+        },
+        {
+          "prompt": "Isä ja minun veli rakentavat ____ huomenna.",
+          "base": "new fences",
+          "answer": "uudet aidat",
+          "en": "Dad and my brother will build new fences tomorrow."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": []
+}

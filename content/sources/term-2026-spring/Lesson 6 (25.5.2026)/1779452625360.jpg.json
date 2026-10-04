@@ -1,0 +1,144 @@
+{
+  "source": "term-2026-spring/Lesson 6 (25.5.2026)/1779452625360.jpg",
+  "md5": "3806ac649917b6df74d960afdc7924aa",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 6,
+    "date": "2026-05-25"
+  },
+  "kind": "grammar",
+  "title": {
+    "fi": "Mihin? Missä? Mistä?",
+    "en": "Where to? Where? Where from?"
+  },
+  "topics": [
+    "postpositions",
+    "genitive",
+    "local-cases",
+    "question-words"
+  ],
+  "summary": "Illustrated grammar box showing the three directional forms of the postposition edessä after a genitive: eteen (where to), edessä (where), edestä (where from).",
+  "transcript": "Mihin?                      Missä?                     Mistä?\nAuto ajaa talon eteen.      Auto on talon edessä.      Auto lähtee talon edestä.\n(Pictures: a car driving towards a house, parked in front of it, and driving away from it; the genitive -n of talon is bold.)",
+  "words": [
+    {
+      "fi": "mihin",
+      "en": "where to",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "missä",
+      "en": "where",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "mistä",
+      "en": "where from",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "eteen",
+      "en": "(to) in front of",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "edessä",
+      "en": "in front of",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "edestä",
+      "en": "from in front of",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "auto",
+      "en": "car",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "talo",
+      "en": "house",
+      "pos": "noun",
+      "theme": "home",
+      "form_seen": "talon"
+    },
+    {
+      "fi": "ajaa",
+      "en": "to drive",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "transport",
+      "form_seen": "ajaa"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs",
+      "form_seen": "on"
+    },
+    {
+      "fi": "lähteä",
+      "en": "to leave, to set off",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "travel",
+      "form_seen": "lähtee",
+      "note": "ht → hd (lähden)"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Mihin? Missä? Mistä?",
+        "en": "Where to? Where? Where from?"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Auto ajaa talon eteen.",
+          "en": "The car drives up in front of the house."
+        },
+        {
+          "fi": "Auto on talon edessä.",
+          "en": "The car is in front of the house."
+        },
+        {
+          "fi": "Auto lähtee talon edestä.",
+          "en": "The car leaves from in front of the house."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "postpositions",
+      "heading": "Mihin? Missä? Mistä?",
+      "text": "Location postpositions have three forms answering mihin? (eteen), missä? (edessä) and mistä? (edestä); the noun before them is in the genitive (talon).",
+      "table": [
+        [
+          "Mihin?",
+          "Auto ajaa talon eteen."
+        ],
+        [
+          "Missä?",
+          "Auto on talon edessä."
+        ],
+        [
+          "Mistä?",
+          "Auto lähtee talon edestä."
+        ]
+      ]
+    }
+  ],
+  "exercises": []
+}

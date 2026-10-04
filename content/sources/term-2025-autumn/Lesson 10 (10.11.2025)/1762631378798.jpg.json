@@ -1,0 +1,230 @@
+{
+  "source": "term-2025-autumn/Lesson 10 (10.11.2025)/1762631378798.jpg",
+  "md5": "66a78818ee572da87c97d5f0c69f9b62",
+  "also_in": [
+    "term-2025-autumn/Lesson 11 (17.11.2025)/1762631378798.jpg",
+    "term-2025-autumn/Lesson 12 (24.11.2025)/1762631378798 (1).jpg"
+  ],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 10,
+    "date": "2025-11-10"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "Millainen sää ... on?",
+    "en": "What is the weather like in ...?"
+  },
+  "topics": [
+    "weather",
+    "local-cases",
+    "place-names"
+  ],
+  "summary": "World map with weather symbols and temperatures for 15 cities; pair practice \"Millainen sää X:ssä on?\" following the model answer for Delhi.",
+  "transcript": "Malli:   – Millainen sää Delhissä on?   – Siellä on hyvä ilma. Aurinko paistaa ja on kuuma. On +39 astetta.\n[Map] Nuuk +0 (cloud, rain/snow); Vancouver +9 (fog); New York +15 (cloud); Los Angeles +17 (sun & cloud); Berliini +14 (wind); Novosibirsk -5 (cloud, snow); Tokio +20 (sun & cloud, wind); Delhi +39 (sun); Dakar +25 (sun); Caracas +17 (rain); Nairobi +22 (thunderstorm); Singapore +28 (thunderstorm); Buenos Aires +15 (cloud); Kapkaupunki +19 (wind); Sydney +10 (sun, wind)",
+  "words": [
+    {
+      "fi": "malli",
+      "en": "model, example",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "millainen",
+      "en": "what kind of, what … like",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "sää",
+      "en": "weather",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "siellä",
+      "en": "there",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "hyvä",
+      "en": "good",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "ilma",
+      "en": "weather; air",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "aurinko",
+      "en": "sun",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "paistaa",
+      "en": "to shine",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "paistaa",
+      "theme": "weather"
+    },
+    {
+      "fi": "kuuma",
+      "en": "hot",
+      "pos": "adj",
+      "theme": "weather"
+    },
+    {
+      "fi": "aste",
+      "en": "degree",
+      "pos": "noun",
+      "form_seen": "astetta",
+      "theme": "weather"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "on",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "Kapkaupunki",
+      "en": "Cape Town",
+      "pos": "proper",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Berliini",
+      "en": "Berlin",
+      "pos": "proper",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Tokio",
+      "en": "Tokyo",
+      "pos": "proper",
+      "theme": "places-town"
+    },
+    {
+      "fi": "ja",
+      "en": "and",
+      "pos": "conj",
+      "theme": "little-words"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Malli",
+        "en": "Model"
+      },
+      "kind": "dialogue",
+      "lines": [
+        {
+          "speaker": "A",
+          "fi": "Millainen sää Delhissä on?",
+          "en": "What is the weather like in Delhi?"
+        },
+        {
+          "speaker": "B",
+          "fi": "Siellä on hyvä ilma. Aurinko paistaa ja on kuuma. On +39 astetta.",
+          "en": "The weather is good there. The sun is shining and it is hot. It is +39 degrees."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Millainen sää ... on? (map)",
+      "instruction": "Ask and answer about the weather in each city, following the model.",
+      "topic": "weather",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "– Millainen sää Vancouverissa on? (fog, +9)",
+          "answer": "Siellä on sumuista. On +9 astetta.",
+          "en": "What is the weather like in Vancouver? — It is foggy there. It is +9 degrees."
+        },
+        {
+          "prompt": "– Millainen sää Nuukissa on? (cloud, rain+snow, +0)",
+          "answer": "Siellä on pilvistä ja sataa räntää. On 0 astetta.",
+          "en": "What is the weather like in Nuuk? — It is cloudy and sleeting there. It is 0 degrees."
+        },
+        {
+          "prompt": "– Millainen sää Los Angelesissa on? (sun+cloud, +17)",
+          "answer": "Siellä on puolipilvistä. On +17 astetta.",
+          "en": "What is the weather like in Los Angeles? — It is partly cloudy there. It is +17 degrees."
+        },
+        {
+          "prompt": "– Millainen sää New Yorkissa on? (cloud, +15)",
+          "answer": "Siellä on pilvistä. On +15 astetta.",
+          "en": "What is the weather like in New York? — It is cloudy there. It is +15 degrees."
+        },
+        {
+          "prompt": "– Millainen sää Berliinissä on? (wind, +14)",
+          "answer": "Siellä tuulee. On +14 astetta.",
+          "en": "What is the weather like in Berlin? — It is windy there. It is +14 degrees."
+        },
+        {
+          "prompt": "– Millainen sää Novosibirskissa on? (cloud, snow, -5)",
+          "answer": "Siellä sataa lunta ja on kylmä. On -5 astetta.",
+          "en": "What is the weather like in Novosibirsk? — It is snowing and cold there. It is -5 degrees."
+        },
+        {
+          "prompt": "– Millainen sää Tokiossa on? (sun+cloud, wind, +20)",
+          "answer": "Siellä on puolipilvistä ja tuulee. On +20 astetta.",
+          "en": "What is the weather like in Tokyo? — It is partly cloudy and windy there. It is +20 degrees."
+        },
+        {
+          "prompt": "– Millainen sää Delhissä on? (sun, +39)",
+          "answer": "Siellä on hyvä ilma. Aurinko paistaa ja on kuuma. On +39 astetta.",
+          "en": "What is the weather like in Delhi? — The weather is good there. The sun is shining and it is hot. It is +39 degrees.",
+          "answer_source": "key"
+        },
+        {
+          "prompt": "– Millainen sää Dakarissa on? (sun, +25)",
+          "answer": "Siellä on aurinkoista ja lämmin. On +25 astetta.",
+          "en": "What is the weather like in Dakar? — It is sunny and warm there. It is +25 degrees."
+        },
+        {
+          "prompt": "– Millainen sää Caracasissa on? (cloud, rain, +17)",
+          "answer": "Siellä sataa vettä. On +17 astetta.",
+          "en": "What is the weather like in Caracas? — It is raining there. It is +17 degrees."
+        },
+        {
+          "prompt": "– Millainen sää Nairobissa on? (thunderstorm, +22)",
+          "answer": "Siellä on ukkonen ja sataa. On +22 astetta.",
+          "en": "What is the weather like in Nairobi? — There is a thunderstorm and it is raining there. It is +22 degrees."
+        },
+        {
+          "prompt": "– Millainen sää Singaporessa on? (thunderstorm, +28)",
+          "answer": "Siellä on ukkonen ja sataa. On +28 astetta.",
+          "en": "What is the weather like in Singapore? — There is a thunderstorm and it is raining there. It is +28 degrees."
+        },
+        {
+          "prompt": "– Millainen sää Buenos Airesissa on? (cloud, +15)",
+          "answer": "Siellä on pilvistä. On +15 astetta.",
+          "en": "What is the weather like in Buenos Aires? — It is cloudy there. It is +15 degrees."
+        },
+        {
+          "prompt": "– Millainen sää Kapkaupungissa on? (wind, +19)",
+          "answer": "Siellä tuulee. On +19 astetta.",
+          "en": "What is the weather like in Cape Town? — It is windy there. It is +19 degrees."
+        },
+        {
+          "prompt": "– Millainen sää Sydneyssä on? (sun, wind, +10)",
+          "answer": "Siellä aurinko paistaa ja tuulee. On +10 astetta.",
+          "en": "What is the weather like in Sydney? — The sun is shining and it is windy there. It is +10 degrees."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": []
+}

@@ -1,0 +1,782 @@
+{
+  "source": "term-2025-autumn/Lesson 12 (24.11.2025)/JOULUMYYJÄISET absot.odt",
+  "md5": "12d33142b09a6d931ac7635dfff52c45",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 12,
+    "date": "2025-11-24"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "JOULUMYYJÄISET SUOMALAISELLA KIRKOLLA JA SUOMESSA",
+    "en": "Christmas fair at the Finnish church and in Finland"
+  },
+  "topics": [
+    "partitive",
+    "questions-ko",
+    "have-adessive",
+    "numbers",
+    "negation"
+  ],
+  "summary": "Translation exercise set at a Christmas fair: 37 English sentences (asking for the toilet, ordering food and drinks, paying, Christmas items) to say in Finnish, with key vocabulary given in brackets.",
+  "transcript": "JOULUMYYJÄISET SUOMALAISELLA KIRKOLLA JA SUOMESSA\n\nKUINKA SANOT SUOMEKSI:\n\n0.  Excuse me, where is your toilet? (vessa)\n\n1.  How much is the entrance fee? (sisäänpääsymaksu)\n\n2.  weWdon´t have an entrance fee. This is a free event. (ilmainen; tapahtuma)\n\n3.  Where are your shopping baskets and shopping trolleys? (ostoskori; ostoskärry)\n\n4.  Where is your cafe?\n\n5.  How about the grill? (grilli)\n\n6.  Excuse me, is the grill open? (auki/ avoinna)\n\n7.  Excuse me, is this seat free? (paikka; vapaa)\n\n8.  No, it is taken. (varatttu)\n\n9.  Are those three chairs taken? (tuoli)\n\n10. Do you have any mustard or ketchup?\n\n11. Do you have any vegetarian peasoup? (kasvishernekeitto)\n\n12. Two vegetarian sausages and a glass of beer. (kasvis-)\n\n13. I am a vegan. Is the mashed potato vegan? (vegaani; perunamuusi; vegaaninen)\n\n14. Do you have any more ryebread? (any more/some more= lisää)\n\n15. May I have some reindeer stew and some lingonberry jam? (May I have= Saanko?; poronkäristys; puolukkahillo)\n\n16. May I have some more butter?\n\n17. Two alcohol-free mulled wines, please. (alkoholiton; mulled wine= glögi)\n\n18. Two alcoholic mulled wines please and two spoons. (terästetty)\n\n19. Two black coffees, one hot chocolate and two Karelian pies.\n\n20. Three warm Karelian pies, please.\n\n21. One black tea, two coffees and some milk, please.\n\n22. Do you have any soy milk? How about oat milk or almond milk? (soijamaito; kauramaito; mantelimaito)\n\n23. Is this bun lactose free?\n\n24. May I have a piece of that gluten-free blueberry pie, please?\n\n25. Three cinnamon buns to go please. May I have two small paper bags, please? (mukaan; paperipussi)\n\n26. Where are your tills? May I pay by contactless? I don´t have any cash. (kassa; lähimaksu; käteinen)\n\n27. How much do the plastic bags cost? (muovikassi)\n\n28. We are standing in the queue. (jono)\n\n29. Will you pay these Christmas decorations? (joulukoriste)\n\n30. Excuse me, where are the alcoholic drinks? (alkoholijuomat)\n\n31. May I have a bottle of Kyrö Gin, please?\n\n32. I will buy some Fazer milk chocolate and a couple of bags of licorice. (pari)\n\n33. Excuse me, who is playing the piano and who is singing? (soittaa pianoa)\n\n34. This advent calendar is expensive. (joulukalenteri; kallis)\n\n35. Shall we buy five red candles and ten Christmas cards? (kynttilä; joulukortti)\n\n36. Is your (plural ”you”) Christmas tree real or is it a plastic tree? (joulukuusi > ”kuusi”= spruce, a fir tree; oikea; muovi-)",
+  "words": [
+    {
+      "fi": "joulumyyjäiset",
+      "en": "Christmas fair",
+      "pos": "noun",
+      "theme": "celebrations",
+      "note": "plural only"
+    },
+    {
+      "fi": "suomalainen",
+      "en": "Finnish",
+      "pos": "adj",
+      "form_seen": "suomalaisella",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "kirkko",
+      "en": "church",
+      "pos": "noun",
+      "form_seen": "kirkolla",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Suomi",
+      "en": "Finland",
+      "pos": "proper",
+      "form_seen": "Suomessa",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "suomeksi",
+      "en": "in Finnish",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "sanoa",
+      "en": "to say",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "sanot",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "anteeksi",
+      "en": "excuse me, sorry",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "vessa",
+      "en": "toilet",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "sisäänpääsymaksu",
+      "en": "entrance fee",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "ilmainen",
+      "en": "free (of charge)",
+      "pos": "adj",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "tapahtuma",
+      "en": "event",
+      "pos": "noun",
+      "theme": "celebrations"
+    },
+    {
+      "fi": "ostoskori",
+      "en": "shopping basket",
+      "pos": "noun",
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "ostoskärry",
+      "en": "shopping trolley",
+      "pos": "noun",
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "kahvila",
+      "en": "café",
+      "pos": "noun",
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "grilli",
+      "en": "grill",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "auki",
+      "en": "open",
+      "pos": "adv",
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "avoinna",
+      "en": "open",
+      "pos": "adv",
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "paikka",
+      "en": "seat, place",
+      "pos": "noun",
+      "theme": "cafe-shop",
+      "note": "kk → k: paikat"
+    },
+    {
+      "fi": "vapaa",
+      "en": "free, vacant",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "varattu",
+      "en": "taken, reserved",
+      "pos": "adj",
+      "theme": "cafe-shop",
+      "note": "sheet misspells 'varatttu'"
+    },
+    {
+      "fi": "tuoli",
+      "en": "chair",
+      "pos": "noun",
+      "theme": "furniture"
+    },
+    {
+      "fi": "sinappi",
+      "en": "mustard",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "ketsuppi",
+      "en": "ketchup",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kasvishernekeitto",
+      "en": "vegetarian pea soup",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kasvis-",
+      "en": "vegetarian (prefix)",
+      "pos": "adj",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kasvismakkara",
+      "en": "vegetarian sausage",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "lasi",
+      "en": "glass",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "olut",
+      "en": "beer",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "vegaani",
+      "en": "vegan (person)",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "perunamuusi",
+      "en": "mashed potato",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "vegaaninen",
+      "en": "vegan (adj.)",
+      "pos": "adj",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "lisää",
+      "en": "more, some more",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "ruisleipä",
+      "en": "rye bread",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "saada",
+      "en": "to get, to receive; (saanko?) may I have?",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "saanko",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "poronkäristys",
+      "en": "sautéed reindeer (reindeer stew)",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "puolukkahillo",
+      "en": "lingonberry jam",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "voi",
+      "en": "butter",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "alkoholiton",
+      "en": "alcohol-free",
+      "pos": "adj",
+      "theme": "drinks"
+    },
+    {
+      "fi": "glögi",
+      "en": "mulled wine",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "terästetty",
+      "en": "spiked, alcoholic (of a drink)",
+      "pos": "adj",
+      "theme": "drinks"
+    },
+    {
+      "fi": "lusikka",
+      "en": "spoon",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "musta",
+      "en": "black",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "kahvi",
+      "en": "coffee",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "kaakao",
+      "en": "hot chocolate",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "karjalanpiirakka",
+      "en": "Karelian pie",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "lämmin",
+      "en": "warm",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "tee",
+      "en": "tea",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "maito",
+      "en": "milk",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "soijamaito",
+      "en": "soy milk",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "kauramaito",
+      "en": "oat milk",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "mantelimaito",
+      "en": "almond milk",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "pulla",
+      "en": "bun",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "laktoositon",
+      "en": "lactose-free",
+      "pos": "adj",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "pala",
+      "en": "piece",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "gluteeniton",
+      "en": "gluten-free",
+      "pos": "adj",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "mustikkapiirakka",
+      "en": "blueberry pie",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "korvapuusti",
+      "en": "cinnamon bun",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "mukaan",
+      "en": "to go, along",
+      "pos": "adv",
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "pieni",
+      "en": "small",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "paperipussi",
+      "en": "paper bag",
+      "pos": "noun",
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "kassa",
+      "en": "till, check-out",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "maksaa",
+      "en": "to pay; to cost",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "lähimaksu",
+      "en": "contactless payment",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "käteinen",
+      "en": "cash",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "muovikassi",
+      "en": "plastic bag",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "seistä",
+      "en": "to stand",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "seisomme",
+      "theme": "common-verbs",
+      "note": "also seisoa (type 1)"
+    },
+    {
+      "fi": "jono",
+      "en": "queue",
+      "pos": "noun",
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "joulukoriste",
+      "en": "Christmas decoration",
+      "pos": "noun",
+      "theme": "celebrations"
+    },
+    {
+      "fi": "alkoholijuoma",
+      "en": "alcoholic drink",
+      "pos": "noun",
+      "form_seen": "alkoholijuomat",
+      "theme": "drinks"
+    },
+    {
+      "fi": "pullo",
+      "en": "bottle",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "ostaa",
+      "en": "to buy",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "maitosuklaa",
+      "en": "milk chocolate",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "pari",
+      "en": "a couple (of)",
+      "pos": "noun",
+      "theme": "numbers"
+    },
+    {
+      "fi": "pussi",
+      "en": "bag",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "lakritsi",
+      "en": "licorice",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kuka",
+      "en": "who",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "soittaa",
+      "en": "to play (an instrument)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "hobbies-sport",
+      "note": "soittaa pianoa"
+    },
+    {
+      "fi": "piano",
+      "en": "piano",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "laulaa",
+      "en": "to sing",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "joulukalenteri",
+      "en": "advent calendar",
+      "pos": "noun",
+      "theme": "celebrations"
+    },
+    {
+      "fi": "kallis",
+      "en": "expensive",
+      "pos": "adj",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "punainen",
+      "en": "red",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "kynttilä",
+      "en": "candle",
+      "pos": "noun",
+      "theme": "celebrations"
+    },
+    {
+      "fi": "joulukortti",
+      "en": "Christmas card",
+      "pos": "noun",
+      "theme": "celebrations"
+    },
+    {
+      "fi": "joulukuusi",
+      "en": "Christmas tree",
+      "pos": "noun",
+      "theme": "celebrations"
+    },
+    {
+      "fi": "kuusi",
+      "en": "spruce, fir tree",
+      "pos": "noun",
+      "theme": "nature"
+    },
+    {
+      "fi": "oikea",
+      "en": "real",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "muovi",
+      "en": "plastic",
+      "pos": "noun",
+      "theme": "household"
+    },
+    {
+      "fi": "missä",
+      "en": "where",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "kiitos",
+      "en": "please; thank you",
+      "pos": "interj",
+      "theme": "greetings"
+    }
+  ],
+  "texts": [],
+  "exercises": [
+    {
+      "title": "Kuinka sanot suomeksi?",
+      "instruction": "How do you say it in Finnish? (partitive, questions with -ko/-kö, 'Saanko...?')",
+      "topic": "partitive",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "1. Excuse me, where is your toilet?",
+          "answer": "Anteeksi, missä teidän vessa on?",
+          "en": "Excuse me, where is your toilet?"
+        },
+        {
+          "prompt": "2. How much is the entrance fee?",
+          "answer": "Paljonko sisäänpääsymaksu on?",
+          "en": "How much is the entrance fee?"
+        },
+        {
+          "prompt": "3. We don't have an entrance fee. This is a free event.",
+          "answer": "Meillä ei ole sisäänpääsymaksua. Tämä on ilmainen tapahtuma.",
+          "en": "We don't have an entrance fee. This is a free event."
+        },
+        {
+          "prompt": "4. Where are your shopping baskets and shopping trolleys?",
+          "answer": "Missä teidän ostoskorit ja ostoskärryt ovat?",
+          "en": "Where are your shopping baskets and shopping trolleys?"
+        },
+        {
+          "prompt": "5. Where is your cafe?",
+          "answer": "Missä teidän kahvila on?",
+          "en": "Where is your cafe?"
+        },
+        {
+          "prompt": "6. How about the grill?",
+          "answer": "Entä grilli?",
+          "en": "How about the grill?"
+        },
+        {
+          "prompt": "7. Excuse me, is the grill open?",
+          "answer": "Anteeksi, onko grilli auki?",
+          "en": "Excuse me, is the grill open?"
+        },
+        {
+          "prompt": "8. Excuse me, is this seat free?",
+          "answer": "Anteeksi, onko tämä paikka vapaa?",
+          "en": "Excuse me, is this seat free?"
+        },
+        {
+          "prompt": "9. No, it is taken.",
+          "answer": "Ei, se on varattu.",
+          "en": "No, it is taken."
+        },
+        {
+          "prompt": "10. Are those three chairs taken?",
+          "answer": "Ovatko nuo kolme tuolia varattuja?",
+          "en": "Are those three chairs taken?"
+        },
+        {
+          "prompt": "11. Do you have any mustard or ketchup?",
+          "answer": "Onko teillä sinappia tai ketsuppia?",
+          "en": "Do you have any mustard or ketchup?"
+        },
+        {
+          "prompt": "12. Do you have any vegetarian peasoup?",
+          "answer": "Onko teillä kasvishernekeittoa?",
+          "en": "Do you have any vegetarian peasoup?"
+        },
+        {
+          "prompt": "13. Two vegetarian sausages and a glass of beer.",
+          "answer": "Kaksi kasvismakkaraa ja lasi olutta, kiitos.",
+          "en": "Two vegetarian sausages and a glass of beer."
+        },
+        {
+          "prompt": "14. I am a vegan. Is the mashed potato vegan?",
+          "answer": "Minä olen vegaani. Onko perunamuusi vegaaninen?",
+          "en": "I am a vegan. Is the mashed potato vegan?"
+        },
+        {
+          "prompt": "15. Do you have any more ryebread?",
+          "answer": "Onko teillä lisää ruisleipää?",
+          "en": "Do you have any more ryebread?"
+        },
+        {
+          "prompt": "16. May I have some reindeer stew and some lingonberry jam?",
+          "answer": "Saanko poronkäristystä ja puolukkahilloa?",
+          "en": "May I have some reindeer stew and some lingonberry jam?"
+        },
+        {
+          "prompt": "17. May I have some more butter?",
+          "answer": "Saanko lisää voita?",
+          "en": "May I have some more butter?"
+        },
+        {
+          "prompt": "18. Two alcohol-free mulled wines, please.",
+          "answer": "Kaksi alkoholitonta glögiä, kiitos.",
+          "en": "Two alcohol-free mulled wines, please."
+        },
+        {
+          "prompt": "19. Two alcoholic mulled wines please and two spoons.",
+          "answer": "Kaksi terästettyä glögiä ja kaksi lusikkaa, kiitos.",
+          "en": "Two alcoholic mulled wines please and two spoons."
+        },
+        {
+          "prompt": "20. Two black coffees, one hot chocolate and two Karelian pies.",
+          "answer": "Kaksi mustaa kahvia, yksi kaakao ja kaksi karjalanpiirakkaa, kiitos.",
+          "en": "Two black coffees, one hot chocolate and two Karelian pies."
+        },
+        {
+          "prompt": "21. Three warm Karelian pies, please.",
+          "answer": "Kolme lämmintä karjalanpiirakkaa, kiitos.",
+          "en": "Three warm Karelian pies, please."
+        },
+        {
+          "prompt": "22. One black tea, two coffees and some milk, please.",
+          "answer": "Yksi musta tee, kaksi kahvia ja maitoa, kiitos.",
+          "en": "One black tea, two coffees and some milk, please."
+        },
+        {
+          "prompt": "23. Do you have any soy milk? How about oat milk or almond milk?",
+          "answer": "Onko teillä soijamaitoa? Entä kauramaitoa tai mantelimaitoa?",
+          "en": "Do you have any soy milk? How about oat milk or almond milk?"
+        },
+        {
+          "prompt": "24. Is this bun lactose free?",
+          "answer": "Onko tämä pulla laktoositon?",
+          "en": "Is this bun lactose free?"
+        },
+        {
+          "prompt": "25. May I have a piece of that gluten-free blueberry pie, please?",
+          "answer": "Saanko palan tuota gluteenitonta mustikkapiirakkaa, kiitos?",
+          "en": "May I have a piece of that gluten-free blueberry pie, please?"
+        },
+        {
+          "prompt": "26. Three cinnamon buns to go please. May I have two small paper bags, please?",
+          "answer": "Kolme korvapuustia mukaan, kiitos. Saanko kaksi pientä paperipussia?",
+          "en": "Three cinnamon buns to go please. May I have two small paper bags, please?"
+        },
+        {
+          "prompt": "27. Where are your tills? May I pay by contactless? I don't have any cash.",
+          "answer": "Missä teidän kassat ovat? Voinko maksaa lähimaksulla? Minulla ei ole käteistä.",
+          "en": "Where are your tills? May I pay by contactless? I don't have any cash."
+        },
+        {
+          "prompt": "28. How much do the plastic bags cost?",
+          "answer": "Paljonko muovikassit maksavat?",
+          "en": "How much do the plastic bags cost?"
+        },
+        {
+          "prompt": "29. We are standing in the queue.",
+          "answer": "Me seisomme jonossa.",
+          "en": "We are standing in the queue."
+        },
+        {
+          "prompt": "30. Will you pay these Christmas decorations?",
+          "answer": "Maksatko sinä nämä joulukoristeet?",
+          "en": "Will you pay these Christmas decorations?"
+        },
+        {
+          "prompt": "31. Excuse me, where are the alcoholic drinks?",
+          "answer": "Anteeksi, missä alkoholijuomat ovat?",
+          "en": "Excuse me, where are the alcoholic drinks?"
+        },
+        {
+          "prompt": "32. May I have a bottle of Kyrö Gin, please?",
+          "answer": "Saanko pullon Kyrö Giniä, kiitos?",
+          "en": "May I have a bottle of Kyrö Gin, please?"
+        },
+        {
+          "prompt": "33. I will buy some Fazer milk chocolate and a couple of bags of licorice.",
+          "answer": "Minä ostan Fazerin maitosuklaata ja pari pussia lakritsia.",
+          "en": "I will buy some Fazer milk chocolate and a couple of bags of licorice."
+        },
+        {
+          "prompt": "34. Excuse me, who is playing the piano and who is singing?",
+          "answer": "Anteeksi, kuka soittaa pianoa ja kuka laulaa?",
+          "en": "Excuse me, who is playing the piano and who is singing?"
+        },
+        {
+          "prompt": "35. This advent calendar is expensive.",
+          "answer": "Tämä joulukalenteri on kallis.",
+          "en": "This advent calendar is expensive."
+        },
+        {
+          "prompt": "36. Shall we buy five red candles and ten Christmas cards?",
+          "answer": "Ostetaanko viisi punaista kynttilää ja kymmenen joulukorttia?",
+          "en": "Shall we buy five red candles and ten Christmas cards?"
+        },
+        {
+          "prompt": "37. Is your (plural \"you\") Christmas tree real or is it a plastic tree?",
+          "answer": "Onko teidän joulukuusi oikea vai muovikuusi?",
+          "en": "Is your (plural \"you\") Christmas tree real or is it a plastic tree?"
+        }
+      ]
+    }
+  ],
+  "grammar_notes": []
+}

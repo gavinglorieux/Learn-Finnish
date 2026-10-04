@@ -1,0 +1,646 @@
+{
+  "source": "term-2025-autumn/Lesson 4 (22.9.2025)/KYSYMYSSANAT.docx",
+  "md5": "45bec267244f9f957cd1deb6379b2bdc",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 4,
+    "date": "2025-09-22"
+  },
+  "kind": "grammar",
+  "title": {
+    "fi": "KYSYMYSSANAT",
+    "en": "Question words"
+  },
+  "topics": [
+    "question-words"
+  ],
+  "summary": "Reference list of Finnish question words (mikä, mitä, kuka, kenen, kuinka/miten, miksi, millainen, milloin, missä, mistä, mihin…) with usage notes and example questions.",
+  "transcript": "KYSYMYSSANAT = QUESTION WORDS\nMIKÄ? = WHAT? Mikä sinun nimi on? Mikä sinun ammatti on? Mikä tämä on? (used when asking about ONE SINGULAR OBJECT, what it is)\nMITÄ? = WHAT? Mitä sinä teet? Mitä sinulle kuuluu? Mitä sinä syöt aamulla? (general question word for ”WHAT?”. While ”MIKÄ” is only used with the verb ”ON”, this is used with all other kinds of verbs and with indefinite objects)\nKUKA? = WHO? Kuka hän on? Kuka sinä olet? Kuka Englannin pääministeri on nyt?\nKENEN? = WHOSE? Kenen laukku tämä on? = Whose bag is this? Kenen kanssa hän on naimisissa? = Who is she married to?\nMINKÄ MAALAINEN? = WHAT NATIONALITY? Minkä maalainen sinä olet / hän on?\nKUINKA?/ MITEN? = HOW? Kuinka vanha sinä olet? Kuinka pitkä sinä olet? Miten menee? = How is it going? Kuinka kylmä ulkona on?= How cold is it outside? Kuinka sinä matkustat töihin? =How do you travel to work? Kuinka usein? = How often?\nMIKSI? = WHY? Miksi sinulla on kartta mukana? = Why do you have a map with you? Miksi sinä olet väsynyt? = Why are you tired? Miksi opiskelet suomea?\nMILLAINEN? = WHAT (SOMETHING IS) LIKE? Millainen sinun pomo on? = What is your boss like? Millainen Helsinki on? = What is Helsinki like?\nMILLOIN / KOSKA? = WHEN? Milloin sinulla on syntymäpäivä? = When do you have your birthday? Milloin olet töissä? = When are you working / at work?\nMISSÄ?= WHERE IN / AT? Missä sinä olet? Missä te asutte? Missä sinä haluat istua?\nMISTÄ? = WHERE FROM? ABOUT WHAT..? Mistä te tulette? Mistä hän on kotoisin? Mistä he puhuvat? Mistä sinä tykkäät?\nMIHIN? / MINNE? = WHERE TO? Mihin te menette? Mihin sinä matkustat kesällä? Mihin he lähtevät huomenna?\nMIHIN AIKAAN? = WHAT TIME (SOMETHING HAPPENS) Mihin aikaan te tulette? Mihin aikaan juna lähtee? Mihin aikaan kurssi alkaa?",
+  "words": [
+    {
+      "fi": "kysymyssana",
+      "en": "question word",
+      "pos": "noun",
+      "form_seen": "kysymyssanat",
+      "theme": "classroom"
+    },
+    {
+      "fi": "mikä",
+      "en": "what (one singular thing; with 'on')",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "mitä",
+      "en": "what (general; with other verbs)",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "kuka",
+      "en": "who",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "kenen",
+      "en": "whose",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "minkä maalainen",
+      "en": "what nationality",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "kuinka",
+      "en": "how",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "miten",
+      "en": "how",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "miksi",
+      "en": "why",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "millainen",
+      "en": "what (something is) like",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "milloin",
+      "en": "when",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "koska",
+      "en": "when (also 'because')",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "missä",
+      "en": "where (in/at)",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "mistä",
+      "en": "where from; about what",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "mihin",
+      "en": "where to",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "minne",
+      "en": "where to",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "mihin aikaan",
+      "en": "at what time",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "kuinka usein",
+      "en": "how often",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "nimi",
+      "en": "name",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "ammatti",
+      "en": "profession",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "tämä",
+      "en": "this",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "tehdä",
+      "en": "to do, to make",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "teet",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kuulua",
+      "en": "to be heard; (mitä kuuluu) how are things",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "kuuluu",
+      "theme": "greetings"
+    },
+    {
+      "fi": "syödä",
+      "en": "to eat",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "syöt",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "aamulla",
+      "en": "in the morning",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "Englanti",
+      "en": "England",
+      "pos": "proper",
+      "form_seen": "Englannin",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "pääministeri",
+      "en": "prime minister",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "nyt",
+      "en": "now",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "laukku",
+      "en": "bag",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "kanssa",
+      "en": "with",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "naimisissa",
+      "en": "married",
+      "pos": "adv",
+      "theme": "family"
+    },
+    {
+      "fi": "vanha",
+      "en": "old",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "pitkä",
+      "en": "tall; long",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "mennä",
+      "en": "to go",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "menee",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kylmä",
+      "en": "cold",
+      "pos": "adj",
+      "theme": "weather"
+    },
+    {
+      "fi": "ulkona",
+      "en": "outside",
+      "pos": "adv",
+      "theme": "places-town"
+    },
+    {
+      "fi": "matkustaa",
+      "en": "to travel",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "matkustat",
+      "theme": "travel"
+    },
+    {
+      "fi": "työ",
+      "en": "work",
+      "pos": "noun",
+      "form_seen": "töihin",
+      "theme": "school-work"
+    },
+    {
+      "fi": "usein",
+      "en": "often",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "kartta",
+      "en": "map",
+      "pos": "noun",
+      "theme": "travel"
+    },
+    {
+      "fi": "mukana",
+      "en": "with (one), along",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "väsynyt",
+      "en": "tired",
+      "pos": "adj",
+      "theme": "feelings"
+    },
+    {
+      "fi": "opiskella",
+      "en": "to study",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "opiskelet",
+      "theme": "school-work"
+    },
+    {
+      "fi": "suomi",
+      "en": "Finnish (language)",
+      "pos": "noun",
+      "form_seen": "suomea",
+      "theme": "classroom"
+    },
+    {
+      "fi": "pomo",
+      "en": "boss",
+      "pos": "noun",
+      "theme": "school-work"
+    },
+    {
+      "fi": "syntymäpäivä",
+      "en": "birthday",
+      "pos": "noun",
+      "theme": "celebrations"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "asua",
+      "en": "to live",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "asutte",
+      "theme": "home"
+    },
+    {
+      "fi": "haluta",
+      "en": "to want",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "haluat",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "istua",
+      "en": "to sit",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "tulla",
+      "en": "to come",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "tulette",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kotoisin",
+      "en": "originally from",
+      "pos": "adv",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "puhua",
+      "en": "to speak, to talk",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "puhuvat",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "tykätä",
+      "en": "to like",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "tykkäät",
+      "theme": "feelings",
+      "note": "tykätä + -sta; t → tt: tykkään"
+    },
+    {
+      "fi": "kesällä",
+      "en": "in summer",
+      "pos": "adv",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "lähteä",
+      "en": "to leave",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "lähtevät",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "huomenna",
+      "en": "tomorrow",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "aika",
+      "en": "time",
+      "pos": "noun",
+      "form_seen": "aikaan",
+      "theme": "clock"
+    },
+    {
+      "fi": "juna",
+      "en": "train",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "kurssi",
+      "en": "course",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "alkaa",
+      "en": "to begin, to start",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Kysymyssanat – esimerkit",
+        "en": "Question words – examples"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Mikä sinun nimi on?",
+          "en": "What is your name?"
+        },
+        {
+          "fi": "Mikä sinun ammatti on?",
+          "en": "What is your profession?"
+        },
+        {
+          "fi": "Mikä tämä on?",
+          "en": "What is this?"
+        },
+        {
+          "fi": "Mitä sinä teet?",
+          "en": "What are you doing?"
+        },
+        {
+          "fi": "Mitä sinulle kuuluu?",
+          "en": "How are you?"
+        },
+        {
+          "fi": "Mitä sinä syöt aamulla?",
+          "en": "What do you eat in the morning?"
+        },
+        {
+          "fi": "Kuka hän on?",
+          "en": "Who is he/she?"
+        },
+        {
+          "fi": "Kuka sinä olet?",
+          "en": "Who are you?"
+        },
+        {
+          "fi": "Kuka Englannin pääministeri on nyt?",
+          "en": "Who is the Prime Minister of England now?"
+        },
+        {
+          "fi": "Kenen laukku tämä on?",
+          "en": "Whose bag is this?"
+        },
+        {
+          "fi": "Kenen kanssa hän on naimisissa?",
+          "en": "Who is she married to?"
+        },
+        {
+          "fi": "Minkä maalainen sinä olet / hän on?",
+          "en": "What nationality are you / is he/she?"
+        },
+        {
+          "fi": "Kuinka vanha sinä olet?",
+          "en": "How old are you?"
+        },
+        {
+          "fi": "Kuinka pitkä sinä olet?",
+          "en": "How tall are you?"
+        },
+        {
+          "fi": "Miten menee?",
+          "en": "How is it going?"
+        },
+        {
+          "fi": "Kuinka kylmä ulkona on?",
+          "en": "How cold is it outside?"
+        },
+        {
+          "fi": "Kuinka sinä matkustat töihin?",
+          "en": "How do you travel to work?"
+        },
+        {
+          "fi": "Kuinka usein?",
+          "en": "How often?"
+        },
+        {
+          "fi": "Miksi sinulla on kartta mukana?",
+          "en": "Why do you have a map with you?"
+        },
+        {
+          "fi": "Miksi sinä olet väsynyt?",
+          "en": "Why are you tired?"
+        },
+        {
+          "fi": "Miksi opiskelet suomea?",
+          "en": "Why are you studying Finnish?"
+        },
+        {
+          "fi": "Millainen sinun pomo on?",
+          "en": "What is your boss like?"
+        },
+        {
+          "fi": "Millainen Helsinki on?",
+          "en": "What is Helsinki like?"
+        },
+        {
+          "fi": "Milloin sinulla on syntymäpäivä?",
+          "en": "When is your birthday?"
+        },
+        {
+          "fi": "Milloin olet töissä?",
+          "en": "When are you working / at work?"
+        },
+        {
+          "fi": "Missä sinä olet?",
+          "en": "Where are you?"
+        },
+        {
+          "fi": "Missä te asutte?",
+          "en": "Where do you live?"
+        },
+        {
+          "fi": "Missä sinä haluat istua?",
+          "en": "Where do you want to sit?"
+        },
+        {
+          "fi": "Mistä te tulette?",
+          "en": "Where do you come from?"
+        },
+        {
+          "fi": "Mistä hän on kotoisin?",
+          "en": "Where is he/she from?"
+        },
+        {
+          "fi": "Mistä he puhuvat?",
+          "en": "What are they talking about?"
+        },
+        {
+          "fi": "Mistä sinä tykkäät?",
+          "en": "What do you like?"
+        },
+        {
+          "fi": "Mihin te menette?",
+          "en": "Where are you going?"
+        },
+        {
+          "fi": "Mihin sinä matkustat kesällä?",
+          "en": "Where are you travelling in summer?"
+        },
+        {
+          "fi": "Mihin he lähtevät huomenna?",
+          "en": "Where are they leaving for tomorrow?"
+        },
+        {
+          "fi": "Mihin aikaan te tulette?",
+          "en": "What time are you coming?"
+        },
+        {
+          "fi": "Mihin aikaan juna lähtee?",
+          "en": "What time does the train leave?"
+        },
+        {
+          "fi": "Mihin aikaan kurssi alkaa?",
+          "en": "What time does the course start?"
+        }
+      ]
+    }
+  ],
+  "exercises": [],
+  "grammar_notes": [
+    {
+      "topic": "question-words",
+      "heading": "KYSYMYSSANAT = QUESTION WORDS",
+      "text": "MIKÄ is used when asking about one singular object, only with the verb 'on'; MITÄ is the general 'what?' used with all other verbs and with indefinite objects.",
+      "table": [
+        [
+          "mikä?",
+          "what? (one thing, with 'on')"
+        ],
+        [
+          "mitä?",
+          "what? (general)"
+        ],
+        [
+          "kuka?",
+          "who?"
+        ],
+        [
+          "kenen?",
+          "whose?"
+        ],
+        [
+          "minkä maalainen?",
+          "what nationality?"
+        ],
+        [
+          "kuinka? / miten?",
+          "how?"
+        ],
+        [
+          "miksi?",
+          "why?"
+        ],
+        [
+          "millainen?",
+          "what (something is) like?"
+        ],
+        [
+          "milloin? / koska?",
+          "when?"
+        ],
+        [
+          "missä?",
+          "where (in/at)?"
+        ],
+        [
+          "mistä?",
+          "where from? about what?"
+        ],
+        [
+          "mihin? / minne?",
+          "where to?"
+        ],
+        [
+          "mihin aikaan?",
+          "at what time?"
+        ]
+      ]
+    }
+  ]
+}

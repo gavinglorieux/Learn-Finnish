@@ -1,0 +1,693 @@
+{
+  "source": "term-2026-winter/Lesson 12 (30.3.2026)/RUOKA kpt maanantai.docx",
+  "md5": "091fc9379c7058d9fdb0583a10b7d1aa",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 12,
+    "date": "2026-03-30"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "Ruoka: ruoat — KPT",
+    "en": "Food: plural forms and consonant gradation"
+  },
+  "topics": [
+    "kpt-nouns",
+    "plural",
+    "partitive",
+    "inner-local-cases",
+    "likes-pitaa"
+  ],
+  "summary": "Food vocabulary list (33 words) to put into the -t plural with KPT changes (persikka → persikat, papu → pavut, leipä → leivät …), followed by 15 English sentences about food and the kitchen to translate into Finnish.",
+  "transcript": "RUOKA: RUOAT\n\nPut the food words into T-ending plural form:\n\nPERSIKKA: PERSIKAT - peach\n\nSITRUUNA: SITRUUNAT - lemon\n\nVIINIRYPÄLE:\n\nSALAATTI:\n\nKURKKU:\n\nPAPU:\n\nHERNE:\n\nTOMAATTI:\n\nPORKKANA:\n\nMUSTIKKA:\n\nMANSIKKA:\n\nKIRSIKKA:\n\nMAKKARA:\n\nNAKKI:\n\nKATKARAPU:\n\nKEITTO:\n\nHAMPURILAINEN:\n\nMAKARONILAATIKKO:\n\nKARKKI:\n\nKAKKU:\n\nPULLA:\n\nPIIRAKKA:\n\nKEKSI:\n\nPIPPURI:\n\nSINAPPI:\n\nMAITO:\n\nKAAKAO:\n\nLEIPÄ:\n\nSÄMPYLÄ:\n\nKINKKU:\n\nJUUSTO:\n\nJOGURTTI:\n\nKuinka sanot seuraavat lauseet:\n\n1)  Where are the tomatoes?\n\n2)  I put them in the fridge.\n\n3)  Are the beers in the fridge?\n\n4)  I will make us some soup.\n\n5)  Will you bring the sandwichesto the garden?\n\n6)  I will put the strawberries into the box. (laatikko)\n\n7)  Are the cherries in the box?\n\n8)  Do you like macaroni bake?\n\n9)  I will put some ham onto the bread.\n\n10) Do you want some mustard?\n\n11) Who will bake the cakes? (leipoa)\n\n12) Grandma will bring her blueberry pies.\n\n13) Where are your vegetarian salads?\n\n14) The old cups are on a shelf in the cupboard.\n\n15) The plates are already on the table.",
+  "words": [
+    {
+      "fi": "ruoka",
+      "en": "food",
+      "pos": "noun",
+      "theme": "food-meals",
+      "note": "plural ruoat; k → ∅"
+    },
+    {
+      "fi": "persikka",
+      "en": "peach",
+      "pos": "noun",
+      "theme": "food-fruit-veg",
+      "note": "plural persikat; kk → k"
+    },
+    {
+      "fi": "sitruuna",
+      "en": "lemon",
+      "pos": "noun",
+      "theme": "food-fruit-veg",
+      "note": "plural sitruunat"
+    },
+    {
+      "fi": "viinirypäle",
+      "en": "grape",
+      "pos": "noun",
+      "theme": "food-fruit-veg",
+      "note": "plural viinirypäleet; e-word: -e → -ee-"
+    },
+    {
+      "fi": "salaatti",
+      "en": "salad; lettuce",
+      "pos": "noun",
+      "theme": "food-fruit-veg",
+      "note": "plural salaatit; tt → t"
+    },
+    {
+      "fi": "kurkku",
+      "en": "cucumber",
+      "pos": "noun",
+      "theme": "food-fruit-veg",
+      "note": "plural kurkut; kk → k"
+    },
+    {
+      "fi": "papu",
+      "en": "bean",
+      "pos": "noun",
+      "theme": "food-fruit-veg",
+      "note": "plural pavut; p → v"
+    },
+    {
+      "fi": "herne",
+      "en": "pea",
+      "pos": "noun",
+      "theme": "food-fruit-veg",
+      "note": "plural herneet; e-word: -e → -ee-"
+    },
+    {
+      "fi": "tomaatti",
+      "en": "tomato",
+      "pos": "noun",
+      "theme": "food-fruit-veg",
+      "note": "plural tomaatit; tt → t"
+    },
+    {
+      "fi": "porkkana",
+      "en": "carrot",
+      "pos": "noun",
+      "theme": "food-fruit-veg",
+      "note": "plural porkkanat"
+    },
+    {
+      "fi": "mustikka",
+      "en": "blueberry",
+      "pos": "noun",
+      "theme": "food-fruit-veg",
+      "note": "plural mustikat; kk → k"
+    },
+    {
+      "fi": "mansikka",
+      "en": "strawberry",
+      "pos": "noun",
+      "theme": "food-fruit-veg",
+      "note": "plural mansikat; kk → k"
+    },
+    {
+      "fi": "kirsikka",
+      "en": "cherry",
+      "pos": "noun",
+      "theme": "food-fruit-veg",
+      "note": "plural kirsikat; kk → k"
+    },
+    {
+      "fi": "makkara",
+      "en": "sausage",
+      "pos": "noun",
+      "theme": "food-meals",
+      "note": "plural makkarat"
+    },
+    {
+      "fi": "nakki",
+      "en": "frankfurter, hot dog sausage",
+      "pos": "noun",
+      "theme": "food-meals",
+      "note": "plural nakit; kk → k"
+    },
+    {
+      "fi": "katkarapu",
+      "en": "prawn, shrimp",
+      "pos": "noun",
+      "theme": "food-meals",
+      "note": "plural katkaravut; p → v"
+    },
+    {
+      "fi": "keitto",
+      "en": "soup",
+      "pos": "noun",
+      "theme": "food-meals",
+      "note": "plural keitot; tt → t"
+    },
+    {
+      "fi": "hampurilainen",
+      "en": "hamburger",
+      "pos": "noun",
+      "theme": "food-meals",
+      "note": "plural hampurilaiset; -nen → -se-"
+    },
+    {
+      "fi": "makaronilaatikko",
+      "en": "macaroni bake",
+      "pos": "noun",
+      "theme": "food-meals",
+      "note": "plural makaronilaatikot; kk → k"
+    },
+    {
+      "fi": "karkki",
+      "en": "sweet, candy",
+      "pos": "noun",
+      "theme": "food-meals",
+      "note": "plural karkit; kk → k"
+    },
+    {
+      "fi": "kakku",
+      "en": "cake",
+      "pos": "noun",
+      "theme": "food-meals",
+      "note": "plural kakut; kk → k"
+    },
+    {
+      "fi": "pulla",
+      "en": "sweet bun",
+      "pos": "noun",
+      "theme": "food-meals",
+      "note": "plural pullat"
+    },
+    {
+      "fi": "piirakka",
+      "en": "pie",
+      "pos": "noun",
+      "theme": "food-meals",
+      "note": "plural piirakat; kk → k"
+    },
+    {
+      "fi": "keksi",
+      "en": "biscuit, cookie",
+      "pos": "noun",
+      "theme": "food-meals",
+      "note": "plural keksit"
+    },
+    {
+      "fi": "pippuri",
+      "en": "pepper",
+      "pos": "noun",
+      "theme": "food-meals",
+      "note": "plural pippurit"
+    },
+    {
+      "fi": "sinappi",
+      "en": "mustard",
+      "pos": "noun",
+      "theme": "food-meals",
+      "note": "plural sinapit; pp → p"
+    },
+    {
+      "fi": "maito",
+      "en": "milk",
+      "pos": "noun",
+      "theme": "drinks",
+      "note": "plural maidot; t → d"
+    },
+    {
+      "fi": "kaakao",
+      "en": "cocoa",
+      "pos": "noun",
+      "theme": "drinks",
+      "note": "plural kaakaot"
+    },
+    {
+      "fi": "leipä",
+      "en": "bread",
+      "pos": "noun",
+      "theme": "food-meals",
+      "note": "plural leivät; p → v"
+    },
+    {
+      "fi": "sämpylä",
+      "en": "bread roll",
+      "pos": "noun",
+      "theme": "food-meals",
+      "note": "plural sämpylät"
+    },
+    {
+      "fi": "kinkku",
+      "en": "ham",
+      "pos": "noun",
+      "theme": "food-meals",
+      "note": "plural kinkut; kk → k"
+    },
+    {
+      "fi": "juusto",
+      "en": "cheese",
+      "pos": "noun",
+      "theme": "food-meals",
+      "note": "plural juustot"
+    },
+    {
+      "fi": "jogurtti",
+      "en": "yoghurt",
+      "pos": "noun",
+      "theme": "food-meals",
+      "note": "plural jogurtit; tt → t"
+    },
+    {
+      "fi": "missä",
+      "en": "where",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "panna",
+      "en": "to put",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "panen",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "jääkaappi",
+      "en": "fridge",
+      "pos": "noun",
+      "form_seen": "jääkaappiin",
+      "theme": "household",
+      "note": "pp → p"
+    },
+    {
+      "fi": "olut",
+      "en": "beer",
+      "pos": "noun",
+      "form_seen": "oluet",
+      "theme": "drinks"
+    },
+    {
+      "fi": "tehdä",
+      "en": "to make",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "teen",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "tuoda",
+      "en": "to bring",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "tuotko",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "voileipä",
+      "en": "sandwich",
+      "pos": "noun",
+      "form_seen": "voileivät",
+      "theme": "food-meals",
+      "note": "p → v"
+    },
+    {
+      "fi": "puutarha",
+      "en": "garden",
+      "pos": "noun",
+      "form_seen": "puutarhaan",
+      "theme": "garden"
+    },
+    {
+      "fi": "laatikko",
+      "en": "box",
+      "pos": "noun",
+      "form_seen": "laatikkoon",
+      "theme": "household",
+      "note": "kk → k"
+    },
+    {
+      "fi": "tykätä",
+      "en": "to like (+ -sta)",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "tykkäätkö",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "haluta",
+      "en": "to want",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "haluatko",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kuka",
+      "en": "who",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "leipoa",
+      "en": "to bake",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "leipoo",
+      "theme": "food-meals",
+      "note": "p → v (leivon)"
+    },
+    {
+      "fi": "mummo",
+      "en": "grandma",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "mustikkapiirakka",
+      "en": "blueberry pie",
+      "pos": "noun",
+      "form_seen": "mustikkapiirakat",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kasvissalaatti",
+      "en": "vegetarian salad",
+      "pos": "noun",
+      "form_seen": "kasvissalaatit",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "vanha",
+      "en": "old",
+      "pos": "adj",
+      "form_seen": "vanhat",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "kuppi",
+      "en": "cup",
+      "pos": "noun",
+      "form_seen": "kupit",
+      "theme": "tableware",
+      "note": "pp → p"
+    },
+    {
+      "fi": "hylly",
+      "en": "shelf",
+      "pos": "noun",
+      "form_seen": "hyllyllä",
+      "theme": "furniture"
+    },
+    {
+      "fi": "kaappi",
+      "en": "cupboard",
+      "pos": "noun",
+      "form_seen": "kaapissa",
+      "theme": "furniture",
+      "note": "pp → p"
+    },
+    {
+      "fi": "lautanen",
+      "en": "plate",
+      "pos": "noun",
+      "form_seen": "lautaset",
+      "theme": "tableware"
+    },
+    {
+      "fi": "jo",
+      "en": "already",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "pöytä",
+      "en": "table",
+      "pos": "noun",
+      "form_seen": "pöydällä",
+      "theme": "furniture",
+      "note": "t → d"
+    },
+    {
+      "fi": "päälle",
+      "en": "onto",
+      "pos": "postp",
+      "theme": "postpositions"
+    }
+  ],
+  "texts": [],
+  "exercises": [
+    {
+      "title": "Ruoka: ruoat — T-plural",
+      "instruction": "Put the food words into T-ending plural form.",
+      "topic": "kpt-nouns",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "VIINIRYPÄLE: ____",
+          "base": "viinirypäle",
+          "answer": "viinirypäleet",
+          "en": "grape"
+        },
+        {
+          "prompt": "SALAATTI: ____",
+          "base": "salaatti",
+          "answer": "salaatit",
+          "en": "salad; lettuce"
+        },
+        {
+          "prompt": "KURKKU: ____",
+          "base": "kurkku",
+          "answer": "kurkut",
+          "en": "cucumber"
+        },
+        {
+          "prompt": "PAPU: ____",
+          "base": "papu",
+          "answer": "pavut",
+          "en": "bean"
+        },
+        {
+          "prompt": "HERNE: ____",
+          "base": "herne",
+          "answer": "herneet",
+          "en": "pea"
+        },
+        {
+          "prompt": "TOMAATTI: ____",
+          "base": "tomaatti",
+          "answer": "tomaatit",
+          "en": "tomato"
+        },
+        {
+          "prompt": "PORKKANA: ____",
+          "base": "porkkana",
+          "answer": "porkkanat",
+          "en": "carrot"
+        },
+        {
+          "prompt": "MUSTIKKA: ____",
+          "base": "mustikka",
+          "answer": "mustikat",
+          "en": "blueberry"
+        },
+        {
+          "prompt": "MANSIKKA: ____",
+          "base": "mansikka",
+          "answer": "mansikat",
+          "en": "strawberry"
+        },
+        {
+          "prompt": "KIRSIKKA: ____",
+          "base": "kirsikka",
+          "answer": "kirsikat",
+          "en": "cherry"
+        },
+        {
+          "prompt": "MAKKARA: ____",
+          "base": "makkara",
+          "answer": "makkarat",
+          "en": "sausage"
+        },
+        {
+          "prompt": "NAKKI: ____",
+          "base": "nakki",
+          "answer": "nakit",
+          "en": "frankfurter, hot dog sausage"
+        },
+        {
+          "prompt": "KATKARAPU: ____",
+          "base": "katkarapu",
+          "answer": "katkaravut",
+          "en": "prawn, shrimp"
+        },
+        {
+          "prompt": "KEITTO: ____",
+          "base": "keitto",
+          "answer": "keitot",
+          "en": "soup"
+        },
+        {
+          "prompt": "HAMPURILAINEN: ____",
+          "base": "hampurilainen",
+          "answer": "hampurilaiset",
+          "en": "hamburger"
+        },
+        {
+          "prompt": "MAKARONILAATIKKO: ____",
+          "base": "makaronilaatikko",
+          "answer": "makaronilaatikot",
+          "en": "macaroni bake"
+        },
+        {
+          "prompt": "KARKKI: ____",
+          "base": "karkki",
+          "answer": "karkit",
+          "en": "sweet, candy"
+        },
+        {
+          "prompt": "KAKKU: ____",
+          "base": "kakku",
+          "answer": "kakut",
+          "en": "cake"
+        },
+        {
+          "prompt": "PULLA: ____",
+          "base": "pulla",
+          "answer": "pullat",
+          "en": "sweet bun"
+        },
+        {
+          "prompt": "PIIRAKKA: ____",
+          "base": "piirakka",
+          "answer": "piirakat",
+          "en": "pie"
+        },
+        {
+          "prompt": "KEKSI: ____",
+          "base": "keksi",
+          "answer": "keksit",
+          "en": "biscuit, cookie"
+        },
+        {
+          "prompt": "PIPPURI: ____",
+          "base": "pippuri",
+          "answer": "pippurit",
+          "en": "pepper"
+        },
+        {
+          "prompt": "SINAPPI: ____",
+          "base": "sinappi",
+          "answer": "sinapit",
+          "en": "mustard"
+        },
+        {
+          "prompt": "MAITO: ____",
+          "base": "maito",
+          "answer": "maidot",
+          "en": "milk"
+        },
+        {
+          "prompt": "KAAKAO: ____",
+          "base": "kaakao",
+          "answer": "kaakaot",
+          "en": "cocoa"
+        },
+        {
+          "prompt": "LEIPÄ: ____",
+          "base": "leipä",
+          "answer": "leivät",
+          "en": "bread"
+        },
+        {
+          "prompt": "SÄMPYLÄ: ____",
+          "base": "sämpylä",
+          "answer": "sämpylät",
+          "en": "bread roll"
+        },
+        {
+          "prompt": "KINKKU: ____",
+          "base": "kinkku",
+          "answer": "kinkut",
+          "en": "ham"
+        },
+        {
+          "prompt": "JUUSTO: ____",
+          "base": "juusto",
+          "answer": "juustot",
+          "en": "cheese"
+        },
+        {
+          "prompt": "JOGURTTI: ____",
+          "base": "jogurtti",
+          "answer": "jogurtit",
+          "en": "yoghurt"
+        }
+      ]
+    },
+    {
+      "title": "Kuinka sanot seuraavat lauseet",
+      "instruction": "How do you say the following sentences in Finnish?",
+      "topic": "kpt-nouns",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Where are the tomatoes?",
+          "answer": "Missä tomaatit ovat?"
+        },
+        {
+          "prompt": "I put them in the fridge.",
+          "answer": "Minä panen ne jääkaappiin."
+        },
+        {
+          "prompt": "Are the beers in the fridge?",
+          "answer": "Ovatko oluet jääkaapissa?"
+        },
+        {
+          "prompt": "I will make us some soup.",
+          "answer": "Minä teen meille keittoa."
+        },
+        {
+          "prompt": "Will you bring the sandwiches to the garden?",
+          "answer": "Tuotko voileivät puutarhaan?"
+        },
+        {
+          "prompt": "I will put the strawberries into the box. (laatikko)",
+          "answer": "Minä panen mansikat laatikkoon."
+        },
+        {
+          "prompt": "Are the cherries in the box?",
+          "answer": "Ovatko kirsikat laatikossa?"
+        },
+        {
+          "prompt": "Do you like macaroni bake?",
+          "answer": "Tykkäätkö makaronilaatikosta?"
+        },
+        {
+          "prompt": "I will put some ham onto the bread.",
+          "answer": "Minä panen kinkkua leivän päälle."
+        },
+        {
+          "prompt": "Do you want some mustard?",
+          "answer": "Haluatko sinappia?"
+        },
+        {
+          "prompt": "Who will bake the cakes? (leipoa)",
+          "answer": "Kuka leipoo kakut?"
+        },
+        {
+          "prompt": "Grandma will bring her blueberry pies.",
+          "answer": "Mummo tuo hänen mustikkapiirakat."
+        },
+        {
+          "prompt": "Where are your vegetarian salads?",
+          "answer": "Missä sinun kasvissalaatit ovat?"
+        },
+        {
+          "prompt": "The old cups are on a shelf in the cupboard.",
+          "answer": "Vanhat kupit ovat kaapissa hyllyllä."
+        },
+        {
+          "prompt": "The plates are already on the table.",
+          "answer": "Lautaset ovat jo pöydällä."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": []
+}

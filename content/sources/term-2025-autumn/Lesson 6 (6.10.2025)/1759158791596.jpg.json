@@ -1,0 +1,206 @@
+{
+  "source": "term-2025-autumn/Lesson 6 (6.10.2025)/1759158791596.jpg",
+  "md5": "adecb9110198c02fbe4de8acb924224d",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 6,
+    "date": "2025-10-06"
+  },
+  "kind": "picture_vocab",
+  "title": {
+    "fi": "Jälkiruoat, mausteet, astiat",
+    "en": "Desserts, condiments, tableware"
+  },
+  "topics": [],
+  "summary": "Illustrated textbook page labelling desserts/sweets (Jälkiruoat), condiments (Mausteet) and tableware/kitchenware (Astiat).",
+  "transcript": "Jälkiruoat\njäätelö, kakku, pulla, karkki, suklaa, piirakka, keksi\nMausteet\npippuri, sokeri, ketsuppi, sinappi, suola, öljy, etikka\nAstiat\nkattila, paistinpannu, tarjotin, lautanen, lasi, pullo, haarukka, veitsi, lusikka, kuppi, muki, kulho, lautasliina",
+  "words": [
+    {
+      "fi": "jälkiruoka",
+      "en": "dessert",
+      "pos": "noun",
+      "form_seen": "jälkiruoat",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "jäätelö",
+      "en": "ice cream",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kakku",
+      "en": "cake",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "pulla",
+      "en": "sweet bun (cardamom bun)",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "karkki",
+      "en": "sweet, candy",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "suklaa",
+      "en": "chocolate",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "piirakka",
+      "en": "pie, pastry",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "keksi",
+      "en": "biscuit, cookie",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "mauste",
+      "en": "spice, condiment, seasoning",
+      "pos": "noun",
+      "form_seen": "mausteet",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "pippuri",
+      "en": "pepper",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "sokeri",
+      "en": "sugar",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "ketsuppi",
+      "en": "ketchup",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "sinappi",
+      "en": "mustard",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "suola",
+      "en": "salt",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "öljy",
+      "en": "oil",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "etikka",
+      "en": "vinegar",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "astia",
+      "en": "dish, vessel (pl. astiat = dishes, tableware)",
+      "pos": "noun",
+      "form_seen": "astiat",
+      "theme": "tableware"
+    },
+    {
+      "fi": "kattila",
+      "en": "saucepan, pot",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "paistinpannu",
+      "en": "frying pan",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "tarjotin",
+      "en": "tray",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "lautanen",
+      "en": "plate",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "lasi",
+      "en": "glass",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "pullo",
+      "en": "bottle",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "haarukka",
+      "en": "fork",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "veitsi",
+      "en": "knife",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "lusikka",
+      "en": "spoon",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "kuppi",
+      "en": "cup",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "muki",
+      "en": "mug",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "kulho",
+      "en": "bowl",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "lautasliina",
+      "en": "napkin",
+      "pos": "noun",
+      "theme": "tableware"
+    }
+  ],
+  "texts": [],
+  "exercises": [],
+  "grammar_notes": []
+}

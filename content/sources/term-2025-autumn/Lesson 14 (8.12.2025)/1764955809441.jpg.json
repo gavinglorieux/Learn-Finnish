@@ -1,0 +1,211 @@
+{
+ "source": "term-2025-autumn/Lesson 14 (8.12.2025)/1764955809441.jpg",
+ "md5": "e9ef2a5ad5b31c9afe5ec2a5076aa98b",
+ "also_in": [
+  "term-2026-winter/Lesson 1 (12.1.2026)/1764955809441.jpg"
+ ],
+ "lesson": {
+  "term": "term-2025-autumn",
+  "number": 14,
+  "date": "2025-12-08"
+ },
+ "kind": "vocab_list",
+ "title": {
+  "fi": "Laukussa",
+  "en": "Things in a bag"
+ },
+ "topics": [
+  "partitive"
+ ],
+ "summary": "Word list of everyday items you carry in a bag (phone, keys, wallet, cards, documents…) in three columns, with an illustration of things falling out of a handbag. A faint handwritten note at the bottom reads '… 15.02'.",
+ "transcript": "puhelin\nkalenteri\ntietokone\nkynä\nkirja\nvesipullo\nbanaani\ncd\nkotiavain\nauton avain\n\nnenäliina\nkello\nkampa\nsateenvarjo\nkamera\nlompakko\nrahaa\npankkikortti\nbussilippu\nkirjastokortti\n\nopiskelijakortti\nhenkilötodistus\najokortti\nkäyntikortti\npassi\n…",
+ "words": [
+  {
+   "fi": "puhelin",
+   "en": "phone",
+   "pos": "noun",
+   "theme": "household"
+  },
+  {
+   "fi": "kalenteri",
+   "en": "diary, planner; calendar",
+   "pos": "noun",
+   "theme": "school-work"
+  },
+  {
+   "fi": "tietokone",
+   "en": "computer",
+   "pos": "noun",
+   "theme": "school-work"
+  },
+  {
+   "fi": "kynä",
+   "en": "pen, pencil",
+   "pos": "noun",
+   "theme": "classroom"
+  },
+  {
+   "fi": "kirja",
+   "en": "book",
+   "pos": "noun",
+   "theme": "classroom"
+  },
+  {
+   "fi": "vesipullo",
+   "en": "water bottle",
+   "pos": "noun",
+   "theme": "drinks"
+  },
+  {
+   "fi": "banaani",
+   "en": "banana",
+   "pos": "noun",
+   "theme": "food-fruit-veg"
+  },
+  {
+   "fi": "cd",
+   "en": "CD",
+   "pos": "noun",
+   "theme": "hobbies-sport",
+   "note": "pronounced 'cee-dee'"
+  },
+  {
+   "fi": "kotiavain",
+   "en": "house key",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "avain",
+   "en": "key",
+   "pos": "noun",
+   "theme": "home",
+   "note": "auton avain = car key"
+  },
+  {
+   "fi": "auto",
+   "en": "car",
+   "pos": "noun",
+   "theme": "transport",
+   "form_seen": "auton"
+  },
+  {
+   "fi": "nenäliina",
+   "en": "handkerchief, tissue",
+   "pos": "noun",
+   "theme": "health"
+  },
+  {
+   "fi": "kello",
+   "en": "watch, clock",
+   "pos": "noun",
+   "theme": "clock"
+  },
+  {
+   "fi": "kampa",
+   "en": "comb",
+   "pos": "noun",
+   "theme": "household",
+   "note": "mp → mm (kamman)"
+  },
+  {
+   "fi": "sateenvarjo",
+   "en": "umbrella",
+   "pos": "noun",
+   "theme": "weather"
+  },
+  {
+   "fi": "kamera",
+   "en": "camera",
+   "pos": "noun",
+   "theme": "hobbies-sport"
+  },
+  {
+   "fi": "lompakko",
+   "en": "wallet",
+   "pos": "noun",
+   "theme": "shopping-money",
+   "note": "kk → k (lompakon)"
+  },
+  {
+   "fi": "raha",
+   "en": "money",
+   "pos": "noun",
+   "theme": "shopping-money",
+   "form_seen": "rahaa",
+   "note": "partitive: rahaa = (some) money"
+  },
+  {
+   "fi": "pankkikortti",
+   "en": "bank card, debit card",
+   "pos": "noun",
+   "theme": "shopping-money"
+  },
+  {
+   "fi": "bussilippu",
+   "en": "bus ticket",
+   "pos": "noun",
+   "theme": "transport"
+  },
+  {
+   "fi": "kirjastokortti",
+   "en": "library card",
+   "pos": "noun",
+   "theme": "places-town"
+  },
+  {
+   "fi": "opiskelijakortti",
+   "en": "student card",
+   "pos": "noun",
+   "theme": "school-work"
+  },
+  {
+   "fi": "henkilötodistus",
+   "en": "identity card, ID",
+   "pos": "noun",
+   "theme": "travel"
+  },
+  {
+   "fi": "ajokortti",
+   "en": "driving licence",
+   "pos": "noun",
+   "theme": "transport"
+  },
+  {
+   "fi": "käyntikortti",
+   "en": "business card",
+   "pos": "noun",
+   "theme": "school-work"
+  },
+  {
+   "fi": "passi",
+   "en": "passport",
+   "pos": "noun",
+   "theme": "travel"
+  },
+  {
+   "fi": "kortti",
+   "en": "card",
+   "pos": "noun",
+   "theme": "shopping-money",
+   "note": "tt → t (kortin)"
+  },
+  {
+   "fi": "laukku",
+   "en": "bag, handbag",
+   "pos": "noun",
+   "theme": "clothes",
+   "note": "shown in the picture; kk → k (laukussa)"
+  },
+  {
+   "fi": "hansikas",
+   "en": "glove",
+   "pos": "noun",
+   "theme": "clothes",
+   "note": "shown in the picture only"
+  }
+ ],
+ "texts": [],
+ "exercises": [],
+ "grammar_notes": []
+}

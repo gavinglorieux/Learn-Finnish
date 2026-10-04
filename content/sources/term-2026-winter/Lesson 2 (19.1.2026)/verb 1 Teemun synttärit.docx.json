@@ -1,0 +1,685 @@
+{
+  "source": "term-2026-winter/Lesson 2 (19.1.2026)/verb 1 Teemun synttärit.docx",
+  "md5": "fdafa6f7366d7d70a8ffa9bde4d1cfc6",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 2,
+    "date": "2026-01-19"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "PIKKU-TEEMUN SYNTTÄRIT",
+    "en": "Little Teemu's birthday party"
+  },
+  "topics": [
+    "verb-type-1",
+    "kpt-verbs",
+    "negation",
+    "have-adessive"
+  ],
+  "summary": "Gap-fill story about little Teemu's 5th birthday party: conjugate verb type 1 verbs (täyttää, aikoa, kutsua, leipoa, soittaa, jaksaa...) given in English/Finnish, with a vocabulary list.",
+  "transcript": "PIKKU-TEEMUN SYNTTÄRIT\n\nPikku-Teemu ____ (turns= TÄYTTÄÄ) ensi perjantaina 5 vuotta.\n\nHän ____ (plans to / is going to= AIKOA) pitää syntymäpäiväjuhlat. Hän\n\n____ (invites= KUTSUA) kuusi koulukaveria synttäreille. Hän ………….\n\n____ (wishes/ hopes= TOIVOA), että Juhan, Pasin, Annamarin, Petran, Petterin\n\nja Eemelin äidit ____(let= ANTAA) heidän tulla kylään.\n\nTorstaina äiti ja Teemu ____ (bake= LEIPOA) kaksi syntymäpäiväkakkua:\n\ntoinen on suklaakakku ja toinen on mansikkakakku. He ____\n\n(put= LAITTAA) kermakakkuun vähän kiivi-hedelmää, mansikkahilloa, paljon kermavaahtoa\n\nja viisi kynttilää. Synttäripäivänä Teemu ____ (blows= PUHALTAA)\n\nkynttilät ja ____ (wishes= TOIVOA), että äiti ja isä ____\n\n____(buy) hänelle paljon karkkia joka päivä hänen elämän loppuun asti.\n\nJa hänen kaverit ____ (give= ANTAA) hänelle kaikkea kivaa.\n\nSynttäreillä on musiikkia, mutta kukaan ____ (doesn´t dance).\n\nMutta Teemulla ja hänen isoveljellä on monta soitinta: kitara, pieni piano, tamburiini, huilu ja\n\npienet rummut. Ja hänen siskolla on viulu ja klarinetti. He kaikki ____\n\n(play= SOITTAA) jotain. Ehkä hän ja kaverit ____ (play) jotain myös,\n\nesimerkiksi ”Paljon Onnea Vaan”. Teemu ____(doesn´t have the\n\npatience= JAKSAA) odottaa, että on jo perjantai.\n\npitää juhlat= to have a party koulukaveri= school friend synttärit= birthday party tulla kylään= to come for a visit kerma= cream vähän= a little bit hedelmä= piece of fruit kermavaahto= whipped cream kynttilä= candle elämä=life loppu= end asti= all the way to, until kaikkea kivaa= all kinds of nice things kukaan= anybody > ei kukaan not anybody soitin= musical instrument huilu= flute rummut= drums viulu= violin jotain= something ehkä= kenties= perhaps esimerkiksi= for example odottaa= to wait että= that",
+  "words": [
+    {
+      "fi": "täyttää",
+      "en": "to turn (age); to fill",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "celebrations",
+      "note": "tt → t: täytän"
+    },
+    {
+      "fi": "aikoa",
+      "en": "to plan to, to be going to",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "aikoo",
+      "theme": "common-verbs",
+      "note": "k → ∅: aion"
+    },
+    {
+      "fi": "pitää",
+      "en": "to have (a party); to hold; to like",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "celebrations",
+      "note": "tt → t: pidän"
+    },
+    {
+      "fi": "kutsua",
+      "en": "to invite",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "kutsuu",
+      "theme": "celebrations"
+    },
+    {
+      "fi": "toivoa",
+      "en": "to hope, to wish",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "toivoo",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "antaa",
+      "en": "to give; to let",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "antavat",
+      "theme": "common-verbs",
+      "note": "nt → nn: annan"
+    },
+    {
+      "fi": "leipoa",
+      "en": "to bake",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "leipovat",
+      "theme": "food-meals",
+      "note": "p → v: leivon"
+    },
+    {
+      "fi": "laittaa",
+      "en": "to put",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "laittavat",
+      "theme": "common-verbs",
+      "note": "tt → t: laitan"
+    },
+    {
+      "fi": "puhaltaa",
+      "en": "to blow",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "celebrations",
+      "note": "lt → ll: puhallan"
+    },
+    {
+      "fi": "ostaa",
+      "en": "to buy",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "ostavat",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "tanssia",
+      "en": "to dance",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "tanssi",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "soittaa",
+      "en": "to play (an instrument)",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "soittavat",
+      "theme": "hobbies-sport",
+      "note": "tt → t: soitan"
+    },
+    {
+      "fi": "jaksaa",
+      "en": "to have the energy/patience to",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "jaksa",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "odottaa",
+      "en": "to wait",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "tt → t: odotan"
+    },
+    {
+      "fi": "tulla",
+      "en": "to come",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "pikku-",
+      "en": "little (prefix)",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "synttärit",
+      "en": "birthday party (colloquial)",
+      "pos": "noun",
+      "form_seen": "synttäreille",
+      "theme": "celebrations",
+      "note": "plural only"
+    },
+    {
+      "fi": "ensi",
+      "en": "next",
+      "pos": "adj",
+      "theme": "days-time"
+    },
+    {
+      "fi": "perjantai",
+      "en": "Friday",
+      "pos": "noun",
+      "form_seen": "perjantaina",
+      "theme": "days-time"
+    },
+    {
+      "fi": "vuosi",
+      "en": "year",
+      "pos": "noun",
+      "form_seen": "vuotta",
+      "theme": "days-time"
+    },
+    {
+      "fi": "syntymäpäiväjuhlat",
+      "en": "birthday party",
+      "pos": "noun",
+      "theme": "celebrations",
+      "note": "plural only"
+    },
+    {
+      "fi": "juhlat",
+      "en": "party",
+      "pos": "noun",
+      "theme": "celebrations",
+      "note": "plural only"
+    },
+    {
+      "fi": "koulukaveri",
+      "en": "school friend",
+      "pos": "noun",
+      "form_seen": "koulukaveria",
+      "theme": "school-work"
+    },
+    {
+      "fi": "äiti",
+      "en": "mother",
+      "pos": "noun",
+      "form_seen": "äidit",
+      "theme": "family"
+    },
+    {
+      "fi": "kylään",
+      "en": "(to come) for a visit",
+      "pos": "adv",
+      "theme": "celebrations",
+      "note": "tulla kylään"
+    },
+    {
+      "fi": "torstai",
+      "en": "Thursday",
+      "pos": "noun",
+      "form_seen": "torstaina",
+      "theme": "days-time"
+    },
+    {
+      "fi": "syntymäpäiväkakku",
+      "en": "birthday cake",
+      "pos": "noun",
+      "form_seen": "syntymäpäiväkakkua",
+      "theme": "celebrations"
+    },
+    {
+      "fi": "toinen",
+      "en": "one (of two); the other",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "suklaakakku",
+      "en": "chocolate cake",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "mansikkakakku",
+      "en": "strawberry cake",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kermakakku",
+      "en": "cream cake",
+      "pos": "noun",
+      "form_seen": "kermakakkuun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kerma",
+      "en": "cream",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "vähän",
+      "en": "a little bit",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kiivi",
+      "en": "kiwi",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "hedelmä",
+      "en": "fruit",
+      "pos": "noun",
+      "form_seen": "hedelmää",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "mansikkahillo",
+      "en": "strawberry jam",
+      "pos": "noun",
+      "form_seen": "mansikkahilloa",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "paljon",
+      "en": "a lot",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kermavaahto",
+      "en": "whipped cream",
+      "pos": "noun",
+      "form_seen": "kermavaahtoa",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kynttilä",
+      "en": "candle",
+      "pos": "noun",
+      "form_seen": "kynttilää",
+      "theme": "celebrations"
+    },
+    {
+      "fi": "synttäripäivä",
+      "en": "birthday",
+      "pos": "noun",
+      "form_seen": "synttäripäivänä",
+      "theme": "celebrations"
+    },
+    {
+      "fi": "isä",
+      "en": "father",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "karkki",
+      "en": "sweets",
+      "pos": "noun",
+      "form_seen": "karkkia",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "joka",
+      "en": "every",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "päivä",
+      "en": "day",
+      "pos": "noun",
+      "theme": "days-time"
+    },
+    {
+      "fi": "elämä",
+      "en": "life",
+      "pos": "noun",
+      "form_seen": "elämän",
+      "theme": "other"
+    },
+    {
+      "fi": "loppu",
+      "en": "end",
+      "pos": "noun",
+      "form_seen": "loppuun",
+      "theme": "other"
+    },
+    {
+      "fi": "asti",
+      "en": "until, all the way to",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "kaveri",
+      "en": "friend",
+      "pos": "noun",
+      "form_seen": "kaverit",
+      "theme": "people"
+    },
+    {
+      "fi": "kaikkea kivaa",
+      "en": "all kinds of nice things",
+      "pos": "phrase",
+      "theme": "little-words"
+    },
+    {
+      "fi": "musiikki",
+      "en": "music",
+      "pos": "noun",
+      "form_seen": "musiikkia",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "kukaan",
+      "en": "anybody; (ei kukaan) nobody",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "isoveli",
+      "en": "big brother",
+      "pos": "noun",
+      "form_seen": "isoveljellä",
+      "theme": "family"
+    },
+    {
+      "fi": "monta",
+      "en": "many",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "soitin",
+      "en": "musical instrument",
+      "pos": "noun",
+      "form_seen": "soitinta",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "kitara",
+      "en": "guitar",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "pieni",
+      "en": "small",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "piano",
+      "en": "piano",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "tamburiini",
+      "en": "tambourine",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "huilu",
+      "en": "flute",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "rummut",
+      "en": "drums",
+      "pos": "noun",
+      "theme": "hobbies-sport",
+      "note": "plural of rumpu"
+    },
+    {
+      "fi": "sisko",
+      "en": "sister",
+      "pos": "noun",
+      "form_seen": "siskolla",
+      "theme": "family"
+    },
+    {
+      "fi": "viulu",
+      "en": "violin",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "klarinetti",
+      "en": "clarinet",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "kaikki",
+      "en": "all, everyone",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "jotain",
+      "en": "something",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "ehkä",
+      "en": "perhaps",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kenties",
+      "en": "perhaps",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "myös",
+      "en": "also",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "esimerkiksi",
+      "en": "for example",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "paljon onnea",
+      "en": "happy birthday, congratulations",
+      "pos": "phrase",
+      "theme": "celebrations"
+    },
+    {
+      "fi": "jo",
+      "en": "already",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "että",
+      "en": "that",
+      "pos": "conj",
+      "theme": "little-words"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Pikku-Teemun synttärit",
+        "en": "Little Teemu's birthday party"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Pikku-Teemu täyttää ensi perjantaina 5 vuotta.",
+          "en": "Little Teemu turns 5 next Friday."
+        },
+        {
+          "fi": "Hän aikoo pitää syntymäpäiväjuhlat.",
+          "en": "He is going to have a birthday party."
+        },
+        {
+          "fi": "Hän kutsuu kuusi koulukaveria synttäreille.",
+          "en": "He invites six school friends to his party."
+        },
+        {
+          "fi": "Hän toivoo, että Juhan, Pasin, Annamarin, Petran, Petterin ja Eemelin äidit antavat heidän tulla kylään.",
+          "en": "He hopes that Juha's, Pasi's, Annamari's, Petra's, Petteri's and Eemeli's mothers let them come over."
+        },
+        {
+          "fi": "Torstaina äiti ja Teemu leipovat kaksi syntymäpäiväkakkua: toinen on suklaakakku ja toinen on mansikkakakku.",
+          "en": "On Thursday mum and Teemu bake two birthday cakes: one is a chocolate cake and the other is a strawberry cake."
+        },
+        {
+          "fi": "He laittavat kermakakkuun vähän kiivihedelmää, mansikkahilloa, paljon kermavaahtoa ja viisi kynttilää.",
+          "en": "They put a little kiwi fruit, strawberry jam, lots of whipped cream and five candles on the cream cake."
+        },
+        {
+          "fi": "Synttäripäivänä Teemu puhaltaa kynttilät ja toivoo, että äiti ja isä ostavat hänelle paljon karkkia joka päivä hänen elämän loppuun asti.",
+          "en": "On his birthday Teemu blows out the candles and wishes that mum and dad buy him lots of sweets every day until the end of his life."
+        },
+        {
+          "fi": "Ja hänen kaverit antavat hänelle kaikkea kivaa.",
+          "en": "And his friends give him all kinds of nice things."
+        },
+        {
+          "fi": "Synttäreillä on musiikkia, mutta kukaan ei tanssi.",
+          "en": "There is music at the party, but nobody dances."
+        },
+        {
+          "fi": "Mutta Teemulla ja hänen isoveljellä on monta soitinta: kitara, pieni piano, tamburiini, huilu ja pienet rummut.",
+          "en": "But Teemu and his big brother have many instruments: a guitar, a small piano, a tambourine, a flute and small drums."
+        },
+        {
+          "fi": "Ja hänen siskolla on viulu ja klarinetti.",
+          "en": "And his sister has a violin and a clarinet."
+        },
+        {
+          "fi": "He kaikki soittavat jotain.",
+          "en": "They all play something."
+        },
+        {
+          "fi": "Ehkä hän ja kaverit soittavat jotain myös, esimerkiksi \"Paljon Onnea Vaan\".",
+          "en": "Perhaps he and his friends play something too, for example 'Happy Birthday'."
+        },
+        {
+          "fi": "Teemu ei jaksa odottaa, että on jo perjantai.",
+          "en": "Teemu can't wait for it to be Friday already."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Pikku-Teemun synttärit",
+      "instruction": "Fill in the verb type 1 verbs in the correct form.",
+      "topic": "verb-type-1",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Pikku-Teemu ____ (turns = TÄYTTÄÄ) ensi perjantaina 5 vuotta.",
+          "base": "täyttää",
+          "answer": "täyttää",
+          "en": "Little Teemu turns 5 next Friday."
+        },
+        {
+          "prompt": "Hän ____ (plans to / is going to = AIKOA) pitää syntymäpäiväjuhlat.",
+          "base": "aikoa",
+          "answer": "aikoo",
+          "en": "He is going to have a birthday party."
+        },
+        {
+          "prompt": "Hän ____ (invites = KUTSUA) kuusi koulukaveria synttäreille.",
+          "base": "kutsua",
+          "answer": "kutsuu",
+          "en": "He invites six school friends to the party."
+        },
+        {
+          "prompt": "Hän ____ (wishes / hopes = TOIVOA), että Juhan, Pasin, Annamarin, Petran, Petterin ja Eemelin äidit ...",
+          "base": "toivoa",
+          "answer": "toivoo",
+          "en": "He hopes that the mothers of Juha, Pasi, Annamari, Petra, Petteri and Eemeli ..."
+        },
+        {
+          "prompt": "... äidit ____ (let = ANTAA) heidän tulla kylään.",
+          "base": "antaa",
+          "answer": "antavat",
+          "en": "... let them come over."
+        },
+        {
+          "prompt": "Torstaina äiti ja Teemu ____ (bake = LEIPOA) kaksi syntymäpäiväkakkua: toinen on suklaakakku ja toinen on mansikkakakku.",
+          "base": "leipoa",
+          "answer": "leipovat",
+          "en": "On Thursday mum and Teemu bake two birthday cakes: one is a chocolate cake and the other a strawberry cake."
+        },
+        {
+          "prompt": "He ____ (put = LAITTAA) kermakakkuun vähän kiivihedelmää, mansikkahilloa, paljon kermavaahtoa ja viisi kynttilää.",
+          "base": "laittaa",
+          "answer": "laittavat",
+          "en": "They put a little kiwi fruit, strawberry jam, lots of whipped cream and five candles on the cream cake."
+        },
+        {
+          "prompt": "Synttäripäivänä Teemu ____ (blows = PUHALTAA) kynttilät ...",
+          "base": "puhaltaa",
+          "answer": "puhaltaa",
+          "en": "On his birthday Teemu blows out the candles ..."
+        },
+        {
+          "prompt": "... ja ____ (wishes = TOIVOA), että äiti ja isä ...",
+          "base": "toivoa",
+          "answer": "toivoo",
+          "en": "... and wishes that mum and dad ..."
+        },
+        {
+          "prompt": "... äiti ja isä ____ (buy) hänelle paljon karkkia joka päivä hänen elämän loppuun asti.",
+          "base": "ostaa",
+          "answer": "ostavat",
+          "en": "... buy him lots of sweets every day until the end of his life."
+        },
+        {
+          "prompt": "Ja hänen kaverit ____ (give = ANTAA) hänelle kaikkea kivaa.",
+          "base": "antaa",
+          "answer": "antavat",
+          "en": "And his friends give him all kinds of nice things."
+        },
+        {
+          "prompt": "Synttäreillä on musiikkia, mutta kukaan ____ (doesn't dance).",
+          "base": "tanssia",
+          "answer": "ei tanssi",
+          "en": "There is music at the party, but nobody dances."
+        },
+        {
+          "prompt": "He kaikki ____ (play = SOITTAA) jotain.",
+          "base": "soittaa",
+          "answer": "soittavat",
+          "en": "They all play something."
+        },
+        {
+          "prompt": "Ehkä hän ja kaverit ____ (play) jotain myös, esimerkiksi \"Paljon Onnea Vaan\".",
+          "base": "soittaa",
+          "answer": "soittavat",
+          "en": "Perhaps he and his friends also play something, for example 'Happy Birthday'."
+        },
+        {
+          "prompt": "Teemu ____ (doesn't have the patience = JAKSAA) odottaa, että on jo perjantai.",
+          "base": "jaksaa",
+          "answer": "ei jaksa",
+          "en": "Teemu can't wait for it to be Friday already."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": []
+}

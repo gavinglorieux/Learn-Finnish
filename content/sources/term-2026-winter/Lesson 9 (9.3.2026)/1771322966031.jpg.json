@@ -1,0 +1,314 @@
+{
+  "source": "term-2026-winter/Lesson 9 (9.3.2026)/1771322966031.jpg",
+  "md5": "e9c85a8dfb3d32b4d7bf945d79a17c47",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 9,
+    "date": "2026-03-09"
+  },
+  "kind": "picture_vocab",
+  "title": {
+    "fi": "Ihmiset ja kehonosat",
+    "en": "People and body parts"
+  },
+  "topics": [
+    "plural",
+    "kpt-nouns"
+  ],
+  "summary": "Children's picture vocabulary page (syllabified): 12 body parts and 5 people words, each with its nominative plural (pää – päät, käsi – kädet, jalka – jalat, poika – pojat …); a rabbit says 'Tässä on pää.'",
+  "transcript": "Ih-mi-set ja ke-hon-o-sat\npää / päät\nne-nä / ne-nät\nsuu / suut\nsil-mä / sil-mät\nkor-va / kor-vat\nkä-si / kä-det\nsor-mi / sor-met\njal-ka / ja-lat\nvar-vas / var-paat\nhius / hiuk-set\nvat-sa / vat-sat\npep-pu / pe-put\n(puhekupla:) Täs-sä on pää.\nnai-nen / nai-set\ntyt-tö / ty-töt\nmies / mie-het\npoi-ka / po-jat\nvau-va / vau-vat",
+  "texts": [
+    {
+      "title": {
+        "fi": "Puhekupla",
+        "en": "Speech bubble"
+      },
+      "kind": "dialogue",
+      "lines": [
+        {
+          "speaker": "Jänis",
+          "fi": "Tässä on pää.",
+          "en": "Here is the head."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "plural",
+      "heading": "Yksikkö – monikko (nominatiivi)",
+      "text": "Nominative plural -t, with consonant gradation / stem changes.",
+      "table": [
+        [
+          "pää",
+          "päät"
+        ],
+        [
+          "nenä",
+          "nenät"
+        ],
+        [
+          "suu",
+          "suut"
+        ],
+        [
+          "silmä",
+          "silmät"
+        ],
+        [
+          "korva",
+          "korvat"
+        ],
+        [
+          "käsi",
+          "kädet"
+        ],
+        [
+          "sormi",
+          "sormet"
+        ],
+        [
+          "jalka",
+          "jalat"
+        ],
+        [
+          "varvas",
+          "varpaat"
+        ],
+        [
+          "hius",
+          "hiukset"
+        ],
+        [
+          "vatsa",
+          "vatsat"
+        ],
+        [
+          "peppu",
+          "peput"
+        ],
+        [
+          "nainen",
+          "naiset"
+        ],
+        [
+          "tyttö",
+          "tytöt"
+        ],
+        [
+          "mies",
+          "miehet"
+        ],
+        [
+          "poika",
+          "pojat"
+        ],
+        [
+          "vauva",
+          "vauvat"
+        ]
+      ]
+    }
+  ],
+  "words": [
+    {
+      "fi": "pää",
+      "en": "head",
+      "pos": "noun",
+      "forms": {
+        "plural": "päät"
+      },
+      "theme": "body"
+    },
+    {
+      "fi": "nenä",
+      "en": "nose",
+      "pos": "noun",
+      "forms": {
+        "plural": "nenät"
+      },
+      "theme": "body"
+    },
+    {
+      "fi": "suu",
+      "en": "mouth",
+      "pos": "noun",
+      "forms": {
+        "plural": "suut"
+      },
+      "theme": "body"
+    },
+    {
+      "fi": "silmä",
+      "en": "eye",
+      "pos": "noun",
+      "forms": {
+        "plural": "silmät"
+      },
+      "theme": "body"
+    },
+    {
+      "fi": "korva",
+      "en": "ear",
+      "pos": "noun",
+      "forms": {
+        "plural": "korvat"
+      },
+      "theme": "body"
+    },
+    {
+      "fi": "käsi",
+      "en": "hand, arm",
+      "pos": "noun",
+      "forms": {
+        "plural": "kädet"
+      },
+      "note": "si → de: kädet",
+      "theme": "body"
+    },
+    {
+      "fi": "sormi",
+      "en": "finger",
+      "pos": "noun",
+      "forms": {
+        "plural": "sormet"
+      },
+      "note": "sormet",
+      "theme": "body"
+    },
+    {
+      "fi": "jalka",
+      "en": "foot, leg",
+      "pos": "noun",
+      "forms": {
+        "plural": "jalat"
+      },
+      "note": "lk → l: jalat",
+      "theme": "body"
+    },
+    {
+      "fi": "varvas",
+      "en": "toe",
+      "pos": "noun",
+      "forms": {
+        "plural": "varpaat"
+      },
+      "note": "p → pp (strong in plural): varpaat",
+      "theme": "body"
+    },
+    {
+      "fi": "hius",
+      "en": "hair (a single hair; pl. = hair)",
+      "pos": "noun",
+      "forms": {
+        "plural": "hiukset"
+      },
+      "note": "hiukset",
+      "theme": "body"
+    },
+    {
+      "fi": "vatsa",
+      "en": "stomach, tummy",
+      "pos": "noun",
+      "forms": {
+        "plural": "vatsat"
+      },
+      "theme": "body"
+    },
+    {
+      "fi": "peppu",
+      "en": "bottom, bum",
+      "pos": "noun",
+      "forms": {
+        "plural": "peput"
+      },
+      "note": "pp → p: peput",
+      "theme": "body"
+    },
+    {
+      "fi": "nainen",
+      "en": "woman",
+      "pos": "noun",
+      "forms": {
+        "plural": "naiset"
+      },
+      "note": "-nen → -set",
+      "theme": "people"
+    },
+    {
+      "fi": "tyttö",
+      "en": "girl",
+      "pos": "noun",
+      "forms": {
+        "plural": "tytöt"
+      },
+      "note": "tt → t: tytöt",
+      "theme": "people"
+    },
+    {
+      "fi": "mies",
+      "en": "man",
+      "pos": "noun",
+      "forms": {
+        "plural": "miehet"
+      },
+      "note": "miehet",
+      "theme": "people"
+    },
+    {
+      "fi": "poika",
+      "en": "boy",
+      "pos": "noun",
+      "forms": {
+        "plural": "pojat"
+      },
+      "note": "k → j: pojat",
+      "theme": "people"
+    },
+    {
+      "fi": "vauva",
+      "en": "baby",
+      "pos": "noun",
+      "forms": {
+        "plural": "vauvat"
+      },
+      "theme": "people"
+    },
+    {
+      "fi": "ihminen",
+      "en": "person, human",
+      "pos": "noun",
+      "form_seen": "ihmiset",
+      "theme": "people"
+    },
+    {
+      "fi": "kehonosa",
+      "en": "body part",
+      "pos": "noun",
+      "form_seen": "kehonosat",
+      "theme": "body"
+    },
+    {
+      "fi": "tässä",
+      "en": "here",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "ja",
+      "en": "and",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "on",
+      "theme": "common-verbs"
+    }
+  ],
+  "exercises": []
+}

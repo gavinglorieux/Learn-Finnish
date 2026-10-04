@@ -1,0 +1,437 @@
+{
+  "source": "term-2025-autumn/Lesson 1 (1.9.2025)/1755623006396.jpg",
+  "md5": "446851c1a2e26d35b9fc39e4f2026c98",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 1,
+    "date": "2025-09-01"
+  },
+  "kind": "vocab_list",
+  "title": {
+    "fi": "Numerot",
+    "en": "Numbers"
+  },
+  "topics": [
+    "numbers",
+    "partitive"
+  ],
+  "summary": "Textbook box listing Finnish cardinal numbers 0–22, the tens, hundreds, thousands and millions; the partitive endings (-tä, -a, -ta) after a multiplier are printed in bold.",
+  "transcript": "Numerot\n0 nolla\n1 yksi\n2 kaksi\n3 kolme\n4 neljä\n5 viisi\n6 kuusi\n7 seitsemän\n8 kahdeksan\n9 yhdeksän\n10 kymmenen\n11 yksitoista\n12 kaksitoista\n13 kolmetoista\n14 neljätoista\n15 viisitoista\n16 kuusitoista\n17 seitsemäntoista\n18 kahdeksantoista\n19 yhdeksäntoista\n20 kaksikymmentä\n21 kaksikymmentäyksi\n22 kaksikymmentäkaksi\n30 kolmekymmentä\n40 neljäkymmentä\n50 viisikymmentä\n60 kuusikymmentä\n70 seitsemänkymmentä\n80 kahdeksankymmentä\n90 yhdeksänkymmentä\n100 sata\n101 satayksi\n200 kaksisataa\n300 kolmesataa\n1000 tuhat\n2000 kaksituhatta\n500000 viisisataatuhatta\n1000000 miljoona\n2000000 kaksi miljoonaa",
+  "words": [
+    {
+      "fi": "nolla",
+      "en": "zero (0)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "yksi",
+      "en": "one (1)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kaksi",
+      "en": "two (2)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kolme",
+      "en": "three (3)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "neljä",
+      "en": "four (4)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "viisi",
+      "en": "five (5)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kuusi",
+      "en": "six (6)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "seitsemän",
+      "en": "seven (7)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kahdeksan",
+      "en": "eight (8)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "yhdeksän",
+      "en": "nine (9)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kymmenen",
+      "en": "ten (10)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "yksitoista",
+      "en": "eleven (11)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kaksitoista",
+      "en": "twelve (12)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kolmetoista",
+      "en": "thirteen (13)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "neljätoista",
+      "en": "fourteen (14)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "viisitoista",
+      "en": "fifteen (15)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kuusitoista",
+      "en": "sixteen (16)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "seitsemäntoista",
+      "en": "seventeen (17)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kahdeksantoista",
+      "en": "eighteen (18)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "yhdeksäntoista",
+      "en": "nineteen (19)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kaksikymmentä",
+      "en": "twenty (20)",
+      "pos": "num",
+      "note": "multiplier + partitive singular (-tä/-a/-ta)",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kaksikymmentäyksi",
+      "en": "twenty-one (21)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kaksikymmentäkaksi",
+      "en": "twenty-two (22)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kolmekymmentä",
+      "en": "thirty (30)",
+      "pos": "num",
+      "note": "multiplier + partitive singular (-tä/-a/-ta)",
+      "theme": "numbers"
+    },
+    {
+      "fi": "neljäkymmentä",
+      "en": "forty (40)",
+      "pos": "num",
+      "note": "multiplier + partitive singular (-tä/-a/-ta)",
+      "theme": "numbers"
+    },
+    {
+      "fi": "viisikymmentä",
+      "en": "fifty (50)",
+      "pos": "num",
+      "note": "multiplier + partitive singular (-tä/-a/-ta)",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kuusikymmentä",
+      "en": "sixty (60)",
+      "pos": "num",
+      "note": "multiplier + partitive singular (-tä/-a/-ta)",
+      "theme": "numbers"
+    },
+    {
+      "fi": "seitsemänkymmentä",
+      "en": "seventy (70)",
+      "pos": "num",
+      "note": "multiplier + partitive singular (-tä/-a/-ta)",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kahdeksankymmentä",
+      "en": "eighty (80)",
+      "pos": "num",
+      "note": "multiplier + partitive singular (-tä/-a/-ta)",
+      "theme": "numbers"
+    },
+    {
+      "fi": "yhdeksänkymmentä",
+      "en": "ninety (90)",
+      "pos": "num",
+      "note": "multiplier + partitive singular (-tä/-a/-ta)",
+      "theme": "numbers"
+    },
+    {
+      "fi": "sata",
+      "en": "one hundred (100)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "satayksi",
+      "en": "one hundred and one (101)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kaksisataa",
+      "en": "two hundred (200)",
+      "pos": "num",
+      "note": "multiplier + partitive singular (-tä/-a/-ta)",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kolmesataa",
+      "en": "three hundred (300)",
+      "pos": "num",
+      "note": "multiplier + partitive singular (-tä/-a/-ta)",
+      "theme": "numbers"
+    },
+    {
+      "fi": "tuhat",
+      "en": "one thousand (1000)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kaksituhatta",
+      "en": "two thousand (2000)",
+      "pos": "num",
+      "note": "multiplier + partitive singular (-tä/-a/-ta)",
+      "theme": "numbers"
+    },
+    {
+      "fi": "viisisataatuhatta",
+      "en": "five hundred thousand (500000)",
+      "pos": "num",
+      "note": "multiplier + partitive singular (-tä/-a/-ta)",
+      "theme": "numbers"
+    },
+    {
+      "fi": "miljoona",
+      "en": "one million (1000000)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kaksi miljoonaa",
+      "en": "two million (2000000)",
+      "pos": "num",
+      "note": "multiplier + partitive singular (-tä/-a/-ta)",
+      "theme": "numbers"
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "numbers",
+      "heading": "Numerot — tens, hundreds, thousands",
+      "text": "After a multiplier (2–9) the words kymmenen, sata, tuhat and miljoona go into the partitive singular: kaksikymmentä, kaksisataa, kaksituhatta, kaksi miljoonaa (bold endings -tä, -a, -ta, -a on the sheet). Compound numbers are written as one word: kaksikymmentäyksi, satayksi, viisisataatuhatta.",
+      "table": [
+        [
+          "0",
+          "nolla"
+        ],
+        [
+          "1",
+          "yksi"
+        ],
+        [
+          "2",
+          "kaksi"
+        ],
+        [
+          "3",
+          "kolme"
+        ],
+        [
+          "4",
+          "neljä"
+        ],
+        [
+          "5",
+          "viisi"
+        ],
+        [
+          "6",
+          "kuusi"
+        ],
+        [
+          "7",
+          "seitsemän"
+        ],
+        [
+          "8",
+          "kahdeksan"
+        ],
+        [
+          "9",
+          "yhdeksän"
+        ],
+        [
+          "10",
+          "kymmenen"
+        ],
+        [
+          "11",
+          "yksitoista"
+        ],
+        [
+          "12",
+          "kaksitoista"
+        ],
+        [
+          "13",
+          "kolmetoista"
+        ],
+        [
+          "14",
+          "neljätoista"
+        ],
+        [
+          "15",
+          "viisitoista"
+        ],
+        [
+          "16",
+          "kuusitoista"
+        ],
+        [
+          "17",
+          "seitsemäntoista"
+        ],
+        [
+          "18",
+          "kahdeksantoista"
+        ],
+        [
+          "19",
+          "yhdeksäntoista"
+        ],
+        [
+          "20",
+          "kaksikymmentä"
+        ],
+        [
+          "21",
+          "kaksikymmentäyksi"
+        ],
+        [
+          "22",
+          "kaksikymmentäkaksi"
+        ],
+        [
+          "30",
+          "kolmekymmentä"
+        ],
+        [
+          "40",
+          "neljäkymmentä"
+        ],
+        [
+          "50",
+          "viisikymmentä"
+        ],
+        [
+          "60",
+          "kuusikymmentä"
+        ],
+        [
+          "70",
+          "seitsemänkymmentä"
+        ],
+        [
+          "80",
+          "kahdeksankymmentä"
+        ],
+        [
+          "90",
+          "yhdeksänkymmentä"
+        ],
+        [
+          "100",
+          "sata"
+        ],
+        [
+          "101",
+          "satayksi"
+        ],
+        [
+          "200",
+          "kaksisataa"
+        ],
+        [
+          "300",
+          "kolmesataa"
+        ],
+        [
+          "1000",
+          "tuhat"
+        ],
+        [
+          "2000",
+          "kaksituhatta"
+        ],
+        [
+          "500000",
+          "viisisataatuhatta"
+        ],
+        [
+          "1000000",
+          "miljoona"
+        ],
+        [
+          "2000000",
+          "kaksi miljoonaa"
+        ]
+      ]
+    }
+  ],
+  "texts": [],
+  "exercises": []
+}

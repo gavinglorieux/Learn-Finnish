@@ -1,0 +1,569 @@
+{
+  "source": "term-2025-autumn/Lesson 4 (22.9.2025)/1758387550668.jpg",
+  "md5": "8d607b296bb0d25938bb6bb02714cff4",
+  "also_in": [
+    "term-2025-autumn/Lesson 5 (29.9.2025)/1758387550668.jpg"
+  ],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 4,
+    "date": "2025-09-22"
+  },
+  "kind": "worksheet",
+  "title": {
+    "fi": "Toinen tunti: olla-verbi, negatiivinen lause ja -ko/-kö-kysymys",
+    "en": "Second lesson: the verb olla, negative sentences and -ko/-kö questions"
+  },
+  "topics": [
+    "olla",
+    "negation",
+    "questions-ko",
+    "question-words",
+    "days-dates"
+  ],
+  "summary": "Table of olla in affirmative, negative and -ko/-kö question form; a short reading text about Jukka Mäkinen; comprehension questions about him, personal questions for the student, and a prompt to write questions for Marja.",
+  "transcript": "TOINEN TUNTI: OLLA-VERBI, NEGATIIVINEN LAUSE JA –KO/-KÖ-KYSYMYS\n\nminä olen - minä en ole - olenko minä -- ?\nsinä olet - sinä et ole - oletko sinä -- ?\nhän on - hän ei ole - onko hän -- ?\nme olemme - me emme ole - olemmeko me -- ?\nte olette - te ette ole - oletteko te -- ?\nhe ovat - he eivät ole - ovatko he -- ?\n\nMinä olen Jukka. Minun etunimi on Jukka ja sukunimi on Mäkinen. Minun lempinimi on Jukkis. Olen 27-vuotias suomalainen mies. Olen ATK-insinööri. Olen töissä maanantaina, tiistaina, keskiviikkona, torstaina ja perjantaina, mutta viikonloppuna en ole töissä. Puhun suomea, ruotsia ja hiukan saksaa. Olen saksankurssilla joka perjantai. Minä olen naimisissa. Minun vaimo on Marja. Hän on helsinkiläinen. Hän on 25 vuotta vanha. Hän on kokki.\n\nMikä hänen nimi on?    Kuinka vanha hän on?\nMikä hänen ammatti on?    Milloin hän ei ole töissä?\nMitä kieliä hän puhuu?    Mikä hänen lempinimi on?\nMinkämaalainen hän on?    Onko hän poikamies?\n\nMikä sinun nimi on?    Mikä sinun ammatti on?\nKuinka vanha sinä olet?    Puhutko sinä suomea?\nMikä sinun lempinimi on?    Mitä kieliä sinä puhut?\nOletko sinä suomalainen?    Oletko sinä naimisissa?\nOletko sinä töissä?    Milloin olet suomenkurssilla?\n\nKYSYMYKSIÄ MARJALLE / QUESTIONS FOR MARJA:",
+  "words": [
+    {
+      "fi": "toinen",
+      "en": "second",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "tunti",
+      "en": "lesson; hour",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "forms": {
+        "minä": "olen",
+        "sinä": "olet",
+        "hän": "on",
+        "me": "olemme",
+        "te": "olette",
+        "he": "ovat"
+      },
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "verbi",
+      "en": "verb",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "negatiivinen",
+      "en": "negative",
+      "pos": "adj",
+      "theme": "classroom"
+    },
+    {
+      "fi": "lause",
+      "en": "sentence, clause",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "kysymys",
+      "en": "question",
+      "pos": "noun",
+      "form_seen": "kysymyksiä",
+      "theme": "classroom"
+    },
+    {
+      "fi": "ei",
+      "en": "not (negation verb)",
+      "pos": "verb",
+      "forms": {
+        "minä": "en",
+        "sinä": "et",
+        "hän": "ei",
+        "me": "emme",
+        "te": "ette",
+        "he": "eivät"
+      },
+      "theme": "little-words"
+    },
+    {
+      "fi": "-ko / -kö",
+      "en": "question suffix",
+      "pos": "other",
+      "form_seen": "olenko",
+      "theme": "question-words"
+    },
+    {
+      "fi": "etunimi",
+      "en": "first name",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "sukunimi",
+      "en": "surname",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "lempinimi",
+      "en": "nickname",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "nimi",
+      "en": "name",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "-vuotias",
+      "en": "… years old",
+      "pos": "adj",
+      "form_seen": "27-vuotias",
+      "theme": "numbers"
+    },
+    {
+      "fi": "suomalainen",
+      "en": "Finnish; Finn",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "mies",
+      "en": "man; husband",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "ATK-insinööri",
+      "en": "IT engineer",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "töissä",
+      "en": "at work",
+      "pos": "adv",
+      "note": "inessive plural of työ",
+      "theme": "school-work"
+    },
+    {
+      "fi": "työ",
+      "en": "work, job",
+      "pos": "noun",
+      "form_seen": "töissä",
+      "theme": "school-work"
+    },
+    {
+      "fi": "maanantai",
+      "en": "Monday",
+      "pos": "noun",
+      "form_seen": "maanantaina",
+      "theme": "days-time"
+    },
+    {
+      "fi": "tiistai",
+      "en": "Tuesday",
+      "pos": "noun",
+      "form_seen": "tiistaina",
+      "theme": "days-time"
+    },
+    {
+      "fi": "keskiviikko",
+      "en": "Wednesday",
+      "pos": "noun",
+      "form_seen": "keskiviikkona",
+      "theme": "days-time"
+    },
+    {
+      "fi": "torstai",
+      "en": "Thursday",
+      "pos": "noun",
+      "form_seen": "torstaina",
+      "theme": "days-time"
+    },
+    {
+      "fi": "perjantai",
+      "en": "Friday",
+      "pos": "noun",
+      "form_seen": "perjantaina",
+      "theme": "days-time"
+    },
+    {
+      "fi": "viikonloppu",
+      "en": "weekend",
+      "pos": "noun",
+      "form_seen": "viikonloppuna",
+      "theme": "days-time"
+    },
+    {
+      "fi": "mutta",
+      "en": "but",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "puhua",
+      "en": "to speak",
+      "pos": "verb",
+      "verb_type": 1,
+      "forms": {
+        "minä": "puhun",
+        "sinä": "puhut",
+        "hän": "puhuu"
+      },
+      "form_seen": "puhun",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "suomi",
+      "en": "Finnish (language)",
+      "pos": "noun",
+      "form_seen": "suomea",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "ruotsi",
+      "en": "Swedish (language)",
+      "pos": "noun",
+      "form_seen": "ruotsia",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "hiukan",
+      "en": "a little",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "saksa",
+      "en": "German (language)",
+      "pos": "noun",
+      "form_seen": "saksaa",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "saksankurssi",
+      "en": "German course",
+      "pos": "noun",
+      "form_seen": "saksankurssilla",
+      "theme": "school-work"
+    },
+    {
+      "fi": "joka",
+      "en": "every",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "naimisissa",
+      "en": "married",
+      "pos": "adv",
+      "theme": "family"
+    },
+    {
+      "fi": "vaimo",
+      "en": "wife",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "helsinkiläinen",
+      "en": "person from Helsinki",
+      "pos": "noun",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "vuosi",
+      "en": "year",
+      "pos": "noun",
+      "form_seen": "vuotta",
+      "theme": "days-time"
+    },
+    {
+      "fi": "vanha",
+      "en": "old",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "kokki",
+      "en": "cook, chef",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "mikä",
+      "en": "what",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "ammatti",
+      "en": "profession",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "mitä",
+      "en": "what (partitive)",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "kieli",
+      "en": "language",
+      "pos": "noun",
+      "form_seen": "kieliä",
+      "note": "partitive plural kieliä",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "minkämaalainen",
+      "en": "of what nationality",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "kuinka",
+      "en": "how",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "milloin",
+      "en": "when",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "poikamies",
+      "en": "bachelor",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "suomenkurssi",
+      "en": "Finnish course",
+      "pos": "noun",
+      "form_seen": "suomenkurssilla",
+      "theme": "school-work"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Jukka",
+        "en": "Jukka"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Minä olen Jukka.",
+          "en": "I am Jukka."
+        },
+        {
+          "fi": "Minun etunimi on Jukka ja sukunimi on Mäkinen.",
+          "en": "My first name is Jukka and my surname is Mäkinen."
+        },
+        {
+          "fi": "Minun lempinimi on Jukkis.",
+          "en": "My nickname is Jukkis."
+        },
+        {
+          "fi": "Olen 27-vuotias suomalainen mies.",
+          "en": "I am a 27-year-old Finnish man."
+        },
+        {
+          "fi": "Olen ATK-insinööri.",
+          "en": "I am an IT engineer."
+        },
+        {
+          "fi": "Olen töissä maanantaina, tiistaina, keskiviikkona, torstaina ja perjantaina, mutta viikonloppuna en ole töissä.",
+          "en": "I work on Monday, Tuesday, Wednesday, Thursday and Friday, but at the weekend I am not at work."
+        },
+        {
+          "fi": "Puhun suomea, ruotsia ja hiukan saksaa.",
+          "en": "I speak Finnish, Swedish and a little German."
+        },
+        {
+          "fi": "Olen saksankurssilla joka perjantai.",
+          "en": "I am at a German course every Friday."
+        },
+        {
+          "fi": "Minä olen naimisissa.",
+          "en": "I am married."
+        },
+        {
+          "fi": "Minun vaimo on Marja.",
+          "en": "My wife is Marja."
+        },
+        {
+          "fi": "Hän on helsinkiläinen.",
+          "en": "She is from Helsinki."
+        },
+        {
+          "fi": "Hän on 25 vuotta vanha.",
+          "en": "She is 25 years old."
+        },
+        {
+          "fi": "Hän on kokki.",
+          "en": "She is a cook."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Questions about Jukka",
+      "instruction": "Answer the questions about the text.",
+      "topic": "questions-ko",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Mikä hänen nimi on?",
+          "answer": "Hänen nimi on Jukka (Jukka Mäkinen).",
+          "en": "What is his name?"
+        },
+        {
+          "prompt": "Kuinka vanha hän on?",
+          "answer": "Hän on 27-vuotias.",
+          "en": "How old is he?"
+        },
+        {
+          "prompt": "Mikä hänen ammatti on?",
+          "answer": "Hän on ATK-insinööri.",
+          "en": "What is his profession?"
+        },
+        {
+          "prompt": "Milloin hän ei ole töissä?",
+          "answer": "Viikonloppuna hän ei ole töissä.",
+          "en": "When is he not at work?"
+        },
+        {
+          "prompt": "Mitä kieliä hän puhuu?",
+          "answer": "Hän puhuu suomea, ruotsia ja hiukan saksaa.",
+          "en": "What languages does he speak?"
+        },
+        {
+          "prompt": "Mikä hänen lempinimi on?",
+          "answer": "Hänen lempinimi on Jukkis.",
+          "en": "What is his nickname?"
+        },
+        {
+          "prompt": "Minkämaalainen hän on?",
+          "answer": "Hän on suomalainen.",
+          "en": "What nationality is he?"
+        },
+        {
+          "prompt": "Onko hän poikamies?",
+          "answer": "Ei ole. Hän on naimisissa.",
+          "en": "Is he a bachelor?"
+        }
+      ]
+    },
+    {
+      "title": "Questions for you",
+      "instruction": "Answer about yourself (model answers).",
+      "topic": "questions-ko",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Mikä sinun nimi on?",
+          "answer": "Minun nimi on ____.",
+          "en": "What is your name?"
+        },
+        {
+          "prompt": "Mikä sinun ammatti on?",
+          "answer": "Olen ____.",
+          "en": "What is your profession?"
+        },
+        {
+          "prompt": "Kuinka vanha sinä olet?",
+          "answer": "Olen ____-vuotias.",
+          "en": "How old are you?"
+        },
+        {
+          "prompt": "Puhutko sinä suomea?",
+          "answer": "Puhun. / Puhun vähän. / En puhu.",
+          "en": "Do you speak Finnish?"
+        },
+        {
+          "prompt": "Mikä sinun lempinimi on?",
+          "answer": "Minun lempinimi on ____.",
+          "en": "What is your nickname?"
+        },
+        {
+          "prompt": "Mitä kieliä sinä puhut?",
+          "answer": "Puhun ____ ja ____.",
+          "en": "What languages do you speak?"
+        },
+        {
+          "prompt": "Oletko sinä suomalainen?",
+          "answer": "Olen. / En ole.",
+          "en": "Are you Finnish?"
+        },
+        {
+          "prompt": "Oletko sinä naimisissa?",
+          "answer": "Olen. / En ole.",
+          "en": "Are you married?"
+        },
+        {
+          "prompt": "Oletko sinä töissä?",
+          "answer": "Olen. / En ole.",
+          "en": "Are you working?"
+        },
+        {
+          "prompt": "Milloin olet suomenkurssilla?",
+          "answer": "Olen suomenkurssilla maanantaina.",
+          "en": "When are you at the Finnish course?"
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "olla",
+      "heading": "olla — affirmative, negative, question",
+      "text": "Negative: negation verb (en, et, ei, emme, ette, eivät) + ole. Question: add -ko/-kö to the verb and put it first: olenko minä?",
+      "table": [
+        [
+          "minä olen",
+          "minä en ole",
+          "olenko minä"
+        ],
+        [
+          "sinä olet",
+          "sinä et ole",
+          "oletko sinä"
+        ],
+        [
+          "hän on",
+          "hän ei ole",
+          "onko hän"
+        ],
+        [
+          "me olemme",
+          "me emme ole",
+          "olemmeko me"
+        ],
+        [
+          "te olette",
+          "te ette ole",
+          "oletteko te"
+        ],
+        [
+          "he ovat",
+          "he eivät ole",
+          "ovatko he"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "source": "term-2025-autumn/Lesson 3 (15.9.2025)/1757393769595.jpg",
+  "md5": "47bec0402161339acf038776c5b3bb3f",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 3,
+    "date": "2025-09-15"
+  },
+  "kind": "vocab_list",
+  "title": {
+    "fi": "Maa – Kansalaisuus – Kieli",
+    "en": "Country – Nationality – Language"
+  },
+  "topics": [
+    "nationalities"
+  ],
+  "summary": "Three-column table of seven countries with the matching nationality word (-lainen/-läinen) and the language spoken there; highlighted letters show how the nationality is formed from the country name.",
+  "transcript": "Maa | Kansalaisuus | Kieli\nSuomi | suomalainen | suomi\nRanska | ranskalainen | ranska\nKreikka | kreikkalainen | kreikka\nIslanti | islantilainen | islanti\nEgypti | egyptiläinen | arabia\nVenäjä | venäläinen | venäjä\nPakistan | pakistanilainen | urdu",
+  "words": [
+    {
+      "fi": "maa",
+      "en": "country",
+      "pos": "noun",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "kansalaisuus",
+      "en": "nationality, citizenship",
+      "pos": "noun",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "kieli",
+      "en": "language",
+      "pos": "noun",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Suomi",
+      "en": "Finland",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "suomalainen",
+      "en": "Finnish (person); Finnish",
+      "pos": "noun",
+      "note": "-lainen/-läinen; also used as adjective",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "suomi",
+      "en": "Finnish (language) (language)",
+      "pos": "noun",
+      "note": "language names are written lower-case",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Ranska",
+      "en": "France",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "ranskalainen",
+      "en": "French (person); French",
+      "pos": "noun",
+      "note": "-lainen/-läinen; also used as adjective",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "ranska",
+      "en": "French (language)",
+      "pos": "noun",
+      "note": "language names are written lower-case",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Kreikka",
+      "en": "Greece",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "kreikkalainen",
+      "en": "Greek (person); Greek",
+      "pos": "noun",
+      "note": "-lainen/-läinen; also used as adjective",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "kreikka",
+      "en": "Greek (language)",
+      "pos": "noun",
+      "note": "language names are written lower-case",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Islanti",
+      "en": "Iceland",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "islantilainen",
+      "en": "Icelandic (person); Icelandic",
+      "pos": "noun",
+      "note": "-lainen/-läinen; also used as adjective",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "islanti",
+      "en": "Icelandic (language)",
+      "pos": "noun",
+      "note": "language names are written lower-case",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Egypti",
+      "en": "Egypt",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "egyptiläinen",
+      "en": "Egyptian (person); Egyptian",
+      "pos": "noun",
+      "note": "-lainen/-läinen; also used as adjective",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "arabia",
+      "en": "Arabic (language)",
+      "pos": "noun",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Venäjä",
+      "en": "Russia",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "venäläinen",
+      "en": "Russian (person); Russian",
+      "pos": "noun",
+      "note": "-lainen/-läinen; also used as adjective",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "venäjä",
+      "en": "Russian (language)",
+      "pos": "noun",
+      "note": "language names are written lower-case",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Pakistan",
+      "en": "Pakistan",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "pakistanilainen",
+      "en": "Pakistani (person); Pakistani",
+      "pos": "noun",
+      "note": "-lainen/-läinen; also used as adjective",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "urdu",
+      "en": "Urdu (language)",
+      "pos": "noun",
+      "theme": "nationalities"
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "nationalities",
+      "heading": "Maa – kansalaisuus – kieli",
+      "text": "Nationality = country stem + -lainen/-läinen (vowel harmony), written lower-case: Suomi → suomalainen (final -i → -a), Venäjä → venäläinen (venä- + läinen), Pakistan → pakistanilainen (add -i- after a consonant). Language names are also lower-case.",
+      "table": [
+        [
+          "Maa",
+          "Kansalaisuus",
+          "Kieli"
+        ],
+        [
+          "Suomi",
+          "suomalainen",
+          "suomi"
+        ],
+        [
+          "Ranska",
+          "ranskalainen",
+          "ranska"
+        ],
+        [
+          "Kreikka",
+          "kreikkalainen",
+          "kreikka"
+        ],
+        [
+          "Islanti",
+          "islantilainen",
+          "islanti"
+        ],
+        [
+          "Egypti",
+          "egyptiläinen",
+          "arabia"
+        ],
+        [
+          "Venäjä",
+          "venäläinen",
+          "venäjä"
+        ],
+        [
+          "Pakistan",
+          "pakistanilainen",
+          "urdu"
+        ]
+      ]
+    }
+  ],
+  "texts": [],
+  "exercises": []
+}

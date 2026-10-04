@@ -1,0 +1,339 @@
+{
+ "source": "term-2025-autumn/Lesson 11 (17.11.2025)/1762854068187.jpg",
+ "md5": "661a830786c11adc905009b783aef114",
+ "also_in": [],
+ "lesson": {
+  "term": "term-2025-autumn",
+  "number": 11,
+  "date": "2025-11-17"
+ },
+ "kind": "grammar",
+ "title": {
+  "fi": "Paikallissijojen käyttö",
+  "en": "Using the locative cases"
+ },
+ "topics": [
+  "local-cases",
+  "inner-local-cases",
+  "outer-local-cases",
+  "place-names"
+ ],
+ "summary": "Illustrated contrast between the inessive -ssa/-ssä (inside) and the adessive -lla/-llä (on top of / near), with lists of cities taking each ending and words that take -lla/-llä.",
+ "transcript": "Paikallissijojen käyttö\n\nssa/ssä\nsisällä\nMies on autossa.\nTeksti on kirjassa.\nRahat ovat pankkiautomaatissa.\nHe istuvat saunassa.\n\nKaupungit normaalisti\nHelsingissä\nOulussa\nNew Yorkissa\nDelhissä\n\nlla/llä\npäällä\nAuto on tiellä.\nKirja on pöydällä.\nlähellä\nMinä olen pankkiautomaatilla.\nHe istuvat saunalla.\n\nJotkin suomalaiset kaupungit\nTampereella\nVantaalla\nRovaniemellä\nImatralla\n\nHUOM!\nasemalla  kurssilla\nlomalla  ulkomailla\nmatkalla",
+ "words": [
+  {
+   "fi": "paikallissija",
+   "en": "locative case",
+   "pos": "noun",
+   "theme": "school-work",
+   "form_seen": "paikallissijojen"
+  },
+  {
+   "fi": "käyttö",
+   "en": "use, usage",
+   "pos": "noun",
+   "theme": "school-work"
+  },
+  {
+   "fi": "sisällä",
+   "en": "inside",
+   "pos": "adv",
+   "theme": "postpositions"
+  },
+  {
+   "fi": "päällä",
+   "en": "on top of, on",
+   "pos": "adv",
+   "theme": "postpositions"
+  },
+  {
+   "fi": "lähellä",
+   "en": "near, close by",
+   "pos": "adv",
+   "theme": "postpositions"
+  },
+  {
+   "fi": "mies",
+   "en": "man",
+   "pos": "noun",
+   "theme": "people"
+  },
+  {
+   "fi": "olla",
+   "en": "to be",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "common-verbs",
+   "forms": {
+    "minä": "olen",
+    "hän": "on",
+    "he": "ovat"
+   },
+   "form_seen": "on / ovat / olen"
+  },
+  {
+   "fi": "auto",
+   "en": "car",
+   "pos": "noun",
+   "theme": "transport",
+   "form_seen": "autossa"
+  },
+  {
+   "fi": "teksti",
+   "en": "text",
+   "pos": "noun",
+   "theme": "school-work"
+  },
+  {
+   "fi": "kirja",
+   "en": "book",
+   "pos": "noun",
+   "theme": "classroom",
+   "form_seen": "kirjassa"
+  },
+  {
+   "fi": "raha",
+   "en": "money",
+   "pos": "noun",
+   "theme": "shopping-money",
+   "form_seen": "rahat",
+   "note": "plural rahat = (the) money"
+  },
+  {
+   "fi": "pankkiautomaatti",
+   "en": "cash machine, ATM",
+   "pos": "noun",
+   "theme": "shopping-money",
+   "form_seen": "pankkiautomaatissa / pankkiautomaatilla",
+   "note": "tt → t"
+  },
+  {
+   "fi": "istua",
+   "en": "to sit",
+   "pos": "verb",
+   "verb_type": 1,
+   "theme": "common-verbs",
+   "forms": {
+    "he": "istuvat"
+   },
+   "form_seen": "istuvat"
+  },
+  {
+   "fi": "sauna",
+   "en": "sauna",
+   "pos": "noun",
+   "theme": "home",
+   "form_seen": "saunassa / saunalla",
+   "note": "saunalla = outside/by the sauna"
+  },
+  {
+   "fi": "tie",
+   "en": "road",
+   "pos": "noun",
+   "theme": "transport",
+   "form_seen": "tiellä"
+  },
+  {
+   "fi": "pöytä",
+   "en": "table",
+   "pos": "noun",
+   "theme": "furniture",
+   "form_seen": "pöydällä",
+   "note": "t → d"
+  },
+  {
+   "fi": "kaupunki",
+   "en": "town, city",
+   "pos": "noun",
+   "theme": "places-town",
+   "form_seen": "kaupungit",
+   "note": "nk → ng"
+  },
+  {
+   "fi": "normaalisti",
+   "en": "normally",
+   "pos": "adv",
+   "theme": "adverbs"
+  },
+  {
+   "fi": "jokin",
+   "en": "some",
+   "pos": "pron",
+   "theme": "little-words",
+   "form_seen": "jotkin"
+  },
+  {
+   "fi": "suomalainen",
+   "en": "Finnish",
+   "pos": "adj",
+   "theme": "nationalities",
+   "form_seen": "suomalaiset"
+  },
+  {
+   "fi": "Helsinki",
+   "en": "Helsinki",
+   "pos": "proper",
+   "theme": "places-town",
+   "form_seen": "Helsingissä",
+   "note": "nk → ng"
+  },
+  {
+   "fi": "Oulu",
+   "en": "Oulu",
+   "pos": "proper",
+   "theme": "places-town",
+   "form_seen": "Oulussa"
+  },
+  {
+   "fi": "Tampere",
+   "en": "Tampere",
+   "pos": "proper",
+   "theme": "places-town",
+   "form_seen": "Tampereella"
+  },
+  {
+   "fi": "Vantaa",
+   "en": "Vantaa",
+   "pos": "proper",
+   "theme": "places-town",
+   "form_seen": "Vantaalla"
+  },
+  {
+   "fi": "Rovaniemi",
+   "en": "Rovaniemi",
+   "pos": "proper",
+   "theme": "places-town",
+   "form_seen": "Rovaniemellä"
+  },
+  {
+   "fi": "Imatra",
+   "en": "Imatra",
+   "pos": "proper",
+   "theme": "places-town",
+   "form_seen": "Imatralla"
+  },
+  {
+   "fi": "asema",
+   "en": "station",
+   "pos": "noun",
+   "theme": "transport",
+   "form_seen": "asemalla"
+  },
+  {
+   "fi": "kurssi",
+   "en": "course, class",
+   "pos": "noun",
+   "theme": "school-work",
+   "form_seen": "kurssilla"
+  },
+  {
+   "fi": "loma",
+   "en": "holiday, vacation",
+   "pos": "noun",
+   "theme": "travel",
+   "form_seen": "lomalla"
+  },
+  {
+   "fi": "ulkomaat",
+   "en": "foreign countries, abroad",
+   "pos": "noun",
+   "theme": "travel",
+   "form_seen": "ulkomailla",
+   "note": "plural only; ulkomailla = abroad"
+  },
+  {
+   "fi": "matka",
+   "en": "trip, journey",
+   "pos": "noun",
+   "theme": "travel",
+   "form_seen": "matkalla",
+   "note": "matkalla = on a trip / on the way"
+  }
+ ],
+ "texts": [
+  {
+   "title": {
+    "fi": "Paikallissijojen käyttö — esimerkit",
+    "en": "Using the locative cases — examples"
+   },
+   "kind": "reading",
+   "lines": [
+    {
+     "fi": "Mies on autossa.",
+     "en": "The man is in the car."
+    },
+    {
+     "fi": "Teksti on kirjassa.",
+     "en": "The text is in the book."
+    },
+    {
+     "fi": "Rahat ovat pankkiautomaatissa.",
+     "en": "The money is in the cash machine."
+    },
+    {
+     "fi": "He istuvat saunassa.",
+     "en": "They are sitting in the sauna."
+    },
+    {
+     "fi": "Auto on tiellä.",
+     "en": "The car is on the road."
+    },
+    {
+     "fi": "Kirja on pöydällä.",
+     "en": "The book is on the table."
+    },
+    {
+     "fi": "Minä olen pankkiautomaatilla.",
+     "en": "I am at the cash machine."
+    },
+    {
+     "fi": "He istuvat saunalla.",
+     "en": "They are sitting outside the sauna."
+    }
+   ]
+  }
+ ],
+ "exercises": [],
+ "grammar_notes": [
+  {
+   "topic": "inner-local-cases",
+   "heading": "ssa/ssä — sisällä (inside)",
+   "text": "The inessive -ssa/-ssä means 'inside': Mies on autossa. Teksti on kirjassa. Rahat ovat pankkiautomaatissa. He istuvat saunassa. Cities normally take -ssa/-ssä: Helsingissä, Oulussa, New Yorkissa, Delhissä."
+  },
+  {
+   "topic": "outer-local-cases",
+   "heading": "lla/llä — päällä (on top of), lähellä (near)",
+   "text": "The adessive -lla/-llä means 'on top of' (Auto on tiellä. Kirja on pöydällä.) or 'near / at' (Minä olen pankkiautomaatilla. He istuvat saunalla.). Some Finnish cities take -lla/-llä: Tampereella, Vantaalla, Rovaniemellä, Imatralla. HUOM! also: asemalla, kurssilla, lomalla, ulkomailla, matkalla.",
+   "table": [
+    [
+     "ssa/ssä (sisällä)",
+     "lla/llä (päällä / lähellä)"
+    ],
+    [
+     "Mies on autossa.",
+     "Auto on tiellä."
+    ],
+    [
+     "Teksti on kirjassa.",
+     "Kirja on pöydällä."
+    ],
+    [
+     "Rahat ovat pankkiautomaatissa.",
+     "Minä olen pankkiautomaatilla."
+    ],
+    [
+     "He istuvat saunassa.",
+     "He istuvat saunalla."
+    ],
+    [
+     "Helsingissä, Oulussa, New Yorkissa, Delhissä",
+     "Tampereella, Vantaalla, Rovaniemellä, Imatralla"
+    ],
+    [
+     "",
+     "asemalla, kurssilla, lomalla, ulkomailla, matkalla"
+    ]
+   ]
+  }
+ ]
+}

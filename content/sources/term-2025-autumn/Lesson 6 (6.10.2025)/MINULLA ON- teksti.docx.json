@@ -1,0 +1,954 @@
+{
+  "source": "term-2025-autumn/Lesson 6 (6.10.2025)/MINULLA ON- teksti.docx",
+  "md5": "5b45da0f7b3f809810cf146f5a180ac7",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 6,
+    "date": "2025-10-06"
+  },
+  "kind": "text",
+  "title": {
+    "fi": "ONKO TEILLÄ LAPSIA? – KYLLÄ, MEILLÄ ON KAKSI LASTA.",
+    "en": "Do you have children? – Yes, we have two children."
+  },
+  "topics": [
+    "have-adessive",
+    "partitive",
+    "genitive",
+    "possessive"
+  ],
+  "summary": "Three reading texts in which people describe their families, homes and pets (Aija in Porvoo, Georgios the Greek engineer, 5-year-old Sebastian), practising minulla on / ei ole + partitive, with glossaries.",
+  "transcript": "ONKO TEILLÄ LAPSIA? – KYLLÄ, MEILLÄ ON KAKSI LASTA.\nMinun nimeni on Aija Rautiainen. Olen 28-vuotias toimittaja. Minä olen naimisissa. Mieheni nimi on Juhani. Hän on palomies. Meillä on kolme lasta: Sirpa, 8 vuotta, Simo, 6 vuotta ja meidän kuopus on Pauliina. Hän on 4-vuotias. Me asumme Porvoossa. Meillä on siellä iso omakotitalo. Talossa on 170 neliötä. Meillä on yläkerta ja alakerta ja kiva pieni puutarha. Minulla on siellä monta marjapensasta, mutta meillä ei ole kasvimaata. Puutarhassa on myös koiratarha, koska meillä on kaksi koiraa: Bella ja Sepi. Bella on jo vanha koira ja Sepi on Bellan pentu. Sepin isä on naapurin bordercollie.\ntoimittaja= journalist palomies= fireman lapsi= child > lasta (partitive of ”lapsi”) kuopus= youngest asua= to live siellä= there omakotitalo= free-standing house neliö= square meter yläkerta= upstairs alakerta= downstairs kiva= nice (used for anything you like) puutarha= garden monta= many marjapensas= berry bush mutta= but kasvimaa= veggie plot, allotment koiratarha= dog kennel pentu= puppy isä= father naapuri=neighbour\nMinä olen Georgios Payos. Olen kreikkalainen mies, mutta asun Suomessa, koska minun vaimoni on suomalainen. Minä olen insinööri rakennusfirmassa, vaimoni on opettaja. Hän puhuu kreikkaa todella hyvin, minä puhun vähän suomea. Töissä me kaikki puhumme englantia. Meillä ei ole lapsia, mutta meillä on paljon siskon- ja veljenlapsia. Minulla on kolme veljeä. He kaikki asuvat Ateenassa. Minun vaimollani on kaksi pikkusiskoa: Ulla-Maija ja Outi. Isoveljelläni on neljä poikaa, mutta hänellä ei ole yhtään tytärtä. Pikkuveljelläni Michaelilla ei ole lapsia, mutta Arilla on kolme lasta. Vaimoni sisko Ulla-Maija ei ole naimisissa, hän on eronnut. Hän on yksinhuoltaja ja hänellä on kolme pientä lasta: kaksoset Tommi ja Timo, 3 vuotta, ja tytär Iida-Maria on 2-vuotias. Vaimoni toinen sisko Outi asuu avoliitossa. Hänen avomies Giuliano on italialainen. Heillä on kaksi lasta. Minttu on 4 vuotta vanha ja Viljo on pikkuvauva. Hän on vasta 8 kuukautta vanha.\nrakennusfirma= building company puhua= to speak todella= really vähän= a little bit kaikki= all pikku= little sisko= sister yhtään= at all tytär= daughter yksinhuoltaja= single parent kaksoset= twins toinen= other avoliitto= to live together vauva= baby vasta= only kuukausi= month\nMinä olen Sebastian. Olen 5 vuotta vanha. Minulla on kaksi äitiä: Outi ja Anneli. He ovat minun adoptiovanhemmat. Me asumme Nummelassa. Meillä on viihtyisä, pieni kaksio Nummelan keskustassa. Asumme kerrostalossa. Minulla on kolme kissaa, mutta minulla ei ole koiraa. Olen Annelin ja Outin ainoa lapsi, minulla ei ole siskoa tai veljeä. Minulla on monta serkkua ja monta tätiä ja setää. Minun kummisetäni Reijo on Annelin entinen mies. Hän on tosi kiva. Hän on kihloissa Marjutin kanssa. Heillä ei ole lapsia. He asuvat meidän lähellä Nummelassa. Meillä ei ole autoa, mutta Reijolla on hieno, valkoinen auto. Me ajamme usein yhdessä jäätelökioskille ja ostamme jäätelötötteröt. Hän on maailman paras kummisetä.\nvanhemmat= parents viihtyisä= cosy kaksio= two rooms and a kitchen keskusta= city centre kerrostalo= block of flats kissa= cat ainoa= (the) only, sole serkku= cousin täti= aunt setä= uncle kummisetä= godfather entinen= ex, former tosi= really kihloissa= engaged kanssa= with lähellä= close, near auto= car hieno= fine valkoinen= white ajaa= to drive yhdessä= together jäätelökioski= ice-cream kiosk ostaa= to buy tötterö= cone maailma= world paras= best",
+  "words": [
+    {
+      "fi": "lapsi",
+      "en": "child",
+      "pos": "noun",
+      "form_seen": "lasta",
+      "theme": "family",
+      "note": "partitive sg lasta, pl lapsia"
+    },
+    {
+      "fi": "kyllä",
+      "en": "yes",
+      "pos": "interj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "nimi",
+      "en": "name",
+      "pos": "noun",
+      "form_seen": "nimeni",
+      "theme": "people"
+    },
+    {
+      "fi": "-vuotias",
+      "en": "… years old",
+      "pos": "adj",
+      "theme": "numbers"
+    },
+    {
+      "fi": "toimittaja",
+      "en": "journalist",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "naimisissa",
+      "en": "married",
+      "pos": "adv",
+      "theme": "family"
+    },
+    {
+      "fi": "mies",
+      "en": "husband; man",
+      "pos": "noun",
+      "form_seen": "mieheni",
+      "theme": "family"
+    },
+    {
+      "fi": "palomies",
+      "en": "fireman, firefighter",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "vuosi",
+      "en": "year",
+      "pos": "noun",
+      "form_seen": "vuotta",
+      "theme": "days-time"
+    },
+    {
+      "fi": "kuopus",
+      "en": "youngest child",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "asua",
+      "en": "to live",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "asumme",
+      "theme": "home"
+    },
+    {
+      "fi": "Porvoo",
+      "en": "Porvoo (town)",
+      "pos": "proper",
+      "form_seen": "Porvoossa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "siellä",
+      "en": "there",
+      "pos": "adv",
+      "theme": "directions"
+    },
+    {
+      "fi": "iso",
+      "en": "big",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "omakotitalo",
+      "en": "detached house",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "talo",
+      "en": "house",
+      "pos": "noun",
+      "form_seen": "talossa",
+      "theme": "home"
+    },
+    {
+      "fi": "neliö",
+      "en": "square metre",
+      "pos": "noun",
+      "form_seen": "neliötä",
+      "theme": "home"
+    },
+    {
+      "fi": "yläkerta",
+      "en": "upstairs",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "alakerta",
+      "en": "downstairs",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "kiva",
+      "en": "nice",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "pieni",
+      "en": "small",
+      "pos": "adj",
+      "form_seen": "pientä",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "puutarha",
+      "en": "garden",
+      "pos": "noun",
+      "form_seen": "puutarhassa",
+      "theme": "garden"
+    },
+    {
+      "fi": "monta",
+      "en": "many",
+      "pos": "num",
+      "theme": "numbers",
+      "note": "followed by partitive"
+    },
+    {
+      "fi": "marjapensas",
+      "en": "berry bush",
+      "pos": "noun",
+      "form_seen": "marjapensasta",
+      "theme": "garden"
+    },
+    {
+      "fi": "mutta",
+      "en": "but",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kasvimaa",
+      "en": "vegetable plot",
+      "pos": "noun",
+      "form_seen": "kasvimaata",
+      "theme": "garden"
+    },
+    {
+      "fi": "myös",
+      "en": "also",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "koiratarha",
+      "en": "dog run, kennel",
+      "pos": "noun",
+      "theme": "garden"
+    },
+    {
+      "fi": "koska",
+      "en": "because",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "koira",
+      "en": "dog",
+      "pos": "noun",
+      "form_seen": "koiraa",
+      "theme": "animals"
+    },
+    {
+      "fi": "jo",
+      "en": "already",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "vanha",
+      "en": "old",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "pentu",
+      "en": "puppy",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "isä",
+      "en": "father",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "naapuri",
+      "en": "neighbour",
+      "pos": "noun",
+      "form_seen": "naapurin",
+      "theme": "people"
+    },
+    {
+      "fi": "bordercollie",
+      "en": "border collie",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "kreikkalainen",
+      "en": "Greek",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Suomi",
+      "en": "Finland",
+      "pos": "proper",
+      "form_seen": "Suomessa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "vaimo",
+      "en": "wife",
+      "pos": "noun",
+      "form_seen": "vaimoni",
+      "theme": "family"
+    },
+    {
+      "fi": "suomalainen",
+      "en": "Finnish",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "insinööri",
+      "en": "engineer",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "rakennusfirma",
+      "en": "construction company",
+      "pos": "noun",
+      "form_seen": "rakennusfirmassa",
+      "theme": "school-work"
+    },
+    {
+      "fi": "opettaja",
+      "en": "teacher",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "puhua",
+      "en": "to speak",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "puhuu",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kreikka",
+      "en": "Greek (language)",
+      "pos": "noun",
+      "form_seen": "kreikkaa",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "todella",
+      "en": "really",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "hyvin",
+      "en": "well",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "vähän",
+      "en": "a little bit",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "suomi",
+      "en": "Finnish (language)",
+      "pos": "noun",
+      "form_seen": "suomea",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "töissä",
+      "en": "at work",
+      "pos": "adv",
+      "theme": "school-work"
+    },
+    {
+      "fi": "kaikki",
+      "en": "all, everyone",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "englanti",
+      "en": "English (language)",
+      "pos": "noun",
+      "form_seen": "englantia",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "paljon",
+      "en": "a lot, many",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "siskonlapsi",
+      "en": "sister's child (niece/nephew)",
+      "pos": "noun",
+      "form_seen": "siskon-",
+      "theme": "family"
+    },
+    {
+      "fi": "veljenlapsi",
+      "en": "brother's child (niece/nephew)",
+      "pos": "noun",
+      "form_seen": "veljenlapsia",
+      "theme": "family"
+    },
+    {
+      "fi": "veli",
+      "en": "brother",
+      "pos": "noun",
+      "form_seen": "veljeä",
+      "theme": "family"
+    },
+    {
+      "fi": "Ateena",
+      "en": "Athens",
+      "pos": "proper",
+      "form_seen": "Ateenassa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "pikkusisko",
+      "en": "little sister",
+      "pos": "noun",
+      "form_seen": "pikkusiskoa",
+      "theme": "family"
+    },
+    {
+      "fi": "pikku",
+      "en": "little",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "sisko",
+      "en": "sister",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "isoveli",
+      "en": "big brother",
+      "pos": "noun",
+      "form_seen": "isoveljelläni",
+      "theme": "family"
+    },
+    {
+      "fi": "poika",
+      "en": "son; boy",
+      "pos": "noun",
+      "form_seen": "poikaa",
+      "theme": "family"
+    },
+    {
+      "fi": "yhtään",
+      "en": "(not) any, at all",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "tytär",
+      "en": "daughter",
+      "pos": "noun",
+      "form_seen": "tytärtä",
+      "theme": "family"
+    },
+    {
+      "fi": "pikkuveli",
+      "en": "little brother",
+      "pos": "noun",
+      "form_seen": "pikkuveljelläni",
+      "theme": "family"
+    },
+    {
+      "fi": "eronnut",
+      "en": "divorced",
+      "pos": "adj",
+      "theme": "family"
+    },
+    {
+      "fi": "yksinhuoltaja",
+      "en": "single parent",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "kaksonen",
+      "en": "twin",
+      "pos": "noun",
+      "form_seen": "kaksoset",
+      "theme": "family"
+    },
+    {
+      "fi": "toinen",
+      "en": "other; second",
+      "pos": "pron",
+      "theme": "numbers"
+    },
+    {
+      "fi": "avoliitto",
+      "en": "cohabitation",
+      "pos": "noun",
+      "form_seen": "avoliitossa",
+      "theme": "family",
+      "note": "asua avoliitossa = to live together unmarried"
+    },
+    {
+      "fi": "avomies",
+      "en": "(male) cohabiting partner",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "italialainen",
+      "en": "Italian",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "vauva",
+      "en": "baby",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "vasta",
+      "en": "only (just)",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "kuukausi",
+      "en": "month",
+      "pos": "noun",
+      "form_seen": "kuukautta",
+      "theme": "days-time"
+    },
+    {
+      "fi": "äiti",
+      "en": "mother",
+      "pos": "noun",
+      "form_seen": "äitiä",
+      "theme": "family"
+    },
+    {
+      "fi": "adoptiovanhemmat",
+      "en": "adoptive parents",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "vanhemmat",
+      "en": "parents",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "viihtyisä",
+      "en": "cosy",
+      "pos": "adj",
+      "theme": "home"
+    },
+    {
+      "fi": "kaksio",
+      "en": "two-room flat (two rooms + kitchen)",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "keskusta",
+      "en": "city centre",
+      "pos": "noun",
+      "form_seen": "keskustassa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "kerrostalo",
+      "en": "block of flats",
+      "pos": "noun",
+      "form_seen": "kerrostalossa",
+      "theme": "home"
+    },
+    {
+      "fi": "kissa",
+      "en": "cat",
+      "pos": "noun",
+      "form_seen": "kissaa",
+      "theme": "animals"
+    },
+    {
+      "fi": "ainoa",
+      "en": "only, sole",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "tai",
+      "en": "or",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "serkku",
+      "en": "cousin",
+      "pos": "noun",
+      "form_seen": "serkkua",
+      "theme": "family"
+    },
+    {
+      "fi": "täti",
+      "en": "aunt",
+      "pos": "noun",
+      "form_seen": "tätiä",
+      "theme": "family"
+    },
+    {
+      "fi": "setä",
+      "en": "uncle (father's brother)",
+      "pos": "noun",
+      "form_seen": "setää",
+      "theme": "family"
+    },
+    {
+      "fi": "kummisetä",
+      "en": "godfather",
+      "pos": "noun",
+      "form_seen": "kummisetäni",
+      "theme": "family"
+    },
+    {
+      "fi": "entinen",
+      "en": "former, ex",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "tosi",
+      "en": "really",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "kihloissa",
+      "en": "engaged",
+      "pos": "adv",
+      "theme": "family"
+    },
+    {
+      "fi": "kanssa",
+      "en": "with",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "lähellä",
+      "en": "near, close",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "auto",
+      "en": "car",
+      "pos": "noun",
+      "form_seen": "autoa",
+      "theme": "transport"
+    },
+    {
+      "fi": "hieno",
+      "en": "fine, great",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "valkoinen",
+      "en": "white",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "ajaa",
+      "en": "to drive",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "ajamme",
+      "theme": "transport"
+    },
+    {
+      "fi": "usein",
+      "en": "often",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "yhdessä",
+      "en": "together",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "jäätelökioski",
+      "en": "ice-cream kiosk",
+      "pos": "noun",
+      "form_seen": "jäätelökioskille",
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "ostaa",
+      "en": "to buy",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "ostamme",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "jäätelötötterö",
+      "en": "ice-cream cone",
+      "pos": "noun",
+      "form_seen": "jäätelötötteröt",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "tötterö",
+      "en": "cone",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "maailma",
+      "en": "world",
+      "pos": "noun",
+      "form_seen": "maailman",
+      "theme": "nature"
+    },
+    {
+      "fi": "paras",
+      "en": "best",
+      "pos": "adj",
+      "theme": "adjectives"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Onko teillä lapsia? – Aija Rautiainen",
+        "en": "Do you have children? – Aija Rautiainen"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Onko teillä lapsia? – Kyllä, meillä on kaksi lasta.",
+          "en": "Do you have children? – Yes, we have two children."
+        },
+        {
+          "fi": "Minun nimeni on Aija Rautiainen.",
+          "en": "My name is Aija Rautiainen."
+        },
+        {
+          "fi": "Olen 28-vuotias toimittaja.",
+          "en": "I am a 28-year-old journalist."
+        },
+        {
+          "fi": "Minä olen naimisissa.",
+          "en": "I am married."
+        },
+        {
+          "fi": "Mieheni nimi on Juhani.",
+          "en": "My husband's name is Juhani."
+        },
+        {
+          "fi": "Hän on palomies.",
+          "en": "He is a firefighter."
+        },
+        {
+          "fi": "Meillä on kolme lasta: Sirpa, 8 vuotta, Simo, 6 vuotta ja meidän kuopus on Pauliina.",
+          "en": "We have three children: Sirpa, 8, Simo, 6, and our youngest is Pauliina."
+        },
+        {
+          "fi": "Hän on 4-vuotias.",
+          "en": "She is 4."
+        },
+        {
+          "fi": "Me asumme Porvoossa.",
+          "en": "We live in Porvoo."
+        },
+        {
+          "fi": "Meillä on siellä iso omakotitalo.",
+          "en": "We have a big detached house there."
+        },
+        {
+          "fi": "Talossa on 170 neliötä.",
+          "en": "The house is 170 square metres."
+        },
+        {
+          "fi": "Meillä on yläkerta ja alakerta ja kiva pieni puutarha.",
+          "en": "We have an upstairs and a downstairs and a nice little garden."
+        },
+        {
+          "fi": "Minulla on siellä monta marjapensasta, mutta meillä ei ole kasvimaata.",
+          "en": "I have many berry bushes there, but we don't have a vegetable plot."
+        },
+        {
+          "fi": "Puutarhassa on myös koiratarha, koska meillä on kaksi koiraa: Bella ja Sepi.",
+          "en": "In the garden there is also a dog run, because we have two dogs: Bella and Sepi."
+        },
+        {
+          "fi": "Bella on jo vanha koira ja Sepi on Bellan pentu.",
+          "en": "Bella is already an old dog and Sepi is Bella's puppy."
+        },
+        {
+          "fi": "Sepin isä on naapurin bordercollie.",
+          "en": "Sepi's father is the neighbour's border collie."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fi": "Georgios Payos",
+        "en": "Georgios Payos"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Minä olen Georgios Payos.",
+          "en": "I am Georgios Payos."
+        },
+        {
+          "fi": "Olen kreikkalainen mies, mutta asun Suomessa, koska minun vaimoni on suomalainen.",
+          "en": "I am a Greek man, but I live in Finland because my wife is Finnish."
+        },
+        {
+          "fi": "Minä olen insinööri rakennusfirmassa, vaimoni on opettaja.",
+          "en": "I am an engineer at a construction company, my wife is a teacher."
+        },
+        {
+          "fi": "Hän puhuu kreikkaa todella hyvin, minä puhun vähän suomea.",
+          "en": "She speaks Greek really well; I speak a little Finnish."
+        },
+        {
+          "fi": "Töissä me kaikki puhumme englantia.",
+          "en": "At work we all speak English."
+        },
+        {
+          "fi": "Meillä ei ole lapsia, mutta meillä on paljon siskon- ja veljenlapsia.",
+          "en": "We don't have children, but we have lots of nieces and nephews."
+        },
+        {
+          "fi": "Minulla on kolme veljeä.",
+          "en": "I have three brothers."
+        },
+        {
+          "fi": "He kaikki asuvat Ateenassa.",
+          "en": "They all live in Athens."
+        },
+        {
+          "fi": "Minun vaimollani on kaksi pikkusiskoa: Ulla-Maija ja Outi.",
+          "en": "My wife has two younger sisters: Ulla-Maija and Outi."
+        },
+        {
+          "fi": "Isoveljelläni on neljä poikaa, mutta hänellä ei ole yhtään tytärtä.",
+          "en": "My older brother has four sons, but he doesn't have a single daughter."
+        },
+        {
+          "fi": "Pikkuveljelläni Michaelilla ei ole lapsia, mutta Arilla on kolme lasta.",
+          "en": "My younger brother Michael has no children, but Ari has three children."
+        },
+        {
+          "fi": "Vaimoni sisko Ulla-Maija ei ole naimisissa, hän on eronnut.",
+          "en": "My wife's sister Ulla-Maija is not married; she is divorced."
+        },
+        {
+          "fi": "Hän on yksinhuoltaja ja hänellä on kolme pientä lasta: kaksoset Tommi ja Timo, 3 vuotta, ja tytär Iida-Maria on 2-vuotias.",
+          "en": "She is a single parent and she has three small children: the twins Tommi and Timo, 3, and her daughter Iida-Maria is 2."
+        },
+        {
+          "fi": "Vaimoni toinen sisko Outi asuu avoliitossa.",
+          "en": "My wife's other sister Outi lives with her partner (unmarried)."
+        },
+        {
+          "fi": "Hänen avomies Giuliano on italialainen.",
+          "en": "Her partner Giuliano is Italian."
+        },
+        {
+          "fi": "Heillä on kaksi lasta.",
+          "en": "They have two children."
+        },
+        {
+          "fi": "Minttu on 4 vuotta vanha ja Viljo on pikkuvauva.",
+          "en": "Minttu is 4 years old and Viljo is a little baby."
+        },
+        {
+          "fi": "Hän on vasta 8 kuukautta vanha.",
+          "en": "He is only 8 months old."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fi": "Sebastian",
+        "en": "Sebastian"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Minä olen Sebastian.",
+          "en": "I am Sebastian."
+        },
+        {
+          "fi": "Olen 5 vuotta vanha.",
+          "en": "I am 5 years old."
+        },
+        {
+          "fi": "Minulla on kaksi äitiä: Outi ja Anneli.",
+          "en": "I have two mothers: Outi and Anneli."
+        },
+        {
+          "fi": "He ovat minun adoptiovanhemmat.",
+          "en": "They are my adoptive parents."
+        },
+        {
+          "fi": "Me asumme Nummelassa.",
+          "en": "We live in Nummela."
+        },
+        {
+          "fi": "Meillä on viihtyisä, pieni kaksio Nummelan keskustassa.",
+          "en": "We have a cosy, small two-room flat in the centre of Nummela."
+        },
+        {
+          "fi": "Asumme kerrostalossa.",
+          "en": "We live in a block of flats."
+        },
+        {
+          "fi": "Minulla on kolme kissaa, mutta minulla ei ole koiraa.",
+          "en": "I have three cats, but I don't have a dog."
+        },
+        {
+          "fi": "Olen Annelin ja Outin ainoa lapsi, minulla ei ole siskoa tai veljeä.",
+          "en": "I am Anneli and Outi's only child; I don't have a sister or a brother."
+        },
+        {
+          "fi": "Minulla on monta serkkua ja monta tätiä ja setää.",
+          "en": "I have many cousins and many aunts and uncles."
+        },
+        {
+          "fi": "Minun kummisetäni Reijo on Annelin entinen mies.",
+          "en": "My godfather Reijo is Anneli's ex-husband."
+        },
+        {
+          "fi": "Hän on tosi kiva.",
+          "en": "He is really nice."
+        },
+        {
+          "fi": "Hän on kihloissa Marjutin kanssa.",
+          "en": "He is engaged to Marjut."
+        },
+        {
+          "fi": "Heillä ei ole lapsia.",
+          "en": "They don't have children."
+        },
+        {
+          "fi": "He asuvat meidän lähellä Nummelassa.",
+          "en": "They live near us in Nummela."
+        },
+        {
+          "fi": "Meillä ei ole autoa, mutta Reijolla on hieno, valkoinen auto.",
+          "en": "We don't have a car, but Reijo has a fine white car."
+        },
+        {
+          "fi": "Me ajamme usein yhdessä jäätelökioskille ja ostamme jäätelötötteröt.",
+          "en": "We often drive together to the ice-cream kiosk and buy ice-cream cones."
+        },
+        {
+          "fi": "Hän on maailman paras kummisetä.",
+          "en": "He is the best godfather in the world."
+        }
+      ]
+    }
+  ],
+  "exercises": [],
+  "grammar_notes": []
+}

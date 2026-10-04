@@ -1,0 +1,436 @@
+{
+  "source": "term-2025-autumn/Lesson 1 (1.9.2025)/TERVEHDYKSET.docx",
+  "md5": "8589a85be0178ee7fe7d49caed0e9c84",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 1,
+    "date": "2025-09-01"
+  },
+  "kind": "vocab_list",
+  "title": {
+    "fi": "TERVEHDYKSET",
+    "en": "Greetings (and other phrases)"
+  },
+  "topics": [
+    "greetings"
+  ],
+  "summary": "List of Finnish greetings, farewells and polite everyday phrases (how are you, thank you, sorry, congratulations) with English explanations.",
+  "transcript": "TERVEHDYKSET = GREETINGS (AND OTHER PHRASES)\n(HYVÄÄ) HUOMENTA! (GOOD) MORNING!\n(HYVÄÄ) PÄIVÄÄ! (GOOD) DAY = HELLO!\nILTAPÄIVÄÄ! AFTERNOON!\n(HYVÄÄ) ILTAA! (GOOD) EVENING!\nHYVÄÄ YÖTÄ! GOOD NIGHT (WHEN YOU / SOMEONE GOES OFF TO BED)\nNUKU HYVIN! SLEEP WELL!\nKAUNIITA UNIA! (SWEET) DREAMS!\nNÄKEMIIN! GOOD-BYE1 (FORMAL)\nMOI! MOIKKA! HEIPPA! MORO! TSAU! MORJENS! TERVE! HI! (VERY INFORMAL)\nHEI! LESS FORMAL ”HI!” BUT NOT QUITE ”MOI!”\nMOIKKA! MOI MOI! HEIPPA! HEI HEI! ”BYE!” (INFORMAL)\nMITÄ (SINULLE) KUULUU? HOW ARE YOU? (”WHAT KIND OF THINGS COMING TO YOU?)\nKIITOS HYVÄÄ! THANK YOU, I’M WELL (GOOD THINGS).\nEI ERIKOISTA. MITÄS TÄSSÄ. BOTH MEAN: NOTHING SPECIAL.\nENTÄ SINULLE? HOW ABOUT (TO) YOU?\nMITEN MENEE? HOW IS IT GOING?\nKIITOS HYVIN. THANK YOU, (IT’S GOING) WELL.\nKIITOS. THANK YOU.\nOLE HYVÄ / EI KESTÄ. REPLY: YOU’RE WELCOME / MY PLEASURE.\nHAUSKA TUTUSTUA / TAVATA. NICE TO ”MAKE YOUR ACQUAINTANCE / MEET YOU”.\nTERVETULOA! WELCOME! (TO A PLACE)\nANTEEKSI! / ANTEEKSI? SORRY! EXCUSE ME? PARDON?\nEI SE MITÄÄN. DON’T WORRY ABOUT IT (REPLYING TO ”ANTEEKSI”)\nHYVÄÄ / HAUSKAA VIIKONLOPPUA! (HAVE A) GOOD / ”FUN” WEEKEND!\nKIITOS SAMOIN. THANK YOU, LIKEWISE (”THE SAME TO YOU”)\nHYVÄÄ MATKAA! HAVE A GOOD JOURNEY!\nONNEA! ONNEKSI OLKOON! CONGRATULATIONS!\nONNEA MATKAAN! GOOD LUCK! (WITH WHATEVER ONE NEEDS IT FOR)\nNÄHDÄÄN! SEE YOU!\nSOITELLAAN! ”LET’S CALL EACH OTHER SOME TIME!”",
+  "words": [
+    {
+      "fi": "hyvää huomenta",
+      "en": "good morning",
+      "pos": "phrase",
+      "theme": "greetings",
+      "note": "also just 'huomenta'"
+    },
+    {
+      "fi": "hyvää päivää",
+      "en": "good day; hello",
+      "pos": "phrase",
+      "theme": "greetings",
+      "note": "also just 'päivää'"
+    },
+    {
+      "fi": "iltapäivää",
+      "en": "good afternoon",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "hyvää iltaa",
+      "en": "good evening",
+      "pos": "phrase",
+      "theme": "greetings",
+      "note": "also just 'iltaa'"
+    },
+    {
+      "fi": "hyvää yötä",
+      "en": "good night (when going to bed)",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "nuku hyvin",
+      "en": "sleep well",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "kauniita unia",
+      "en": "sweet dreams",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "näkemiin",
+      "en": "goodbye (formal)",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "moi",
+      "en": "hi; bye (informal)",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "moikka",
+      "en": "hi; bye (informal)",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "heippa",
+      "en": "hi; bye (informal)",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "moro",
+      "en": "hi (very informal, Tampere region)",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "tsau",
+      "en": "hi; bye (very informal)",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "morjens",
+      "en": "hi (very informal)",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "terve",
+      "en": "hi (informal); healthy",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "hei",
+      "en": "hi (less formal than 'päivää' but not quite 'moi')",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "moi moi",
+      "en": "bye (informal)",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "hei hei",
+      "en": "bye (informal)",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "mitä (sinulle) kuuluu?",
+      "en": "how are you?",
+      "pos": "phrase",
+      "theme": "greetings",
+      "note": "lit. 'what is coming to you?'"
+    },
+    {
+      "fi": "kiitos hyvää",
+      "en": "thanks, I'm well (good things)",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "ei erikoista",
+      "en": "nothing special",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "mitäs tässä",
+      "en": "nothing special (lit. 'what here')",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "entä sinulle?",
+      "en": "how about you?",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "miten menee?",
+      "en": "how is it going?",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "kiitos hyvin",
+      "en": "thanks, (it's going) well",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "kiitos",
+      "en": "thank you",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "ole hyvä",
+      "en": "you're welcome; here you are",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "ei kestä",
+      "en": "you're welcome; my pleasure",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "hauska tutustua",
+      "en": "nice to make your acquaintance",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "hauska tavata",
+      "en": "nice to meet you",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "tervetuloa",
+      "en": "welcome (to a place)",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "anteeksi",
+      "en": "sorry; excuse me; pardon?",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "ei se mitään",
+      "en": "don't worry about it; no problem (reply to 'anteeksi')",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "hyvää viikonloppua",
+      "en": "have a good weekend",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "hauskaa viikonloppua",
+      "en": "have a fun weekend",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "kiitos samoin",
+      "en": "thank you, likewise",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "hyvää matkaa",
+      "en": "have a good journey",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "onnea",
+      "en": "congratulations; good luck",
+      "pos": "interj",
+      "form_seen": "onnea",
+      "theme": "greetings",
+      "note": "partitive of onni 'happiness, luck'"
+    },
+    {
+      "fi": "onneksi olkoon",
+      "en": "congratulations",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "onnea matkaan",
+      "en": "good luck (with whatever)",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "nähdään",
+      "en": "see you",
+      "pos": "interj",
+      "theme": "greetings",
+      "note": "passive of nähdä 'to see'"
+    },
+    {
+      "fi": "soitellaan",
+      "en": "let's call each other some time",
+      "pos": "interj",
+      "theme": "greetings",
+      "note": "passive of soitella"
+    },
+    {
+      "fi": "tervehdys",
+      "en": "greeting",
+      "pos": "noun",
+      "form_seen": "tervehdykset",
+      "theme": "greetings"
+    },
+    {
+      "fi": "hyvä",
+      "en": "good",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "huomen",
+      "en": "morning (in greetings)",
+      "pos": "noun",
+      "form_seen": "huomenta",
+      "theme": "days-time"
+    },
+    {
+      "fi": "päivä",
+      "en": "day",
+      "pos": "noun",
+      "form_seen": "päivää",
+      "theme": "days-time"
+    },
+    {
+      "fi": "iltapäivä",
+      "en": "afternoon",
+      "pos": "noun",
+      "form_seen": "iltapäivää",
+      "theme": "days-time"
+    },
+    {
+      "fi": "ilta",
+      "en": "evening",
+      "pos": "noun",
+      "form_seen": "iltaa",
+      "theme": "days-time"
+    },
+    {
+      "fi": "yö",
+      "en": "night",
+      "pos": "noun",
+      "form_seen": "yötä",
+      "theme": "days-time"
+    },
+    {
+      "fi": "nukkua",
+      "en": "to sleep",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "nuku",
+      "theme": "daily-routine",
+      "note": "kk → k"
+    },
+    {
+      "fi": "hyvin",
+      "en": "well",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "kaunis",
+      "en": "beautiful",
+      "pos": "adj",
+      "form_seen": "kauniita",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "uni",
+      "en": "dream; sleep",
+      "pos": "noun",
+      "form_seen": "unia",
+      "theme": "daily-routine"
+    },
+    {
+      "fi": "mitä",
+      "en": "what",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "kuulua",
+      "en": "to be heard; (mitä kuuluu) how are things",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "kuuluu",
+      "theme": "greetings"
+    },
+    {
+      "fi": "mennä",
+      "en": "to go",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "menee",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "miten",
+      "en": "how",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "entä",
+      "en": "how about; and",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "hauska",
+      "en": "fun; nice",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "tutustua",
+      "en": "to get to know",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "tavata",
+      "en": "to meet",
+      "pos": "verb",
+      "verb_type": 4,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "viikonloppu",
+      "en": "weekend",
+      "pos": "noun",
+      "form_seen": "viikonloppua",
+      "theme": "days-time"
+    },
+    {
+      "fi": "matka",
+      "en": "journey, trip",
+      "pos": "noun",
+      "form_seen": "matkaa",
+      "theme": "travel"
+    },
+    {
+      "fi": "samoin",
+      "en": "likewise",
+      "pos": "adv",
+      "theme": "adverbs"
+    }
+  ],
+  "texts": [],
+  "exercises": [],
+  "grammar_notes": []
+}

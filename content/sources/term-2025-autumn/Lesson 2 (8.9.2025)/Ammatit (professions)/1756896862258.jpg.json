@@ -1,0 +1,255 @@
+{
+  "source": "term-2025-autumn/Lesson 2 (8.9.2025)/Ammatit (professions)/1756896862258.jpg",
+  "md5": "81916372accd79a76a51bc80e5bd4271",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 2,
+    "date": "2025-09-08"
+  },
+  "kind": "picture_vocab",
+  "title": {
+    "fi": "Ammatit",
+    "en": "Professions"
+  },
+  "topics": [
+    "have-adessive"
+  ],
+  "summary": "Illustrated textbook page 'Ammatit' (part 1): 24 pictures of professions with their Finnish names, including colloquial alternatives (bussikuski, putkimies, sähkömies); the entrepreneur says 'Minulla on oma yritys.'",
+  "transcript": "Ammatit\nlääkäri | sairaanhoitaja | hammaslääkäri | myyjä\nlinja-autonkuljettaja, bussikuski | rekkakuski | taksikuski | automekaanikko\nmaanviljelijä | laulaja | kirjailija | näyttelijä\nurheilija | poliisi | palomies | pappi\nyrittäjä | arkkitehti | insinööri | rakennusmies\nputkiasentaja, putkimies | sähköasentaja, sähkömies | maalari | postinjakaja\n\n(speech bubble, yrittäjä) Minulla on oma yritys.\n(signs in pictures) TAKSI; FIRMA OY",
+  "words": [
+    {
+      "fi": "ammatti",
+      "en": "profession, occupation",
+      "pos": "noun",
+      "form_seen": "ammatit",
+      "note": "tt → t (ammatit)",
+      "theme": "professions"
+    },
+    {
+      "fi": "lääkäri",
+      "en": "doctor",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "sairaanhoitaja",
+      "en": "nurse",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "hammaslääkäri",
+      "en": "dentist",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "myyjä",
+      "en": "shop assistant, salesperson",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "linja-autonkuljettaja",
+      "en": "bus driver",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "bussikuski",
+      "en": "bus driver (colloquial)",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "rekkakuski",
+      "en": "lorry / truck driver",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "taksikuski",
+      "en": "taxi driver",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "automekaanikko",
+      "en": "car mechanic",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "maanviljelijä",
+      "en": "farmer",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "laulaja",
+      "en": "singer",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "kirjailija",
+      "en": "writer, author",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "näyttelijä",
+      "en": "actor, actress",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "urheilija",
+      "en": "athlete, sportsperson",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "poliisi",
+      "en": "police officer",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "palomies",
+      "en": "firefighter",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "pappi",
+      "en": "priest, minister",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "yrittäjä",
+      "en": "entrepreneur, business owner",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "arkkitehti",
+      "en": "architect",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "insinööri",
+      "en": "engineer",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "rakennusmies",
+      "en": "construction worker, builder",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "putkiasentaja",
+      "en": "plumber",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "putkimies",
+      "en": "plumber (colloquial)",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "sähköasentaja",
+      "en": "electrician",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "sähkömies",
+      "en": "electrician (colloquial)",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "maalari",
+      "en": "painter (house painter)",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "postinjakaja",
+      "en": "postal worker, mail carrier",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "minä",
+      "en": "I",
+      "pos": "pron",
+      "form_seen": "minulla",
+      "theme": "people"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "on",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "oma",
+      "en": "own",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "yritys",
+      "en": "company, business",
+      "pos": "noun",
+      "theme": "school-work"
+    },
+    {
+      "fi": "taksi",
+      "en": "taxi",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "firma",
+      "en": "firm, company (colloquial)",
+      "pos": "noun",
+      "theme": "school-work"
+    },
+    {
+      "fi": "Minulla on oma yritys.",
+      "en": "I have my own company.",
+      "pos": "phrase",
+      "theme": "professions"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Yrittäjä",
+        "en": "Entrepreneur"
+      },
+      "kind": "dialogue",
+      "lines": [
+        {
+          "speaker": "yrittäjä",
+          "fi": "Minulla on oma yritys.",
+          "en": "I have my own company."
+        }
+      ]
+    }
+  ],
+  "exercises": [],
+  "grammar_notes": []
+}

@@ -1,0 +1,780 @@
+{
+  "source": "term-2026-winter/Lesson 9 (9.3.2026)/1772525779409.jpg",
+  "md5": "dc40eba6ceb85ae2efeda83ff6d6953b",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 9,
+    "date": "2026-03-09"
+  },
+  "kind": "other",
+  "title": {
+    "fi": "Euroopan kartta",
+    "en": "Map of Europe"
+  },
+  "topics": [
+    "place-names",
+    "genitive",
+    "nationalities"
+  ],
+  "summary": "Map of Europe with Finnish names of countries, capitals and seas, plus the model question 'Minkä maan pääkaupunki on Pariisi? – Se on Ranskan pääkaupunki.' A route around European capitals is hand-drawn with arrows and some countries highlighted.",
+  "transcript": "EUROOPAN KARTTA\n(Maat:) ISLANTI, NORJA, RUOTSI, SUOMI, VIRO, LATVIA, LIETTUA, VALKO-VENÄJÄ, VENÄJÄ, TANSKA, IRLANTI, ISO-BRITANNIA, HOLLANTI, BELGIA, LUXEMBURG, SAKSA, PUOLA, RANSKA, SVEITSI, ITÄVALTA, TŠEKKI, SLOVAKIA, UNKARI, UKRAINA, MOLDOVA, ROMANIA, SLOVENIA, KROATIA, BOSNIA-HERTSEGOVINA, SERBIA, BULGARIA, MAKEDONIA, ALBANIA, KREIKKA, TURKKI, KYPROS, GEORGIA, ARMENIA, AZERBAIDŽAN, PORTUGALI, ESPANJA, ITALIA, MALTA\n(Pääkaupungit:) Reykjavik, Oslo, Tukholma, Helsinki, Tallinna, Riika, Vilna, Minsk, Moskova, Kööpenhamina, Dublin, Lontoo, Amsterdam, Bryssel, Berliini, Varsova, Pariisi, Praha, Bratislava, Budapest, Kiova, Kišinjov, Bukarest, Sarajevo, Sofia, Skopje, Tirana, Ateena, Tbilisi, Baku, Lissabon, Madrid, Rooma, Valletta\n(Meret ym.:) Atlantin valtameri, Norjanmeri, Pohjanmeri, Itämeri, Pohjoinen jäämeri, Mustameri, Kaspianmeri, Välimeri, Biskajanlahti, Englannin kanaali, Adrianmeri, Pohjanlahti, Kreeta, Volga, Tonava, Rein, Seine\nMinkä maan pääkaupunki on Pariisi?   Se on ............n pääkaupunki.\n(Käsin piirretty reitti: Helsinki → Moskova → Turkki → Ateena → Rooma → Madrid → Lissabon → Itävalta → Berliini → Luxemburg/Pariisi → Bryssel → Amsterdam → Lontoo → Dublin → Reykjavik → Tukholma → Helsinki)",
+  "exercises": [
+    {
+      "title": "Minkä maan pääkaupunki?",
+      "instruction": "Minkä maan pääkaupunki on …? Answer: Se on ____n pääkaupunki.",
+      "topic": "genitive",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Minkä maan pääkaupunki on Pariisi? Se on ____ pääkaupunki.",
+          "answer": "Ranskan",
+          "en": "Which country's capital is Pariisi? It is the capital of France."
+        },
+        {
+          "prompt": "Minkä maan pääkaupunki on Tukholma? Se on ____ pääkaupunki.",
+          "answer": "Ruotsin",
+          "en": "Which country's capital is Tukholma? It is the capital of Sweden."
+        },
+        {
+          "prompt": "Minkä maan pääkaupunki on Oslo? Se on ____ pääkaupunki.",
+          "answer": "Norjan",
+          "en": "Which country's capital is Oslo? It is the capital of Norway."
+        },
+        {
+          "prompt": "Minkä maan pääkaupunki on Moskova? Se on ____ pääkaupunki.",
+          "answer": "Venäjän",
+          "en": "Which country's capital is Moskova? It is the capital of Russia."
+        },
+        {
+          "prompt": "Minkä maan pääkaupunki on Lontoo? Se on ____ pääkaupunki.",
+          "answer": "Iso-Britannian",
+          "en": "Which country's capital is Lontoo? It is the capital of Great Britain."
+        },
+        {
+          "prompt": "Minkä maan pääkaupunki on Berliini? Se on ____ pääkaupunki.",
+          "answer": "Saksan",
+          "en": "Which country's capital is Berliini? It is the capital of Germany."
+        },
+        {
+          "prompt": "Minkä maan pääkaupunki on Madrid? Se on ____ pääkaupunki.",
+          "answer": "Espanjan",
+          "en": "Which country's capital is Madrid? It is the capital of Spain."
+        },
+        {
+          "prompt": "Minkä maan pääkaupunki on Rooma? Se on ____ pääkaupunki.",
+          "answer": "Italian",
+          "en": "Which country's capital is Rooma? It is the capital of Italy."
+        },
+        {
+          "prompt": "Minkä maan pääkaupunki on Ateena? Se on ____ pääkaupunki.",
+          "answer": "Kreikan",
+          "en": "Which country's capital is Ateena? It is the capital of Greece."
+        },
+        {
+          "prompt": "Minkä maan pääkaupunki on Lissabon? Se on ____ pääkaupunki.",
+          "answer": "Portugalin",
+          "en": "Which country's capital is Lissabon? It is the capital of Portugal."
+        },
+        {
+          "prompt": "Minkä maan pääkaupunki on Dublin? Se on ____ pääkaupunki.",
+          "answer": "Irlannin",
+          "en": "Which country's capital is Dublin? It is the capital of Ireland."
+        },
+        {
+          "prompt": "Minkä maan pääkaupunki on Reykjavik? Se on ____ pääkaupunki.",
+          "answer": "Islannin",
+          "en": "Which country's capital is Reykjavik? It is the capital of Iceland."
+        },
+        {
+          "prompt": "Minkä maan pääkaupunki on Tallinna? Se on ____ pääkaupunki.",
+          "answer": "Viron",
+          "en": "Which country's capital is Tallinna? It is the capital of Estonia."
+        },
+        {
+          "prompt": "Minkä maan pääkaupunki on Amsterdam? Se on ____ pääkaupunki.",
+          "answer": "Hollannin",
+          "en": "Which country's capital is Amsterdam? It is the capital of the Netherlands."
+        },
+        {
+          "prompt": "Minkä maan pääkaupunki on Varsova? Se on ____ pääkaupunki.",
+          "answer": "Puolan",
+          "en": "Which country's capital is Varsova? It is the capital of Poland."
+        },
+        {
+          "prompt": "Minkä maan pääkaupunki on Kööpenhamina? Se on ____ pääkaupunki.",
+          "answer": "Tanskan",
+          "en": "Which country's capital is Kööpenhamina? It is the capital of Denmark."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "genitive",
+      "heading": "Minkä maan pääkaupunki?",
+      "text": "Minkä maan pääkaupunki on Pariisi? – Se on Ranskan pääkaupunki. (genitive -n; kpt: Irlanti → Irlannin, Kreikka → Kreikan)"
+    }
+  ],
+  "words": [
+    {
+      "fi": "Eurooppa",
+      "en": "Europe",
+      "pos": "proper",
+      "form_seen": "Euroopan",
+      "theme": "travel"
+    },
+    {
+      "fi": "kartta",
+      "en": "map",
+      "pos": "noun",
+      "theme": "travel"
+    },
+    {
+      "fi": "maa",
+      "en": "country, land",
+      "pos": "noun",
+      "form_seen": "maan",
+      "theme": "travel"
+    },
+    {
+      "fi": "pääkaupunki",
+      "en": "capital city",
+      "pos": "noun",
+      "theme": "places-town"
+    },
+    {
+      "fi": "minkä",
+      "en": "which (genitive of mikä)",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "Islanti",
+      "en": "Iceland",
+      "pos": "proper",
+      "note": "capital: Reykjavik",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Norja",
+      "en": "Norway",
+      "pos": "proper",
+      "note": "capital: Oslo",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Ruotsi",
+      "en": "Sweden",
+      "pos": "proper",
+      "note": "capital: Tukholma",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Suomi",
+      "en": "Finland",
+      "pos": "proper",
+      "note": "capital: Helsinki",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Viro",
+      "en": "Estonia",
+      "pos": "proper",
+      "note": "capital: Tallinna",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Latvia",
+      "en": "Latvia",
+      "pos": "proper",
+      "note": "capital: Riika",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Liettua",
+      "en": "Lithuania",
+      "pos": "proper",
+      "note": "capital: Vilna",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Valko-Venäjä",
+      "en": "Belarus",
+      "pos": "proper",
+      "note": "capital: Minsk",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Venäjä",
+      "en": "Russia",
+      "pos": "proper",
+      "note": "capital: Moskova",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Tanska",
+      "en": "Denmark",
+      "pos": "proper",
+      "note": "capital: Kööpenhamina",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Irlanti",
+      "en": "Ireland",
+      "pos": "proper",
+      "note": "capital: Dublin",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Iso-Britannia",
+      "en": "Great Britain",
+      "pos": "proper",
+      "note": "capital: Lontoo",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Hollanti",
+      "en": "the Netherlands (Holland)",
+      "pos": "proper",
+      "note": "capital: Amsterdam",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Belgia",
+      "en": "Belgium",
+      "pos": "proper",
+      "note": "capital: Bryssel",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Luxemburg",
+      "en": "Luxembourg",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Saksa",
+      "en": "Germany",
+      "pos": "proper",
+      "note": "capital: Berliini",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Puola",
+      "en": "Poland",
+      "pos": "proper",
+      "note": "capital: Varsova",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Ranska",
+      "en": "France",
+      "pos": "proper",
+      "note": "capital: Pariisi",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Sveitsi",
+      "en": "Switzerland",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Itävalta",
+      "en": "Austria",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Tšekki",
+      "en": "Czech Republic",
+      "pos": "proper",
+      "note": "capital: Praha",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Slovakia",
+      "en": "Slovakia",
+      "pos": "proper",
+      "note": "capital: Bratislava",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Unkari",
+      "en": "Hungary",
+      "pos": "proper",
+      "note": "capital: Budapest",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Ukraina",
+      "en": "Ukraine",
+      "pos": "proper",
+      "note": "capital: Kiova",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Moldova",
+      "en": "Moldova",
+      "pos": "proper",
+      "note": "capital: Kišinjov",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Romania",
+      "en": "Romania",
+      "pos": "proper",
+      "note": "capital: Bukarest",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Slovenia",
+      "en": "Slovenia",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Kroatia",
+      "en": "Croatia",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Bosnia-Hertsegovina",
+      "en": "Bosnia and Herzegovina",
+      "pos": "proper",
+      "note": "capital: Sarajevo",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Serbia",
+      "en": "Serbia",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Bulgaria",
+      "en": "Bulgaria",
+      "pos": "proper",
+      "note": "capital: Sofia",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Makedonia",
+      "en": "(North) Macedonia",
+      "pos": "proper",
+      "note": "capital: Skopje",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Albania",
+      "en": "Albania",
+      "pos": "proper",
+      "note": "capital: Tirana",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Kreikka",
+      "en": "Greece",
+      "pos": "proper",
+      "note": "capital: Ateena",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Turkki",
+      "en": "Turkey",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Kypros",
+      "en": "Cyprus",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Georgia",
+      "en": "Georgia",
+      "pos": "proper",
+      "note": "capital: Tbilisi",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Armenia",
+      "en": "Armenia",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Azerbaidžan",
+      "en": "Azerbaijan",
+      "pos": "proper",
+      "note": "capital: Baku",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Portugali",
+      "en": "Portugal",
+      "pos": "proper",
+      "note": "capital: Lissabon",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Espanja",
+      "en": "Spain",
+      "pos": "proper",
+      "note": "capital: Madrid",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Italia",
+      "en": "Italy",
+      "pos": "proper",
+      "note": "capital: Rooma",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Malta",
+      "en": "Malta",
+      "pos": "proper",
+      "note": "capital: Valletta",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Reykjavik",
+      "en": "Reykjavik (capital)",
+      "pos": "proper",
+      "note": "capital of Iceland",
+      "theme": "travel"
+    },
+    {
+      "fi": "Oslo",
+      "en": "Oslo (capital)",
+      "pos": "proper",
+      "note": "capital of Norway",
+      "theme": "travel"
+    },
+    {
+      "fi": "Tukholma",
+      "en": "Tukholma (capital)",
+      "pos": "proper",
+      "note": "capital of Sweden (Finnish name)",
+      "theme": "travel"
+    },
+    {
+      "fi": "Tallinna",
+      "en": "Tallinna (capital)",
+      "pos": "proper",
+      "note": "capital of Estonia (Finnish name)",
+      "theme": "travel"
+    },
+    {
+      "fi": "Riika",
+      "en": "Riika (capital)",
+      "pos": "proper",
+      "note": "capital of Latvia (Finnish name)",
+      "theme": "travel"
+    },
+    {
+      "fi": "Vilna",
+      "en": "Vilna (capital)",
+      "pos": "proper",
+      "note": "capital of Lithuania (Finnish name)",
+      "theme": "travel"
+    },
+    {
+      "fi": "Minsk",
+      "en": "Minsk (capital)",
+      "pos": "proper",
+      "note": "capital of Belarus",
+      "theme": "travel"
+    },
+    {
+      "fi": "Moskova",
+      "en": "Moskova (capital)",
+      "pos": "proper",
+      "note": "capital of Russia (Finnish name)",
+      "theme": "travel"
+    },
+    {
+      "fi": "Kööpenhamina",
+      "en": "Kööpenhamina (capital)",
+      "pos": "proper",
+      "note": "capital of Denmark (Finnish name)",
+      "theme": "travel"
+    },
+    {
+      "fi": "Dublin",
+      "en": "Dublin (capital)",
+      "pos": "proper",
+      "note": "capital of Ireland",
+      "theme": "travel"
+    },
+    {
+      "fi": "Lontoo",
+      "en": "Lontoo (capital)",
+      "pos": "proper",
+      "note": "capital of Great Britain (Finnish name)",
+      "theme": "travel"
+    },
+    {
+      "fi": "Amsterdam",
+      "en": "Amsterdam (capital)",
+      "pos": "proper",
+      "note": "capital of the Netherlands (Holland)",
+      "theme": "travel"
+    },
+    {
+      "fi": "Bryssel",
+      "en": "Bryssel (capital)",
+      "pos": "proper",
+      "note": "capital of Belgium (Finnish name)",
+      "theme": "travel"
+    },
+    {
+      "fi": "Berliini",
+      "en": "Berliini (capital)",
+      "pos": "proper",
+      "note": "capital of Germany (Finnish name)",
+      "theme": "travel"
+    },
+    {
+      "fi": "Varsova",
+      "en": "Varsova (capital)",
+      "pos": "proper",
+      "note": "capital of Poland (Finnish name)",
+      "theme": "travel"
+    },
+    {
+      "fi": "Pariisi",
+      "en": "Pariisi (capital)",
+      "pos": "proper",
+      "note": "capital of France (Finnish name)",
+      "theme": "travel"
+    },
+    {
+      "fi": "Praha",
+      "en": "Praha (capital)",
+      "pos": "proper",
+      "note": "capital of Czech Republic (Finnish name)",
+      "theme": "travel"
+    },
+    {
+      "fi": "Bratislava",
+      "en": "Bratislava (capital)",
+      "pos": "proper",
+      "note": "capital of Slovakia",
+      "theme": "travel"
+    },
+    {
+      "fi": "Budapest",
+      "en": "Budapest (capital)",
+      "pos": "proper",
+      "note": "capital of Hungary",
+      "theme": "travel"
+    },
+    {
+      "fi": "Kiova",
+      "en": "Kiova (capital)",
+      "pos": "proper",
+      "note": "capital of Ukraine (Finnish name)",
+      "theme": "travel"
+    },
+    {
+      "fi": "Kišinjov",
+      "en": "Kišinjov (capital)",
+      "pos": "proper",
+      "note": "capital of Moldova",
+      "theme": "travel"
+    },
+    {
+      "fi": "Bukarest",
+      "en": "Bukarest (capital)",
+      "pos": "proper",
+      "note": "capital of Romania (Finnish name)",
+      "theme": "travel"
+    },
+    {
+      "fi": "Sarajevo",
+      "en": "Sarajevo (capital)",
+      "pos": "proper",
+      "note": "capital of Bosnia and Herzegovina",
+      "theme": "travel"
+    },
+    {
+      "fi": "Sofia",
+      "en": "Sofia (capital)",
+      "pos": "proper",
+      "note": "capital of Bulgaria",
+      "theme": "travel"
+    },
+    {
+      "fi": "Skopje",
+      "en": "Skopje (capital)",
+      "pos": "proper",
+      "note": "capital of (North) Macedonia",
+      "theme": "travel"
+    },
+    {
+      "fi": "Tirana",
+      "en": "Tirana (capital)",
+      "pos": "proper",
+      "note": "capital of Albania",
+      "theme": "travel"
+    },
+    {
+      "fi": "Ateena",
+      "en": "Ateena (capital)",
+      "pos": "proper",
+      "note": "capital of Greece (Finnish name)",
+      "theme": "travel"
+    },
+    {
+      "fi": "Tbilisi",
+      "en": "Tbilisi (capital)",
+      "pos": "proper",
+      "note": "capital of Georgia",
+      "theme": "travel"
+    },
+    {
+      "fi": "Baku",
+      "en": "Baku (capital)",
+      "pos": "proper",
+      "note": "capital of Azerbaijan",
+      "theme": "travel"
+    },
+    {
+      "fi": "Lissabon",
+      "en": "Lissabon (capital)",
+      "pos": "proper",
+      "note": "capital of Portugal (Finnish name)",
+      "theme": "travel"
+    },
+    {
+      "fi": "Madrid",
+      "en": "Madrid (capital)",
+      "pos": "proper",
+      "note": "capital of Spain",
+      "theme": "travel"
+    },
+    {
+      "fi": "Rooma",
+      "en": "Rooma (capital)",
+      "pos": "proper",
+      "note": "capital of Italy (Finnish name)",
+      "theme": "travel"
+    },
+    {
+      "fi": "Valletta",
+      "en": "Valletta (capital)",
+      "pos": "proper",
+      "note": "capital of Malta",
+      "theme": "travel"
+    },
+    {
+      "fi": "Helsinki",
+      "en": "Helsinki",
+      "pos": "proper",
+      "note": "capital of Finland",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Atlantin valtameri",
+      "en": "Atlantic Ocean",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Norjanmeri",
+      "en": "Norwegian Sea",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Pohjanmeri",
+      "en": "North Sea",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Itämeri",
+      "en": "Baltic Sea",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Pohjoinen jäämeri",
+      "en": "Arctic Ocean",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Mustameri",
+      "en": "Black Sea",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Kaspianmeri",
+      "en": "Caspian Sea",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Välimeri",
+      "en": "Mediterranean Sea",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Biskajanlahti",
+      "en": "Bay of Biscay",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Englannin kanaali",
+      "en": "English Channel",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Adrianmeri",
+      "en": "Adriatic Sea",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Pohjanlahti",
+      "en": "Gulf of Bothnia",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Kreeta",
+      "en": "Crete",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "meri",
+      "en": "sea",
+      "pos": "noun",
+      "theme": "nature"
+    },
+    {
+      "fi": "valtameri",
+      "en": "ocean",
+      "pos": "noun",
+      "theme": "nature"
+    },
+    {
+      "fi": "lahti",
+      "en": "bay, gulf",
+      "pos": "noun",
+      "theme": "nature"
+    }
+  ],
+  "texts": []
+}

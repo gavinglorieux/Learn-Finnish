@@ -1,0 +1,132 @@
+{
+  "source": "term-2025-autumn/Lesson 7 (13.10.2025)/1759643094748.jpg",
+  "md5": "496089318f2578781e576753dc75c6e8",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 7,
+    "date": "2025-10-13"
+  },
+  "kind": "picture_vocab",
+  "title": {
+    "fi": "Vaatteet ja asusteet",
+    "en": "Clothes and accessories"
+  },
+  "topics": [
+    "plural"
+  ],
+  "summary": "Bilingual picture dictionary page (p. 10) labelling clothes, footwear and accessories in Finnish and English.",
+  "transcript": "kengännauhat laces\naamutossut slippers\nkorvakorut earrings\nsolmio, kravatti tie\nnapinläpikukka buttonhole\nnenäliina handkerchief\nkaulakoru necklace\nhenkselit braces\nnappi button\nkumisaappaat rubber boots\npuku suit\nsilmälasit glasses\nkengät shoes\nlapaset mittens\nesiliina apron\n10",
+  "words": [
+    {
+      "fi": "kengännauha",
+      "en": "shoelace",
+      "pos": "noun",
+      "form_seen": "kengännauhat",
+      "theme": "clothes"
+    },
+    {
+      "fi": "aamutossu",
+      "en": "slipper",
+      "pos": "noun",
+      "form_seen": "aamutossut",
+      "theme": "clothes"
+    },
+    {
+      "fi": "korvakoru",
+      "en": "earring",
+      "pos": "noun",
+      "form_seen": "korvakorut",
+      "theme": "clothes"
+    },
+    {
+      "fi": "solmio",
+      "en": "tie",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "kravatti",
+      "en": "tie, necktie",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "napinläpikukka",
+      "en": "buttonhole flower, boutonnière",
+      "pos": "noun",
+      "note": "book glosses it as \"buttonhole\"",
+      "theme": "clothes"
+    },
+    {
+      "fi": "nenäliina",
+      "en": "handkerchief",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "kaulakoru",
+      "en": "necklace",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "henkselit",
+      "en": "braces, suspenders",
+      "pos": "noun",
+      "note": "plural only",
+      "theme": "clothes"
+    },
+    {
+      "fi": "nappi",
+      "en": "button",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "kumisaapas",
+      "en": "rubber boot, wellington",
+      "pos": "noun",
+      "form_seen": "kumisaappaat",
+      "note": "p → pp (kumisaapas → kumisaappaat)",
+      "theme": "clothes"
+    },
+    {
+      "fi": "puku",
+      "en": "suit",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "silmälasit",
+      "en": "glasses",
+      "pos": "noun",
+      "note": "plural only",
+      "theme": "clothes"
+    },
+    {
+      "fi": "kenkä",
+      "en": "shoe",
+      "pos": "noun",
+      "form_seen": "kengät",
+      "note": "nk → ng",
+      "theme": "clothes"
+    },
+    {
+      "fi": "lapanen",
+      "en": "mitten",
+      "pos": "noun",
+      "form_seen": "lapaset",
+      "theme": "clothes"
+    },
+    {
+      "fi": "esiliina",
+      "en": "apron",
+      "pos": "noun",
+      "theme": "clothes"
+    }
+  ],
+  "texts": [],
+  "exercises": [],
+  "grammar_notes": []
+}

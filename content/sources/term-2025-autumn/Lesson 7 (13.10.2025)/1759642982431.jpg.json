@@ -1,0 +1,115 @@
+{
+  "source": "term-2025-autumn/Lesson 7 (13.10.2025)/1759642982431.jpg",
+  "md5": "836895fe5772897746c338db0c4da78f",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 7,
+    "date": "2025-10-13"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "Harjoitus 3. Kirjoita, minkänäköinen hän on.",
+    "en": "Exercise 3. Write what he/she looks like."
+  },
+  "topics": [
+    "have-adessive",
+    "adjectives"
+  ],
+  "summary": "Free-writing exercise: describe the appearance of four illustrated people. Item 1 has a printed model answer; items 2–4 are blank (model answers derived from the pictures).",
+  "transcript": "Harjoitus 3. Kirjoita, minkänäköinen hän on.\n1. Hän on lyhyt ja hänellä on punainen tukka.\n2. ____\n3. ____\n4. ____",
+  "words": [
+    {
+      "fi": "harjoitus",
+      "en": "exercise",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "kirjoittaa",
+      "en": "to write",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "kirjoita",
+      "note": "imperative; tt → t",
+      "theme": "classroom"
+    },
+    {
+      "fi": "minkänäköinen",
+      "en": "what (someone) looks like",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "hän",
+      "en": "he, she",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "on",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "lyhyt",
+      "en": "short",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "ja",
+      "en": "and",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "punainen",
+      "en": "red",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "tukka",
+      "en": "hair",
+      "pos": "noun",
+      "theme": "body"
+    }
+  ],
+  "texts": [],
+  "exercises": [
+    {
+      "title": "Harjoitus 3. Kirjoita, minkänäköinen hän on.",
+      "instruction": "Write what he/she looks like.",
+      "topic": "have-adessive",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "1. (short woman, red hair, glasses)",
+          "answer": "Hän on lyhyt ja hänellä on punainen tukka.",
+          "en": "She is short and she has red hair.",
+          "answer_source": "key"
+        },
+        {
+          "prompt": "2. (tall man, long brown hair, beard, glasses)",
+          "answer": "Hän on pitkä ja hoikka. Hänellä on pitkä ruskea tukka, parta ja silmälasit.",
+          "en": "He is tall and slim. He has long brown hair, a beard and glasses."
+        },
+        {
+          "prompt": "3. (young woman, long blond hair)",
+          "answer": "Hän on nuori ja hoikka. Hänellä on pitkä vaalea suora tukka.",
+          "en": "She is young and slim. She has long, fair, straight hair."
+        },
+        {
+          "prompt": "4. (old bald man with a walking stick)",
+          "answer": "Hän on vanha ja kalju. Hänellä on keppi.",
+          "en": "He is old and bald. He has a walking stick."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": []
+}

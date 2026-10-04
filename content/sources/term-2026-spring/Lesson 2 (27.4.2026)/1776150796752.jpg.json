@@ -1,0 +1,292 @@
+{
+  "source": "term-2026-spring/Lesson 2 (27.4.2026)/1776150796752.jpg",
+  "md5": "7a07b65cd0dee39ecba84021cc6f9190",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 2,
+    "date": "2026-04-27"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "Harjoitus 3. K-p-t-vaihtelu ja vokaaliharmonia. Kirjoita sanat.",
+    "en": "Exercise 3. K-p-t gradation and vowel harmony. Write the words."
+  },
+  "topics": [
+    "kpt-nouns",
+    "vowel-harmony",
+    "inner-local-cases",
+    "place-names"
+  ],
+  "summary": "Form the inessive (ssa/ssä, part A) and elative (sta/stä, part B) of eight words each, applying k-p-t gradation and vowel harmony. First item of each part is filled in.",
+  "transcript": "Harjoitus 3. K-p-t-vaihtelu ja vokaaliharmonia. Kirjoita sanat.\n\nA. ssa/ssä\n1. Kreikka  Kreikassa\n2. kaappi ____\n3. kylpy ____\n4. Hollanti ____\n5. jalka ____\n6. asunto ____\n7. parta ____\n8. aurinko ____\n\nB. sta/stä\n1. pankki  pankista\n2. Itävalta ____\n3. kauppa ____\n4. konsertti ____\n5. päiväkoti ____\n6. kaupunki ____\n7. Irlanti ____\n8. halpa ____",
+  "words": [
+    {
+      "fi": "Kreikka",
+      "en": "Greece",
+      "pos": "proper",
+      "theme": "nationalities",
+      "form_seen": "Kreikassa",
+      "note": "kk → k"
+    },
+    {
+      "fi": "kaappi",
+      "en": "cupboard",
+      "pos": "noun",
+      "theme": "furniture",
+      "form_seen": "kaapissa",
+      "note": "pp → p"
+    },
+    {
+      "fi": "kylpy",
+      "en": "bath",
+      "pos": "noun",
+      "theme": "home",
+      "form_seen": "kylvyssä",
+      "note": "p → v"
+    },
+    {
+      "fi": "Hollanti",
+      "en": "the Netherlands",
+      "pos": "proper",
+      "theme": "nationalities",
+      "form_seen": "Hollannissa",
+      "note": "nt → nn"
+    },
+    {
+      "fi": "jalka",
+      "en": "leg, foot",
+      "pos": "noun",
+      "theme": "body",
+      "form_seen": "jalassa",
+      "note": "k → ∅"
+    },
+    {
+      "fi": "asunto",
+      "en": "flat, apartment",
+      "pos": "noun",
+      "theme": "home",
+      "form_seen": "asunnossa",
+      "note": "nt → nn"
+    },
+    {
+      "fi": "parta",
+      "en": "beard",
+      "pos": "noun",
+      "theme": "appearance",
+      "form_seen": "parrassa",
+      "note": "rt → rr"
+    },
+    {
+      "fi": "aurinko",
+      "en": "sun",
+      "pos": "noun",
+      "theme": "weather",
+      "form_seen": "auringossa",
+      "note": "nk → ng"
+    },
+    {
+      "fi": "pankki",
+      "en": "bank",
+      "pos": "noun",
+      "theme": "places-town",
+      "form_seen": "pankista",
+      "note": "kk → k"
+    },
+    {
+      "fi": "Itävalta",
+      "en": "Austria",
+      "pos": "proper",
+      "theme": "nationalities",
+      "form_seen": "Itävallasta",
+      "note": "lt → ll"
+    },
+    {
+      "fi": "kauppa",
+      "en": "shop",
+      "pos": "noun",
+      "theme": "cafe-shop",
+      "form_seen": "kaupasta",
+      "note": "pp → p"
+    },
+    {
+      "fi": "konsertti",
+      "en": "concert",
+      "pos": "noun",
+      "theme": "hobbies-sport",
+      "form_seen": "konsertista",
+      "note": "tt → t"
+    },
+    {
+      "fi": "päiväkoti",
+      "en": "day-care centre, kindergarten",
+      "pos": "noun",
+      "theme": "places-town",
+      "form_seen": "päiväkodista",
+      "note": "t → d"
+    },
+    {
+      "fi": "kaupunki",
+      "en": "city, town",
+      "pos": "noun",
+      "theme": "places-town",
+      "form_seen": "kaupungista",
+      "note": "nk → ng"
+    },
+    {
+      "fi": "Irlanti",
+      "en": "Ireland",
+      "pos": "proper",
+      "theme": "nationalities",
+      "form_seen": "Irlannista",
+      "note": "nt → nn"
+    },
+    {
+      "fi": "halpa",
+      "en": "cheap",
+      "pos": "adj",
+      "theme": "shopping-money",
+      "form_seen": "halvasta",
+      "note": "lp → lv"
+    },
+    {
+      "fi": "sana",
+      "en": "word",
+      "pos": "noun",
+      "theme": "classroom",
+      "form_seen": "sanat"
+    },
+    {
+      "fi": "vokaaliharmonia",
+      "en": "vowel harmony",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "kirjoittaa",
+      "en": "to write",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "school-work",
+      "form_seen": "kirjoita"
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Harjoitus 3 A. ssa/ssä",
+      "instruction": "K-p-t gradation and vowel harmony. Write the words (inessive ssa/ssä).",
+      "topic": "inner-local-cases",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Kreikka",
+          "base": "Kreikka",
+          "answer": "Kreikassa",
+          "en": "in Greece",
+          "answer_source": "key"
+        },
+        {
+          "prompt": "kaappi",
+          "base": "kaappi",
+          "answer": "kaapissa",
+          "en": "in cupboard"
+        },
+        {
+          "prompt": "kylpy",
+          "base": "kylpy",
+          "answer": "kylvyssä",
+          "en": "in bath"
+        },
+        {
+          "prompt": "Hollanti",
+          "base": "Hollanti",
+          "answer": "Hollannissa",
+          "en": "in the Netherlands"
+        },
+        {
+          "prompt": "jalka",
+          "base": "jalka",
+          "answer": "jalassa",
+          "en": "in leg"
+        },
+        {
+          "prompt": "asunto",
+          "base": "asunto",
+          "answer": "asunnossa",
+          "en": "in flat"
+        },
+        {
+          "prompt": "parta",
+          "base": "parta",
+          "answer": "parrassa",
+          "en": "in beard"
+        },
+        {
+          "prompt": "aurinko",
+          "base": "aurinko",
+          "answer": "auringossa",
+          "en": "in sun"
+        }
+      ]
+    },
+    {
+      "title": "Harjoitus 3 B. sta/stä",
+      "instruction": "K-p-t gradation and vowel harmony. Write the words (elative sta/stä).",
+      "topic": "inner-local-cases",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "pankki",
+          "base": "pankki",
+          "answer": "pankista",
+          "en": "from bank",
+          "answer_source": "key"
+        },
+        {
+          "prompt": "Itävalta",
+          "base": "Itävalta",
+          "answer": "Itävallasta",
+          "en": "from Austria"
+        },
+        {
+          "prompt": "kauppa",
+          "base": "kauppa",
+          "answer": "kaupasta",
+          "en": "from shop"
+        },
+        {
+          "prompt": "konsertti",
+          "base": "konsertti",
+          "answer": "konsertista",
+          "en": "from concert"
+        },
+        {
+          "prompt": "päiväkoti",
+          "base": "päiväkoti",
+          "answer": "päiväkodista",
+          "en": "from day-care centre"
+        },
+        {
+          "prompt": "kaupunki",
+          "base": "kaupunki",
+          "answer": "kaupungista",
+          "en": "from city"
+        },
+        {
+          "prompt": "Irlanti",
+          "base": "Irlanti",
+          "answer": "Irlannista",
+          "en": "from Ireland"
+        },
+        {
+          "prompt": "halpa",
+          "base": "halpa",
+          "answer": "halvasta",
+          "en": "from cheap (one)"
+        }
+      ]
+    }
+  ],
+  "texts": [],
+  "grammar_notes": []
+}

@@ -1,0 +1,366 @@
+{
+  "source": "term-2026-spring/Lesson 4 (11.5.2026)/1777830795773.jpg",
+  "md5": "e1e22296f563ff6f58700726de515d0f",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 4,
+    "date": "2026-05-11"
+  },
+  "kind": "picture_vocab",
+  "title": {
+    "fi": "Verbit",
+    "en": "Verbs (continued)"
+  },
+  "topics": [
+    "verb-types"
+  ],
+  "summary": "Illustrated verb vocabulary box (continuation of 'Verbit'): 30 everyday verbs for housework, shopping, hobbies, movement, travel and feelings, each labelled with its verb type number.",
+  "transcript": "korjata (4)\nhäiritä (5)\nasua (1)\nsiivota (4)\nimuroida (2)\npestä (3)\nmyydä (2)\nostaa (1)\nmaksaa (1)\ntilata (4)\npelata (4)\nuida (2)\njuosta (3)\ntanssia (1)\nlaulaa (1)\nsoittaa (1)\nkatsoa (1)\nseisoa (1)\nistua (1)\nkävellä (3)\nmennä (3)\ntulla (3)\nmatkustaa (1)\nlentää (1)\najaa (1)\npyöräillä (3)\nrakastaa (1)\nnauraa (1)\nhymyillä (3)\nitkeä (1)\n\n(Illustrated verb box, each verb with a line drawing.)",
+  "words": [
+    {
+      "fi": "korjata",
+      "en": "to repair, to fix",
+      "pos": "verb",
+      "verb_type": 4,
+      "theme": "household"
+    },
+    {
+      "fi": "häiritä",
+      "en": "to disturb",
+      "pos": "verb",
+      "verb_type": 5,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "asua",
+      "en": "to live (reside)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "home"
+    },
+    {
+      "fi": "siivota",
+      "en": "to clean, to tidy",
+      "pos": "verb",
+      "verb_type": 4,
+      "theme": "household"
+    },
+    {
+      "fi": "imuroida",
+      "en": "to vacuum",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "household"
+    },
+    {
+      "fi": "pestä",
+      "en": "to wash",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "household"
+    },
+    {
+      "fi": "myydä",
+      "en": "to sell",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "ostaa",
+      "en": "to buy",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "maksaa",
+      "en": "to pay; to cost",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "tilata",
+      "en": "to order",
+      "pos": "verb",
+      "verb_type": 4,
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "pelata",
+      "en": "to play (a game, sport)",
+      "pos": "verb",
+      "verb_type": 4,
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "uida",
+      "en": "to swim",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "juosta",
+      "en": "to run",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "tanssia",
+      "en": "to dance",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "laulaa",
+      "en": "to sing",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "soittaa",
+      "en": "to play (an instrument); to call",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "hobbies-sport",
+      "note": "tt → t"
+    },
+    {
+      "fi": "katsoa",
+      "en": "to watch, to look at",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "seisoa",
+      "en": "to stand",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "istua",
+      "en": "to sit",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kävellä",
+      "en": "to walk",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "mennä",
+      "en": "to go",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "tulla",
+      "en": "to come",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "matkustaa",
+      "en": "to travel",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "travel"
+    },
+    {
+      "fi": "lentää",
+      "en": "to fly",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "travel",
+      "note": "nt → nn"
+    },
+    {
+      "fi": "ajaa",
+      "en": "to drive; to ride",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "transport"
+    },
+    {
+      "fi": "pyöräillä",
+      "en": "to cycle",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "transport"
+    },
+    {
+      "fi": "rakastaa",
+      "en": "to love",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "feelings"
+    },
+    {
+      "fi": "nauraa",
+      "en": "to laugh",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "feelings"
+    },
+    {
+      "fi": "hymyillä",
+      "en": "to smile",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "feelings"
+    },
+    {
+      "fi": "itkeä",
+      "en": "to cry",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "feelings",
+      "note": "k → ∅ (itken)"
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "verb-types",
+      "heading": "Verbit (verb type in brackets)",
+      "text": "Each verb is labelled with its verb type.",
+      "table": [
+        [
+          "korjata",
+          "4"
+        ],
+        [
+          "häiritä",
+          "5"
+        ],
+        [
+          "asua",
+          "1"
+        ],
+        [
+          "siivota",
+          "4"
+        ],
+        [
+          "imuroida",
+          "2"
+        ],
+        [
+          "pestä",
+          "3"
+        ],
+        [
+          "myydä",
+          "2"
+        ],
+        [
+          "ostaa",
+          "1"
+        ],
+        [
+          "maksaa",
+          "1"
+        ],
+        [
+          "tilata",
+          "4"
+        ],
+        [
+          "pelata",
+          "4"
+        ],
+        [
+          "uida",
+          "2"
+        ],
+        [
+          "juosta",
+          "3"
+        ],
+        [
+          "tanssia",
+          "1"
+        ],
+        [
+          "laulaa",
+          "1"
+        ],
+        [
+          "soittaa",
+          "1"
+        ],
+        [
+          "katsoa",
+          "1"
+        ],
+        [
+          "seisoa",
+          "1"
+        ],
+        [
+          "istua",
+          "1"
+        ],
+        [
+          "kävellä",
+          "3"
+        ],
+        [
+          "mennä",
+          "3"
+        ],
+        [
+          "tulla",
+          "3"
+        ],
+        [
+          "matkustaa",
+          "1"
+        ],
+        [
+          "lentää",
+          "1"
+        ],
+        [
+          "ajaa",
+          "1"
+        ],
+        [
+          "pyöräillä",
+          "3"
+        ],
+        [
+          "rakastaa",
+          "1"
+        ],
+        [
+          "nauraa",
+          "1"
+        ],
+        [
+          "hymyillä",
+          "3"
+        ],
+        [
+          "itkeä",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "texts": [],
+  "exercises": []
+}

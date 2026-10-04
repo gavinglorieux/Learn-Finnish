@@ -1,0 +1,378 @@
+{
+  "source": "term-2025-autumn/Lesson 4 (22.9.2025)/genetiivi lauantaille.docx",
+  "md5": "0a4c41ff305a81f7927fcd76954093dc",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 4,
+    "date": "2025-09-22"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "Genetiivi",
+    "en": "Genitive – translation exercise"
+  },
+  "topics": [
+    "genitive",
+    "possessive"
+  ],
+  "summary": "Fifteen English sentences about family members and professions to translate into Finnish using genitive pronouns and nouns, with a vocabulary list.",
+  "transcript": "MINUN SISKONI ON HAMMASLÄÄKÄRI. HÄNELLÄ ON PALJON TÖITÄ.\nMY SISTER IS A DENTIST. SHE HAS A LOT OF WORK.\nTHE GENITIVE: MINUN, SINUN, HÄNEN, MEIDÄN, TEIDÄN, HEIDÄN, OPETTAJAN, SUSANNAN..\nTRANSLATE THE SENTENCES:\n1. THIS IS MY BROTHER.\n2. HE IS A POLICE OFFICER.\n3. HIS WIFE IS A NURSERY TEACHER.\n4. THEIR DAUGHTER IS 5 YEARS OLD.\n5. HER NAME IS TUIJA.\n6. HER TEACHER’S NAME IS SIRKKA.\n7. HER TEACHER’S HUSBAND’S NAME IS JUKKA- PETTERI.\n8. JUKKA-PETTERI’S FATHER IS FINNISH AND HIS STEPMOTHER IS SWEDISH.\n9. HIS FATHER IS RETIRED.\n10. HIS FATHER’S NEW WIFE IS NOT RETIRED. SHE IS A DENTIST.\n11. IS YOUR FATHER RETIRED?\n12. IS YOUR MOTHER A HOUSEWIFE?\n13. IS YOUR FATHER BRITISH?\n14. ARE YOUR SIBLINGS MARRIED?\n15. IS OUR EXERCISE DIFFICULT OR IS IT EASY?\nbrother= veli police officer= poliisi nursery teacher= päiväkodin opettaja daughter= tytär teacher= opettaja husband= mies (WHEN ADDING ENDINGS, THIS WORD CHANGES INTO ”MIEHE-” AND YOU ADD THE ENDING AT THE END OF THIS SO-CALLED ”STEM”) Father= isä stepmother= äitipuoli new= uusi wife= vaimo dentist= hammaslääkäri housewife= kotirouva siblings= sisarukset exercise= harjoitus difficult= vaikea or= vai easy= helppo",
+  "words": [
+    {
+      "fi": "sisko",
+      "en": "sister",
+      "pos": "noun",
+      "form_seen": "siskoni",
+      "theme": "family"
+    },
+    {
+      "fi": "hammaslääkäri",
+      "en": "dentist",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "paljon",
+      "en": "a lot, much",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "työ",
+      "en": "work",
+      "pos": "noun",
+      "form_seen": "töitä",
+      "theme": "school-work"
+    },
+    {
+      "fi": "hänellä on",
+      "en": "he/she has",
+      "pos": "phrase",
+      "theme": "family"
+    },
+    {
+      "fi": "minun",
+      "en": "my",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "sinun",
+      "en": "your (sg)",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "hänen",
+      "en": "his, her",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "meidän",
+      "en": "our",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "teidän",
+      "en": "your (pl)",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "heidän",
+      "en": "their",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "opettaja",
+      "en": "teacher",
+      "pos": "noun",
+      "form_seen": "opettajan",
+      "theme": "professions"
+    },
+    {
+      "fi": "veli",
+      "en": "brother",
+      "pos": "noun",
+      "theme": "family",
+      "note": "stem velje-: veljeni"
+    },
+    {
+      "fi": "poliisi",
+      "en": "police officer",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "vaimo",
+      "en": "wife",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "päiväkodin opettaja",
+      "en": "nursery teacher",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "päiväkoti",
+      "en": "nursery, daycare centre",
+      "pos": "noun",
+      "form_seen": "päiväkodin",
+      "theme": "places-town",
+      "note": "t → d"
+    },
+    {
+      "fi": "tytär",
+      "en": "daughter",
+      "pos": "noun",
+      "theme": "family",
+      "note": "stem tyttäre-"
+    },
+    {
+      "fi": "nimi",
+      "en": "name",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "mies",
+      "en": "husband; man",
+      "pos": "noun",
+      "theme": "family",
+      "note": "stem miehe-: miehen"
+    },
+    {
+      "fi": "isä",
+      "en": "father",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "äitipuoli",
+      "en": "stepmother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "suomalainen",
+      "en": "Finnish",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "ruotsalainen",
+      "en": "Swedish",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "eläkkeellä",
+      "en": "retired",
+      "pos": "adv",
+      "theme": "professions"
+    },
+    {
+      "fi": "uusi",
+      "en": "new",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "äiti",
+      "en": "mother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "kotirouva",
+      "en": "housewife",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "britti",
+      "en": "a Brit; British",
+      "pos": "noun",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "sisarukset",
+      "en": "siblings",
+      "pos": "noun",
+      "theme": "family",
+      "note": "sg sisarus"
+    },
+    {
+      "fi": "naimisissa",
+      "en": "married",
+      "pos": "adv",
+      "theme": "family"
+    },
+    {
+      "fi": "harjoitus",
+      "en": "exercise",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "vaikea",
+      "en": "difficult",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "vai",
+      "en": "or (in questions)",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "helppo",
+      "en": "easy",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "tämä",
+      "en": "this",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "vuosi",
+      "en": "year",
+      "pos": "noun",
+      "form_seen": "vuotta",
+      "theme": "days-time"
+    },
+    {
+      "fi": "vanha",
+      "en": "old",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "genetiivi",
+      "en": "genitive",
+      "pos": "noun",
+      "theme": "classroom"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Minun siskoni on hammaslääkäri",
+        "en": "My sister is a dentist"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Minun siskoni on hammaslääkäri.",
+          "en": "My sister is a dentist."
+        },
+        {
+          "fi": "Hänellä on paljon töitä.",
+          "en": "She has a lot of work."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Translate the sentences",
+      "instruction": "Translate the sentences into Finnish using the genitive (minun, sinun, hänen, meidän, teidän, heidän, opettajan…).",
+      "topic": "genitive",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "THIS IS MY BROTHER.",
+          "answer": "Tämä on minun veljeni.",
+          "note": "possessive suffix optional in spoken Finnish (e.g. minun veli)"
+        },
+        {
+          "prompt": "HE IS A POLICE OFFICER.",
+          "answer": "Hän on poliisi.",
+          "note": "possessive suffix optional in spoken Finnish (e.g. minun veli)"
+        },
+        {
+          "prompt": "HIS WIFE IS A NURSERY TEACHER.",
+          "answer": "Hänen vaimonsa on päiväkodin opettaja.",
+          "note": "possessive suffix optional in spoken Finnish (e.g. minun veli)"
+        },
+        {
+          "prompt": "THEIR DAUGHTER IS 5 YEARS OLD.",
+          "answer": "Heidän tyttärensä on viisi vuotta vanha.",
+          "note": "possessive suffix optional in spoken Finnish (e.g. minun veli)"
+        },
+        {
+          "prompt": "HER NAME IS TUIJA.",
+          "answer": "Hänen nimensä on Tuija.",
+          "note": "possessive suffix optional in spoken Finnish (e.g. minun veli)"
+        },
+        {
+          "prompt": "HER TEACHER'S NAME IS SIRKKA.",
+          "answer": "Hänen opettajansa nimi on Sirkka.",
+          "note": "possessive suffix optional in spoken Finnish (e.g. minun veli)"
+        },
+        {
+          "prompt": "HER TEACHER'S HUSBAND'S NAME IS JUKKA-PETTERI.",
+          "answer": "Hänen opettajansa miehen nimi on Jukka-Petteri.",
+          "note": "possessive suffix optional in spoken Finnish (e.g. minun veli)"
+        },
+        {
+          "prompt": "JUKKA-PETTERI'S FATHER IS FINNISH AND HIS STEPMOTHER IS SWEDISH.",
+          "answer": "Jukka-Petterin isä on suomalainen ja hänen äitipuolensa on ruotsalainen.",
+          "note": "possessive suffix optional in spoken Finnish (e.g. minun veli)"
+        },
+        {
+          "prompt": "HIS FATHER IS RETIRED.",
+          "answer": "Hänen isänsä on eläkkeellä.",
+          "note": "possessive suffix optional in spoken Finnish (e.g. minun veli)"
+        },
+        {
+          "prompt": "HIS FATHER'S NEW WIFE IS NOT RETIRED. SHE IS A DENTIST.",
+          "answer": "Hänen isänsä uusi vaimo ei ole eläkkeellä. Hän on hammaslääkäri.",
+          "note": "possessive suffix optional in spoken Finnish (e.g. minun veli)"
+        },
+        {
+          "prompt": "IS YOUR FATHER RETIRED?",
+          "answer": "Onko sinun isäsi eläkkeellä?",
+          "note": "possessive suffix optional in spoken Finnish (e.g. minun veli)"
+        },
+        {
+          "prompt": "IS YOUR MOTHER A HOUSEWIFE?",
+          "answer": "Onko sinun äitisi kotirouva?",
+          "note": "possessive suffix optional in spoken Finnish (e.g. minun veli)"
+        },
+        {
+          "prompt": "IS YOUR FATHER BRITISH?",
+          "answer": "Onko sinun isäsi britti?",
+          "note": "possessive suffix optional in spoken Finnish (e.g. minun veli)"
+        },
+        {
+          "prompt": "ARE YOUR SIBLINGS MARRIED?",
+          "answer": "Ovatko sinun sisaruksesi naimisissa?",
+          "note": "possessive suffix optional in spoken Finnish (e.g. minun veli)"
+        },
+        {
+          "prompt": "IS OUR EXERCISE DIFFICULT OR IS IT EASY?",
+          "answer": "Onko meidän harjoituksemme vaikea vai onko se helppo?",
+          "note": "possessive suffix optional in spoken Finnish (e.g. minun veli)"
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "genitive",
+      "heading": "The genitive",
+      "text": "Genitive forms: minun, sinun, hänen, meidän, teidän, heidän, opettajan, Susannan… Mies changes to the stem miehe- before endings (miehen)."
+    }
+  ]
+}

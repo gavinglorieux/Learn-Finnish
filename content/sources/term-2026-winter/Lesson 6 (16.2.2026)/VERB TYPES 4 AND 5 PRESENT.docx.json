@@ -1,0 +1,291 @@
+{
+  "source": "term-2026-winter/Lesson 6 (16.2.2026)/VERB TYPES 4 AND 5 PRESENT.docx",
+  "md5": "c4317497a5680b9e3366afa2d6cb5322",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 6,
+    "date": "2026-02-16"
+  },
+  "kind": "grammar",
+  "title": {
+    "fi": "Verbityypit 4 ja 5: preesens",
+    "en": "Verb types 4 and 5: conjugation (present tense)"
+  },
+  "topics": [
+    "verb-types",
+    "verb-type-4",
+    "verb-type-5",
+    "pronouns"
+  ],
+  "summary": "Grammar sheet (in English) explaining how to recognise and conjugate verb type 4 (-ta/-tä after a vowel) and verb type 5 (-ita/-itä) verbs in the present tense, with full paradigms of haluta, avata, herätä, valita and häiritä.",
+  "transcript": "VERB TYPES 4 AND 5: CONJUGATION\n\nVERB TYPE 4:\n\na) ENDS IN ”VOWEL + -TA / -TÄ”: HALUTA, VARATA, SIIVOTA, TILATA, AVATA, HERÄTÄ\n\nb) TO CONJUGATE, REMOVE THE LAST CONSONANT (T) BUT KEEP THE VERY LAST A / Ä AND\n\nADD THE PERSONAL ENDING: HALU(T)A > HALUA- > MINÄ HALUAN, SINÄ HALUAT, HÄN HALUAA,\n\nME HALUAMME, TE HALUATTE, HE HALUAVAT;\n\nAVATA > AVA(T)A: MINÄ AVAAN, SINÄ AVAAT, HÄN AVAA, ME AVAAMME, TE AVAATTE, HE AVAAVAT\n\nHERÄTÄ: MINÄ HERÄÄN, SINÄ HERÄÄT, HÄN HERÄÄ, ME HERÄÄMME, TE HERÄÄTTE, HE HERÄÄVÄT\n\nVERB TYPE 5:\n\na) ENDS IN ”-ITA / -ITÄ”: VALITA, LUKITA, HÄIRITÄ, MERKITÄ, TULKITA\n\nb) REMOVE THE LAST LETTER (A/Ä), REPLACE WITH ”–SE” AND ADD THE PERSONAL ENDING:\n\nVALITA: VALI(T)A > VALIT- + SE: MINÄ VALITSEN, SINÄ VALITSET, HÄN VALITSEE, ME VALITSEMME.\n\nTE VALITSETTE, HE VALITSEVAT\n\nHÄIRITÄ: HÄIRI(T)Ä > HÄIRIT- + SE > MINÄ HÄIRITSEN, SINÄ HÄIRITSET, HÄN HÄIRITSEE, ME HÄIRITSEMME,\n\nTE HÄIRITSETTE, HE HÄIRITSEVÄT",
+  "words": [
+    {
+      "fi": "haluta",
+      "en": "to want",
+      "pos": "verb",
+      "verb_type": 4,
+      "forms": {
+        "minä": "haluan",
+        "sinä": "haluat",
+        "hän": "haluaa",
+        "me": "haluamme",
+        "te": "haluatte",
+        "he": "haluavat"
+      },
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "varata",
+      "en": "to book, to reserve",
+      "pos": "verb",
+      "verb_type": 4,
+      "forms": {
+        "minä": "varaan"
+      },
+      "theme": "travel"
+    },
+    {
+      "fi": "siivota",
+      "en": "to clean, to tidy",
+      "pos": "verb",
+      "verb_type": 4,
+      "forms": {
+        "minä": "siivoan"
+      },
+      "theme": "household"
+    },
+    {
+      "fi": "tilata",
+      "en": "to order",
+      "pos": "verb",
+      "verb_type": 4,
+      "forms": {
+        "minä": "tilaan"
+      },
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "avata",
+      "en": "to open",
+      "pos": "verb",
+      "verb_type": 4,
+      "forms": {
+        "minä": "avaan",
+        "sinä": "avaat",
+        "hän": "avaa",
+        "me": "avaamme",
+        "te": "avaatte",
+        "he": "avaavat"
+      },
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "herätä",
+      "en": "to wake up",
+      "pos": "verb",
+      "verb_type": 4,
+      "forms": {
+        "minä": "herään",
+        "sinä": "heräät",
+        "hän": "herää",
+        "me": "heräämme",
+        "te": "heräätte",
+        "he": "heräävät"
+      },
+      "theme": "daily-routine"
+    },
+    {
+      "fi": "valita",
+      "en": "to choose",
+      "pos": "verb",
+      "verb_type": 5,
+      "forms": {
+        "minä": "valitsen",
+        "sinä": "valitset",
+        "hän": "valitsee",
+        "me": "valitsemme",
+        "te": "valitsette",
+        "he": "valitsevat"
+      },
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "lukita",
+      "en": "to lock",
+      "pos": "verb",
+      "verb_type": 5,
+      "forms": {
+        "minä": "lukitsen"
+      },
+      "theme": "home"
+    },
+    {
+      "fi": "häiritä",
+      "en": "to disturb",
+      "pos": "verb",
+      "verb_type": 5,
+      "forms": {
+        "minä": "häiritsen",
+        "sinä": "häiritset",
+        "hän": "häiritsee",
+        "me": "häiritsemme",
+        "te": "häiritsette",
+        "he": "häiritsevät"
+      },
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "merkitä",
+      "en": "to mark; to mean",
+      "pos": "verb",
+      "verb_type": 5,
+      "forms": {
+        "minä": "merkitsen"
+      },
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "tulkita",
+      "en": "to interpret",
+      "pos": "verb",
+      "verb_type": 5,
+      "forms": {
+        "minä": "tulkitsen"
+      },
+      "theme": "school-work"
+    },
+    {
+      "fi": "minä",
+      "en": "I",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "sinä",
+      "en": "you (singular)",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "hän",
+      "en": "he, she",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "me",
+      "en": "we",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "te",
+      "en": "you (plural)",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "he",
+      "en": "they",
+      "pos": "pron",
+      "theme": "people"
+    }
+  ],
+  "texts": [],
+  "exercises": [],
+  "grammar_notes": [
+    {
+      "topic": "verb-type-4",
+      "heading": "Verb type 4",
+      "text": "a) Ends in vowel + -TA / -TÄ: haluta, varata, siivota, tilata, avata, herätä.\nb) To conjugate, remove the last consonant (T) but keep the very last A / Ä and add the personal ending: halu(t)a > halua- > minä haluan …; avata > ava(t)a: minä avaan …; herätä: minä herään …",
+      "table": [
+        [
+          "",
+          "haluta",
+          "avata",
+          "herätä"
+        ],
+        [
+          "minä",
+          "haluan",
+          "avaan",
+          "herään"
+        ],
+        [
+          "sinä",
+          "haluat",
+          "avaat",
+          "heräät"
+        ],
+        [
+          "hän",
+          "haluaa",
+          "avaa",
+          "herää"
+        ],
+        [
+          "me",
+          "haluamme",
+          "avaamme",
+          "heräämme"
+        ],
+        [
+          "te",
+          "haluatte",
+          "avaatte",
+          "heräätte"
+        ],
+        [
+          "he",
+          "haluavat",
+          "avaavat",
+          "heräävät"
+        ]
+      ]
+    },
+    {
+      "topic": "verb-type-5",
+      "heading": "Verb type 5",
+      "text": "a) Ends in -ITA / -ITÄ: valita, lukita, häiritä, merkitä, tulkita.\nb) Remove the last letter (A/Ä), replace with -SE and add the personal ending: valita > valit- + se > minä valitsen …; häiritä > häirit- + se > minä häiritsen …",
+      "table": [
+        [
+          "",
+          "valita",
+          "häiritä"
+        ],
+        [
+          "minä",
+          "valitsen",
+          "häiritsen"
+        ],
+        [
+          "sinä",
+          "valitset",
+          "häiritset"
+        ],
+        [
+          "hän",
+          "valitsee",
+          "häiritsee"
+        ],
+        [
+          "me",
+          "valitsemme",
+          "häiritsemme"
+        ],
+        [
+          "te",
+          "valitsette",
+          "häiritsette"
+        ],
+        [
+          "he",
+          "valitsevat",
+          "häiritsevät"
+        ]
+      ]
+    }
+  ]
+}

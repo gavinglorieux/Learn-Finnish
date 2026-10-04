@@ -1,0 +1,304 @@
+{
+  "source": "term-2025-autumn/Lesson 3 (15.9.2025)/ÄÄNTÄMINEN 2.docx",
+  "md5": "520de4d225bcd109b56572f2dc53fe25",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 3,
+    "date": "2025-09-15"
+  },
+  "kind": "other",
+  "title": {
+    "fi": "ÄÄNTÄMINEN",
+    "en": "Pronunciation"
+  },
+  "topics": [
+    "pronunciation"
+  ],
+  "summary": "Pronunciation drill: word pairs contrasting A–Ä, O–U and U–Y, and word lists practising the diphthongs yö, öy, äy and eu. Some items (älli, äppi, uttu, uma, kyytti, hyyry) are nonsense/near-words used only for sound contrast.",
+  "transcript": "ÄÄNTÄMINEN\nA - Ä: ALLI - ÄLLI APPI - ÄPPI ALA - ÄLÄ HAKKANEN - HÄKKÄNEN\nO – U: OTTO - UTTU OSA - USA OMA - UMA OLLA - ULLA\nU - Y: KUUTTI - KYYTTI SUU - SYY PUU - PYY KUU – KYY HUURU - HYYRY TUHMA - TYHMÄ\nYÖ - TYÖ - SYÖ - VYÖ - HYÖTY - PYÖRÄ - KYÖPELI - TYÖVOIMAMINISTERI\nÖY - LÖYLY - KÖYSI - LÖYSIN - PÖYTÄ - HÖYLÄ\nÄY - KÄYDÄ - TÄYNNÄ - SÄYNÄVÄ - KÄYTTÖ - KÄYPÄ\nEU - EURO - PEURA - TEUVO - KEULA",
+  "words": [
+    {
+      "fi": "ääntäminen",
+      "en": "pronunciation",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "alli",
+      "en": "long-tailed duck",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "appi",
+      "en": "father-in-law",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "ala",
+      "en": "field, area (of expertise)",
+      "pos": "noun",
+      "theme": "school-work"
+    },
+    {
+      "fi": "älä",
+      "en": "don't (negative imperative, sg)",
+      "pos": "verb",
+      "theme": "little-words",
+      "note": "negative imperative of ei"
+    },
+    {
+      "fi": "osa",
+      "en": "part",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "oma",
+      "en": "own",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kuutti",
+      "en": "seal pup",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "suu",
+      "en": "mouth",
+      "pos": "noun",
+      "theme": "body"
+    },
+    {
+      "fi": "syy",
+      "en": "reason",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "puu",
+      "en": "tree; wood",
+      "pos": "noun",
+      "theme": "nature"
+    },
+    {
+      "fi": "pyy",
+      "en": "hazel grouse",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "kuu",
+      "en": "moon; month",
+      "pos": "noun",
+      "theme": "nature"
+    },
+    {
+      "fi": "kyy",
+      "en": "adder, viper",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "huuru",
+      "en": "condensation, mist (on a surface)",
+      "pos": "noun",
+      "theme": "weather",
+      "uncertain": true
+    },
+    {
+      "fi": "tuhma",
+      "en": "naughty",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "tyhmä",
+      "en": "stupid",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "yö",
+      "en": "night",
+      "pos": "noun",
+      "theme": "days-time"
+    },
+    {
+      "fi": "työ",
+      "en": "work",
+      "pos": "noun",
+      "theme": "school-work"
+    },
+    {
+      "fi": "syödä",
+      "en": "to eat",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "syö",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "vyö",
+      "en": "belt",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "hyöty",
+      "en": "benefit, use",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "pyörä",
+      "en": "bicycle; wheel",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "kyöpeli",
+      "en": "ghost, spook (colloquial)",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "työvoimaministeri",
+      "en": "minister of labour",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "löyly",
+      "en": "sauna steam",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "köysi",
+      "en": "rope",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "löytää",
+      "en": "to find",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "löysin",
+      "theme": "common-verbs",
+      "note": "past tense: löysin"
+    },
+    {
+      "fi": "pöytä",
+      "en": "table",
+      "pos": "noun",
+      "theme": "furniture"
+    },
+    {
+      "fi": "höylä",
+      "en": "plane (woodworking tool)",
+      "pos": "noun",
+      "theme": "household"
+    },
+    {
+      "fi": "käydä",
+      "en": "to visit; to go (and come back)",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "täynnä",
+      "en": "full",
+      "pos": "adv",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "säynävä",
+      "en": "ide (a freshwater fish)",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "käyttö",
+      "en": "use, usage",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "käypä",
+      "en": "valid; current (e.g. käypä hinta)",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "euro",
+      "en": "euro",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "peura",
+      "en": "deer",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "keula",
+      "en": "bow (of a boat)",
+      "pos": "noun",
+      "theme": "transport"
+    }
+  ],
+  "texts": [],
+  "exercises": [],
+  "grammar_notes": [
+    {
+      "topic": "pronunciation",
+      "heading": "Ääntäminen – vowel contrasts and diphthongs",
+      "text": "Practise contrasting A–Ä, O–U, U–Y and the diphthongs YÖ, ÖY, ÄY and EU.",
+      "table": [
+        [
+          "A – Ä",
+          "ALLI - ÄLLI, APPI - ÄPPI, ALA - ÄLÄ, HAKKANEN - HÄKKÄNEN"
+        ],
+        [
+          "O – U",
+          "OTTO - UTTU, OSA - USA, OMA - UMA, OLLA - ULLA"
+        ],
+        [
+          "U – Y",
+          "KUUTTI - KYYTTI, SUU - SYY, PUU - PYY, KUU - KYY, HUURU - HYYRY, TUHMA - TYHMÄ"
+        ],
+        [
+          "YÖ",
+          "YÖ, TYÖ, SYÖ, VYÖ, HYÖTY, PYÖRÄ, KYÖPELI, TYÖVOIMAMINISTERI"
+        ],
+        [
+          "ÖY",
+          "LÖYLY, KÖYSI, LÖYSIN, PÖYTÄ, HÖYLÄ"
+        ],
+        [
+          "ÄY",
+          "KÄYDÄ, TÄYNNÄ, SÄYNÄVÄ, KÄYTTÖ, KÄYPÄ"
+        ],
+        [
+          "EU",
+          "EURO, PEURA, TEUVO, KEULA"
+        ]
+      ]
+    }
+  ]
+}

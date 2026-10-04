@@ -1,0 +1,318 @@
+{
+  "source": "term-2025-autumn/Lesson 4 (22.9.2025)/1757415950846.jpg",
+  "md5": "c0c789bf3d4abc40e50de9f522837578",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 4,
+    "date": "2025-09-22"
+  },
+  "kind": "grammar",
+  "title": {
+    "fi": "Partitiivi",
+    "en": "The partitive case"
+  },
+  "topics": [
+    "partitive",
+    "numbers"
+  ],
+  "summary": "Grammar sheet 1.1 Partitiivi: table of partitive endings by word type (-a/-ä after a single vowel, -ta/-tä after a long vowel or consonant, -tta/-ttä for -e words, handwritten -sta/-stä for -nen words), and the first use: after numbers, monta, pari and puoli.",
+  "transcript": "1.1.\nPARTITIIVI\nNominatiivi | Partitiivi\ntalo | taloa | -a / -ä | -V (vokaali)\nkoulu | koulua | -a / -ä | -V (vokaali)\nkynä | kynää | -a / -ä | -V (vokaali)\nseinä | seinää | -a / -ä | -V (vokaali)\ntie | tietä | -ta / -tä | -VV\nmuseo | museota | -ta / -tä | -VV\navain | avainta | -ta / -tä | -K (konsonantti)\nmies | miestä | -ta / -tä | -K (konsonantti)\nhuone | huonetta | -tta / -ttä | -e\nkirje | kirjettä | -tta / -ttä | -e\nhevonen | hevosta | -sta / -stä | -nen\n(HEVONEN – HEVOSTA – -STA/-STÄ – -nen handwritten)\n\nMilloin partitiivi?\n1) lukusana (2,3,4..) + partitiivi    2 poikaa\nmonta + partitiivi    monta poikaa\npari (2) + partitiivi    pari kurkkua\npuoli (1/2) + partitiivi    puoli tuntia",
+  "words": [
+    {
+      "fi": "partitiivi",
+      "en": "partitive case",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "nominatiivi",
+      "en": "nominative case",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "talo",
+      "en": "house",
+      "pos": "noun",
+      "forms": {
+        "partitive": "taloa"
+      },
+      "theme": "home"
+    },
+    {
+      "fi": "koulu",
+      "en": "school",
+      "pos": "noun",
+      "forms": {
+        "partitive": "koulua"
+      },
+      "theme": "school-work"
+    },
+    {
+      "fi": "kynä",
+      "en": "pen",
+      "pos": "noun",
+      "forms": {
+        "partitive": "kynää"
+      },
+      "theme": "classroom"
+    },
+    {
+      "fi": "seinä",
+      "en": "wall",
+      "pos": "noun",
+      "forms": {
+        "partitive": "seinää"
+      },
+      "theme": "home"
+    },
+    {
+      "fi": "tie",
+      "en": "road",
+      "pos": "noun",
+      "forms": {
+        "partitive": "tietä"
+      },
+      "theme": "directions"
+    },
+    {
+      "fi": "museo",
+      "en": "museum",
+      "pos": "noun",
+      "forms": {
+        "partitive": "museota"
+      },
+      "theme": "places-town"
+    },
+    {
+      "fi": "avain",
+      "en": "key",
+      "pos": "noun",
+      "forms": {
+        "partitive": "avainta"
+      },
+      "theme": "household"
+    },
+    {
+      "fi": "mies",
+      "en": "man",
+      "pos": "noun",
+      "forms": {
+        "partitive": "miestä"
+      },
+      "theme": "people"
+    },
+    {
+      "fi": "huone",
+      "en": "room",
+      "pos": "noun",
+      "forms": {
+        "partitive": "huonetta"
+      },
+      "theme": "home"
+    },
+    {
+      "fi": "kirje",
+      "en": "letter",
+      "pos": "noun",
+      "forms": {
+        "partitive": "kirjettä"
+      },
+      "theme": "other"
+    },
+    {
+      "fi": "hevonen",
+      "en": "horse",
+      "pos": "noun",
+      "forms": {
+        "partitive": "hevosta"
+      },
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "milloin",
+      "en": "when",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "lukusana",
+      "en": "numeral",
+      "pos": "noun",
+      "theme": "numbers"
+    },
+    {
+      "fi": "monta",
+      "en": "many",
+      "pos": "adv",
+      "note": "+ partitive",
+      "theme": "numbers"
+    },
+    {
+      "fi": "pari",
+      "en": "a couple, a few (2)",
+      "pos": "noun",
+      "note": "+ partitive",
+      "theme": "numbers"
+    },
+    {
+      "fi": "puoli",
+      "en": "half (1/2)",
+      "pos": "noun",
+      "note": "+ partitive",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kaksi",
+      "en": "two",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "poika",
+      "en": "boy, son",
+      "pos": "noun",
+      "forms": {
+        "partitive": "poikaa"
+      },
+      "theme": "family"
+    },
+    {
+      "fi": "kurkku",
+      "en": "cucumber",
+      "pos": "noun",
+      "forms": {
+        "partitive": "kurkkua"
+      },
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "tunti",
+      "en": "hour",
+      "pos": "noun",
+      "forms": {
+        "partitive": "tuntia"
+      },
+      "theme": "clock"
+    },
+    {
+      "fi": "vokaali",
+      "en": "vowel",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "konsonantti",
+      "en": "consonant",
+      "pos": "noun",
+      "theme": "classroom"
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "partitive",
+      "heading": "Partitiivi — endings",
+      "text": "-a/-ä after a single vowel (-V); -ta/-tä after a long vowel/diphthong (-VV) or a consonant (-K); -tta/-ttä for words ending in -e; -sta/-stä for words ending in -nen (hevonen → hevosta).",
+      "table": [
+        [
+          "Nominatiivi",
+          "Partitiivi",
+          "pääte",
+          "sana loppuu"
+        ],
+        [
+          "talo",
+          "taloa",
+          "-a / -ä",
+          "-V (vokaali)"
+        ],
+        [
+          "koulu",
+          "koulua",
+          "-a / -ä",
+          "-V (vokaali)"
+        ],
+        [
+          "kynä",
+          "kynää",
+          "-a / -ä",
+          "-V (vokaali)"
+        ],
+        [
+          "seinä",
+          "seinää",
+          "-a / -ä",
+          "-V (vokaali)"
+        ],
+        [
+          "tie",
+          "tietä",
+          "-ta / -tä",
+          "-VV"
+        ],
+        [
+          "museo",
+          "museota",
+          "-ta / -tä",
+          "-VV"
+        ],
+        [
+          "avain",
+          "avainta",
+          "-ta / -tä",
+          "-K (konsonantti)"
+        ],
+        [
+          "mies",
+          "miestä",
+          "-ta / -tä",
+          "-K (konsonantti)"
+        ],
+        [
+          "huone",
+          "huonetta",
+          "-tta / -ttä",
+          "-e"
+        ],
+        [
+          "kirje",
+          "kirjettä",
+          "-tta / -ttä",
+          "-e"
+        ],
+        [
+          "hevonen",
+          "hevosta",
+          "-sta / -stä",
+          "-nen"
+        ]
+      ]
+    },
+    {
+      "topic": "partitive",
+      "heading": "Milloin partitiivi? 1)",
+      "text": "After a numeral (2, 3, 4 …), monta, pari (2) and puoli (1/2) the noun is in the partitive singular.",
+      "table": [
+        [
+          "lukusana (2,3,4..) + partitiivi",
+          "2 poikaa"
+        ],
+        [
+          "monta + partitiivi",
+          "monta poikaa"
+        ],
+        [
+          "pari (2) + partitiivi",
+          "pari kurkkua"
+        ],
+        [
+          "puoli (1/2) + partitiivi",
+          "puoli tuntia"
+        ]
+      ]
+    }
+  ],
+  "texts": [],
+  "exercises": []
+}

@@ -1,0 +1,176 @@
+{
+ "source": "term-2026-winter/Lesson 2 (19.1.2026)/1768664027760.jpg",
+ "md5": "bee92335389618aa8a637e861380d01f",
+ "also_in": [],
+ "lesson": {
+  "term": "term-2026-winter",
+  "number": 2,
+  "date": "2026-01-19"
+ },
+ "kind": "other",
+ "title": {
+  "fi": "Syntymäpäivät",
+  "en": "Birthday party (photo)"
+ },
+ "topics": [
+  "other"
+ ],
+ "summary": "Photo with no printed text: a boy in a paper crown and bow tie blows out the candles on a kiwi-decorated cake at a coffee table set with cups, plates, napkins, pulla, a marble Bundt cake, tall candles and flowers. Used as a speaking prompt; the words below are picture vocabulary, not printed on the page.",
+ "transcript": "[No text on the image — photo of a child's birthday coffee table.]",
+ "words": [
+  {
+   "fi": "syntymäpäivä",
+   "en": "birthday",
+   "pos": "noun",
+   "theme": "celebrations",
+   "note": "picture vocabulary"
+  },
+  {
+   "fi": "syntymäpäiväjuhlat",
+   "en": "birthday party",
+   "pos": "noun",
+   "theme": "celebrations",
+   "note": "plural only"
+  },
+  {
+   "fi": "Hyvää syntymäpäivää!",
+   "en": "Happy birthday!",
+   "pos": "phrase",
+   "theme": "celebrations"
+  },
+  {
+   "fi": "Paljon onnea!",
+   "en": "Congratulations! / Happy birthday!",
+   "pos": "phrase",
+   "theme": "celebrations"
+  },
+  {
+   "fi": "poika",
+   "en": "boy",
+   "pos": "noun",
+   "theme": "people"
+  },
+  {
+   "fi": "lapsi",
+   "en": "child",
+   "pos": "noun",
+   "theme": "people"
+  },
+  {
+   "fi": "kruunu",
+   "en": "crown",
+   "pos": "noun",
+   "theme": "celebrations"
+  },
+  {
+   "fi": "rusetti",
+   "en": "bow tie",
+   "pos": "noun",
+   "theme": "clothes"
+  },
+  {
+   "fi": "liivi",
+   "en": "vest, waistcoat",
+   "pos": "noun",
+   "theme": "clothes"
+  },
+  {
+   "fi": "paita",
+   "en": "shirt",
+   "pos": "noun",
+   "theme": "clothes"
+  },
+  {
+   "fi": "täytekakku",
+   "en": "layer cake, cream cake",
+   "pos": "noun",
+   "theme": "food-meals"
+  },
+  {
+   "fi": "kakku",
+   "en": "cake",
+   "pos": "noun",
+   "theme": "food-meals"
+  },
+  {
+   "fi": "kiivi",
+   "en": "kiwi fruit",
+   "pos": "noun",
+   "theme": "food-fruit-veg"
+  },
+  {
+   "fi": "kynttilä",
+   "en": "candle",
+   "pos": "noun",
+   "theme": "celebrations"
+  },
+  {
+   "fi": "puhaltaa",
+   "en": "to blow",
+   "pos": "verb",
+   "verb_type": 1,
+   "theme": "celebrations",
+   "forms": {
+    "hän": "puhaltaa"
+   },
+   "note": "puhaltaa kynttilät = blow out the candles; lt → ll (puhallan)"
+  },
+  {
+   "fi": "pulla",
+   "en": "sweet bun, Finnish sweet bread",
+   "pos": "noun",
+   "theme": "food-meals"
+  },
+  {
+   "fi": "kahvi",
+   "en": "coffee",
+   "pos": "noun",
+   "theme": "drinks"
+  },
+  {
+   "fi": "kuppi",
+   "en": "cup",
+   "pos": "noun",
+   "theme": "tableware"
+  },
+  {
+   "fi": "lautanen",
+   "en": "plate",
+   "pos": "noun",
+   "theme": "tableware"
+  },
+  {
+   "fi": "lautasliina",
+   "en": "napkin",
+   "pos": "noun",
+   "theme": "tableware"
+  },
+  {
+   "fi": "kynttilänjalka",
+   "en": "candlestick",
+   "pos": "noun",
+   "theme": "household"
+  },
+  {
+   "fi": "kukka",
+   "en": "flower",
+   "pos": "noun",
+   "theme": "nature"
+  },
+  {
+   "fi": "pöytä",
+   "en": "table",
+   "pos": "noun",
+   "theme": "furniture"
+  },
+  {
+   "fi": "tuoli",
+   "en": "chair",
+   "pos": "noun",
+   "theme": "furniture"
+  }
+ ],
+ "texts": [],
+ "exercises": [],
+ "grammar_notes": []
+}

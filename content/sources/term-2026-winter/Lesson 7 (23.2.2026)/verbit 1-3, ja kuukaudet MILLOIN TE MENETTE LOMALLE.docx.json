@@ -1,0 +1,529 @@
+{
+  "source": "term-2026-winter/Lesson 7 (23.2.2026)/verbit 1-3, ja kuukaudet MILLOIN TE MENETTE LOMALLE.docx",
+  "md5": "daa03e369e4af6cabedade093a57ceff",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 7,
+    "date": "2026-02-23"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "Milloin te menette lomalle?",
+    "en": "When are you going on holiday?"
+  },
+  "topics": [
+    "verb-types",
+    "verb-type-1",
+    "verb-type-2",
+    "verb-type-3",
+    "months-seasons",
+    "have-adessive",
+    "negation",
+    "questions-ko"
+  ],
+  "summary": "Translation exercise: 16 English dialogue lines about holiday plans to say in Finnish, practising verb types 1–3 and the months (-kuussa), with vocabulary hints in brackets.",
+  "transcript": "MILLOIN TE MENETTE LOMALLE?\n\nKuinka sanot seuraavat lauseet suomeksi:\n\n1.  Where are you (plural ”you”) travelling in the spring?\n\n2.  We are travelling to Thailand (Thaimaa).\n\n3.  Are you going in April or May?\n\n4.  In April. We will be there two weeks.\n\n5.  Where are you staying there? (to stay= asua)\n\n6.  In a nice, modern hotel in Phuket. We can swim in the sea in the morning. (kiva, moderni; hotelli; sea= meri > old Finnish word so last ”i” > E before endings)\n\n7.  How many rooms are there in the hotel? (”How many rooms in the hotel is?”)\n\n8.  Only 28. It is on a quiet road. And we can travel to the city centre by bus every hour. (only= vain; quiet= hiljainen, road= tie; city centre= keskusta)\n\n9.  Are you going on a holiday in autumn, too? (myös)\n\n10. Yes. We will drive to Norway in August and to France in September.\n\n11. Do you have a caravan? (asuntovaunu)\n\n12. No, but we are buying two large tents in July. My brother is selling them to us. (teltta)\n\n13. We are not holidaying until in November. (to holiday= lomailla; until= ennen kuin)\n\n14. Why? You always go on holiday in March.\n\n15. Yes but my wife has an operation in October. She will go to hospital and will be recovering three weeks. (operation= leikkaus; to recover= toipua)\n\n16. I have a bad flu and my wife had Covid in January. I hope that we will be OK and will not get ill again before we travel. (bad= paha, Covid= korona; to hope= toivoa; to be OK= olla kunnossa; to get ill= sairastua; before= ennen kuin)",
+  "words": [
+    {
+      "fi": "milloin",
+      "en": "when",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "loma",
+      "en": "holiday",
+      "pos": "noun",
+      "form_seen": "lomalle",
+      "theme": "travel"
+    },
+    {
+      "fi": "mennä lomalle",
+      "en": "to go on holiday",
+      "pos": "phrase",
+      "theme": "travel"
+    },
+    {
+      "fi": "matkustaa",
+      "en": "to travel",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "travel"
+    },
+    {
+      "fi": "kevät",
+      "en": "spring",
+      "pos": "noun",
+      "form_seen": "keväällä",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "Thaimaa",
+      "en": "Thailand",
+      "pos": "proper",
+      "form_seen": "Thaimaahan",
+      "theme": "travel"
+    },
+    {
+      "fi": "huhtikuu",
+      "en": "April",
+      "pos": "noun",
+      "form_seen": "huhtikuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "toukokuu",
+      "en": "May",
+      "pos": "noun",
+      "form_seen": "toukokuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "viikko",
+      "en": "week",
+      "pos": "noun",
+      "form_seen": "viikkoa",
+      "theme": "days-time",
+      "note": "kk → k"
+    },
+    {
+      "fi": "asua",
+      "en": "to live; to stay (here: to stay)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "home"
+    },
+    {
+      "fi": "kiva",
+      "en": "nice",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "moderni",
+      "en": "modern",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "hotelli",
+      "en": "hotel",
+      "pos": "noun",
+      "theme": "travel"
+    },
+    {
+      "fi": "uida",
+      "en": "to swim",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "meri",
+      "en": "sea",
+      "pos": "noun",
+      "form_seen": "meressä",
+      "theme": "nature",
+      "note": "old Finnish word: last i > e before endings (meri → mere-)"
+    },
+    {
+      "fi": "aamu",
+      "en": "morning",
+      "pos": "noun",
+      "form_seen": "aamulla",
+      "theme": "days-time"
+    },
+    {
+      "fi": "huone",
+      "en": "room",
+      "pos": "noun",
+      "form_seen": "huonetta",
+      "theme": "home"
+    },
+    {
+      "fi": "kuinka monta",
+      "en": "how many",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "vain",
+      "en": "only",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "hiljainen",
+      "en": "quiet",
+      "pos": "adj",
+      "form_seen": "hiljaisella",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "tie",
+      "en": "road",
+      "pos": "noun",
+      "form_seen": "tiellä",
+      "theme": "places-town"
+    },
+    {
+      "fi": "keskusta",
+      "en": "city centre",
+      "pos": "noun",
+      "form_seen": "keskustaan",
+      "theme": "places-town"
+    },
+    {
+      "fi": "bussi",
+      "en": "bus",
+      "pos": "noun",
+      "form_seen": "bussilla",
+      "theme": "transport"
+    },
+    {
+      "fi": "tunti",
+      "en": "hour",
+      "pos": "noun",
+      "theme": "clock",
+      "note": "nt → nn (tunnin)"
+    },
+    {
+      "fi": "myös",
+      "en": "also, too",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "syksy",
+      "en": "autumn",
+      "pos": "noun",
+      "form_seen": "syksyllä",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "ajaa",
+      "en": "to drive",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "transport"
+    },
+    {
+      "fi": "Norja",
+      "en": "Norway",
+      "pos": "proper",
+      "form_seen": "Norjaan",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "elokuu",
+      "en": "August",
+      "pos": "noun",
+      "form_seen": "elokuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "Ranska",
+      "en": "France",
+      "pos": "proper",
+      "form_seen": "Ranskaan",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "syyskuu",
+      "en": "September",
+      "pos": "noun",
+      "form_seen": "syyskuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "asuntovaunu",
+      "en": "caravan",
+      "pos": "noun",
+      "theme": "travel"
+    },
+    {
+      "fi": "ostaa",
+      "en": "to buy",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "iso",
+      "en": "big, large",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "teltta",
+      "en": "tent",
+      "pos": "noun",
+      "form_seen": "telttaa",
+      "theme": "travel",
+      "note": "tt → t (teltat)"
+    },
+    {
+      "fi": "heinäkuu",
+      "en": "July",
+      "pos": "noun",
+      "form_seen": "heinäkuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "veli",
+      "en": "brother",
+      "pos": "noun",
+      "theme": "family",
+      "note": "veli → velje-"
+    },
+    {
+      "fi": "myydä",
+      "en": "to sell",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "lomailla",
+      "en": "to holiday, to be on holiday",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "travel"
+    },
+    {
+      "fi": "ennen kuin",
+      "en": "before; (here) not until",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "marraskuu",
+      "en": "November",
+      "pos": "noun",
+      "form_seen": "marraskuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "miksi",
+      "en": "why",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "aina",
+      "en": "always",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "maaliskuu",
+      "en": "March",
+      "pos": "noun",
+      "form_seen": "maaliskuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "vaimo",
+      "en": "wife",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "leikkaus",
+      "en": "operation (surgery)",
+      "pos": "noun",
+      "theme": "health"
+    },
+    {
+      "fi": "lokakuu",
+      "en": "October",
+      "pos": "noun",
+      "form_seen": "lokakuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "sairaala",
+      "en": "hospital",
+      "pos": "noun",
+      "form_seen": "sairaalaan",
+      "theme": "health"
+    },
+    {
+      "fi": "toipua",
+      "en": "to recover",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "health",
+      "note": "p → v (toivun)"
+    },
+    {
+      "fi": "paha",
+      "en": "bad",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "flunssa",
+      "en": "flu, cold",
+      "pos": "noun",
+      "theme": "illness"
+    },
+    {
+      "fi": "korona",
+      "en": "Covid",
+      "pos": "noun",
+      "theme": "illness"
+    },
+    {
+      "fi": "tammikuu",
+      "en": "January",
+      "pos": "noun",
+      "form_seen": "tammikuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "toivoa",
+      "en": "to hope",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "olla kunnossa",
+      "en": "to be OK, to be in good shape",
+      "pos": "phrase",
+      "theme": "health"
+    },
+    {
+      "fi": "sairastua",
+      "en": "to get ill",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "illness"
+    },
+    {
+      "fi": "taas",
+      "en": "again",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "mennä",
+      "en": "to go",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "menette",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "voida",
+      "en": "can, to be able to",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kuukausi",
+      "en": "month",
+      "pos": "noun",
+      "form_seen": "kuukaudet",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "mihin",
+      "en": "where to",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "missä",
+      "en": "where",
+      "pos": "question",
+      "theme": "question-words"
+    }
+  ],
+  "texts": [],
+  "exercises": [
+    {
+      "title": "Milloin te menette lomalle? — Kuinka sanot seuraavat lauseet suomeksi",
+      "instruction": "How do you say the following sentences in Finnish? (verb types 1–3 and months)",
+      "topic": "months-seasons",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Where are you (plural \"you\") travelling in the spring?",
+          "answer": "Mihin te matkustatte keväällä?"
+        },
+        {
+          "prompt": "We are travelling to Thailand (Thaimaa).",
+          "answer": "Me matkustamme Thaimaahan."
+        },
+        {
+          "prompt": "Are you going in April or May?",
+          "answer": "Menettekö te huhtikuussa vai toukokuussa?"
+        },
+        {
+          "prompt": "In April. We will be there two weeks.",
+          "answer": "Huhtikuussa. Me olemme siellä kaksi viikkoa."
+        },
+        {
+          "prompt": "Where are you staying there? (to stay = asua)",
+          "answer": "Missä te asutte siellä?"
+        },
+        {
+          "prompt": "In a nice, modern hotel in Phuket. We can swim in the sea in the morning.",
+          "answer": "Kivassa, modernissa hotellissa Phuketissa. Me voimme uida meressä aamulla."
+        },
+        {
+          "prompt": "How many rooms are there in the hotel?",
+          "answer": "Kuinka monta huonetta hotellissa on?"
+        },
+        {
+          "prompt": "Only 28. It is on a quiet road. And we can travel to the city centre by bus every hour.",
+          "answer": "Vain 28. Se on hiljaisella tiellä. Ja me voimme matkustaa keskustaan bussilla joka tunti."
+        },
+        {
+          "prompt": "Are you going on a holiday in autumn, too?",
+          "answer": "Menettekö te lomalle myös syksyllä?"
+        },
+        {
+          "prompt": "Yes. We will drive to Norway in August and to France in September.",
+          "answer": "Joo. Me ajamme Norjaan elokuussa ja Ranskaan syyskuussa."
+        },
+        {
+          "prompt": "Do you have a caravan?",
+          "answer": "Onko teillä asuntovaunu?"
+        },
+        {
+          "prompt": "No, but we are buying two large tents in July. My brother is selling them to us.",
+          "answer": "Ei, mutta me ostamme kaksi isoa telttaa heinäkuussa. Minun veli myy ne meille."
+        },
+        {
+          "prompt": "We are not holidaying until in November.",
+          "answer": "Me emme lomaile ennen kuin marraskuussa."
+        },
+        {
+          "prompt": "Why? You always go on holiday in March.",
+          "answer": "Miksi? Te menette aina lomalle maaliskuussa."
+        },
+        {
+          "prompt": "Yes but my wife has an operation in October. She will go to hospital and will be recovering three weeks.",
+          "answer": "Joo, mutta minun vaimolla on leikkaus lokakuussa. Hän menee sairaalaan ja toipuu kolme viikkoa."
+        },
+        {
+          "prompt": "I have a bad flu and my wife had Covid in January. I hope that we will be OK and will not get ill again before we travel.",
+          "answer": "Minulla on paha flunssa ja minun vaimolla oli korona tammikuussa. Toivon, että me olemme kunnossa emmekä sairastu taas ennen kuin me matkustamme."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": []
+}

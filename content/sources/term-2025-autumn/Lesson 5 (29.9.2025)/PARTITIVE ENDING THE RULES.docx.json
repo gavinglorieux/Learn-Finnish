@@ -1,0 +1,488 @@
+{
+  "source": "term-2025-autumn/Lesson 5 (29.9.2025)/PARTITIVE ENDING THE RULES.docx",
+  "md5": "f7a0496a05efb395bb5ef6393e5e1be2",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 5,
+    "date": "2025-09-29"
+  },
+  "kind": "grammar",
+  "title": {
+    "fi": "Partitiivi – säännöt",
+    "en": "Rules for the partitive ending"
+  },
+  "topics": [
+    "partitive",
+    "numbers",
+    "adjectives"
+  ],
+  "summary": "Rules for when to use the partitive (after numbers, indefinite amounts, measures, agreeing adjectives) and which ending to add by word type, with food/drink and shopping examples and irregular forms pientä, vettä, lohta.",
+  "transcript": "RULES FOR PARTITIVE ENDING:\n1) PARTITIVE ENDING MEANS ”ADDING A/Ä AT THE END OF A NOUN”\n2) PARTITIVE ENDING IS ADDED IF THERE IS A NUMBER IN FRONT OF A NOUN (NOT NUMBER ”1” = YKSI): KAKSI KAHVIA= TWO COFFEES, KUUSI TYTTÖÄ= SIX GIRLS, NELJÄ POIKAA= FOUR BOYS\n3) PARTITIVE ENDING IS ALSO ADDED IF YOU ARE TALKING ABOUT AN ”INDEFINITE AMOUNT” (IN ENGLISH, YOU WOULD USE THE WORD ”SOME” IN FRONT OF THE NOUN): MAITOA= SOME MILK, SOKERIA= SOME SUGAR, RAHAA= SOME MONEY\n4) AND IT IS ALSO USED WITH MEASURES, IN PLACE OF THE ENGLISH PREPOSITION ”OF”: A CUP OF COFFEE= KUPPI KAHVIA, A LITRE OF MILK = LITRA MAITOA, A KILO OF HERRING= KILO SILAKKAA\n5) FOLLOWING THOSE RULES, IF YOU HAVE A NUMBER IN FRONT OF THE NOUN AND THEN A MEASURE, YOU WILL NEED THE PARTITIVE ENDING TWICE: KAKSI KILOA SILAKKAA= TWO KILOS OF HERRING, KOLME KUPPIA KAHVIA= THREE CUPS OF COFFEE, KAKSISATAA GRAMMAA JUUSTOA= 200 GRAMS OF CHEESE, NELJÄ PULLOA VIINIÄ= FOUR BOTTLES OF WINE\n6) IF YOU HAVE AN ADJECTIVE BEFORE THE NOUN, REFERRING TO THE NOUN AND THE NOUN GETS THE PARTITIVE ENDING, THE ADJECTIVE MUST FOLLOW SUIT AND YOU NEED TO ADD A PARTITIVE ENDING ALSO TO THE ADJECTIVE: KOLME ISOA KAHVIA= THREE LARGE COFFEES, KAKSI ISOA LASIA VIINIÄ= TWO LARGE GLASSES OF WINE\n7) THE PARTITIVE ENDING VARIES SLIGHTLY, DEPENDING ON THE WORD TYPE YOU ADD IT TO. THE RULES FOR THE SPECIFIC PARTITIVE ENDINGS ARE AS FOLLOWS:\nWORDS ENDING IN VOWELS: ADD A (IF THERE IS A,U OR O IN THE WORD) OR Ä KUUSI TYTTÖÄ, KOLME POIKAA, VIISI SISKOA (SISKO= SISTER), KYMMENEN PULLOA VIINIÄ\nWORDS ENDING IN A CONSONANT OR TWO VOWELS: ADD -TA OR -TÄ KAKSI MIESTÄ (MIES=MAN), KOLME YÖTÄ (YÖ= NIGHT), KUUSI KOKISTA (KOKIS= COKE), TEETÄ (SOME TEA)\nWORDS ENDING IN - E: ADD -TTA / -TTÄ KAKSI HUONETTA (HUONE= ROOM), KOLME LIITETTÄ (LIITE= ATTACHMENT), KAKSI KIRJETTÄ (KIRJE= LETTER)\nWORDS ENDING IN -NEN: THE -NEN WILL CHANGE INTO -STA KAKSI NAISTA (NAINEN= WOMAN), KUUSI IHMISTÄ (IHMINEN= PERSON), KOLME HEVOSTA (HEVONEN= HORSE), NELJÄ SUOMALAISTA (SUOMALAINEN= FINN, FINNISH), KAKSI SUOMALAISTA NAISTA= TWO FINNISH WOMEN\nFOREIGN WORDS OR NAMES, ENDING IN A CONSONANT: ADD ”i” AND THEN THE PARTITIVE ”A/Ä” KEBAB > KEBABIA, FACEBOOK > FACEBOOKIA, FORD > FORDIA, MEGHAN > MEGHANIA\nSOME IRREGULAR ONES THAT YOU MAY NEED:\n”PIENI”= SMALL > PARTITIVE FORM IS IRREGULAR ”PIENTÄ”: KAKSI PIENTÄ KAHVIA, KIITOS.\n”VETTÄ” IS THE PARTITIVE FORM OF ”VESI” (WATER): KAKSI LASIA VETTÄ= TWO GLASSES OF WATER, PULLO VETTÄ= A BOTTLE OF WATER, VETTÄ= SOME WATER\n”LOHTA” IS THE PARTITIVE FORM FOR ”LOHI” (SALMON): YKSI KILO LOHTA, KIITOS. KAKSI KILOA NORJALAISTA LOHTA= TWO KILOS OF NORWEGIAN SALMON (NORJALAINEN > -NEN > -STA)",
+  "words": [
+    {
+      "fi": "kahvi",
+      "en": "coffee",
+      "pos": "noun",
+      "form_seen": "kahvia",
+      "theme": "drinks"
+    },
+    {
+      "fi": "tyttö",
+      "en": "girl",
+      "pos": "noun",
+      "form_seen": "tyttöä",
+      "theme": "people"
+    },
+    {
+      "fi": "poika",
+      "en": "boy",
+      "pos": "noun",
+      "form_seen": "poikaa",
+      "theme": "people"
+    },
+    {
+      "fi": "maito",
+      "en": "milk",
+      "pos": "noun",
+      "form_seen": "maitoa",
+      "theme": "drinks"
+    },
+    {
+      "fi": "sokeri",
+      "en": "sugar",
+      "pos": "noun",
+      "form_seen": "sokeria",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "raha",
+      "en": "money",
+      "pos": "noun",
+      "form_seen": "rahaa",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "kuppi",
+      "en": "cup",
+      "pos": "noun",
+      "form_seen": "kuppia",
+      "theme": "tableware"
+    },
+    {
+      "fi": "litra",
+      "en": "litre",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "kilo",
+      "en": "kilo",
+      "pos": "noun",
+      "form_seen": "kiloa",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "silakka",
+      "en": "Baltic herring",
+      "pos": "noun",
+      "form_seen": "silakkaa",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "gramma",
+      "en": "gram",
+      "pos": "noun",
+      "form_seen": "grammaa",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "juusto",
+      "en": "cheese",
+      "pos": "noun",
+      "form_seen": "juustoa",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "pullo",
+      "en": "bottle",
+      "pos": "noun",
+      "form_seen": "pulloa",
+      "theme": "tableware"
+    },
+    {
+      "fi": "viini",
+      "en": "wine",
+      "pos": "noun",
+      "form_seen": "viiniä",
+      "theme": "drinks"
+    },
+    {
+      "fi": "iso",
+      "en": "big, large",
+      "pos": "adj",
+      "form_seen": "isoa",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "lasi",
+      "en": "glass",
+      "pos": "noun",
+      "form_seen": "lasia",
+      "theme": "tableware"
+    },
+    {
+      "fi": "sisko",
+      "en": "sister",
+      "pos": "noun",
+      "form_seen": "siskoa",
+      "theme": "family"
+    },
+    {
+      "fi": "mies",
+      "en": "man",
+      "pos": "noun",
+      "form_seen": "miestä",
+      "theme": "people"
+    },
+    {
+      "fi": "yö",
+      "en": "night",
+      "pos": "noun",
+      "form_seen": "yötä",
+      "theme": "days-time"
+    },
+    {
+      "fi": "kokis",
+      "en": "Coke (colloquial)",
+      "pos": "noun",
+      "form_seen": "kokista",
+      "theme": "drinks"
+    },
+    {
+      "fi": "tee",
+      "en": "tea",
+      "pos": "noun",
+      "form_seen": "teetä",
+      "theme": "drinks"
+    },
+    {
+      "fi": "huone",
+      "en": "room",
+      "pos": "noun",
+      "form_seen": "huonetta",
+      "theme": "home"
+    },
+    {
+      "fi": "liite",
+      "en": "attachment",
+      "pos": "noun",
+      "form_seen": "liitettä",
+      "theme": "school-work"
+    },
+    {
+      "fi": "kirje",
+      "en": "letter",
+      "pos": "noun",
+      "form_seen": "kirjettä",
+      "theme": "school-work"
+    },
+    {
+      "fi": "nainen",
+      "en": "woman",
+      "pos": "noun",
+      "form_seen": "naista",
+      "theme": "people"
+    },
+    {
+      "fi": "ihminen",
+      "en": "person, human",
+      "pos": "noun",
+      "form_seen": "ihmistä",
+      "theme": "people"
+    },
+    {
+      "fi": "hevonen",
+      "en": "horse",
+      "pos": "noun",
+      "form_seen": "hevosta",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "suomalainen",
+      "en": "Finn; Finnish",
+      "pos": "adj",
+      "form_seen": "suomalaista",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "kebab",
+      "en": "kebab",
+      "pos": "noun",
+      "form_seen": "kebabia",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "Facebook",
+      "en": "Facebook",
+      "pos": "proper",
+      "form_seen": "Facebookia",
+      "theme": "other"
+    },
+    {
+      "fi": "pieni",
+      "en": "small",
+      "pos": "adj",
+      "form_seen": "pientä",
+      "theme": "adjectives",
+      "note": "irregular partitive pientä"
+    },
+    {
+      "fi": "vesi",
+      "en": "water",
+      "pos": "noun",
+      "form_seen": "vettä",
+      "theme": "drinks",
+      "note": "irregular partitive vettä"
+    },
+    {
+      "fi": "lohi",
+      "en": "salmon",
+      "pos": "noun",
+      "form_seen": "lohta",
+      "theme": "food-meals",
+      "note": "irregular partitive lohta"
+    },
+    {
+      "fi": "norjalainen",
+      "en": "Norwegian",
+      "pos": "adj",
+      "form_seen": "norjalaista",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "kiitos",
+      "en": "thank you; please (when ordering)",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "yksi",
+      "en": "one",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kaksi",
+      "en": "two",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kolme",
+      "en": "three",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "neljä",
+      "en": "four",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "viisi",
+      "en": "five",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kuusi",
+      "en": "six",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kymmenen",
+      "en": "ten",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kaksisataa",
+      "en": "two hundred",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "partitiivi",
+      "en": "partitive",
+      "pos": "noun",
+      "theme": "classroom"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Partitiivi – esimerkit",
+        "en": "Partitive – examples"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "kaksi kahvia",
+          "en": "two coffees"
+        },
+        {
+          "fi": "kuusi tyttöä",
+          "en": "six girls"
+        },
+        {
+          "fi": "neljä poikaa",
+          "en": "four boys"
+        },
+        {
+          "fi": "maitoa",
+          "en": "some milk"
+        },
+        {
+          "fi": "sokeria",
+          "en": "some sugar"
+        },
+        {
+          "fi": "rahaa",
+          "en": "some money"
+        },
+        {
+          "fi": "kuppi kahvia",
+          "en": "a cup of coffee"
+        },
+        {
+          "fi": "litra maitoa",
+          "en": "a litre of milk"
+        },
+        {
+          "fi": "kilo silakkaa",
+          "en": "a kilo of herring"
+        },
+        {
+          "fi": "kaksi kiloa silakkaa",
+          "en": "two kilos of herring"
+        },
+        {
+          "fi": "kolme kuppia kahvia",
+          "en": "three cups of coffee"
+        },
+        {
+          "fi": "kaksisataa grammaa juustoa",
+          "en": "200 grams of cheese"
+        },
+        {
+          "fi": "neljä pulloa viiniä",
+          "en": "four bottles of wine"
+        },
+        {
+          "fi": "kolme isoa kahvia",
+          "en": "three large coffees"
+        },
+        {
+          "fi": "kaksi isoa lasia viiniä",
+          "en": "two large glasses of wine"
+        },
+        {
+          "fi": "kuusi tyttöä, kolme poikaa, viisi siskoa, kymmenen pulloa viiniä",
+          "en": "six girls, three boys, five sisters, ten bottles of wine"
+        },
+        {
+          "fi": "kaksi miestä, kolme yötä, kuusi kokista, teetä",
+          "en": "two men, three nights, six Cokes, some tea"
+        },
+        {
+          "fi": "kaksi huonetta, kolme liitettä, kaksi kirjettä",
+          "en": "two rooms, three attachments, two letters"
+        },
+        {
+          "fi": "kaksi naista, kuusi ihmistä, kolme hevosta, neljä suomalaista",
+          "en": "two women, six people, three horses, four Finns"
+        },
+        {
+          "fi": "kaksi suomalaista naista",
+          "en": "two Finnish women"
+        },
+        {
+          "fi": "kebabia, Facebookia, Fordia, Meghania",
+          "en": "kebab, Facebook, Ford, Meghan (partitive)"
+        },
+        {
+          "fi": "Kaksi pientä kahvia, kiitos.",
+          "en": "Two small coffees, please."
+        },
+        {
+          "fi": "kaksi lasia vettä",
+          "en": "two glasses of water"
+        },
+        {
+          "fi": "pullo vettä",
+          "en": "a bottle of water"
+        },
+        {
+          "fi": "vettä",
+          "en": "some water"
+        },
+        {
+          "fi": "Yksi kilo lohta, kiitos.",
+          "en": "One kilo of salmon, please."
+        },
+        {
+          "fi": "kaksi kiloa norjalaista lohta",
+          "en": "two kilos of Norwegian salmon"
+        }
+      ]
+    }
+  ],
+  "exercises": [],
+  "grammar_notes": [
+    {
+      "topic": "partitive",
+      "heading": "Rules for partitive ending – when",
+      "text": "1) Partitive = adding A/Ä at the end of a noun. 2) After a number (not yksi): kaksi kahvia, kuusi tyttöä, neljä poikaa. 3) Indefinite amount ('some'): maitoa, sokeria, rahaa. 4) With measures instead of 'of': kuppi kahvia, litra maitoa, kilo silakkaa. 5) Number + measure → partitive twice: kaksi kiloa silakkaa, kolme kuppia kahvia, kaksisataa grammaa juustoa, neljä pulloa viiniä. 6) An adjective before the noun follows suit: kolme isoa kahvia, kaksi isoa lasia viiniä."
+    },
+    {
+      "topic": "partitive",
+      "heading": "Rules for partitive ending – which ending",
+      "text": "The ending depends on the word type.",
+      "table": [
+        [
+          "ends in a vowel",
+          "-a / -ä (a if a, u or o in the word)",
+          "tyttöä, poikaa, siskoa, pulloa, viiniä"
+        ],
+        [
+          "ends in a consonant or two vowels",
+          "-ta / -tä",
+          "miestä, yötä, kokista, teetä"
+        ],
+        [
+          "ends in -e",
+          "-tta / -ttä",
+          "huonetta, liitettä, kirjettä"
+        ],
+        [
+          "ends in -nen",
+          "-nen → -sta / -stä",
+          "naista, ihmistä, hevosta, suomalaista"
+        ],
+        [
+          "foreign words/names ending in a consonant",
+          "+ i + a/ä",
+          "kebabia, Facebookia, Fordia, Meghania"
+        ],
+        [
+          "irregular",
+          "",
+          "pieni → pientä, vesi → vettä, lohi → lohta"
+        ]
+      ]
+    }
+  ]
+}

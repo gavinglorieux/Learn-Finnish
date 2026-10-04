@@ -1,0 +1,753 @@
+{
+  "source": "term-2025-autumn/Lesson 7 (13.10.2025)/KUVAILU.docx",
+  "md5": "74a6c253e614012b0fcfac485524ea5e",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 7,
+    "date": "2025-10-13"
+  },
+  "kind": "text",
+  "title": {
+    "fi": "KUVAILU",
+    "en": "Describing people"
+  },
+  "topics": [
+    "have-adessive",
+    "adjectives",
+    "colours-adjectives",
+    "plural"
+  ],
+  "summary": "Three short texts describing people's appearance, personality, clothes and jobs (a musician, a married couple, a vet), with glossaries; practises hänellä on + colour adjectives and plural clothing words.",
+  "transcript": "1. MARKO PELTONEN, 59.\nMARKO ON MUUSIKKO. HÄNELLÄ ON OMA KITARA. MARKOLLA ON PARTA JA HARMAAT VIIKSET. HÄNELLÄ ON NISKATUKKA. HÄN ON ILOINEN JA HYVÄNTUULINEN MIES. TÄSSÄ KUVASSA HÄNELLÄ ON MUSTA HATTU, MUSTA PUVUNTAKKI, MUSTA T-PAITA JA FARKUT. HÄNELLÄ ON MYÖS MUSTAT KENGÄT. HÄN TYKKÄÄ MUSTASTA VÄRISTÄ. MARKO EI OLE NAIMISISSA, MUTTA HÄNELLÄ ON NAISYSTÄVÄ. HÄNEN NAISYSTÄVÄN NIMI ON MERVI. MERVI ON LAULAJA. MERVILLÄ ON VAALEA POLKKATUKKA JA MUSTA NAHKATAKKI. MERVI ON LYHYT. HÄNELLÄ ON SILMÄLASIT JA KULTAINEN KAULAKORU. MARKO ON PITKÄ JA LAIHA MIES.\nOMA=(OF ONE’S) OWN NISKATUKKA=”NECK HAIR”= MULLET ILOINEN= CHEERFUL HYVÄNTUULINEN=JOVIAL TÄSSÄ KUVASSA= IN THIS PICTURE PUVUNTAKKI= BLAZER, SUIT JACKET TYKKÄÄ + -STA= TO LIKE (SMTHG) VÄRI= COLOUR POLKKATUKKA= BOBN NAHKA= LEATHER KULTAINEN=GOLDEN KAULAKORU=”NECK JEWELLERY”, NECKLACE\n2. TIINA MÄKIPELTO, 46, JA RAUHA VILENIUS, 37.\nTIINA ON RAUHAN VAIMO. HE OVAT NAIMISISSA. TIINA ON 9 VUOTTA VANHEMPI KUIN RAUHA JA HÄN ON HILJAINEN IHMINEN. TIINALLA ON LYHYT, SUORA TUKKA JA SINISET SILMÄT. HÄNELLÄ ON TÄSSÄ KUVASSA KAULAKORU. HÄNELLÄ ON KELTAINEN VILLATAKKI JA MUSTA, LYHYT KEINONAHKATAKKI. HÄNELLÄ ON MUSTAT LEGGINSIT JA MUSTAT NILKKURIT. HÄN ON 181 SENTTIÄ PITKÄ JA VÄHÄN TUKEVA NAINEN. HÄN ON SOSIAALITYÖNTEKIJÄ.\nRAUHA ON SPORTTINEN NAINEN. HÄN ON FYSIOTERAPEUTTI. HÄNELLÄ ON SILMÄLASIT JA KORVAKORUT. HÄN ON HUUMORINTAJUINEN JA VILKAS NAINEN. HÄNELLÄ ON RUSKEAT, ILOISET SILMÄT JA LYHYT, TUMMA SUORA TUKKA. TÄSSÄ KUVASSA HÄNELLÄ ON VAALEANVIHREÄ TAKKI, FARKUT, MUSTAT SUKAT JA HARMAAT TOSSUT.\nVANHEMPI KUIN= OLDER THAN HILJAINEN= QUIET IHMINEN= PERSON KEINONAHKA= SYNTHETIC LEATHER NILKKURIT= ANKLE BOOTS VÄHÄN= A BIT SOSIAALIHOITAJA= SOCIAL WORKER\n3. ULLA-MAIJA LIEVIÖ, 31.\nULLA-MAIJA ON SINKKU, MUTTA HÄNELLÄ ON KAKSI LASTA: ANNIKA, 6 VUOTTA JA TEEMU, 12 VUOTTA. ULLA-MAIJA ON ELÄINLÄÄKÄRI. HÄNELLÄ ON OMA VASTAANOTTO. KOTONA HEILLÄ ON KOLME KOIRAA JA KAKSI KISSAA. ULLA-MAIJALLA ON VAALEAT SUORAT PUOLIPITKÄT HIUKSET JA SINISET SILMÄT. HÄN ON NORMAALIPITUINEN JA NORMAALIVARTALOINEN SUOMALAINEN NAINEN, MUTTA HÄNEN ÄITI ON VENÄLÄINEN. TÄSSÄ KUVASSA ULLA-MAIJALLA ON MUSTA-VALKORAIDALLINEN PUOLIPITKÄ HAME. YLEENSÄ HÄNELLÄ EI OLE HAMETTA, VAAN HOUSUT.\nVASTAANOTTO= PRACTICE KOTONA= AT HOME KOIRA= DOG KISSA= CAT NORMAALIPITUINEN= NORMAL/ AVERAGE HEIGHT NORMAALIVARTALOINEN= (WITH A) NORMAL BODY RAIDALLINEN= STRIPEY, STRIPED YLEENSÄ= USUALLY VAAN= INSTEAD (”BUT”)",
+  "words": [
+    {
+      "fi": "kuvailu",
+      "en": "description",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "muusikko",
+      "en": "musician",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "oma",
+      "en": "own",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "kitara",
+      "en": "guitar",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "parta",
+      "en": "beard",
+      "pos": "noun",
+      "theme": "appearance"
+    },
+    {
+      "fi": "harmaa",
+      "en": "grey",
+      "pos": "adj",
+      "form_seen": "harmaat",
+      "theme": "colours"
+    },
+    {
+      "fi": "viikset",
+      "en": "moustache",
+      "pos": "noun",
+      "theme": "appearance",
+      "note": "plural only"
+    },
+    {
+      "fi": "niskatukka",
+      "en": "mullet",
+      "pos": "noun",
+      "theme": "appearance"
+    },
+    {
+      "fi": "iloinen",
+      "en": "cheerful, happy",
+      "pos": "adj",
+      "theme": "feelings"
+    },
+    {
+      "fi": "hyväntuulinen",
+      "en": "good-humoured, jovial",
+      "pos": "adj",
+      "theme": "feelings"
+    },
+    {
+      "fi": "tässä kuvassa",
+      "en": "in this picture",
+      "pos": "phrase",
+      "theme": "other"
+    },
+    {
+      "fi": "kuva",
+      "en": "picture",
+      "pos": "noun",
+      "form_seen": "kuvassa",
+      "theme": "other"
+    },
+    {
+      "fi": "musta",
+      "en": "black",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "hattu",
+      "en": "hat",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "puvuntakki",
+      "en": "suit jacket, blazer",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "t-paita",
+      "en": "T-shirt",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "farkut",
+      "en": "jeans",
+      "pos": "noun",
+      "theme": "clothes",
+      "note": "plural"
+    },
+    {
+      "fi": "kenkä",
+      "en": "shoe",
+      "pos": "noun",
+      "form_seen": "kengät",
+      "theme": "clothes",
+      "note": "nk → ng"
+    },
+    {
+      "fi": "tykätä",
+      "en": "to like (+ -sta)",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "tykkää",
+      "theme": "feelings"
+    },
+    {
+      "fi": "väri",
+      "en": "colour",
+      "pos": "noun",
+      "form_seen": "väristä",
+      "theme": "colours"
+    },
+    {
+      "fi": "naimisissa",
+      "en": "married",
+      "pos": "adv",
+      "theme": "family"
+    },
+    {
+      "fi": "naisystävä",
+      "en": "girlfriend, lady friend",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "laulaja",
+      "en": "singer",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "vaalea",
+      "en": "light; blond",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "polkkatukka",
+      "en": "bob (haircut)",
+      "pos": "noun",
+      "theme": "appearance"
+    },
+    {
+      "fi": "nahkatakki",
+      "en": "leather jacket",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "nahka",
+      "en": "leather",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "lyhyt",
+      "en": "short",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "silmälasit",
+      "en": "glasses",
+      "pos": "noun",
+      "theme": "appearance",
+      "note": "plural"
+    },
+    {
+      "fi": "kultainen",
+      "en": "golden, gold",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "kaulakoru",
+      "en": "necklace",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "pitkä",
+      "en": "tall; long",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "laiha",
+      "en": "thin, skinny",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "vaimo",
+      "en": "wife",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "vanhempi kuin",
+      "en": "older than",
+      "pos": "phrase",
+      "theme": "appearance"
+    },
+    {
+      "fi": "hiljainen",
+      "en": "quiet",
+      "pos": "adj",
+      "theme": "feelings"
+    },
+    {
+      "fi": "ihminen",
+      "en": "person",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "suora",
+      "en": "straight",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "tukka",
+      "en": "hair (on head)",
+      "pos": "noun",
+      "theme": "appearance"
+    },
+    {
+      "fi": "sininen",
+      "en": "blue",
+      "pos": "adj",
+      "form_seen": "siniset",
+      "theme": "colours"
+    },
+    {
+      "fi": "silmä",
+      "en": "eye",
+      "pos": "noun",
+      "form_seen": "silmät",
+      "theme": "body"
+    },
+    {
+      "fi": "keltainen",
+      "en": "yellow",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "villatakki",
+      "en": "cardigan",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "keinonahka",
+      "en": "synthetic leather",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "leggingsit",
+      "en": "leggings",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "nilkkuri",
+      "en": "ankle boot",
+      "pos": "noun",
+      "form_seen": "nilkkurit",
+      "theme": "clothes"
+    },
+    {
+      "fi": "sentti",
+      "en": "centimetre",
+      "pos": "noun",
+      "form_seen": "senttiä",
+      "theme": "numbers"
+    },
+    {
+      "fi": "vähän",
+      "en": "a bit",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "tukeva",
+      "en": "stocky, sturdy",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "nainen",
+      "en": "woman",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "sosiaalityöntekijä",
+      "en": "social worker",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "sporttinen",
+      "en": "sporty",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "fysioterapeutti",
+      "en": "physiotherapist",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "korvakoru",
+      "en": "earring",
+      "pos": "noun",
+      "form_seen": "korvakorut",
+      "theme": "clothes"
+    },
+    {
+      "fi": "huumorintajuinen",
+      "en": "having a sense of humour",
+      "pos": "adj",
+      "theme": "feelings"
+    },
+    {
+      "fi": "vilkas",
+      "en": "lively",
+      "pos": "adj",
+      "theme": "feelings"
+    },
+    {
+      "fi": "ruskea",
+      "en": "brown",
+      "pos": "adj",
+      "form_seen": "ruskeat",
+      "theme": "colours"
+    },
+    {
+      "fi": "tumma",
+      "en": "dark",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "vaaleanvihreä",
+      "en": "light green",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "takki",
+      "en": "coat, jacket",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "sukka",
+      "en": "sock",
+      "pos": "noun",
+      "form_seen": "sukat",
+      "theme": "clothes"
+    },
+    {
+      "fi": "tossu",
+      "en": "slipper; trainer",
+      "pos": "noun",
+      "form_seen": "tossut",
+      "theme": "clothes"
+    },
+    {
+      "fi": "sinkku",
+      "en": "single",
+      "pos": "adj",
+      "theme": "family"
+    },
+    {
+      "fi": "lapsi",
+      "en": "child",
+      "pos": "noun",
+      "form_seen": "lasta",
+      "theme": "family"
+    },
+    {
+      "fi": "eläinlääkäri",
+      "en": "vet",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "vastaanotto",
+      "en": "practice, surgery",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "kotona",
+      "en": "at home",
+      "pos": "adv",
+      "theme": "home"
+    },
+    {
+      "fi": "koira",
+      "en": "dog",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "kissa",
+      "en": "cat",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "hiukset",
+      "en": "hair",
+      "pos": "noun",
+      "theme": "appearance",
+      "note": "plural"
+    },
+    {
+      "fi": "puolipitkä",
+      "en": "medium-length",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "normaalipituinen",
+      "en": "of average height",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "normaalivartaloinen",
+      "en": "of average build",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "suomalainen",
+      "en": "Finnish",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "äiti",
+      "en": "mother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "venäläinen",
+      "en": "Russian",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "musta-valkoraidallinen",
+      "en": "black-and-white striped",
+      "pos": "adj",
+      "theme": "clothes"
+    },
+    {
+      "fi": "raidallinen",
+      "en": "striped",
+      "pos": "adj",
+      "theme": "clothes"
+    },
+    {
+      "fi": "hame",
+      "en": "skirt",
+      "pos": "noun",
+      "theme": "clothes",
+      "note": "partitive hametta"
+    },
+    {
+      "fi": "yleensä",
+      "en": "usually",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "vaan",
+      "en": "but (rather), instead",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "housut",
+      "en": "trousers",
+      "pos": "noun",
+      "theme": "clothes",
+      "note": "plural"
+    },
+    {
+      "fi": "myös",
+      "en": "also",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "mutta",
+      "en": "but",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "vuosi",
+      "en": "year",
+      "pos": "noun",
+      "form_seen": "vuotta",
+      "theme": "days-time"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "1. Marko Peltonen, 59",
+        "en": "1. Marko Peltonen, 59"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Marko Peltonen, 59.",
+          "en": "Marko Peltonen, 59."
+        },
+        {
+          "fi": "Marko on muusikko.",
+          "en": "Marko is a musician."
+        },
+        {
+          "fi": "Hänellä on oma kitara.",
+          "en": "He has his own guitar."
+        },
+        {
+          "fi": "Markolla on parta ja harmaat viikset.",
+          "en": "Marko has a beard and a grey moustache."
+        },
+        {
+          "fi": "Hänellä on niskatukka.",
+          "en": "He has a mullet."
+        },
+        {
+          "fi": "Hän on iloinen ja hyväntuulinen mies.",
+          "en": "He is a cheerful and good-humoured man."
+        },
+        {
+          "fi": "Tässä kuvassa hänellä on musta hattu, musta puvuntakki, musta t-paita ja farkut.",
+          "en": "In this picture he has a black hat, a black suit jacket, a black T-shirt and jeans."
+        },
+        {
+          "fi": "Hänellä on myös mustat kengät.",
+          "en": "He also has black shoes."
+        },
+        {
+          "fi": "Hän tykkää mustasta väristä.",
+          "en": "He likes the colour black."
+        },
+        {
+          "fi": "Marko ei ole naimisissa, mutta hänellä on naisystävä.",
+          "en": "Marko is not married, but he has a girlfriend."
+        },
+        {
+          "fi": "Hänen naisystävän nimi on Mervi.",
+          "en": "His girlfriend's name is Mervi."
+        },
+        {
+          "fi": "Mervi on laulaja.",
+          "en": "Mervi is a singer."
+        },
+        {
+          "fi": "Mervillä on vaalea polkkatukka ja musta nahkatakki.",
+          "en": "Mervi has a blond bob and a black leather jacket."
+        },
+        {
+          "fi": "Mervi on lyhyt.",
+          "en": "Mervi is short."
+        },
+        {
+          "fi": "Hänellä on silmälasit ja kultainen kaulakoru.",
+          "en": "She has glasses and a gold necklace."
+        },
+        {
+          "fi": "Marko on pitkä ja laiha mies.",
+          "en": "Marko is a tall and thin man."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fi": "2. Tiina Mäkipelto, 46, ja Rauha Vilenius, 37",
+        "en": "2. Tiina Mäkipelto, 46, and Rauha Vilenius, 37"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Tiina Mäkipelto, 46, ja Rauha Vilenius, 37.",
+          "en": "Tiina Mäkipelto, 46, and Rauha Vilenius, 37."
+        },
+        {
+          "fi": "Tiina on Rauhan vaimo.",
+          "en": "Tiina is Rauha's wife."
+        },
+        {
+          "fi": "He ovat naimisissa.",
+          "en": "They are married."
+        },
+        {
+          "fi": "Tiina on 9 vuotta vanhempi kuin Rauha ja hän on hiljainen ihminen.",
+          "en": "Tiina is 9 years older than Rauha and she is a quiet person."
+        },
+        {
+          "fi": "Tiinalla on lyhyt, suora tukka ja siniset silmät.",
+          "en": "Tiina has short, straight hair and blue eyes."
+        },
+        {
+          "fi": "Hänellä on tässä kuvassa kaulakoru.",
+          "en": "In this picture she has a necklace."
+        },
+        {
+          "fi": "Hänellä on keltainen villatakki ja musta, lyhyt keinonahkatakki.",
+          "en": "She has a yellow cardigan and a short black synthetic-leather jacket."
+        },
+        {
+          "fi": "Hänellä on mustat leggingsit ja mustat nilkkurit.",
+          "en": "She has black leggings and black ankle boots."
+        },
+        {
+          "fi": "Hän on 181 senttiä pitkä ja vähän tukeva nainen.",
+          "en": "She is 181 cm tall and a slightly stocky woman."
+        },
+        {
+          "fi": "Hän on sosiaalityöntekijä.",
+          "en": "She is a social worker."
+        },
+        {
+          "fi": "Rauha on sporttinen nainen.",
+          "en": "Rauha is a sporty woman."
+        },
+        {
+          "fi": "Hän on fysioterapeutti.",
+          "en": "She is a physiotherapist."
+        },
+        {
+          "fi": "Hänellä on silmälasit ja korvakorut.",
+          "en": "She has glasses and earrings."
+        },
+        {
+          "fi": "Hän on huumorintajuinen ja vilkas nainen.",
+          "en": "She is a lively woman with a sense of humour."
+        },
+        {
+          "fi": "Hänellä on ruskeat, iloiset silmät ja lyhyt, tumma suora tukka.",
+          "en": "She has brown, cheerful eyes and short, dark, straight hair."
+        },
+        {
+          "fi": "Tässä kuvassa hänellä on vaaleanvihreä takki, farkut, mustat sukat ja harmaat tossut.",
+          "en": "In this picture she has a light-green jacket, jeans, black socks and grey trainers."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fi": "3. Ulla-Maija Lieviö, 31",
+        "en": "3. Ulla-Maija Lieviö, 31"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Ulla-Maija Lieviö, 31.",
+          "en": "Ulla-Maija Lieviö, 31."
+        },
+        {
+          "fi": "Ulla-Maija on sinkku, mutta hänellä on kaksi lasta: Annika, 6 vuotta ja Teemu, 12 vuotta.",
+          "en": "Ulla-Maija is single, but she has two children: Annika, 6, and Teemu, 12."
+        },
+        {
+          "fi": "Ulla-Maija on eläinlääkäri.",
+          "en": "Ulla-Maija is a vet."
+        },
+        {
+          "fi": "Hänellä on oma vastaanotto.",
+          "en": "She has her own practice."
+        },
+        {
+          "fi": "Kotona heillä on kolme koiraa ja kaksi kissaa.",
+          "en": "At home they have three dogs and two cats."
+        },
+        {
+          "fi": "Ulla-Maijalla on vaaleat suorat puolipitkät hiukset ja siniset silmät.",
+          "en": "Ulla-Maija has blond, straight, medium-length hair and blue eyes."
+        },
+        {
+          "fi": "Hän on normaalipituinen ja normaalivartaloinen suomalainen nainen, mutta hänen äiti on venäläinen.",
+          "en": "She is a Finnish woman of average height and build, but her mother is Russian."
+        },
+        {
+          "fi": "Tässä kuvassa Ulla-Maijalla on musta-valkoraidallinen puolipitkä hame.",
+          "en": "In this picture Ulla-Maija has a black-and-white striped midi skirt."
+        },
+        {
+          "fi": "Yleensä hänellä ei ole hametta, vaan housut.",
+          "en": "Usually she doesn't wear a skirt, but trousers."
+        }
+      ]
+    }
+  ],
+  "exercises": [],
+  "grammar_notes": []
+}

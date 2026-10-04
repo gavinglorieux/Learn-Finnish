@@ -1,0 +1,633 @@
+{
+ "source": "term-2026-winter/Lesson 3 (26.1.2026)/1769362934610.jpg",
+ "md5": "19f0cdc83bbf186510df8d32e106119f",
+ "also_in": [
+  "term-2026-winter/Lesson 4 (2.2.2026)/1769785717023.jpg"
+ ],
+ "lesson": {
+  "term": "term-2026-winter",
+  "number": 3,
+  "date": "2026-01-26"
+ },
+ "kind": "worksheet",
+ "title": {
+  "fi": "Kielioppi: verbityyppi 3",
+  "en": "Grammar: verb type 3"
+ },
+ "topics": [
+  "verb-type-3",
+  "negation",
+  "verb-types"
+ ],
+ "summary": "Grammar page (Kielioppi) on verb type 3: a short spoken dialogue, model conjugations of tulla and nousta, fill-in tables for opiskella, kävellä (negative), pestä, pestä (negative) and mennä, plus the rule and some common type-3 verbs. (Phone screenshot.)",
+ "transcript": "KIELIOPPI\nVERB TYPE 3\n\n– Hei, mä menen nyt töihin.\n– Milloin sä tulet kotiin?\n– En tule ennen kello kahdeksaa illalla.\n– Okei, nähdään sitten!\n\nTäydennä. Käytä apuna malliverbejä.\nFill in the personal forms for opiskella, nousta and pestä.\nUse the examples as a guideline.\n\ntulla (to come)\nminä tulen\nsinä tulet\nhän tulee\nme tulemme\nte tulette\nhe tulevat\n\nopiskella (to study)\nminä ____\nsinä opiskelet\nhän ____\nme ____\nte ____\nhe ____\n\nkävellä (to walk, negative)\nminä ____\nsinä ____\nhän ei kävele\nme ____\nte ____\nhe ____\n\nnousta (to get up)\nminä nousen\nsinä nouset\nhän nousee\nme nousemme\nte nousette\nhe nousevat\n\npestä (to wash)\nminä ____\nsinä ____\nhän ____\nme nousemme\nte ____\nhe ____\n\npestä (to wash, negative)\nminä ____\nsinä ____\nhän ____\nme ____\nte ____\nhe ____\n\nTäydennä. Fill in.\nmennä (to go)\nminä menen\nsinä ____\nhän ____\nme ____\nte menette\nhe ____\n\n• The infinitive (the dictionary form) ends in la/lä or sta/stä.\n• To inflect the verb you must remove the final two letters of the infinitive and then add vowel e and the personal ending.\n• Verbs mennä and panna also belong to this group even though they end in nna/nnä.\n\nSome common type 3 verbs:\nkävellä (to walk), shoppailla (to shop), keskustella (to talk, to discuss)",
+ "words": [
+  {
+   "fi": "kielioppi",
+   "en": "grammar",
+   "pos": "noun",
+   "theme": "classroom"
+  },
+  {
+   "fi": "hei",
+   "en": "hi; bye",
+   "pos": "interj",
+   "theme": "greetings"
+  },
+  {
+   "fi": "mä",
+   "en": "I (colloquial for minä)",
+   "pos": "pron",
+   "theme": "little-words"
+  },
+  {
+   "fi": "sä",
+   "en": "you (colloquial for sinä)",
+   "pos": "pron",
+   "theme": "little-words"
+  },
+  {
+   "fi": "nyt",
+   "en": "now",
+   "pos": "adv",
+   "theme": "days-time"
+  },
+  {
+   "fi": "työ",
+   "en": "work, job",
+   "pos": "noun",
+   "theme": "school-work",
+   "form_seen": "töihin",
+   "note": "mennä töihin = go to work"
+  },
+  {
+   "fi": "milloin",
+   "en": "when",
+   "pos": "question",
+   "theme": "question-words"
+  },
+  {
+   "fi": "koti",
+   "en": "home",
+   "pos": "noun",
+   "theme": "home",
+   "form_seen": "kotiin",
+   "note": "kotiin = (to) home"
+  },
+  {
+   "fi": "ennen",
+   "en": "before",
+   "pos": "prep",
+   "theme": "days-time",
+   "note": "ennen + partitive: ennen kello kahdeksaa"
+  },
+  {
+   "fi": "kello",
+   "en": "o'clock",
+   "pos": "noun",
+   "theme": "clock"
+  },
+  {
+   "fi": "kahdeksan",
+   "en": "eight",
+   "pos": "num",
+   "theme": "numbers",
+   "form_seen": "kahdeksaa"
+  },
+  {
+   "fi": "ilta",
+   "en": "evening",
+   "pos": "noun",
+   "theme": "days-time",
+   "form_seen": "illalla"
+  },
+  {
+   "fi": "okei",
+   "en": "OK",
+   "pos": "interj",
+   "theme": "greetings"
+  },
+  {
+   "fi": "nähdään",
+   "en": "see you",
+   "pos": "phrase",
+   "theme": "greetings",
+   "note": "Nähdään sitten! = See you then!"
+  },
+  {
+   "fi": "sitten",
+   "en": "then",
+   "pos": "adv",
+   "theme": "little-words"
+  },
+  {
+   "fi": "täydentää",
+   "en": "to fill in, to complete",
+   "pos": "verb",
+   "verb_type": 1,
+   "theme": "classroom",
+   "form_seen": "täydennä",
+   "note": "nt → nn"
+  },
+  {
+   "fi": "käyttää",
+   "en": "to use",
+   "pos": "verb",
+   "verb_type": 1,
+   "theme": "common-verbs",
+   "form_seen": "käytä",
+   "note": "tt → t"
+  },
+  {
+   "fi": "apu",
+   "en": "help",
+   "pos": "noun",
+   "theme": "classroom",
+   "form_seen": "apuna"
+  },
+  {
+   "fi": "malliverbi",
+   "en": "model verb",
+   "pos": "noun",
+   "theme": "classroom",
+   "form_seen": "malliverbejä"
+  },
+  {
+   "fi": "tulla",
+   "en": "to come",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "common-verbs",
+   "forms": {
+    "minä": "tulen",
+    "sinä": "tulet",
+    "hän": "tulee",
+    "me": "tulemme",
+    "te": "tulette",
+    "he": "tulevat"
+   },
+   "form_seen": "tulet / en tule"
+  },
+  {
+   "fi": "mennä",
+   "en": "to go",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "common-verbs",
+   "forms": {
+    "minä": "menen",
+    "sinä": "menet",
+    "hän": "menee",
+    "me": "menemme",
+    "te": "menette",
+    "he": "menevät"
+   },
+   "form_seen": "menen"
+  },
+  {
+   "fi": "opiskella",
+   "en": "to study",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "school-work",
+   "forms": {
+    "minä": "opiskelen",
+    "sinä": "opiskelet",
+    "hän": "opiskelee",
+    "me": "opiskelemme",
+    "te": "opiskelette",
+    "he": "opiskelevat"
+   }
+  },
+  {
+   "fi": "nousta",
+   "en": "to get up, to rise",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "daily-routine",
+   "forms": {
+    "minä": "nousen",
+    "sinä": "nouset",
+    "hän": "nousee",
+    "me": "nousemme",
+    "te": "nousette",
+    "he": "nousevat"
+   }
+  },
+  {
+   "fi": "pestä",
+   "en": "to wash",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "daily-routine",
+   "forms": {
+    "minä": "pesen",
+    "sinä": "peset",
+    "hän": "pesee",
+    "me": "pesemme",
+    "te": "pesette",
+    "he": "pesevät"
+   }
+  },
+  {
+   "fi": "kävellä",
+   "en": "to walk",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "common-verbs",
+   "forms": {
+    "minä": "kävelen",
+    "hän": "kävelee"
+   },
+   "form_seen": "ei kävele"
+  },
+  {
+   "fi": "panna",
+   "en": "to put",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "common-verbs",
+   "forms": {
+    "minä": "panen",
+    "hän": "panee"
+   }
+  },
+  {
+   "fi": "shoppailla",
+   "en": "to shop, to go shopping",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "shopping-money",
+   "forms": {
+    "minä": "shoppailen",
+    "hän": "shoppailee"
+   }
+  },
+  {
+   "fi": "keskustella",
+   "en": "to talk, to discuss",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "common-verbs",
+   "forms": {
+    "minä": "keskustelen",
+    "hän": "keskustelee"
+   }
+  },
+  {
+   "fi": "ei",
+   "en": "not (negative verb)",
+   "pos": "verb",
+   "theme": "little-words",
+   "forms": {
+    "minä": "en",
+    "sinä": "et",
+    "hän": "ei",
+    "me": "emme",
+    "te": "ette",
+    "he": "eivät"
+   },
+   "form_seen": "en / ei",
+   "note": "negation verb"
+  }
+ ],
+ "texts": [
+  {
+   "title": {
+    "fi": "Verb type 3 — dialogi",
+    "en": "Verb type 3 — dialogue"
+   },
+   "kind": "dialogue",
+   "lines": [
+    {
+     "speaker": "A",
+     "fi": "Hei, mä menen nyt töihin.",
+     "en": "Hi, I'm going to work now."
+    },
+    {
+     "speaker": "B",
+     "fi": "Milloin sä tulet kotiin?",
+     "en": "When are you coming home?"
+    },
+    {
+     "speaker": "A",
+     "fi": "En tule ennen kello kahdeksaa illalla.",
+     "en": "I won't come before eight in the evening."
+    },
+    {
+     "speaker": "B",
+     "fi": "Okei, nähdään sitten!",
+     "en": "OK, see you then!"
+    }
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "title": "Täydennä. Käytä apuna malliverbejä — opiskella",
+   "instruction": "Fill in the personal forms. Use the examples (tulla, nousta) as a guideline.",
+   "topic": "verb-type-3",
+   "answer_source": "derived",
+   "items": [
+    {
+     "prompt": "minä ____",
+     "base": "opiskella",
+     "answer": "opiskelen",
+     "en": "I study"
+    },
+    {
+     "prompt": "sinä ____",
+     "base": "opiskella",
+     "answer": "opiskelet",
+     "en": "you study",
+     "note": "pre-filled on the sheet"
+    },
+    {
+     "prompt": "hän ____",
+     "base": "opiskella",
+     "answer": "opiskelee",
+     "en": "he/she studies"
+    },
+    {
+     "prompt": "me ____",
+     "base": "opiskella",
+     "answer": "opiskelemme",
+     "en": "we study"
+    },
+    {
+     "prompt": "te ____",
+     "base": "opiskella",
+     "answer": "opiskelette",
+     "en": "you (pl.) study"
+    },
+    {
+     "prompt": "he ____",
+     "base": "opiskella",
+     "answer": "opiskelevat",
+     "en": "they study"
+    }
+   ]
+  },
+  {
+   "title": "Täydennä — kävellä (negative)",
+   "instruction": "Fill in the negative forms of kävellä.",
+   "topic": "negation",
+   "answer_source": "derived",
+   "items": [
+    {
+     "prompt": "minä ____",
+     "base": "kävellä",
+     "answer": "en kävele",
+     "en": "I do not walk"
+    },
+    {
+     "prompt": "sinä ____",
+     "base": "kävellä",
+     "answer": "et kävele",
+     "en": "you do not walk"
+    },
+    {
+     "prompt": "hän ____",
+     "base": "kävellä",
+     "answer": "ei kävele",
+     "en": "he/she does not walk",
+     "note": "pre-filled on the sheet"
+    },
+    {
+     "prompt": "me ____",
+     "base": "kävellä",
+     "answer": "emme kävele",
+     "en": "we do not walk"
+    },
+    {
+     "prompt": "te ____",
+     "base": "kävellä",
+     "answer": "ette kävele",
+     "en": "you (pl.) do not walk"
+    },
+    {
+     "prompt": "he ____",
+     "base": "kävellä",
+     "answer": "eivät kävele",
+     "en": "they do not walk"
+    }
+   ]
+  },
+  {
+   "title": "Täydennä — pestä",
+   "instruction": "Fill in the personal forms of pestä.",
+   "topic": "verb-type-3",
+   "answer_source": "derived",
+   "items": [
+    {
+     "prompt": "minä ____",
+     "base": "pestä",
+     "answer": "pesen",
+     "en": "I wash"
+    },
+    {
+     "prompt": "sinä ____",
+     "base": "pestä",
+     "answer": "peset",
+     "en": "you wash"
+    },
+    {
+     "prompt": "hän ____",
+     "base": "pestä",
+     "answer": "pesee",
+     "en": "he/she washes"
+    },
+    {
+     "prompt": "me ____",
+     "base": "pestä",
+     "answer": "pesemme",
+     "en": "we wash",
+     "note": "the sheet shows 'me nousemme' pre-filled here (apparently a misprint); correct form is pesemme"
+    },
+    {
+     "prompt": "te ____",
+     "base": "pestä",
+     "answer": "pesette",
+     "en": "you (pl.) wash"
+    },
+    {
+     "prompt": "he ____",
+     "base": "pestä",
+     "answer": "pesevat",
+     "en": "they wash"
+    }
+   ]
+  },
+  {
+   "title": "Täydennä — pestä (negative)",
+   "instruction": "Fill in the negative forms of pestä.",
+   "topic": "negation",
+   "answer_source": "derived",
+   "items": [
+    {
+     "prompt": "minä ____",
+     "base": "pestä",
+     "answer": "en pese",
+     "en": "I do not wash"
+    },
+    {
+     "prompt": "sinä ____",
+     "base": "pestä",
+     "answer": "et pese",
+     "en": "you do not wash"
+    },
+    {
+     "prompt": "hän ____",
+     "base": "pestä",
+     "answer": "ei pese",
+     "en": "he/she does not wash"
+    },
+    {
+     "prompt": "me ____",
+     "base": "pestä",
+     "answer": "emme pese",
+     "en": "we do not wash"
+    },
+    {
+     "prompt": "te ____",
+     "base": "pestä",
+     "answer": "ette pese",
+     "en": "you (pl.) do not wash"
+    },
+    {
+     "prompt": "he ____",
+     "base": "pestä",
+     "answer": "eivät pese",
+     "en": "they do not wash"
+    }
+   ]
+  },
+  {
+   "title": "Täydennä. Fill in — mennä",
+   "instruction": "Fill in the personal forms of mennä.",
+   "topic": "verb-type-3",
+   "answer_source": "derived",
+   "items": [
+    {
+     "prompt": "minä ____",
+     "base": "mennä",
+     "answer": "menen",
+     "en": "I go",
+     "note": "pre-filled on the sheet"
+    },
+    {
+     "prompt": "sinä ____",
+     "base": "mennä",
+     "answer": "menet",
+     "en": "you go"
+    },
+    {
+     "prompt": "hän ____",
+     "base": "mennä",
+     "answer": "menee",
+     "en": "he/she goes"
+    },
+    {
+     "prompt": "me ____",
+     "base": "mennä",
+     "answer": "menemme",
+     "en": "we go"
+    },
+    {
+     "prompt": "te ____",
+     "base": "mennä",
+     "answer": "menette",
+     "en": "you (pl.) go",
+     "note": "pre-filled on the sheet"
+    },
+    {
+     "prompt": "he ____",
+     "base": "mennä",
+     "answer": "menevat",
+     "en": "they go"
+    }
+   ]
+  }
+ ],
+ "grammar_notes": [
+  {
+   "topic": "verb-type-3",
+   "heading": "Verb type 3",
+   "text": "The infinitive (the dictionary form) ends in la/lä or sta/stä (also na/nä, ra/rä). To inflect the verb, remove the final two letters of the infinitive and then add the vowel e and the personal ending. Verbs mennä and panna also belong to this group even though they end in nna/nnä. Some common type 3 verbs: kävellä (to walk), shoppailla (to shop), keskustella (to talk, to discuss).",
+   "table": [
+    [
+     "",
+     "tulla",
+     "nousta"
+    ],
+    [
+     "minä",
+     "tulen",
+     "nousen"
+    ],
+    [
+     "sinä",
+     "tulet",
+     "nouset"
+    ],
+    [
+     "hän",
+     "tulee",
+     "nousee"
+    ],
+    [
+     "me",
+     "tulemme",
+     "nousemme"
+    ],
+    [
+     "te",
+     "tulette",
+     "nousette"
+    ],
+    [
+     "he",
+     "tulevat",
+     "nousevat"
+    ]
+   ]
+  },
+  {
+   "topic": "negation",
+   "heading": "Negative of type 3 (kävellä, pestä)",
+   "text": "Negative verb + stem with e: en kävele, et kävele, ei kävele, emme kävele, ette kävele, eivät kävele; en pese, et pese, ei pese …",
+   "table": [
+    [
+     "minä",
+     "en kävele",
+     "en pese"
+    ],
+    [
+     "sinä",
+     "et kävele",
+     "et pese"
+    ],
+    [
+     "hän",
+     "ei kävele",
+     "ei pese"
+    ],
+    [
+     "me",
+     "emme kävele",
+     "emme pese"
+    ],
+    [
+     "te",
+     "ette kävele",
+     "ette pese"
+    ],
+    [
+     "he",
+     "eivät kävele",
+     "eivät pese"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,773 @@
+{
+  "source": "term-2025-autumn/Lesson 14 (8.12.2025)/KUKA MINÄ OLEN.docx",
+  "md5": "cede321781b248a08986d97539815cfb",
+  "also_in": [
+    "term-2026-winter/Lesson 1 (12.1.2026)/KUKA MINÄ OLEN.docx"
+  ],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 14,
+    "date": "2025-12-08"
+  },
+  "kind": "text",
+  "title": {
+    "fi": "KUKA MINÄ OLEN?",
+    "en": "Who am I?"
+  },
+  "topics": [
+    "have-adessive",
+    "nationalities",
+    "olla",
+    "numbers",
+    "likes-pitaa",
+    "negation"
+  ],
+  "summary": "Five 'Who am I?' riddles in which famous people describe themselves (age, nationality, family, appearance, hobbies); the learner guesses who each one is.",
+  "transcript": "KUKA MINÄ OLEN?\n\n1.  Olen 55-vuotias nainen.\n\n2.  Asun nyt Amerikassa, mutta olen slovenialainen ja myös jugoslavialainen.\n\n3.  Minulla on yksi lapsi. Hän on poika.\n\n4.  Minulla on pitkä, ruskea, suora tukka.\n\n5.  Minun mieheni on 79 vuotta vanha.\n\n6.  Hän on amerikkalainen.\n\n7.  Miehelläni on viisi lasta.\n\n8.  Minun mieheni matkustaa paljon.\n\n9.  Mieheni oli Amerikan The Apprentice- ohjelmassa televisiossa.\n\n10. Hän harrastaa golfia.\n\n1.  Minä olen ruotsalainen tyttö.\n\n2.  Olen 22-vuotias.\n\n3.  Minä myös matkustan paljon, mutta en matkusta lentokoneella.\n\n4.  Minulla on yksi sisko.\n\n5.  Minulla on Aspergerin syndrooma.\n\n6.  minun äiti on oopperalaulaja ja minun isä on näyttelijä.\n\n7.  Minä olen aktivisti.\n\n8.  Donald Trump ei tykkää minusta.\n\n1.  Minä olen ranskalainen nainen.\n\n2.  Minun ammatti oli opettaja.\n\n3.  Minä olen naimisissa.\n\n4.  Minulla on viisi sisarusta.\n\n5.  Minä olen eronnut, mutta nyt olen taas naimisissa.\n\n6.  Minä ja mieheni asumme Pariisissa.\n\n7.  Minulla on kolme lasta.\n\n8.  Mieheni on poliitikko.\n\n9.  Olen 72-vuotias.\n\n10. Minun mieheni on 47-vuotias.\n\n1.  Minä olen britti ja olen mies.\n\n2.  Minulla on harmaa tai valkoinen tukka.\n\n3.  Olen leskimies.\n\n4.  Olen usein televisiossa.\n\n5.  Minun veljeni on näyttelijä ja hän tekee elokuvia.\n\n6.  Tykkään biologiasta.\n\n7.  Tykkään myös Greta Thunbergista.\n\n8.  Olen 99-vuotias.\n\n9.  Minun ohjelma TV:ssä on nimeltään ”Life On Our Planet”.\n\n1.  Minä olen brittimies.\n\n2.  Olen 50 vuotta vanha.\n\n3.  Minulla on kaksi siskoa.\n\n4.  Minun vanhemmat ovat eronneet.\n\n5.  Minulla on kolme poikaa ja yksi tytär.\n\n6.  Minä olen naimisissa.\n\n7.  Minulla on vaaleanruskea tukka, viikset ja parta.\n\n8.  Asun Amerikassa ja myös Englannissa.\n\n9.  Minulla on muutama kana ja muutama koira.\n\n10. Harrastan jalkapalloa ja tykkään olla minun puutarhassa.\n\n11. Minun vaimo oli laulaja, kun hän oli nuori.",
+  "words": [
+    {
+      "fi": "kuka",
+      "en": "who",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "olen",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "-vuotias",
+      "en": "... years old",
+      "pos": "adj",
+      "theme": "numbers"
+    },
+    {
+      "fi": "nainen",
+      "en": "woman",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "asua",
+      "en": "to live",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "asun",
+      "theme": "home"
+    },
+    {
+      "fi": "nyt",
+      "en": "now",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "Amerikka",
+      "en": "America",
+      "pos": "proper",
+      "form_seen": "Amerikassa",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "mutta",
+      "en": "but",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "slovenialainen",
+      "en": "Slovenian",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "myös",
+      "en": "also",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "jugoslavialainen",
+      "en": "Yugoslavian",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "lapsi",
+      "en": "child",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "poika",
+      "en": "boy, son",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "pitkä",
+      "en": "long",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "ruskea",
+      "en": "brown",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "suora",
+      "en": "straight",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "tukka",
+      "en": "hair",
+      "pos": "noun",
+      "theme": "appearance"
+    },
+    {
+      "fi": "mies",
+      "en": "husband; man",
+      "pos": "noun",
+      "form_seen": "mieheni",
+      "theme": "family"
+    },
+    {
+      "fi": "vuosi",
+      "en": "year",
+      "pos": "noun",
+      "form_seen": "vuotta",
+      "theme": "days-time"
+    },
+    {
+      "fi": "vanha",
+      "en": "old",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "amerikkalainen",
+      "en": "American",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "matkustaa",
+      "en": "to travel",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "travel"
+    },
+    {
+      "fi": "paljon",
+      "en": "a lot",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "ohjelma",
+      "en": "programme, show",
+      "pos": "noun",
+      "form_seen": "ohjelmassa",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "televisio",
+      "en": "television",
+      "pos": "noun",
+      "form_seen": "televisiossa",
+      "theme": "home"
+    },
+    {
+      "fi": "harrastaa",
+      "en": "to do as a hobby",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "golf",
+      "en": "golf",
+      "pos": "noun",
+      "form_seen": "golfia",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "ruotsalainen",
+      "en": "Swedish",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "tyttö",
+      "en": "girl",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "lentokone",
+      "en": "aeroplane",
+      "pos": "noun",
+      "form_seen": "lentokoneella",
+      "theme": "transport"
+    },
+    {
+      "fi": "sisko",
+      "en": "sister",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "syndrooma",
+      "en": "syndrome",
+      "pos": "noun",
+      "theme": "health"
+    },
+    {
+      "fi": "äiti",
+      "en": "mother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "oopperalaulaja",
+      "en": "opera singer",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "isä",
+      "en": "father",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "näyttelijä",
+      "en": "actor",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "aktivisti",
+      "en": "activist",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "tykätä",
+      "en": "to like (+ elative -sta/-stä)",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "tykkää",
+      "theme": "likes-pitaa"
+    },
+    {
+      "fi": "ranskalainen",
+      "en": "French",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "ammatti",
+      "en": "profession, occupation",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "opettaja",
+      "en": "teacher",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "naimisissa",
+      "en": "married",
+      "pos": "adv",
+      "theme": "family"
+    },
+    {
+      "fi": "sisarus",
+      "en": "sibling",
+      "pos": "noun",
+      "form_seen": "sisarusta",
+      "theme": "family"
+    },
+    {
+      "fi": "eronnut",
+      "en": "divorced",
+      "pos": "adj",
+      "theme": "family"
+    },
+    {
+      "fi": "taas",
+      "en": "again",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "Pariisi",
+      "en": "Paris",
+      "pos": "proper",
+      "form_seen": "Pariisissa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "poliitikko",
+      "en": "politician",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "britti",
+      "en": "Briton, British person",
+      "pos": "noun",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "harmaa",
+      "en": "grey",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "tai",
+      "en": "or",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "valkoinen",
+      "en": "white",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "leskimies",
+      "en": "widower",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "usein",
+      "en": "often",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "veli",
+      "en": "brother",
+      "pos": "noun",
+      "form_seen": "veljeni",
+      "theme": "family"
+    },
+    {
+      "fi": "tehdä",
+      "en": "to do, to make",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "tekee",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "elokuva",
+      "en": "film",
+      "pos": "noun",
+      "form_seen": "elokuvia",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "biologia",
+      "en": "biology",
+      "pos": "noun",
+      "form_seen": "biologiasta",
+      "theme": "school-work"
+    },
+    {
+      "fi": "nimeltään",
+      "en": "called, by name",
+      "pos": "adv",
+      "theme": "other"
+    },
+    {
+      "fi": "brittimies",
+      "en": "British man",
+      "pos": "noun",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "vanhemmat",
+      "en": "parents",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "tytär",
+      "en": "daughter",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "vaaleanruskea",
+      "en": "light brown",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "viikset",
+      "en": "moustache",
+      "pos": "noun",
+      "theme": "appearance"
+    },
+    {
+      "fi": "parta",
+      "en": "beard",
+      "pos": "noun",
+      "theme": "appearance"
+    },
+    {
+      "fi": "Englanti",
+      "en": "England",
+      "pos": "proper",
+      "form_seen": "Englannissa",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "muutama",
+      "en": "a few",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kana",
+      "en": "hen, chicken",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "koira",
+      "en": "dog",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "jalkapallo",
+      "en": "football",
+      "pos": "noun",
+      "form_seen": "jalkapalloa",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "puutarha",
+      "en": "garden",
+      "pos": "noun",
+      "form_seen": "puutarhassa",
+      "theme": "garden"
+    },
+    {
+      "fi": "vaimo",
+      "en": "wife",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "laulaja",
+      "en": "singer",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "kun",
+      "en": "when",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "nuori",
+      "en": "young",
+      "pos": "adj",
+      "theme": "adjectives"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Kuka minä olen? (1)",
+        "en": "Who am I? (1)"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Olen 55-vuotias nainen.",
+          "en": "I am a 55-year-old woman."
+        },
+        {
+          "fi": "Asun nyt Amerikassa, mutta olen slovenialainen ja myös jugoslavialainen.",
+          "en": "I live in America now, but I am Slovenian and also Yugoslavian."
+        },
+        {
+          "fi": "Minulla on yksi lapsi. Hän on poika.",
+          "en": "I have one child. He is a boy."
+        },
+        {
+          "fi": "Minulla on pitkä, ruskea, suora tukka.",
+          "en": "I have long, brown, straight hair."
+        },
+        {
+          "fi": "Minun mieheni on 79 vuotta vanha.",
+          "en": "My husband is 79 years old."
+        },
+        {
+          "fi": "Hän on amerikkalainen.",
+          "en": "He is American."
+        },
+        {
+          "fi": "Miehelläni on viisi lasta.",
+          "en": "My husband has five children."
+        },
+        {
+          "fi": "Minun mieheni matkustaa paljon.",
+          "en": "My husband travels a lot."
+        },
+        {
+          "fi": "Mieheni oli Amerikan The Apprentice- ohjelmassa televisiossa.",
+          "en": "My husband was on the American TV show The Apprentice."
+        },
+        {
+          "fi": "Hän harrastaa golfia.",
+          "en": "His hobby is golf."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fi": "Kuka minä olen? (2)",
+        "en": "Who am I? (2)"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Minä olen ruotsalainen tyttö.",
+          "en": "I am a Swedish girl."
+        },
+        {
+          "fi": "Olen 22-vuotias.",
+          "en": "I am 22 years old."
+        },
+        {
+          "fi": "Minä myös matkustan paljon, mutta en matkusta lentokoneella.",
+          "en": "I also travel a lot, but I don't travel by plane."
+        },
+        {
+          "fi": "Minulla on yksi sisko.",
+          "en": "I have one sister."
+        },
+        {
+          "fi": "Minulla on Aspergerin syndrooma.",
+          "en": "I have Asperger's syndrome."
+        },
+        {
+          "fi": "minun äiti on oopperalaulaja ja minun isä on näyttelijä.",
+          "en": "My mother is an opera singer and my father is an actor."
+        },
+        {
+          "fi": "Minä olen aktivisti.",
+          "en": "I am an activist."
+        },
+        {
+          "fi": "Donald Trump ei tykkää minusta.",
+          "en": "Donald Trump doesn't like me."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fi": "Kuka minä olen? (3)",
+        "en": "Who am I? (3)"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Minä olen ranskalainen nainen.",
+          "en": "I am a French woman."
+        },
+        {
+          "fi": "Minun ammatti oli opettaja.",
+          "en": "My profession was teacher."
+        },
+        {
+          "fi": "Minä olen naimisissa.",
+          "en": "I am married."
+        },
+        {
+          "fi": "Minulla on viisi sisarusta.",
+          "en": "I have five siblings."
+        },
+        {
+          "fi": "Minä olen eronnut, mutta nyt olen taas naimisissa.",
+          "en": "I am divorced, but now I am married again."
+        },
+        {
+          "fi": "Minä ja mieheni asumme Pariisissa.",
+          "en": "My husband and I live in Paris."
+        },
+        {
+          "fi": "Minulla on kolme lasta.",
+          "en": "I have three children."
+        },
+        {
+          "fi": "Mieheni on poliitikko.",
+          "en": "My husband is a politician."
+        },
+        {
+          "fi": "Olen 72-vuotias.",
+          "en": "I am 72 years old."
+        },
+        {
+          "fi": "Minun mieheni on 47-vuotias.",
+          "en": "My husband is 47 years old."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fi": "Kuka minä olen? (4)",
+        "en": "Who am I? (4)"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Minä olen britti ja olen mies.",
+          "en": "I am British and I am a man."
+        },
+        {
+          "fi": "Minulla on harmaa tai valkoinen tukka.",
+          "en": "I have grey or white hair."
+        },
+        {
+          "fi": "Olen leskimies.",
+          "en": "I am a widower."
+        },
+        {
+          "fi": "Olen usein televisiossa.",
+          "en": "I am often on television."
+        },
+        {
+          "fi": "Minun veljeni on näyttelijä ja hän tekee elokuvia.",
+          "en": "My brother is an actor and he makes films."
+        },
+        {
+          "fi": "Tykkään biologiasta.",
+          "en": "I like biology."
+        },
+        {
+          "fi": "Tykkään myös Greta Thunbergista.",
+          "en": "I also like Greta Thunberg."
+        },
+        {
+          "fi": "Olen 99-vuotias.",
+          "en": "I am 99 years old."
+        },
+        {
+          "fi": "Minun ohjelma TV:ssä on nimeltään \"Life On Our Planet\".",
+          "en": "My programme on TV is called 'Life On Our Planet'."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fi": "Kuka minä olen? (5)",
+        "en": "Who am I? (5)"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Minä olen brittimies.",
+          "en": "I am a British man."
+        },
+        {
+          "fi": "Olen 50 vuotta vanha.",
+          "en": "I am 50 years old."
+        },
+        {
+          "fi": "Minulla on kaksi siskoa.",
+          "en": "I have two sisters."
+        },
+        {
+          "fi": "Minun vanhemmat ovat eronneet.",
+          "en": "My parents are divorced."
+        },
+        {
+          "fi": "Minulla on kolme poikaa ja yksi tytär.",
+          "en": "I have three sons and one daughter."
+        },
+        {
+          "fi": "Minä olen naimisissa.",
+          "en": "I am married."
+        },
+        {
+          "fi": "Minulla on vaaleanruskea tukka, viikset ja parta.",
+          "en": "I have light brown hair, a moustache and a beard."
+        },
+        {
+          "fi": "Asun Amerikassa ja myös Englannissa.",
+          "en": "I live in America and also in England."
+        },
+        {
+          "fi": "Minulla on muutama kana ja muutama koira.",
+          "en": "I have a few hens and a few dogs."
+        },
+        {
+          "fi": "Harrastan jalkapalloa ja tykkään olla minun puutarhassa.",
+          "en": "I play football and I like being in my garden."
+        },
+        {
+          "fi": "Minun vaimo oli laulaja, kun hän oli nuori.",
+          "en": "My wife was a singer when she was young."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Kuka minä olen?",
+      "instruction": "Read the clues and guess who the famous person is.",
+      "topic": "have-adessive",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "1. Olen 55-vuotias nainen. Asun nyt Amerikassa, mutta olen slovenialainen ja myös jugoslavialainen. Minulla on yksi lapsi. Hän on poika. Minulla on pitkä, ruskea, suora tukka. Minun mieheni on 79 vuotta vanha. Hän on amerikkalainen. Miehelläni on viisi lasta. Minun mieheni matkustaa paljon. Mieheni oli Amerikan The Apprentice- ohjelmassa televisiossa. Hän harrastaa golfia. Kuka minä olen?",
+          "answer": "Melania Trump",
+          "en": "Who am I?"
+        },
+        {
+          "prompt": "2. Minä olen ruotsalainen tyttö. Olen 22-vuotias. Minä myös matkustan paljon, mutta en matkusta lentokoneella. Minulla on yksi sisko. Minulla on Aspergerin syndrooma. minun äiti on oopperalaulaja ja minun isä on näyttelijä. Minä olen aktivisti. Donald Trump ei tykkää minusta. Kuka minä olen?",
+          "answer": "Greta Thunberg",
+          "en": "Who am I?"
+        },
+        {
+          "prompt": "3. Minä olen ranskalainen nainen. Minun ammatti oli opettaja. Minä olen naimisissa. Minulla on viisi sisarusta. Minä olen eronnut, mutta nyt olen taas naimisissa. Minä ja mieheni asumme Pariisissa. Minulla on kolme lasta. Mieheni on poliitikko. Olen 72-vuotias. Minun mieheni on 47-vuotias. Kuka minä olen?",
+          "answer": "Brigitte Macron",
+          "en": "Who am I?"
+        },
+        {
+          "prompt": "4. Minä olen britti ja olen mies. Minulla on harmaa tai valkoinen tukka. Olen leskimies. Olen usein televisiossa. Minun veljeni on näyttelijä ja hän tekee elokuvia. Tykkään biologiasta. Tykkään myös Greta Thunbergista. Olen 99-vuotias. Minun ohjelma TV:ssä on nimeltään \"Life On Our Planet\". Kuka minä olen?",
+          "answer": "David Attenborough",
+          "en": "Who am I?"
+        },
+        {
+          "prompt": "5. Minä olen brittimies. Olen 50 vuotta vanha. Minulla on kaksi siskoa. Minun vanhemmat ovat eronneet. Minulla on kolme poikaa ja yksi tytär. Minä olen naimisissa. Minulla on vaaleanruskea tukka, viikset ja parta. Asun Amerikassa ja myös Englannissa. Minulla on muutama kana ja muutama koira. Harrastan jalkapalloa ja tykkään olla minun puutarhassa. Minun vaimo oli laulaja, kun hän oli nuori. Kuka minä olen?",
+          "answer": "David Beckham",
+          "en": "Who am I?"
+        }
+      ]
+    }
+  ],
+  "grammar_notes": []
+}

@@ -1,0 +1,133 @@
+{
+  "source": "term-2025-autumn/Lesson 7 (13.10.2025)/1759643094767.jpg",
+  "md5": "62b0cc5997162ac8e6c03e77c1ef0f56",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 7,
+    "date": "2025-10-13"
+  },
+  "kind": "picture_vocab",
+  "title": {
+    "fi": "Vaatteet",
+    "en": "Clothes"
+  },
+  "topics": [
+    "plural"
+  ],
+  "summary": "Bilingual picture dictionary page (p. 8) labelling clothes in Finnish and English.",
+  "transcript": "leninki, mekko dress\nvillapaita sweater\nhattu hat\nalushousut knickers\nalushousut pants\naamutakki dressing gown\nhousut trousers\nanorakki anorak\nsukat socks\npusero blouse\nhame skirt\npyjama pyjamas\nalushame petticoat\ntrikoohousut, damaskit leggings\ntakki coat\nlakki cap\n8",
+  "words": [
+    {
+      "fi": "leninki",
+      "en": "dress",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "mekko",
+      "en": "dress",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "villapaita",
+      "en": "sweater, jumper",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "hattu",
+      "en": "hat",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "alushousut",
+      "en": "underpants, knickers",
+      "pos": "noun",
+      "note": "plural only",
+      "theme": "clothes"
+    },
+    {
+      "fi": "aamutakki",
+      "en": "dressing gown, bathrobe",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "housut",
+      "en": "trousers",
+      "pos": "noun",
+      "note": "plural only",
+      "theme": "clothes"
+    },
+    {
+      "fi": "anorakki",
+      "en": "anorak",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "sukka",
+      "en": "sock",
+      "pos": "noun",
+      "form_seen": "sukat",
+      "note": "kk → k",
+      "theme": "clothes"
+    },
+    {
+      "fi": "pusero",
+      "en": "blouse",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "hame",
+      "en": "skirt",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "pyjama",
+      "en": "pyjamas",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "alushame",
+      "en": "petticoat, slip",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "trikoohousut",
+      "en": "leggings",
+      "pos": "noun",
+      "note": "plural only",
+      "theme": "clothes"
+    },
+    {
+      "fi": "damaskit",
+      "en": "leggings",
+      "pos": "noun",
+      "note": "plural only",
+      "theme": "clothes"
+    },
+    {
+      "fi": "takki",
+      "en": "coat, jacket",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "lakki",
+      "en": "cap",
+      "pos": "noun",
+      "theme": "clothes"
+    }
+  ],
+  "texts": [],
+  "exercises": [],
+  "grammar_notes": []
+}

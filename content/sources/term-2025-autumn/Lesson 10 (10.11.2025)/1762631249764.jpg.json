@@ -1,0 +1,195 @@
+{
+  "source": "term-2025-autumn/Lesson 10 (10.11.2025)/1762631249764.jpg",
+  "md5": "cd49f3fe22fe974cc5af43f0db59588b",
+  "also_in": [
+    "term-2025-autumn/Lesson 11 (17.11.2025)/1762631249764.jpg"
+  ],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 10,
+    "date": "2025-11-10"
+  },
+  "kind": "grammar",
+  "title": {
+    "fi": "Kielioppi, Kappale 6: Paikallissijat",
+    "en": "Grammar, Chapter 6: Local cases"
+  },
+  "topics": [
+    "local-cases",
+    "inner-local-cases",
+    "outer-local-cases",
+    "illative"
+  ],
+  "summary": "Grammar box showing the six Finnish local cases with question words, endings and an illustrated example sentence for each (talo / terassi).",
+  "transcript": "Kielioppi    Kappale 6\nPaikallissijat\nillatiivi  Mihin?  Vn, hVn, seen   Mies menee taloon.\ninessiivi  Missä?  ssa/ssä   Mies on talossa.\nelatiivi  Mistä?  sta/stä   Mies tulee talosta.\nallatiivi  Mihin?  lle   Mies menee terassille.\nadessiivi  Missä?  lla/llä   Mies on terassilla.\nablatiivi  Mistä?  lta/ltä   Mies tulee terassilta.",
+  "words": [
+    {
+      "fi": "kielioppi",
+      "en": "grammar",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "kappale",
+      "en": "chapter, unit",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "paikallissija",
+      "en": "local case",
+      "pos": "noun",
+      "form_seen": "paikallissijat",
+      "theme": "classroom"
+    },
+    {
+      "fi": "mihin",
+      "en": "where to",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "missä",
+      "en": "where",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "mistä",
+      "en": "where from",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "mies",
+      "en": "man",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "mennä",
+      "en": "to go",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "menee",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "on",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "tulla",
+      "en": "to come",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "tulee",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "talo",
+      "en": "house",
+      "pos": "noun",
+      "form_seen": "taloon, talossa, talosta",
+      "theme": "home"
+    },
+    {
+      "fi": "terassi",
+      "en": "terrace",
+      "pos": "noun",
+      "form_seen": "terassille, terassilla, terassilta",
+      "theme": "home"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Paikallissijat — esimerkit",
+        "en": "Local cases — examples"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Mies menee taloon.",
+          "en": "The man goes into the house."
+        },
+        {
+          "fi": "Mies on talossa.",
+          "en": "The man is in the house."
+        },
+        {
+          "fi": "Mies tulee talosta.",
+          "en": "The man comes out of the house."
+        },
+        {
+          "fi": "Mies menee terassille.",
+          "en": "The man goes onto the terrace."
+        },
+        {
+          "fi": "Mies on terassilla.",
+          "en": "The man is on the terrace."
+        },
+        {
+          "fi": "Mies tulee terassilta.",
+          "en": "The man comes from the terrace."
+        }
+      ]
+    }
+  ],
+  "exercises": [],
+  "grammar_notes": [
+    {
+      "topic": "local-cases",
+      "heading": "Paikallissijat",
+      "text": "Inner local cases (inside): illative (Mihin? into), inessive (Missä? in), elative (Mistä? out of). Outer local cases (on/at): allative (Mihin? onto/to), adessive (Missä? on/at), ablative (Mistä? from/off).",
+      "table": [
+        [
+          "sija",
+          "kysymys",
+          "pääte",
+          "esimerkki"
+        ],
+        [
+          "illatiivi",
+          "Mihin?",
+          "Vn, hVn, seen",
+          "Mies menee taloon."
+        ],
+        [
+          "inessiivi",
+          "Missä?",
+          "ssa/ssä",
+          "Mies on talossa."
+        ],
+        [
+          "elatiivi",
+          "Mistä?",
+          "sta/stä",
+          "Mies tulee talosta."
+        ],
+        [
+          "allatiivi",
+          "Mihin?",
+          "lle",
+          "Mies menee terassille."
+        ],
+        [
+          "adessiivi",
+          "Missä?",
+          "lla/llä",
+          "Mies on terassilla."
+        ],
+        [
+          "ablatiivi",
+          "Mistä?",
+          "lta/ltä",
+          "Mies tulee terassilta."
+        ]
+      ]
+    }
+  ]
+}

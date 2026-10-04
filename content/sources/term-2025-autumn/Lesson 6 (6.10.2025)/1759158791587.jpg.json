@@ -1,0 +1,168 @@
+{
+  "source": "term-2025-autumn/Lesson 6 (6.10.2025)/1759158791587.jpg",
+  "md5": "e97214c51856b98d7c4aa34ff89da589",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 6,
+    "date": "2025-10-06"
+  },
+  "kind": "picture_vocab",
+  "title": {
+    "fi": "Marjat; liha, kala; ruoat",
+    "en": "Berries; meat and fish; dishes"
+  },
+  "topics": [],
+  "summary": "Illustrated textbook page labelling berries (Marjat), meat/fish/protein foods and common dishes.",
+  "transcript": "Marjat\nmustikka, puolukka, kirsikka, vadelma, viinimarja, lakka, mansikka\nliha, kana, kala, muna, makkara, nakki, katkarapu\nriisi, keitto, salaatti, makaronilaatikko, pihvi, kastike, pasta, hampurilainen, pizza",
+  "words": [
+    {
+      "fi": "marja",
+      "en": "berry",
+      "pos": "noun",
+      "form_seen": "marjat",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "mustikka",
+      "en": "blueberry, bilberry",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "puolukka",
+      "en": "lingonberry",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "kirsikka",
+      "en": "cherry",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "vadelma",
+      "en": "raspberry",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "viinimarja",
+      "en": "currant",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "lakka",
+      "en": "cloudberry",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "mansikka",
+      "en": "strawberry",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "liha",
+      "en": "meat",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kana",
+      "en": "chicken",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kala",
+      "en": "fish",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "muna",
+      "en": "egg",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "makkara",
+      "en": "sausage",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "nakki",
+      "en": "frankfurter, hot dog sausage",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "katkarapu",
+      "en": "prawn, shrimp",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "riisi",
+      "en": "rice",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "keitto",
+      "en": "soup",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "salaatti",
+      "en": "salad",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "makaronilaatikko",
+      "en": "macaroni casserole",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "pihvi",
+      "en": "steak",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kastike",
+      "en": "sauce, gravy",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "pasta",
+      "en": "pasta",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "hampurilainen",
+      "en": "hamburger",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "pizza",
+      "en": "pizza",
+      "pos": "noun",
+      "theme": "food-meals"
+    }
+  ],
+  "texts": [],
+  "exercises": [],
+  "grammar_notes": []
+}

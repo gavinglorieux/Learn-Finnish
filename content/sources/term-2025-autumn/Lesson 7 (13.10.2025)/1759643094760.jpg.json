@@ -1,0 +1,119 @@
+{
+  "source": "term-2025-autumn/Lesson 7 (13.10.2025)/1759643094760.jpg",
+  "md5": "f4e3f12a7b198ab210626d10a6271ddd",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 7,
+    "date": "2025-10-13"
+  },
+  "kind": "picture_vocab",
+  "title": {
+    "fi": "Vaatteet",
+    "en": "Clothes"
+  },
+  "topics": [
+    "plural"
+  ],
+  "summary": "Bilingual picture dictionary page (p. 9) labelling clothes in Finnish and English.",
+  "transcript": "sortsit shorts\nsadetakki raincoat\nt-paita T-shirt\nsukkahousut tights\naluspaita vest\npikkutakki jacket\nhuivi scarf\nyöpaita nightdress\nfarkut jeans\nalushousut underpants\nvillatakki cardigan\nsadehattu rainhat\nvillapaita pullover\npaita shirt\nverryttelypuku track suit\n9",
+  "words": [
+    {
+      "fi": "sortsit",
+      "en": "shorts",
+      "pos": "noun",
+      "note": "plural only",
+      "theme": "clothes"
+    },
+    {
+      "fi": "sadetakki",
+      "en": "raincoat",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "t-paita",
+      "en": "T-shirt",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "sukkahousut",
+      "en": "tights",
+      "pos": "noun",
+      "note": "plural only",
+      "theme": "clothes"
+    },
+    {
+      "fi": "aluspaita",
+      "en": "vest, undershirt",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "pikkutakki",
+      "en": "jacket, blazer",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "huivi",
+      "en": "scarf, headscarf",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "yöpaita",
+      "en": "nightdress, nightshirt",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "farkut",
+      "en": "jeans",
+      "pos": "noun",
+      "note": "plural only",
+      "theme": "clothes"
+    },
+    {
+      "fi": "alushousut",
+      "en": "underpants",
+      "pos": "noun",
+      "note": "plural only",
+      "theme": "clothes"
+    },
+    {
+      "fi": "villatakki",
+      "en": "cardigan",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "sadehattu",
+      "en": "rain hat",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "villapaita",
+      "en": "pullover, sweater",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "paita",
+      "en": "shirt",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "verryttelypuku",
+      "en": "tracksuit",
+      "pos": "noun",
+      "theme": "clothes"
+    }
+  ],
+  "texts": [],
+  "exercises": [],
+  "grammar_notes": []
+}

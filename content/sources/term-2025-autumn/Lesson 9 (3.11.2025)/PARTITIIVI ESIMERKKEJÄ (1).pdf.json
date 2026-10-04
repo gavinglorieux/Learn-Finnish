@@ -1,0 +1,474 @@
+{
+  "source": "term-2025-autumn/Lesson 9 (3.11.2025)/PARTITIIVI ESIMERKKEJÄ (1).pdf",
+  "md5": "fce066f8bdc53ee9d1acf8fa3afaa7c5",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 9,
+    "date": "2025-11-03"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "PARTITIIVI ESIMERKKEJÄ: Ostoksilla / Kahvilassa / Baarissa",
+    "en": "Partitive examples: shopping / in a café / in a bar"
+  },
+  "topics": [
+    "partitive",
+    "numbers",
+    "nationalities"
+  ],
+  "summary": "English sentences to translate into Finnish when shopping for food, ordering in a café and in a bar, practising the partitive after numbers and measure words.",
+  "transcript": "OSTOKSILLA= DOING SHOPPING\n\nOne small salmon, please.\n\nTwo perches, please. (AHVEN= PERCH)\n\nTwo large perches, please.\n\nA piece of Dutch cheese, please.\n\nTwo small tubs of salad, please. (TUB= PURKKI, SALAD= SALAATTI)\n\nHalf a kilo of mincemeat. (PUOLI= HALF, KILO= KILO, JAUHELIHA= MINCEMEAT)\n\nTwo fresh wholemeal breads. (WHOLEMEAL BREAD=TÄYSJYVÄLEIPÄ)\n\nThree packets of coffee and one 1,5 kilos of sausage. (PACKET= PAKETTI, ONE AND A HALF= PUOLITOISTA)\n\nKAHVILASSA = IN A COFFEE SHOP\n\nTwo glasses of water, please.\n\nFour warm Karelian pies, please.\n\nTwo Cokes (kokis) and two meat pies, please.\n\nTwo small black coffees, one large latte and three pieces of cheese cake, please. (LATTE=LATTE)\n\nTwo large coffees, a glass of water, a glass of oeange juice and two cheese sandwiches, please.\n\nThree chicken salads, two glasses of white wine and some salad dressing, please.\n(CHICKEN= KANA, SALAD DRESSING= SALAATTIKASTIKE)\n\nOne green salad, two plates of salmon soup, a large glass of milk and two glasses of water, please.\n(GREEN SALAD= VIHERSALAATTI, PLATE= LAUTANEN, SALMON SOUP= LOHIKEITTO)\n\nBAARISSA\n\nGlass of orange juice, please.\n\nOne Aperol Spritz and two small glasses of red wine.\n\nA bottle of Australian wine and two beers, please. (AUSTRALIA= AUSTRALIA)\n\nThree cans of Lapin Kulta (Finnish beer brand), please. (CAN= TÖLKKI)\n\nThree large pints of German beer and a glass of water, please. (PINT= TUOPPI)\n\nTwo large glasses of sparkling wine and the bill, please. (BILL= LASKU)",
+  "words": [
+    {
+      "fi": "ostos",
+      "en": "purchase; (ostoksilla) shopping",
+      "pos": "noun",
+      "form_seen": "ostoksilla",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "pieni",
+      "en": "small",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "lohi",
+      "en": "salmon",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "ahven",
+      "en": "perch",
+      "pos": "noun",
+      "form_seen": "ahventa",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "iso",
+      "en": "large, big",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "pala",
+      "en": "piece",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "hollantilainen",
+      "en": "Dutch",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "juusto",
+      "en": "cheese",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "purkki",
+      "en": "tub, jar",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "salaatti",
+      "en": "salad",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "puoli",
+      "en": "half",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kilo",
+      "en": "kilo",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "jauheliha",
+      "en": "minced meat",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "tuore",
+      "en": "fresh",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "täysjyväleipä",
+      "en": "wholemeal bread",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "paketti",
+      "en": "packet",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "kahvi",
+      "en": "coffee",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "puolitoista",
+      "en": "one and a half",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "makkara",
+      "en": "sausage",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kahvila",
+      "en": "café",
+      "pos": "noun",
+      "form_seen": "kahvilassa",
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "lasi",
+      "en": "glass",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "vesi",
+      "en": "water",
+      "pos": "noun",
+      "theme": "drinks",
+      "note": "partitive vettä"
+    },
+    {
+      "fi": "lämmin",
+      "en": "warm",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "karjalanpiirakka",
+      "en": "Karelian pie",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kokis",
+      "en": "Coke (colloquial)",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "lihapiirakka",
+      "en": "meat pie",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "musta",
+      "en": "black",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "latte",
+      "en": "latte",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "juustokakku",
+      "en": "cheesecake",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "appelsiinimehu",
+      "en": "orange juice",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "juustovoileipä",
+      "en": "cheese sandwich",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kana",
+      "en": "chicken",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kanasalaatti",
+      "en": "chicken salad",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "valkoviini",
+      "en": "white wine",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "salaattikastike",
+      "en": "salad dressing",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "vihersalaatti",
+      "en": "green salad",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "lautanen",
+      "en": "plate",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "lohikeitto",
+      "en": "salmon soup",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "maito",
+      "en": "milk",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "baari",
+      "en": "bar",
+      "pos": "noun",
+      "form_seen": "baarissa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "punaviini",
+      "en": "red wine",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "pullo",
+      "en": "bottle",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "australialainen",
+      "en": "Australian",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Australia",
+      "en": "Australia",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "viini",
+      "en": "wine",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "olut",
+      "en": "beer",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "tölkki",
+      "en": "can",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "tuoppi",
+      "en": "pint",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "saksalainen",
+      "en": "German",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "kuohuviini",
+      "en": "sparkling wine",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "lasku",
+      "en": "bill",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "kiitos",
+      "en": "please; thank you",
+      "pos": "interj",
+      "theme": "greetings"
+    }
+  ],
+  "texts": [],
+  "exercises": [
+    {
+      "title": "Ostoksilla (doing shopping)",
+      "instruction": "Say it in Finnish (partitive after numbers and quantity words).",
+      "topic": "partitive",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "One small salmon, please.",
+          "answer": "Yksi pieni lohi, kiitos.",
+          "en": "One small salmon, please."
+        },
+        {
+          "prompt": "Two perches, please.",
+          "answer": "Kaksi ahventa, kiitos.",
+          "en": "Two perches, please."
+        },
+        {
+          "prompt": "Two large perches, please.",
+          "answer": "Kaksi isoa ahventa, kiitos.",
+          "en": "Two large perches, please."
+        },
+        {
+          "prompt": "A piece of Dutch cheese, please.",
+          "answer": "Pala hollantilaista juustoa, kiitos.",
+          "en": "A piece of Dutch cheese, please."
+        },
+        {
+          "prompt": "Two small tubs of salad, please.",
+          "answer": "Kaksi pientä purkkia salaattia, kiitos.",
+          "en": "Two small tubs of salad, please."
+        },
+        {
+          "prompt": "Half a kilo of mincemeat.",
+          "answer": "Puoli kiloa jauhelihaa, kiitos.",
+          "en": "Half a kilo of mincemeat."
+        },
+        {
+          "prompt": "Two fresh wholemeal breads.",
+          "answer": "Kaksi tuoretta täysjyväleipää, kiitos.",
+          "en": "Two fresh wholemeal breads."
+        },
+        {
+          "prompt": "Three packets of coffee and one 1,5 kilos of sausage.",
+          "answer": "Kolme pakettia kahvia ja puolitoista kiloa makkaraa, kiitos.",
+          "en": "Three packets of coffee and one 1,5 kilos of sausage."
+        }
+      ]
+    },
+    {
+      "title": "Kahvilassa (in a coffee shop)",
+      "instruction": "Say it in Finnish (partitive after numbers and quantity words).",
+      "topic": "partitive",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Two glasses of water, please.",
+          "answer": "Kaksi lasia vettä, kiitos.",
+          "en": "Two glasses of water, please."
+        },
+        {
+          "prompt": "Four warm Karelian pies, please.",
+          "answer": "Neljä lämmintä karjalanpiirakkaa, kiitos.",
+          "en": "Four warm Karelian pies, please."
+        },
+        {
+          "prompt": "Two Cokes (kokis) and two meat pies, please.",
+          "answer": "Kaksi kokista ja kaksi lihapiirakkaa, kiitos.",
+          "en": "Two Cokes (kokis) and two meat pies, please."
+        },
+        {
+          "prompt": "Two small black coffees, one large latte and three pieces of cheese cake, please.",
+          "answer": "Kaksi pientä mustaa kahvia, yksi iso latte ja kolme palaa juustokakkua, kiitos.",
+          "en": "Two small black coffees, one large latte and three pieces of cheese cake, please."
+        },
+        {
+          "prompt": "Two large coffees, a glass of water, a glass of orange juice and two cheese sandwiches, please.",
+          "answer": "Kaksi isoa kahvia, lasi vettä, lasi appelsiinimehua ja kaksi juustovoileipää, kiitos.",
+          "en": "Two large coffees, a glass of water, a glass of orange juice and two cheese sandwiches, please."
+        },
+        {
+          "prompt": "Three chicken salads, two glasses of white wine and some salad dressing, please.",
+          "answer": "Kolme kanasalaattia, kaksi lasia valkoviiniä ja salaattikastiketta, kiitos.",
+          "en": "Three chicken salads, two glasses of white wine and some salad dressing, please."
+        },
+        {
+          "prompt": "One green salad, two plates of salmon soup, a large glass of milk and two glasses of water, please.",
+          "answer": "Yksi vihersalaatti, kaksi lautasta lohikeittoa, iso lasi maitoa ja kaksi lasia vettä, kiitos.",
+          "en": "One green salad, two plates of salmon soup, a large glass of milk and two glasses of water, please."
+        }
+      ]
+    },
+    {
+      "title": "Baarissa (in a bar)",
+      "instruction": "Say it in Finnish (partitive after numbers and quantity words).",
+      "topic": "partitive",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Glass of orange juice, please.",
+          "answer": "Lasi appelsiinimehua, kiitos.",
+          "en": "Glass of orange juice, please."
+        },
+        {
+          "prompt": "One Aperol Spritz and two small glasses of red wine.",
+          "answer": "Yksi Aperol Spritz ja kaksi pientä lasia punaviiniä, kiitos.",
+          "en": "One Aperol Spritz and two small glasses of red wine."
+        },
+        {
+          "prompt": "A bottle of Australian wine and two beers, please.",
+          "answer": "Pullo australialaista viiniä ja kaksi olutta, kiitos.",
+          "en": "A bottle of Australian wine and two beers, please."
+        },
+        {
+          "prompt": "Three cans of Lapin Kulta (Finnish beer brand), please.",
+          "answer": "Kolme tölkkiä Lapin Kultaa, kiitos.",
+          "en": "Three cans of Lapin Kulta (Finnish beer brand), please."
+        },
+        {
+          "prompt": "Three large pints of German beer and a glass of water, please.",
+          "answer": "Kolme isoa tuoppia saksalaista olutta ja lasi vettä, kiitos.",
+          "en": "Three large pints of German beer and a glass of water, please."
+        },
+        {
+          "prompt": "Two large glasses of sparkling wine and the bill, please.",
+          "answer": "Kaksi isoa lasia kuohuviiniä ja lasku, kiitos.",
+          "en": "Two large glasses of sparkling wine and the bill, please."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": []
+}

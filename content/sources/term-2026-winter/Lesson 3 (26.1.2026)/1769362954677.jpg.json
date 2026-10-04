@@ -1,0 +1,283 @@
+{
+ "source": "term-2026-winter/Lesson 3 (26.1.2026)/1769362954677.jpg",
+ "md5": "0a949ed90e7f861c244782e8a9e9fa16",
+ "also_in": [
+  "term-2026-winter/Lesson 4 (2.2.2026)/1769785717038.jpg"
+ ],
+ "lesson": {
+  "term": "term-2026-winter",
+  "number": 3,
+  "date": "2026-01-26"
+ },
+ "kind": "picture_vocab",
+ "title": {
+  "fi": "1.2. Verbityyppi 3",
+  "en": "1.2. Verb type 3 (picture verbs)"
+ },
+ "topics": [
+  "verb-type-3",
+  "verb-types"
+ ],
+ "summary": "Fifteen numbered line drawings illustrating verb-type-3 verbs (-la/-lä, -na/-nä, -ra/-rä, -sta/-stä), with the key listed underneath. (Phone screenshot of a photocopy.)",
+ "transcript": "1.2.\nVERBITYYPPI 3\n\n[15 numbered pictures]\n\n1.opiskella 2.tulla 3.mennä 4.voimistella 5.luistella 6.pyöräillä 7.kävellä 8.telttailla 9.pestä 10.nousta\n11.lakaista 12.purra 13.tuulla 14.kiroilla 15.hymyillä",
+ "words": [
+  {
+   "fi": "verbityyppi",
+   "en": "verb type",
+   "pos": "noun",
+   "theme": "classroom"
+  },
+  {
+   "fi": "opiskella",
+   "en": "to study",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "school-work",
+   "forms": {
+    "minä": "opiskelen",
+    "hän": "opiskelee"
+   }
+  },
+  {
+   "fi": "tulla",
+   "en": "to come",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "common-verbs",
+   "forms": {
+    "minä": "tulen",
+    "hän": "tulee"
+   }
+  },
+  {
+   "fi": "mennä",
+   "en": "to go",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "common-verbs",
+   "forms": {
+    "minä": "menen",
+    "hän": "menee"
+   }
+  },
+  {
+   "fi": "voimistella",
+   "en": "to do gymnastics",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "hobbies-sport",
+   "forms": {
+    "minä": "voimistelen",
+    "hän": "voimistelee"
+   }
+  },
+  {
+   "fi": "luistella",
+   "en": "to skate (ice-skate)",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "winter",
+   "forms": {
+    "minä": "luistelen",
+    "hän": "luistelee"
+   }
+  },
+  {
+   "fi": "pyöräillä",
+   "en": "to cycle",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "hobbies-sport",
+   "forms": {
+    "minä": "pyöräilen",
+    "hän": "pyöräilee"
+   }
+  },
+  {
+   "fi": "kävellä",
+   "en": "to walk",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "common-verbs",
+   "forms": {
+    "minä": "kävelen",
+    "hän": "kävelee"
+   }
+  },
+  {
+   "fi": "telttailla",
+   "en": "to camp (in a tent)",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "hobbies-sport",
+   "forms": {
+    "minä": "telttailen",
+    "hän": "telttailee"
+   }
+  },
+  {
+   "fi": "pestä",
+   "en": "to wash",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "daily-routine",
+   "forms": {
+    "minä": "pesen",
+    "hän": "pesee"
+   }
+  },
+  {
+   "fi": "nousta",
+   "en": "to get up, to rise",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "daily-routine",
+   "forms": {
+    "minä": "nousen",
+    "hän": "nousee"
+   }
+  },
+  {
+   "fi": "lakaista",
+   "en": "to sweep",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "household",
+   "forms": {
+    "minä": "lakaisen",
+    "hän": "lakaisee"
+   }
+  },
+  {
+   "fi": "purra",
+   "en": "to bite",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "common-verbs",
+   "forms": {
+    "minä": "puren",
+    "hän": "puree"
+   }
+  },
+  {
+   "fi": "tuulla",
+   "en": "to be windy, to blow (wind)",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "weather",
+   "forms": {
+    "se": "tuulee"
+   },
+   "note": "usually only 3rd person: Tuulee."
+  },
+  {
+   "fi": "kiroilla",
+   "en": "to swear, to curse",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "feelings",
+   "forms": {
+    "minä": "kiroilen",
+    "hän": "kiroilee"
+   }
+  },
+  {
+   "fi": "hymyillä",
+   "en": "to smile",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "feelings",
+   "forms": {
+    "minä": "hymyilen",
+    "hän": "hymyilee"
+   }
+  }
+ ],
+ "texts": [],
+ "exercises": [
+  {
+   "title": "1.2. Verbityyppi 3 — what is happening in the picture?",
+   "instruction": "Name the verb for each picture (key printed under the pictures).",
+   "topic": "verb-type-3",
+   "answer_source": "key",
+   "items": [
+    {
+     "prompt": "1. (man reading and writing at a desk) ____",
+     "answer": "opiskella",
+     "en": "to study"
+    },
+    {
+     "prompt": "2. (woman stepping in through a door) ____",
+     "answer": "tulla",
+     "en": "to come"
+    },
+    {
+     "prompt": "3. (woman walking out through a door) ____",
+     "answer": "mennä",
+     "en": "to go"
+    },
+    {
+     "prompt": "4. (gymnast with a ribbon) ____",
+     "answer": "voimistella",
+     "en": "to do gymnastics"
+    },
+    {
+     "prompt": "5. (figure skater) ____",
+     "answer": "luistella",
+     "en": "to skate"
+    },
+    {
+     "prompt": "6. (man on a bicycle) ____",
+     "answer": "pyöräillä",
+     "en": "to cycle"
+    },
+    {
+     "prompt": "7. (woman walking in the forest) ____",
+     "answer": "kävellä",
+     "en": "to walk"
+    },
+    {
+     "prompt": "8. (people at a tent) ____",
+     "answer": "telttailla",
+     "en": "to camp"
+    },
+    {
+     "prompt": "9. (man in the shower) ____",
+     "answer": "pestä",
+     "en": "to wash"
+    },
+    {
+     "prompt": "10. (man getting out of bed) ____",
+     "answer": "nousta",
+     "en": "to get up"
+    },
+    {
+     "prompt": "11. (man sweeping with a brush and dustpan) ____",
+     "answer": "lakaista",
+     "en": "to sweep"
+    },
+    {
+     "prompt": "12. (person biting a finger) ____",
+     "answer": "purra",
+     "en": "to bite"
+    },
+    {
+     "prompt": "13. (person leaning into the wind) ____",
+     "answer": "tuulla",
+     "en": "to be windy"
+    },
+    {
+     "prompt": "14. (man hitting his thumb with a hammer, swearing) ____",
+     "answer": "kiroilla",
+     "en": "to swear"
+    },
+    {
+     "prompt": "15. (smiling woman) ____",
+     "answer": "hymyillä",
+     "en": "to smile"
+    }
+   ]
+  }
+ ],
+ "grammar_notes": []
+}

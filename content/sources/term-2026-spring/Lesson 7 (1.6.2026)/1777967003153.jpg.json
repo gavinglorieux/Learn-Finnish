@@ -1,0 +1,279 @@
+{
+  "source": "term-2026-spring/Lesson 7 (1.6.2026)/1777967003153.jpg",
+  "md5": "55eb8a5a5b1089bf9db1f65777cdeb12",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 7,
+    "date": "2026-06-01"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "39. Mitä sinä teet?",
+    "en": "39. What are you doing?"
+  },
+  "topics": [
+    "kpt-verbs",
+    "verb-type-1"
+  ],
+  "summary": "Picture crossword: write the minä form of the verb shown in each of 12 pictures (all type-1 verbs with k-p-t gradation); the highlighted column spells the hidden word ASTEVAIHTELU ('Tässä on ____').",
+  "transcript": "39. Mitä Sinä teet?\nTässä on ____.\nMinä ...\n\n(Crossword with 12 numbered rows and a highlighted vertical column; 12 numbered pictures:\n1 a man giving a flower to a woman, 2 a man playing electric guitar, 3 a woman taking a biscuit from a tray, 4 a woman pulling on a jumper, 5 a man pulling a boat ashore, 6 pouring a drink into a cup, 7 a child playing with a toy car, 8 a cross-country skier, 9 a woman with a suitcase by a railway track, 10 a passenger at an aeroplane window, 11 a man reading a book, 12 a person sleeping.)",
+  "words": [
+    {
+      "fi": "antaa",
+      "en": "to give",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "minä": "annan"
+      },
+      "note": "nt → nn"
+    },
+    {
+      "fi": "soittaa",
+      "en": "to play (an instrument)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "hobbies-sport",
+      "forms": {
+        "minä": "soitan"
+      },
+      "note": "tt → t"
+    },
+    {
+      "fi": "ottaa",
+      "en": "to take",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "minä": "otan"
+      },
+      "note": "tt → t"
+    },
+    {
+      "fi": "pukea",
+      "en": "to put on (clothes), to dress",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "clothes",
+      "forms": {
+        "minä": "puen"
+      },
+      "note": "k → ∅"
+    },
+    {
+      "fi": "vetää",
+      "en": "to pull",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "minä": "vedän"
+      },
+      "note": "t → d"
+    },
+    {
+      "fi": "kaataa",
+      "en": "to pour",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "food-meals",
+      "forms": {
+        "minä": "kaadan"
+      },
+      "note": "t → d"
+    },
+    {
+      "fi": "leikkiä",
+      "en": "to play (as children do)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "hobbies-sport",
+      "forms": {
+        "minä": "leikin"
+      },
+      "note": "kk → k"
+    },
+    {
+      "fi": "hiihtää",
+      "en": "to ski",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "winter",
+      "forms": {
+        "minä": "hiihdän"
+      },
+      "note": "ht → hd"
+    },
+    {
+      "fi": "odottaa",
+      "en": "to wait",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "travel",
+      "forms": {
+        "minä": "odotan"
+      },
+      "note": "tt → t"
+    },
+    {
+      "fi": "lentää",
+      "en": "to fly",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "travel",
+      "forms": {
+        "minä": "lennän"
+      },
+      "note": "nt → nn"
+    },
+    {
+      "fi": "lukea",
+      "en": "to read",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "school-work",
+      "forms": {
+        "minä": "luen"
+      },
+      "note": "k → ∅"
+    },
+    {
+      "fi": "nukkua",
+      "en": "to sleep",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "daily-routine",
+      "forms": {
+        "minä": "nukun"
+      },
+      "note": "kk → k"
+    },
+    {
+      "fi": "astevaihtelu",
+      "en": "consonant gradation",
+      "pos": "noun",
+      "theme": "classroom",
+      "note": "hidden word in the crossword (derived)"
+    },
+    {
+      "fi": "mitä",
+      "en": "what",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "tehdä",
+      "en": "to do",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "common-verbs",
+      "form_seen": "teet"
+    },
+    {
+      "fi": "tässä",
+      "en": "here",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs",
+      "form_seen": "on"
+    }
+  ],
+  "exercises": [
+    {
+      "title": "39. Mitä sinä teet? (ristikko)",
+      "instruction": "Look at the pictures and write what you are doing (Minä ...) in the crossword. The highlighted column completes 'Tässä on ____'.",
+      "topic": "kpt-verbs",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "1. Minä ____ (A man gives a flower to a woman.)",
+          "base": "antaa",
+          "answer": "annan",
+          "en": "I give."
+        },
+        {
+          "prompt": "2. Minä ____ (A man plays the electric guitar.)",
+          "base": "soittaa",
+          "answer": "soitan",
+          "en": "I play."
+        },
+        {
+          "prompt": "3. Minä ____ (A woman takes a biscuit from a tray.)",
+          "base": "ottaa",
+          "answer": "otan",
+          "en": "I take."
+        },
+        {
+          "prompt": "4. Minä ____ (A woman pulls on a jumper.)",
+          "base": "pukea",
+          "answer": "puen",
+          "en": "I put on."
+        },
+        {
+          "prompt": "5. Minä ____ (A man pulls a boat ashore.)",
+          "base": "vetää",
+          "answer": "vedän",
+          "en": "I pull."
+        },
+        {
+          "prompt": "6. Minä ____ (Pouring a drink from a jug into a cup.)",
+          "base": "kaataa",
+          "answer": "kaadan",
+          "en": "I pour."
+        },
+        {
+          "prompt": "7. Minä ____ (A child plays with a toy car.)",
+          "base": "leikkiä",
+          "answer": "leikin",
+          "en": "I play."
+        },
+        {
+          "prompt": "8. Minä ____ (A cross-country skier.)",
+          "base": "hiihtää",
+          "answer": "hiihdän",
+          "en": "I ski."
+        },
+        {
+          "prompt": "9. Minä ____ (A woman with a suitcase waits by the railway track.)",
+          "base": "odottaa",
+          "answer": "odotan",
+          "en": "I wait."
+        },
+        {
+          "prompt": "10. Minä ____ (A passenger by an aeroplane window.)",
+          "base": "lentää",
+          "answer": "lennän",
+          "en": "I fly."
+        },
+        {
+          "prompt": "11. Minä ____ (A man reads a book.)",
+          "base": "lukea",
+          "answer": "luen",
+          "en": "I read."
+        },
+        {
+          "prompt": "12. Minä ____ (A person sleeps in bed.)",
+          "base": "nukkua",
+          "answer": "nukun",
+          "en": "I sleep."
+        },
+        {
+          "prompt": "Tässä on ____. (highlighted column)",
+          "answer": "astevaihtelu",
+          "en": "Here is consonant gradation."
+        }
+      ]
+    }
+  ],
+  "texts": [],
+  "grammar_notes": []
+}

@@ -1,0 +1,509 @@
+{
+  "source": "term-2025-autumn/Lesson 9 (3.11.2025)/MITÄ TÄMÄ MAKSAA verbityyppi 1.docx",
+  "md5": "c854ec21dcd14e7e5fcde0caf5c1d3af",
+  "also_in": [
+    "term-2025-autumn/Lesson 11 (17.11.2025)/MITÄ TÄMÄ MAKSAA verbityyppi 1.docx"
+  ],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 9,
+    "date": "2025-11-03"
+  },
+  "kind": "worksheet",
+  "title": {
+    "fi": "VERBITYYPPI 1: KUINKA PALJON TÄMÄ PAITA MAKSAA?",
+    "en": "Verb type 1: how much does this shirt cost?"
+  },
+  "topics": [
+    "verb-type-1",
+    "negation",
+    "question-words",
+    "numbers",
+    "plural"
+  ],
+  "summary": "Verb type 1 explained with maksaa (to cost/pay), including negative and 'how much' questions, followed by 20 English prompts to ask prices of clothes and food in Finnish.",
+  "transcript": "VERBITYYPPI 1: KUINKA PALJON TÄMÄ PAITA MAKSAA? (maksaa= to cost, to pay)\n\n1) verb type 1 ends in two vowels: another one + the very last letter A/Ä\n\n2) to start using it, you remove the last A/Ä and add a personal ending: MAKSA/A > minä maksan, sinä maksat, hän maksaa, me maksamme, te maksatte, he maksavat, paita maksaa 10 euroa\n\n3) for the negative, you take the verb in its ”MINÄ”-form (MINÄ MAKSAN) and remove the last ”N” and you have the verb in the form you use it in a negative sentence: Minä en maksa laskua= I will not pay the bill. Hedelmät eivät maksa paljon= The fruit(s) don’t cost a lot.\n\nHOW MUCH?= KUINKA PALJON? PALJONKO? or even MITÄ TÄMÄ MAKSAA?= What does this cost? Se maksaa kaksi euroa= It costs 2 euros. Ne maksavat kuusi euroa= They cost six euros.\n\nKuinka kysyt:\n\n1. How much does this jacket cost? (38e)\n\n2. How much do these shoes cost? (120e)\n\n3. How much does this green scarf cost? (17,95e) -Oh, it is cheap! (cheap= halpa)\n\n4. How much do these red jeans cost? (96e)\n\n5. How much do these black gloves cost? (18,65e)\n\n6. How much do these long, red leggings cost? (25e)\n\n7. How much does this fun baseball hat cost? (13,50e) (fun= hauska, baseball hat= lippis)\n\n8. How much do these big overalls cost? (135e) (overalls= haalarit)\n\n9. How much does this short, black skirt cost? (47,80e) - It is expensive! (expensive= kallis)\n\n10. How much do these white Adidas-sneakers cost? (117,60e) (Adidas-tossut)\n\n11. How much do the foreign fruit(s) cost? (foreign= ulkomaalainen)\n\n12. How much is the domestic salmon a kilo? - It costs 9,80e a kilo. (domestic= kotimainen)\n\n13. How much does your vegetarian pizza cost? (18,40e)\n\n14. How much do these red apples cost? (3,60e a kilo)\n\n15. How much do the carrots cost? (1,60 a bag)\n\n16. How much does your chicken salad cost? (9,30e)\n\n17. How much do those over there berries cost? (12,30e a litre) those= nuo\n\n18. How much do those buns cost? (1,90e apiece) apiece= kappale\n\n19. How much does a bag of licorice cost? (4,99e) (bag= pussi; licorice= lakritsi)\n\n20. How much are those white candles? (11,50 a packet) (candle= kynttilä; packet= paketti)",
+  "words": [
+    {
+      "fi": "maksaa",
+      "en": "to cost; to pay",
+      "pos": "verb",
+      "verb_type": 1,
+      "forms": {
+        "minä": "maksan",
+        "sinä": "maksat",
+        "hän": "maksaa",
+        "me": "maksamme",
+        "te": "maksatte",
+        "he": "maksavat",
+        "neg": "en maksa"
+      },
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "paita",
+      "en": "shirt",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "euro",
+      "en": "euro",
+      "pos": "noun",
+      "form_seen": "euroa",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "lasku",
+      "en": "bill",
+      "pos": "noun",
+      "form_seen": "laskua",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "hedelmä",
+      "en": "fruit",
+      "pos": "noun",
+      "form_seen": "hedelmät",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "kuinka paljon",
+      "en": "how much",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "paljonko",
+      "en": "how much",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "mitä",
+      "en": "what (partitive of mikä)",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "tämä",
+      "en": "this",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "nämä",
+      "en": "these",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "nuo",
+      "en": "those (over there)",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "se",
+      "en": "it",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "ne",
+      "en": "they (things)",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kysyä",
+      "en": "to ask",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "kysyt",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "paljon",
+      "en": "a lot",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "takki",
+      "en": "jacket",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "kenkä",
+      "en": "shoe",
+      "pos": "noun",
+      "form_seen": "kengät",
+      "theme": "clothes",
+      "note": "nk → ng"
+    },
+    {
+      "fi": "vihreä",
+      "en": "green",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "huivi",
+      "en": "scarf",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "halpa",
+      "en": "cheap",
+      "pos": "adj",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "punainen",
+      "en": "red",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "farkut",
+      "en": "jeans",
+      "pos": "noun",
+      "theme": "clothes",
+      "note": "plural only"
+    },
+    {
+      "fi": "musta",
+      "en": "black",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "hanska",
+      "en": "glove",
+      "pos": "noun",
+      "form_seen": "hanskat",
+      "theme": "clothes"
+    },
+    {
+      "fi": "pitkä",
+      "en": "long",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "legginsit",
+      "en": "leggings",
+      "pos": "noun",
+      "theme": "clothes",
+      "note": "plural only"
+    },
+    {
+      "fi": "hauska",
+      "en": "fun",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "lippis",
+      "en": "baseball cap",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "haalarit",
+      "en": "overalls",
+      "pos": "noun",
+      "theme": "clothes",
+      "note": "plural only"
+    },
+    {
+      "fi": "iso",
+      "en": "big",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "lyhyt",
+      "en": "short",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "hame",
+      "en": "skirt",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "kallis",
+      "en": "expensive",
+      "pos": "adj",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "valkoinen",
+      "en": "white",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "tossut",
+      "en": "sneakers, trainers",
+      "pos": "noun",
+      "form_seen": "Adidas-tossut",
+      "theme": "clothes"
+    },
+    {
+      "fi": "ulkomaalainen",
+      "en": "foreign",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "kotimainen",
+      "en": "domestic",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "lohi",
+      "en": "salmon",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kilo",
+      "en": "kilo",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "kasvispizza",
+      "en": "vegetarian pizza",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "omena",
+      "en": "apple",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "porkkana",
+      "en": "carrot",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "kanasalaatti",
+      "en": "chicken salad",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "marja",
+      "en": "berry",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "litra",
+      "en": "litre",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "pulla",
+      "en": "bun",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kappale",
+      "en": "piece, apiece",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "pussi",
+      "en": "bag",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "lakritsi",
+      "en": "licorice",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kynttilä",
+      "en": "candle",
+      "pos": "noun",
+      "theme": "household"
+    },
+    {
+      "fi": "paketti",
+      "en": "packet",
+      "pos": "noun",
+      "theme": "shopping-money"
+    }
+  ],
+  "texts": [],
+  "exercises": [
+    {
+      "title": "Kuinka kysyt? (How do you ask?)",
+      "instruction": "Ask in Finnish how much the item costs (and answer with the price given).",
+      "topic": "verb-type-1",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "1. How much does this jacket cost? (38e)",
+          "answer": "Kuinka paljon tämä takki maksaa? – Se maksaa 38 euroa.",
+          "en": "How much does this jacket cost? (38e)"
+        },
+        {
+          "prompt": "2. How much do these shoes cost? (120e)",
+          "answer": "Kuinka paljon nämä kengät maksavat? – Ne maksavat 120 euroa.",
+          "en": "How much do these shoes cost? (120e)"
+        },
+        {
+          "prompt": "3. How much does this green scarf cost? (17,95e) -Oh, it is cheap!",
+          "answer": "Kuinka paljon tämä vihreä huivi maksaa? – Se maksaa 17,95 euroa. – Oi, se on halpa!",
+          "en": "How much does this green scarf cost? (17,95e) -Oh, it is cheap!"
+        },
+        {
+          "prompt": "4. How much do these red jeans cost? (96e)",
+          "answer": "Kuinka paljon nämä punaiset farkut maksavat? – Ne maksavat 96 euroa.",
+          "en": "How much do these red jeans cost? (96e)"
+        },
+        {
+          "prompt": "5. How much do these black gloves cost? (18,65e)",
+          "answer": "Kuinka paljon nämä mustat hanskat maksavat? – Ne maksavat 18,65 euroa.",
+          "en": "How much do these black gloves cost? (18,65e)"
+        },
+        {
+          "prompt": "6. How much do these long, red leggings cost? (25e)",
+          "answer": "Kuinka paljon nämä pitkät, punaiset legginsit maksavat? – Ne maksavat 25 euroa.",
+          "en": "How much do these long, red leggings cost? (25e)"
+        },
+        {
+          "prompt": "7. How much does this fun baseball hat cost? (13,50e)",
+          "answer": "Kuinka paljon tämä hauska lippis maksaa? – Se maksaa 13,50 euroa.",
+          "en": "How much does this fun baseball hat cost? (13,50e)"
+        },
+        {
+          "prompt": "8. How much do these big overalls cost? (135e)",
+          "answer": "Kuinka paljon nämä isot haalarit maksavat? – Ne maksavat 135 euroa.",
+          "en": "How much do these big overalls cost? (135e)"
+        },
+        {
+          "prompt": "9. How much does this short, black skirt cost? (47,80e) - It is expensive!",
+          "answer": "Kuinka paljon tämä lyhyt, musta hame maksaa? – Se maksaa 47,80 euroa. – Se on kallis!",
+          "en": "How much does this short, black skirt cost? (47,80e) - It is expensive!"
+        },
+        {
+          "prompt": "10. How much do these white Adidas-sneakers cost? (117,60e)",
+          "answer": "Kuinka paljon nämä valkoiset Adidas-tossut maksavat? – Ne maksavat 117,60 euroa.",
+          "en": "How much do these white Adidas-sneakers cost? (117,60e)"
+        },
+        {
+          "prompt": "11. How much do the foreign fruit(s) cost?",
+          "answer": "Kuinka paljon ulkomaalaiset hedelmät maksavat?",
+          "en": "How much do the foreign fruit(s) cost?"
+        },
+        {
+          "prompt": "12. How much is the domestic salmon a kilo? - It costs 9,80e a kilo.",
+          "answer": "Kuinka paljon kotimainen lohi maksaa kilo? – Se maksaa 9,80 euroa kilo.",
+          "en": "How much is the domestic salmon a kilo? - It costs 9,80e a kilo."
+        },
+        {
+          "prompt": "13. How much does your vegetarian pizza cost? (18,40e)",
+          "answer": "Kuinka paljon teidän kasvispizza maksaa? – Se maksaa 18,40 euroa.",
+          "en": "How much does your vegetarian pizza cost? (18,40e)"
+        },
+        {
+          "prompt": "14. How much do these red apples cost? (3,60e a kilo)",
+          "answer": "Kuinka paljon nämä punaiset omenat maksavat? – Ne maksavat 3,60 euroa kilo.",
+          "en": "How much do these red apples cost? (3,60e a kilo)"
+        },
+        {
+          "prompt": "15. How much do the carrots cost? (1,60 a bag)",
+          "answer": "Kuinka paljon porkkanat maksavat? – Ne maksavat 1,60 euroa pussi.",
+          "en": "How much do the carrots cost? (1,60 a bag)"
+        },
+        {
+          "prompt": "16. How much does your chicken salad cost? (9,30e)",
+          "answer": "Kuinka paljon teidän kanasalaatti maksaa? – Se maksaa 9,30 euroa.",
+          "en": "How much does your chicken salad cost? (9,30e)"
+        },
+        {
+          "prompt": "17. How much do those over there berries cost? (12,30e a litre)",
+          "answer": "Kuinka paljon nuo marjat maksavat? – Ne maksavat 12,30 euroa litra.",
+          "en": "How much do those over there berries cost? (12,30e a litre)"
+        },
+        {
+          "prompt": "18. How much do those buns cost? (1,90e apiece)",
+          "answer": "Kuinka paljon nuo pullat maksavat? – Ne maksavat 1,90 euroa kappale.",
+          "en": "How much do those buns cost? (1,90e apiece)"
+        },
+        {
+          "prompt": "19. How much does a bag of licorice cost? (4,99e)",
+          "answer": "Kuinka paljon pussi lakritsia maksaa? – Se maksaa 4,99 euroa.",
+          "en": "How much does a bag of licorice cost? (4,99e)"
+        },
+        {
+          "prompt": "20. How much are those white candles? (11,50 a packet)",
+          "answer": "Kuinka paljon nuo valkoiset kynttilät maksavat? – Ne maksavat 11,50 euroa paketti.",
+          "en": "How much are those white candles? (11,50 a packet)"
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "verb-type-1",
+      "heading": "Verbityyppi 1: maksaa",
+      "text": "Verb type 1 ends in two vowels, the last being A/Ä. Remove the last A/Ä and add the personal ending: MAKSA/A > minä maksan... Negative: take the minä-form, remove the final N: minä en maksa laskua (I will not pay the bill); hedelmät eivät maksa paljon (the fruit don't cost a lot).",
+      "table": [
+        [
+          "minä",
+          "maksan"
+        ],
+        [
+          "sinä",
+          "maksat"
+        ],
+        [
+          "hän",
+          "maksaa"
+        ],
+        [
+          "me",
+          "maksamme"
+        ],
+        [
+          "te",
+          "maksatte"
+        ],
+        [
+          "he",
+          "maksavat"
+        ],
+        [
+          "paita",
+          "maksaa 10 euroa"
+        ]
+      ]
+    },
+    {
+      "topic": "question-words",
+      "heading": "How much?",
+      "text": "HOW MUCH? = KUINKA PALJON? / PALJONKO? / MITÄ TÄMÄ MAKSAA? (What does this cost?) Se maksaa kaksi euroa = It costs 2 euros. Ne maksavat kuusi euroa = They cost six euros."
+    }
+  ]
+}

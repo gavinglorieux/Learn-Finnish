@@ -1,0 +1,123 @@
+{
+  "source": "term-2026-winter/Lesson 9 (9.3.2026)/1772526804590.jpg",
+  "md5": "1089b313046fbab7693d8f717400b1a5",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 9,
+    "date": "2026-03-09"
+  },
+  "kind": "picture_vocab",
+  "title": {
+    "fi": "Maatilalla",
+    "en": "On the farm"
+  },
+  "topics": [],
+  "summary": "Bilingual picture dictionary page 61 'on the farm': 16 labelled farm animals and objects (haystack, turkey, goose, horse, bull, tractor, goat, pig, hen, field, fence …).",
+  "transcript": "on the farm\nheinäsuova – haystack\nkalkkuna – turkey\nhanhenpoikia – goslings\nhanhi – goose\nvarsa – foal\nhevonen – horse\nhärkä – bull\ntraktori – tractor\nvuohi – goat\nkili – kid (young goat)\nsika – pig\nporsas – piglet\nkana – hen\nkananpoikia – chicks\npelto – field\naita – fence\n61",
+  "words": [
+    {
+      "fi": "heinäsuova",
+      "en": "haystack",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "kalkkuna",
+      "en": "turkey",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "hanhenpoika",
+      "en": "gosling",
+      "pos": "noun",
+      "form_seen": "hanhenpoikia",
+      "note": "partitive plural of hanhenpoika",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "hanhi",
+      "en": "goose",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "varsa",
+      "en": "foal",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "hevonen",
+      "en": "horse",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "härkä",
+      "en": "bull",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "traktori",
+      "en": "tractor",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "vuohi",
+      "en": "goat",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "kili",
+      "en": "kid (young goat)",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "sika",
+      "en": "pig",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "porsas",
+      "en": "piglet",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "kana",
+      "en": "hen",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "kananpoika",
+      "en": "chick",
+      "pos": "noun",
+      "form_seen": "kananpoikia",
+      "note": "partitive plural of kananpoika",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "pelto",
+      "en": "field",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "aita",
+      "en": "fence",
+      "pos": "noun",
+      "theme": "farm-animals"
+    }
+  ],
+  "texts": [],
+  "exercises": [],
+  "grammar_notes": []
+}

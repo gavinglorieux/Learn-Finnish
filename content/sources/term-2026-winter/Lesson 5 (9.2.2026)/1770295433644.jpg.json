@@ -1,0 +1,430 @@
+{
+  "source": "term-2026-winter/Lesson 5 (9.2.2026)/1770295433644.jpg",
+  "md5": "9708ebaee6bd496ef3732f7ba12f20cc",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 5,
+    "date": "2026-02-09"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "1.2. Missä? – Mistä? – Mihin? Harjoitus 2",
+    "en": "Where? – From where? – To where? Exercise 2"
+  },
+  "topics": [
+    "outer-local-cases",
+    "local-cases",
+    "question-words",
+    "postpositions",
+    "kpt-nouns"
+  ],
+  "summary": "Exercise 2: put nouns into the adessive (-lla), ablative (-lta) and allative (-lle); a HUOMAA box shows irregular where/from/to forms (kotiin/kotona/kotoa, ulos/ulkona/ulkoa, taakse/takana/takaa, luokse/luona/luota).",
+  "transcript": "1.2.\nMISSÄ? - MISTÄ? - MIHIN?\nHarjoitus 2\nMissä?   Adessiivi   -LLA -LLÄ\nMinä olen ............ (KURSSI).\nHe käyvät ............ (BENSIINIASEMA).\nMinä käyn usein ............ (TORI).\nKirjakauppa on ............ (MIKONKATU).\nMistä?   Ablatiivi   -LTA -LTÄ\nMinä tulen ............ (KURSSI).\nMinä otan kirjan ............ (PÖYTÄ).\nMikko tulee ............ (ASEMA).\nMinä ostan perunat ............ (TORI).\nMihin?   Allatiivi   -LLE\nMinä panen kirjan ............ (HYLLY).\nBussi menee ............ (ASEMA).\nMenettekö huomenna ............ (TORI)?\nLapset menevät ulos ............ (PIHA).\nHUOMAA!\nMinä menen kotiin. / ulos. / puun taakse. / Marjan luokse.\nMinä olen kotona. / ulkona. / puun takana. / Marjan luona.\nMinä tulen kotoa. / ulkoa. / puun takaa. / Marjan luota.",
+  "exercises": [
+    {
+      "title": "Harjoitus 2. Missä? – Adessiivi (-lla/-llä)",
+      "instruction": "Write the word in the adessive.",
+      "topic": "outer-local-cases",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Minä olen ____ (KURSSI).",
+          "base": "KURSSI",
+          "answer": "kurssilla",
+          "en": "I am on a course."
+        },
+        {
+          "prompt": "He käyvät ____ (BENSIINIASEMA).",
+          "base": "BENSIINIASEMA",
+          "answer": "bensiiniasemalla",
+          "en": "They visit the petrol station."
+        },
+        {
+          "prompt": "Minä käyn usein ____ (TORI).",
+          "base": "TORI",
+          "answer": "torilla",
+          "en": "I often go to the market square."
+        },
+        {
+          "prompt": "Kirjakauppa on ____ (MIKONKATU).",
+          "base": "MIKONKATU",
+          "answer": "Mikonkadulla",
+          "en": "The bookshop is on Mikonkatu."
+        }
+      ]
+    },
+    {
+      "title": "Harjoitus 2. Mistä? – Ablatiivi (-lta/-ltä)",
+      "instruction": "Write the word in the ablative.",
+      "topic": "outer-local-cases",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Minä tulen ____ (KURSSI).",
+          "base": "KURSSI",
+          "answer": "kurssilta",
+          "en": "I am coming from the course."
+        },
+        {
+          "prompt": "Minä otan kirjan ____ (PÖYTÄ).",
+          "base": "PÖYTÄ",
+          "answer": "pöydältä",
+          "en": "I take the book from the table."
+        },
+        {
+          "prompt": "Mikko tulee ____ (ASEMA).",
+          "base": "ASEMA",
+          "answer": "asemalta",
+          "en": "Mikko is coming from the station."
+        },
+        {
+          "prompt": "Minä ostan perunat ____ (TORI).",
+          "base": "TORI",
+          "answer": "torilta",
+          "en": "I buy the potatoes at the market square."
+        }
+      ]
+    },
+    {
+      "title": "Harjoitus 2. Mihin? – Allatiivi (-lle)",
+      "instruction": "Write the word in the allative.",
+      "topic": "outer-local-cases",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Minä panen kirjan ____ (HYLLY).",
+          "base": "HYLLY",
+          "answer": "hyllylle",
+          "en": "I put the book on the shelf."
+        },
+        {
+          "prompt": "Bussi menee ____ (ASEMA).",
+          "base": "ASEMA",
+          "answer": "asemalle",
+          "en": "The bus goes to the station."
+        },
+        {
+          "prompt": "Menettekö huomenna ____ (TORI)?",
+          "base": "TORI",
+          "answer": "torille",
+          "en": "Are you (pl.) going to the market square tomorrow?"
+        },
+        {
+          "prompt": "Lapset menevät ulos ____ (PIHA).",
+          "base": "PIHA",
+          "answer": "pihalle",
+          "en": "The children go out into the yard."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "outer-local-cases",
+      "heading": "Missä? – Mistä? – Mihin? (ulkopaikallissijat)",
+      "text": "Missä? adessiivi -lla/-llä; Mistä? ablatiivi -lta/-ltä; Mihin? allatiivi -lle.",
+      "table": [
+        [
+          "Missä?",
+          "Adessiivi",
+          "-lla / -llä"
+        ],
+        [
+          "Mistä?",
+          "Ablatiivi",
+          "-lta / -ltä"
+        ],
+        [
+          "Mihin?",
+          "Allatiivi",
+          "-lle"
+        ]
+      ]
+    },
+    {
+      "topic": "postpositions",
+      "heading": "HUOMAA!",
+      "text": "Irregular / postposition forms for where to – where – where from.",
+      "table": [
+        [
+          "Minä menen",
+          "Minä olen",
+          "Minä tulen"
+        ],
+        [
+          "kotiin",
+          "kotona",
+          "kotoa"
+        ],
+        [
+          "ulos",
+          "ulkona",
+          "ulkoa"
+        ],
+        [
+          "puun taakse",
+          "puun takana",
+          "puun takaa"
+        ],
+        [
+          "Marjan luokse",
+          "Marjan luona",
+          "Marjan luota"
+        ]
+      ]
+    }
+  ],
+  "words": [
+    {
+      "fi": "missä",
+      "en": "where (at)",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "mistä",
+      "en": "where from",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "mihin",
+      "en": "where to",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "kurssi",
+      "en": "course",
+      "pos": "noun",
+      "theme": "school-work"
+    },
+    {
+      "fi": "bensiiniasema",
+      "en": "petrol station",
+      "pos": "noun",
+      "theme": "places-town"
+    },
+    {
+      "fi": "tori",
+      "en": "market square",
+      "pos": "noun",
+      "theme": "places-town"
+    },
+    {
+      "fi": "kirjakauppa",
+      "en": "bookshop",
+      "pos": "noun",
+      "theme": "places-town"
+    },
+    {
+      "fi": "katu",
+      "en": "street",
+      "pos": "noun",
+      "note": "t → d: kadulla (Mikonkatu → Mikonkadulla)",
+      "theme": "places-town"
+    },
+    {
+      "fi": "kirja",
+      "en": "book",
+      "pos": "noun",
+      "form_seen": "kirjan",
+      "theme": "classroom"
+    },
+    {
+      "fi": "pöytä",
+      "en": "table",
+      "pos": "noun",
+      "note": "t → d: pöydältä",
+      "theme": "furniture"
+    },
+    {
+      "fi": "asema",
+      "en": "station",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "peruna",
+      "en": "potato",
+      "pos": "noun",
+      "form_seen": "perunat",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "hylly",
+      "en": "shelf",
+      "pos": "noun",
+      "theme": "furniture"
+    },
+    {
+      "fi": "bussi",
+      "en": "bus",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "lapsi",
+      "en": "child",
+      "pos": "noun",
+      "form_seen": "lapset",
+      "theme": "people"
+    },
+    {
+      "fi": "piha",
+      "en": "yard",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "huomenna",
+      "en": "tomorrow",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "usein",
+      "en": "often",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "ulos",
+      "en": "out, outside (motion)",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "ulkona",
+      "en": "outside (location)",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "ulkoa",
+      "en": "from outside",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "koti",
+      "en": "home",
+      "pos": "noun",
+      "note": "kotiin, kotona, kotoa",
+      "theme": "home"
+    },
+    {
+      "fi": "puu",
+      "en": "tree",
+      "pos": "noun",
+      "form_seen": "puun",
+      "theme": "nature"
+    },
+    {
+      "fi": "taakse",
+      "en": "(to) behind",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "takana",
+      "en": "behind",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "takaa",
+      "en": "from behind",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "luokse",
+      "en": "to (someone's place)",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "luona",
+      "en": "at (someone's place)",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "luota",
+      "en": "from (someone's place)",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "olen",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "käydä",
+      "en": "to visit, to go (and come back)",
+      "pos": "verb",
+      "verb_type": 2,
+      "forms": {
+        "minä": "käyn",
+        "he": "käyvät"
+      },
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "tulla",
+      "en": "to come",
+      "pos": "verb",
+      "verb_type": 3,
+      "forms": {
+        "minä": "tulen",
+        "hän": "tulee"
+      },
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "ottaa",
+      "en": "to take",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "otan",
+      "note": "tt → t",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "ostaa",
+      "en": "to buy",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "ostan",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "panna",
+      "en": "to put",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "panen",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "mennä",
+      "en": "to go",
+      "pos": "verb",
+      "verb_type": 3,
+      "forms": {
+        "minä": "menen",
+        "hän": "menee",
+        "te": "menette",
+        "he": "menevät"
+      },
+      "theme": "common-verbs"
+    }
+  ],
+  "texts": []
+}

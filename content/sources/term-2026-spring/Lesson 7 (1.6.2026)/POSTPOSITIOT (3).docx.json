@@ -1,0 +1,407 @@
+{
+  "source": "term-2026-spring/Lesson 7 (1.6.2026)/POSTPOSITIOT (3).docx",
+  "md5": "1424c3dde213ba34f9117c0eb90bd1d6",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 7,
+    "date": "2026-06-01"
+  },
+  "kind": "grammar",
+  "title": {
+    "fi": "Postpositiot",
+    "en": "Postpositions"
+  },
+  "topics": [
+    "postpositions",
+    "genitive",
+    "local-cases"
+  ],
+  "summary": "Reference list of Finnish postpositions with English meanings, giving their missä/mistä/mihin forms where they exist (edessä–edestä–eteen, takana–takaa–taakse …), plus five words used as prepositions (pitkin, kohti, vastapäätä, ilman, ennen).",
+  "transcript": "POSTPOSITIOT\n\nEDESSÄ, EDESTÄ, ETEEN = in front of\n\nTAKANA, TAKAA, TAAKSE = behind\n\nVIERESSÄ, VIERESTÄ, VIEREEN= next to\n\nOIKEALLA PUOLELLA, OIKEALTA PUOLELTA, OIKEALLE PUOLELLE = right-hand side\n\nVASEMMALLA PUOLELLA / -LTA / -LLE= left-hand side\n\nVÄLISSÄ, VÄLISTÄ, VÄLIIN= between\n\nKESKELLÄ, KESKELTÄ, KESKELLE = in the middle\n\nYMPÄRILLÄ, YMPÄRILTÄ, YMPÄRILLE = around\n\nÄÄRESSÄ, ÄÄRESTÄ, ÄÄREEN = at, right by\n\nPÄÄLLÄ, PÄÄLTÄ, PÄÄLLE= on top of\n\nALLA, ALTA, ALLE = under\n\nSISÄLLÄ, SISÄLTÄ, SISÄLLE= inside\n\nULKONA, ULKOA, ULOS = outside\n\nALAPUOLELLA / -LTA / -LLE= below\n\nYLÄPUOLELLA / -LTA / -LLE = above\n\nPOIKKI = across\n\nLÄPI= through\n\nKAUTTA = via\n\nLUONA, LUOTA, LUO(KSE) = to someone´s place or to their ”personal space”\n\nKANSSA= with\n\nJÄLKEEN = after\n\nAIKANA= during\n\nTAKIA / VUOKSI / TÄHDEN= because of\n\nANSIOSTA= thanks to\n\nPUOLESTA = on behalf of\n\nMUKANA= (along) with\n\nLISÄKSI = in addition to\n\nPREPOSITIOITA:\n\nPITKIN= along\n\nKOHTI= towards\n\nVASTAPÄÄTÄ= opposite\n\nILMAN= without\n\nENNEN= before",
+  "words": [
+    {
+      "fi": "edessä",
+      "en": "in front of",
+      "pos": "postp",
+      "theme": "postpositions",
+      "note": "edessä, edestä, eteen"
+    },
+    {
+      "fi": "takana",
+      "en": "behind",
+      "pos": "postp",
+      "theme": "postpositions",
+      "note": "takana, takaa, taakse"
+    },
+    {
+      "fi": "vieressä",
+      "en": "next to",
+      "pos": "postp",
+      "theme": "postpositions",
+      "note": "vieressä, vierestä, viereen"
+    },
+    {
+      "fi": "oikealla puolella",
+      "en": "on the right-hand side",
+      "pos": "postp",
+      "theme": "postpositions",
+      "note": "oikealla puolella, oikealta puolelta, oikealle puolelle"
+    },
+    {
+      "fi": "vasemmalla puolella",
+      "en": "on the left-hand side",
+      "pos": "postp",
+      "theme": "postpositions",
+      "note": "vasemmalla puolella / -lta / -lle"
+    },
+    {
+      "fi": "välissä",
+      "en": "between",
+      "pos": "postp",
+      "theme": "postpositions",
+      "note": "välissä, välistä, väliin"
+    },
+    {
+      "fi": "keskellä",
+      "en": "in the middle",
+      "pos": "postp",
+      "theme": "postpositions",
+      "note": "keskellä, keskeltä, keskelle"
+    },
+    {
+      "fi": "ympärillä",
+      "en": "around",
+      "pos": "postp",
+      "theme": "postpositions",
+      "note": "ympärillä, ympäriltä, ympärille"
+    },
+    {
+      "fi": "ääressä",
+      "en": "at, right by",
+      "pos": "postp",
+      "theme": "postpositions",
+      "note": "ääressä, äärestä, ääreen"
+    },
+    {
+      "fi": "päällä",
+      "en": "on top of",
+      "pos": "postp",
+      "theme": "postpositions",
+      "note": "päällä, päältä, päälle"
+    },
+    {
+      "fi": "alla",
+      "en": "under",
+      "pos": "postp",
+      "theme": "postpositions",
+      "note": "alla, alta, alle"
+    },
+    {
+      "fi": "sisällä",
+      "en": "inside",
+      "pos": "postp",
+      "theme": "postpositions",
+      "note": "sisällä, sisältä, sisälle"
+    },
+    {
+      "fi": "ulkona",
+      "en": "outside",
+      "pos": "postp",
+      "theme": "postpositions",
+      "note": "ulkona, ulkoa, ulos"
+    },
+    {
+      "fi": "alapuolella",
+      "en": "below",
+      "pos": "postp",
+      "theme": "postpositions",
+      "note": "alapuolella / -lta / -lle"
+    },
+    {
+      "fi": "yläpuolella",
+      "en": "above",
+      "pos": "postp",
+      "theme": "postpositions",
+      "note": "yläpuolella / -lta / -lle"
+    },
+    {
+      "fi": "poikki",
+      "en": "across",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "läpi",
+      "en": "through",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "kautta",
+      "en": "via",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "luona",
+      "en": "at someone's place / in their 'personal space'",
+      "pos": "postp",
+      "theme": "postpositions",
+      "note": "luona, luota, luo(kse)"
+    },
+    {
+      "fi": "kanssa",
+      "en": "with",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "jälkeen",
+      "en": "after",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "aikana",
+      "en": "during",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "takia",
+      "en": "because of (= vuoksi, tähden)",
+      "pos": "postp",
+      "theme": "postpositions",
+      "note": "takia / vuoksi / tähden"
+    },
+    {
+      "fi": "vuoksi",
+      "en": "because of",
+      "pos": "postp",
+      "theme": "postpositions",
+      "note": "takia / vuoksi / tähden"
+    },
+    {
+      "fi": "tähden",
+      "en": "because of, for the sake of",
+      "pos": "postp",
+      "theme": "postpositions",
+      "note": "takia / vuoksi / tähden"
+    },
+    {
+      "fi": "ansiosta",
+      "en": "thanks to",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "puolesta",
+      "en": "on behalf of",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "mukana",
+      "en": "(along) with",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "lisäksi",
+      "en": "in addition to",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "pitkin",
+      "en": "along",
+      "pos": "prep",
+      "theme": "postpositions",
+      "note": "also used as a preposition (before the noun)"
+    },
+    {
+      "fi": "kohti",
+      "en": "towards",
+      "pos": "prep",
+      "theme": "postpositions",
+      "note": "also used as a preposition (before the noun)"
+    },
+    {
+      "fi": "vastapäätä",
+      "en": "opposite",
+      "pos": "prep",
+      "theme": "postpositions",
+      "note": "also used as a preposition (before the noun)"
+    },
+    {
+      "fi": "ilman",
+      "en": "without",
+      "pos": "prep",
+      "theme": "postpositions",
+      "note": "also used as a preposition (before the noun)"
+    },
+    {
+      "fi": "ennen",
+      "en": "before",
+      "pos": "prep",
+      "theme": "postpositions",
+      "note": "also used as a preposition (before the noun)"
+    }
+  ],
+  "texts": [],
+  "exercises": [],
+  "grammar_notes": [
+    {
+      "topic": "postpositions",
+      "heading": "Postpositiot (missä? / mistä? / mihin?)",
+      "text": "Postpositions follow a genitive noun. Many have three forms: where (-ssa/-lla/-na), from where (-sta/-lta/-a) and where to (-Vn/-lle/-s). The last group are mainly used as prepositions (before the noun).",
+      "table": [
+        [
+          "postpositio",
+          "english"
+        ],
+        [
+          "EDESSÄ, EDESTÄ, ETEEN",
+          "in front of"
+        ],
+        [
+          "TAKANA, TAKAA, TAAKSE",
+          "behind"
+        ],
+        [
+          "VIERESSÄ, VIERESTÄ, VIEREEN",
+          "next to"
+        ],
+        [
+          "OIKEALLA PUOLELLA, OIKEALTA PUOLELTA, OIKEALLE PUOLELLE",
+          "on the right-hand side"
+        ],
+        [
+          "VASEMMALLA PUOLELLA / -LTA / -LLE",
+          "on the left-hand side"
+        ],
+        [
+          "VÄLISSÄ, VÄLISTÄ, VÄLIIN",
+          "between"
+        ],
+        [
+          "KESKELLÄ, KESKELTÄ, KESKELLE",
+          "in the middle"
+        ],
+        [
+          "YMPÄRILLÄ, YMPÄRILTÄ, YMPÄRILLE",
+          "around"
+        ],
+        [
+          "ÄÄRESSÄ, ÄÄRESTÄ, ÄÄREEN",
+          "at, right by"
+        ],
+        [
+          "PÄÄLLÄ, PÄÄLTÄ, PÄÄLLE",
+          "on top of"
+        ],
+        [
+          "ALLA, ALTA, ALLE",
+          "under"
+        ],
+        [
+          "SISÄLLÄ, SISÄLTÄ, SISÄLLE",
+          "inside"
+        ],
+        [
+          "ULKONA, ULKOA, ULOS",
+          "outside"
+        ],
+        [
+          "ALAPUOLELLA / -LTA / -LLE",
+          "below"
+        ],
+        [
+          "YLÄPUOLELLA / -LTA / -LLE",
+          "above"
+        ],
+        [
+          "POIKKI",
+          "across"
+        ],
+        [
+          "LÄPI",
+          "through"
+        ],
+        [
+          "KAUTTA",
+          "via"
+        ],
+        [
+          "LUONA, LUOTA, LUO(KSE)",
+          "at someone's place / in their 'personal space'"
+        ],
+        [
+          "KANSSA",
+          "with"
+        ],
+        [
+          "JÄLKEEN",
+          "after"
+        ],
+        [
+          "AIKANA",
+          "during"
+        ],
+        [
+          "TAKIA / VUOKSI / TÄHDEN",
+          "because of (= vuoksi, tähden)"
+        ],
+        [
+          "TAKIA / VUOKSI / TÄHDEN",
+          "because of"
+        ],
+        [
+          "TAKIA / VUOKSI / TÄHDEN",
+          "because of, for the sake of"
+        ],
+        [
+          "ANSIOSTA",
+          "thanks to"
+        ],
+        [
+          "PUOLESTA",
+          "on behalf of"
+        ],
+        [
+          "MUKANA",
+          "(along) with"
+        ],
+        [
+          "LISÄKSI",
+          "in addition to"
+        ],
+        [
+          "PREPOSITIOITA:",
+          ""
+        ],
+        [
+          "PITKIN",
+          "along"
+        ],
+        [
+          "KOHTI",
+          "towards"
+        ],
+        [
+          "VASTAPÄÄTÄ",
+          "opposite"
+        ],
+        [
+          "ILMAN",
+          "without"
+        ],
+        [
+          "ENNEN",
+          "before"
+        ]
+      ]
+    }
+  ]
+}

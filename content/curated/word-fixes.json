@@ -1,0 +1,21 @@
+{
+  "kutista": {
+    "verbType": 3,
+    "en": "to itch"
+  },
+  "sairastaa": {
+    "verbType": 1
+  },
+  "vetää": {
+    "forms": {
+      "minä": "vedän",
+      "hän": "vetää"
+    }
+  },
+  "löytää": {
+    "forms": {
+      "minä": "löydän",
+      "hän": "löytää"
+    }
+  }
+}

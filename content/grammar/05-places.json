@@ -1,0 +1,1050 @@
+{
+  "part": {
+    "id": "places",
+    "title": "Places & movement",
+    "emoji": "📍",
+    "description": "The six local cases (in, out of, into, on, off, onto), which places take which, verbs of movement and postpositions."
+  },
+  "topics": [
+    {
+      "id": "local-cases",
+      "title": "The six local cases — overview",
+      "fi": "Paikallissijat",
+      "emoji": "🧭",
+      "summary": "Where? Where from? Where to? — answered with six endings: -ssa, -sta, -Vn (inside) and -lla, -lta, -lle (on / at).",
+      "requires": [
+        "question-words",
+        "kpt-nouns"
+      ],
+      "sections": [
+        {
+          "heading": "The big table",
+          "table": {
+            "headers": [
+              "",
+              "Missä? (where)",
+              "Mistä? (where from)",
+              "Mihin? (where to)"
+            ],
+            "rows": [
+              [
+                "Inner cases — in, inside",
+                "inessive -ssa/-ssä: talossa",
+                "elative -sta/-stä: talosta",
+                "illative -Vn/-hVn/-seen: taloon"
+              ],
+              [
+                "Outer cases — on, at, open places",
+                "adessive -lla/-llä: torilla",
+                "ablative -lta/-ltä: torilta",
+                "allative -lle: torille"
+              ]
+            ]
+          },
+          "body": "Think of it as a 2 × 3 grid: **inside vs. on/at** × **being there vs. coming from vs. going to**."
+        },
+        {
+          "heading": "Memory hooks",
+          "bullets": [
+            "**-ss-** = in (inside): -ssa *in*, -sta *out of*.",
+            "**-ll-** = on / at: -lla *on/at*, -lta *off/from*, -lle *onto/to*.",
+            "**-a/-ä** endings = static (in, at)… **-ta/-tä** endings = movement away (from)… **-n, -lle** = movement towards (to).",
+            "The question words follow the same pattern: miSSÄ, miSTÄ, miHIN."
+          ]
+        },
+        {
+          "heading": "One word through all six",
+          "table": {
+            "headers": [
+              "Case",
+              "kauppa (shop)",
+              "tori (market square)",
+              "Helsinki",
+              "koulu"
+            ],
+            "rows": [
+              [
+                "Missä? -ssa",
+                "kaupassa",
+                "",
+                "Helsingissä",
+                "koulussa"
+              ],
+              [
+                "Mistä? -sta",
+                "kaupasta",
+                "",
+                "Helsingistä",
+                "koulusta"
+              ],
+              [
+                "Mihin? -Vn",
+                "kauppaan",
+                "",
+                "Helsinkiin",
+                "kouluun"
+              ],
+              [
+                "Missä? -lla",
+                "",
+                "torilla",
+                "",
+                ""
+              ],
+              [
+                "Mistä? -lta",
+                "",
+                "torilta",
+                "",
+                ""
+              ],
+              [
+                "Mihin? -lle",
+                "",
+                "torille",
+                "",
+                ""
+              ]
+            ]
+          },
+          "note": "Watch K-P-T: the endings -ssa, -sta, -lla, -lta, -lle close the syllable (weak: kaupassa, Helsingissä), but the illative keeps the strong grade (kauppaan, Helsinkiin). See [[kpt-nouns|K-P-T in nouns]]."
+        },
+        {
+          "heading": "Other uses of the 'outer' cases",
+          "bullets": [
+            "**Having**: *Minulla on* — I have (adessive). See [[have-adessive|Minulla on]].",
+            "**Transport / instrument**: *bussilla, junalla, autolla, pyörällä, lentokoneella* — by bus, train… (adessive).",
+            "**Time**: *aamulla, illalla, yöllä, talvella, kesällä* — in the morning, in winter (adessive).",
+            "**Giving to someone**: *Annan kirjan äidille.* — I give the book to mother (allative).",
+            "**Feelings**: *Minulla on kylmä.* — I'm cold. *Se tuntuu hyvältä.* — It feels good (ablative)."
+          ]
+        }
+      ],
+      "related": [
+        "inner-local-cases",
+        "outer-local-cases",
+        "illative",
+        "place-names",
+        "locative-verbs"
+      ],
+      "practice": [
+        {
+          "label": "Local-case drill",
+          "to": "/practice/course/drill-local-cases"
+        }
+      ]
+    },
+    {
+      "id": "inner-local-cases",
+      "title": "In, out of, into: -ssa, -sta, -Vn",
+      "fi": "Sisäpaikallissijat: inessiivi, elatiivi, illatiivi",
+      "emoji": "🏠",
+      "summary": "Inessive -ssa (in), elative -sta (out of / from), illative -Vn (into / to) — for buildings, rooms, containers, towns and most countries.",
+      "requires": [
+        "local-cases"
+      ],
+      "sections": [
+        {
+          "heading": "Inessive -ssa/-ssä — in (Missä?)",
+          "body": "Weak grade + **-ssa/-ssä**.",
+          "examples": [
+            {
+              "fi": "Asun Lontoossa. Työskentelen sairaalassa.",
+              "en": "I live in London. I work in a hospital."
+            },
+            {
+              "fi": "Maito on jääkaapissa.",
+              "en": "The milk is in the fridge."
+            },
+            {
+              "fi": "Lapset ovat koulussa.",
+              "en": "The children are at school."
+            },
+            {
+              "fi": "Helsingissä on paljon kahviloita.",
+              "en": "There are lots of cafés in Helsinki."
+            }
+          ]
+        },
+        {
+          "heading": "Elative -sta/-stä — out of, from (Mistä?)",
+          "body": "Weak grade + **-sta/-stä**. Also used for *from* (origin), *about* (topic) and with **pitää** (to like).",
+          "examples": [
+            {
+              "fi": "Tulen kaupasta.",
+              "en": "I'm coming from the shop."
+            },
+            {
+              "fi": "Olen kotoisin Englannista.",
+              "en": "I'm from England."
+            },
+            {
+              "fi": "Otan maidon jääkaapista.",
+              "en": "I take the milk out of the fridge."
+            },
+            {
+              "fi": "Pidän kahvista. Puhumme säästä.",
+              "en": "I like coffee. We're talking about the weather."
+            }
+          ]
+        },
+        {
+          "heading": "Illative -Vn / -hVn / -seen — into, to (Mihin?)",
+          "body": "Strong grade + the illative ending. See [[illative|How to form the illative]] for the three patterns.",
+          "examples": [
+            {
+              "fi": "Menen kauppaan.",
+              "en": "I'm going to the shop."
+            },
+            {
+              "fi": "Matkustan Suomeen ja Ruotsiin.",
+              "en": "I'm travelling to Finland and Sweden."
+            },
+            {
+              "fi": "Laitan maidon jääkaappiin.",
+              "en": "I put the milk into the fridge."
+            },
+            {
+              "fi": "Menemme huomenna Helsinkiin.",
+              "en": "We're going to Helsinki tomorrow."
+            }
+          ]
+        },
+        {
+          "heading": "Full examples",
+          "table": {
+            "headers": [
+              "Basic form",
+              "Missä?",
+              "Mistä?",
+              "Mihin?"
+            ],
+            "rows": [
+              [
+                "talo",
+                "talossa",
+                "talosta",
+                "taloon"
+              ],
+              [
+                "koulu",
+                "koulussa",
+                "koulusta",
+                "kouluun"
+              ],
+              [
+                "kauppa",
+                "kaupassa",
+                "kaupasta",
+                "kauppaan"
+              ],
+              [
+                "pankki",
+                "pankissa",
+                "pankista",
+                "pankkiin"
+              ],
+              [
+                "Suomi",
+                "Suomessa",
+                "Suomesta",
+                "Suomeen"
+              ],
+              [
+                "Lontoo",
+                "Lontoossa",
+                "Lontoosta",
+                "Lontooseen"
+              ],
+              [
+                "Helsinki",
+                "Helsingissä",
+                "Helsingistä",
+                "Helsinkiin"
+              ],
+              [
+                "Turku",
+                "Turussa",
+                "Turusta",
+                "Turkuun"
+              ],
+              [
+                "keittiö",
+                "keittiössä",
+                "keittiöstä",
+                "keittiöön"
+              ],
+              [
+                "huone",
+                "huoneessa",
+                "huoneesta",
+                "huoneeseen"
+              ],
+              [
+                "maa",
+                "maassa",
+                "maasta",
+                "maahan"
+              ],
+              [
+                "kirjasto",
+                "kirjastossa",
+                "kirjastosta",
+                "kirjastoon"
+              ],
+              [
+                "sauna",
+                "saunassa",
+                "saunasta",
+                "saunaan"
+              ]
+            ]
+          }
+        }
+      ],
+      "related": [
+        "illative",
+        "outer-local-cases",
+        "place-names"
+      ],
+      "practice": [
+        {
+          "label": "Local-case drill",
+          "to": "/practice/course/drill-local-cases"
+        }
+      ]
+    },
+    {
+      "id": "illative",
+      "title": "How to form the illative (into)",
+      "fi": "Illatiivin muodostaminen",
+      "emoji": "➡️",
+      "summary": "Three patterns: repeat the last vowel + n (taloon), h + vowel + n after a long vowel (maahan), -seen after a long e or in long words (huoneeseen).",
+      "requires": [
+        "inner-local-cases"
+      ],
+      "sections": [
+        {
+          "heading": "Pattern 1: short vowel → double it + n",
+          "body": "Most words. Strong grade.",
+          "table": {
+            "headers": [
+              "Word",
+              "Illative"
+            ],
+            "rows": [
+              [
+                "talo",
+                "taloon"
+              ],
+              [
+                "koulu",
+                "kouluun"
+              ],
+              [
+                "kauppa",
+                "kauppaan"
+              ],
+              [
+                "pankki",
+                "pankkiin"
+              ],
+              [
+                "katu",
+                "katuun"
+              ],
+              [
+                "kylä",
+                "kylään"
+              ],
+              [
+                "Suomi (stem Suome-)",
+                "Suomeen"
+              ],
+              [
+                "kieli (stem kiele-)",
+                "kieleen"
+              ],
+              [
+                "nainen (stem naise-)",
+                "naiseen"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Pattern 2: one-syllable word with a long vowel or diphthong → h + vowel + n",
+          "table": {
+            "headers": [
+              "Word",
+              "Illative"
+            ],
+            "rows": [
+              [
+                "maa",
+                "maahan"
+              ],
+              [
+                "suu",
+                "suuhun"
+              ],
+              [
+                "työ",
+                "työhön (töihin = to work)"
+              ],
+              [
+                "tie",
+                "tiehen"
+              ],
+              [
+                "yö",
+                "yöhön"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Pattern 3: long vowel in a longer word → -seen",
+          "table": {
+            "headers": [
+              "Word",
+              "Illative"
+            ],
+            "rows": [
+              [
+                "huone (huonee-)",
+                "huoneeseen"
+              ],
+              [
+                "Lontoo",
+                "Lontooseen"
+              ],
+              [
+                "Espoo",
+                "Espooseen"
+              ],
+              [
+                "vapaa",
+                "vapaaseen"
+              ],
+              [
+                "perhe (perhee-)",
+                "perheeseen"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Special: 'home', 'to work'",
+          "examples": [
+            {
+              "fi": "Menen kotiin.",
+              "en": "I'm going home. (koti → kotiin; at home = kotona)"
+            },
+            {
+              "fi": "Menen töihin.",
+              "en": "I'm going to work. (at work = töissä)"
+            },
+            {
+              "fi": "Menen ulos.",
+              "en": "I'm going outside. (outside = ulkona)"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "inner-local-cases",
+        "locative-verbs"
+      ],
+      "practice": [
+        {
+          "label": "Illative drill",
+          "to": "/practice/course/drill-illative"
+        }
+      ]
+    },
+    {
+      "id": "outer-local-cases",
+      "title": "On, off, onto: -lla, -lta, -lle",
+      "fi": "Ulkopaikallissijat: adessiivi, ablatiivi, allatiivi",
+      "emoji": "🪑",
+      "summary": "Adessive -lla (on / at), ablative -lta (off / from), allative -lle (onto / to) — for surfaces, open places, people, transport and time.",
+      "requires": [
+        "local-cases"
+      ],
+      "sections": [
+        {
+          "heading": "The three endings",
+          "table": {
+            "headers": [
+              "Case",
+              "Ending",
+              "Meaning",
+              "Example"
+            ],
+            "rows": [
+              [
+                "adessive",
+                "-lla / -llä",
+                "on, at (Missä?)",
+                "Kirja on pöydällä. — The book is on the table."
+              ],
+              [
+                "ablative",
+                "-lta / -ltä",
+                "off, from (Mistä?)",
+                "Otan kirjan pöydältä. — I take the book off the table."
+              ],
+              [
+                "allative",
+                "-lle",
+                "onto, to (Mihin?)",
+                "Laitan kirjan pöydälle. — I put the book on the table."
+              ]
+            ]
+          },
+          "note": "All three take the **weak** grade: pöytä → pöydällä, katu → kadulla, ranta → rannalle."
+        },
+        {
+          "heading": "When to use them",
+          "bullets": [
+            "**Surfaces**: pöydällä, lattialla, seinällä, katolla, sohvalla.",
+            "**Open places / outdoor areas**: torilla, kadulla, pihalla, rannalla, kentällä, asemalla, mökillä, maalla (in the countryside), parvekkeella.",
+            "**Some towns and countries** — see [[place-names|-ssa or -lla with places]].",
+            "**People** (to have, give to, get from): *minulla, äidille, ystävältä*.",
+            "**Transport**: *bussilla, junalla, autolla, laivalla, pyörällä, jalan* (on foot).",
+            "**Time**: *aamulla, päivällä, illalla, yöllä; keväällä, kesällä, syksyllä, talvella; viikolla, tällä viikolla*."
+          ]
+        },
+        {
+          "heading": "Examples from the course",
+          "examples": [
+            {
+              "fi": "Me olemme mökillä koko kesän.",
+              "en": "We're at the cottage the whole summer."
+            },
+            {
+              "fi": "Lapset leikkivät pihalla.",
+              "en": "The children are playing in the yard."
+            },
+            {
+              "fi": "Millä sinä matkustat? — Matkustan junalla.",
+              "en": "How do you travel? — By train."
+            },
+            {
+              "fi": "Tulen torilta. Menen asemalle.",
+              "en": "I'm coming from the market. I'm going to the station."
+            },
+            {
+              "fi": "Soitan äidille illalla.",
+              "en": "I'll call mum in the evening."
+            }
+          ]
+        }
+      ],
+      "related": [
+        "inner-local-cases",
+        "place-names",
+        "have-adessive"
+      ],
+      "practice": [
+        {
+          "label": "Local-case drill",
+          "to": "/practice/course/drill-local-cases"
+        }
+      ]
+    },
+    {
+      "id": "place-names",
+      "title": "-ssa or -lla? Places, towns and countries",
+      "fi": "Paikannimet: -ssa vai -lla?",
+      "emoji": "🗺️",
+      "summary": "Buildings and closed spaces take -ssa; open areas take -lla. Most towns and countries take -ssa, but some Finnish towns and a few countries take -lla.",
+      "requires": [
+        "inner-local-cases",
+        "outer-local-cases"
+      ],
+      "sections": [
+        {
+          "heading": "Places in town",
+          "table": {
+            "headers": [
+              "-ssa (inside a building)",
+              "-lla (open place / platform / outdoors)"
+            ],
+            "rows": [
+              [
+                "kaupassa — in the shop",
+                "torilla — at the market square"
+              ],
+              [
+                "koulussa — at school",
+                "asemalla — at the station"
+              ],
+              [
+                "pankissa — at the bank",
+                "kadulla — in/on the street"
+              ],
+              [
+                "kirjastossa — at the library",
+                "pysäkillä — at the bus stop"
+              ],
+              [
+                "ravintolassa / kahvilassa",
+                "rannalla — on the beach"
+              ],
+              [
+                "sairaalassa — in hospital",
+                "lentokentällä — at the airport"
+              ],
+              [
+                "hotellissa, museossa, kirkossa",
+                "kentällä — on the field / pitch"
+              ],
+              [
+                "elokuvateatterissa / leffassa",
+                "laiturilla — on the jetty"
+              ],
+              [
+                "uimahallissa — at the swimming pool",
+                "mökillä — at the cottage"
+              ],
+              [
+                "toimistossa — at the office",
+                "maalla — in the countryside"
+              ],
+              [
+                "kotona — at home (special)",
+                "kioskilla — at the kiosk"
+              ]
+            ]
+          },
+          "note": "Some places are idiomatic and just need learning: *postissa* (at the post office), *lääkärissä* (at the doctor's), *kampaajalla* (at the hairdresser's), *apteekissa* (at the pharmacy)."
+        },
+        {
+          "heading": "Countries and towns",
+          "bullets": [
+            "**Countries and foreign cities**: almost always **-ssa**: Suomessa, Englannissa, Ruotsissa, Lontoossa, Pariisissa, Tukholmassa.",
+            "Exceptions with **-lla**: **Venäjällä** (Russia), and many islands: **Ahvenanmaalla** (Åland), **Kyproksella**, **Kanariansaarilla**, **Islannissa** is -ssa though.",
+            "**Finnish towns**: most take -ssa (Helsingissä, Turussa, Oulussa, Espoossa, Jyväskylässä, Lahdessa, Kuopiossa), but quite a few take **-lla**: **Tampereella, Rovaniemellä, Vantaalla, Imatralla, Seinäjoella**.",
+            "Rule of thumb: names ending in a landscape word like **-niemi, -joki, -vaara, -mäki** often take **-lla** (Rovaniemellä, Seinäjoella) — but always check, because many don't."
+          ]
+        },
+        {
+          "heading": "Common -lla towns to remember",
+          "table": {
+            "headers": [
+              "Town",
+              "Missä?",
+              "Mistä?",
+              "Mihin?"
+            ],
+            "rows": [
+              [
+                "Tampere",
+                "Tampereella",
+                "Tampereelta",
+                "Tampereelle"
+              ],
+              [
+                "Rovaniemi",
+                "Rovaniemellä",
+                "Rovaniemeltä",
+                "Rovaniemelle"
+              ],
+              [
+                "Vantaa",
+                "Vantaalla",
+                "Vantaalta",
+                "Vantaalle"
+              ],
+              [
+                "Imatra",
+                "Imatralla",
+                "Imatralta",
+                "Imatralle"
+              ],
+              [
+                "Seinäjoki",
+                "Seinäjoella",
+                "Seinäjoelta",
+                "Seinäjoelle"
+              ],
+              [
+                "Venäjä (country)",
+                "Venäjällä",
+                "Venäjältä",
+                "Venäjälle"
+              ],
+              [
+                "Helsinki (compare)",
+                "Helsingissä",
+                "Helsingistä",
+                "Helsinkiin"
+              ],
+              [
+                "Turku (compare)",
+                "Turussa",
+                "Turusta",
+                "Turkuun"
+              ]
+            ]
+          }
+        }
+      ],
+      "related": [
+        "inner-local-cases",
+        "outer-local-cases"
+      ],
+      "practice": [
+        {
+          "label": "Local-case drill",
+          "to": "/practice/course/drill-local-cases"
+        }
+      ]
+    },
+    {
+      "id": "locative-verbs",
+      "title": "Verbs of place and movement",
+      "fi": "Verbit ja paikallissijat",
+      "emoji": "🚶",
+      "summary": "Static verbs take Missä? forms, verbs of leaving take Mistä?, verbs of going take Mihin? — asua Helsingissä, tulla Helsingistä, mennä Helsinkiin.",
+      "requires": [
+        "local-cases"
+      ],
+      "sections": [
+        {
+          "heading": "Which case after which verb",
+          "table": {
+            "headers": [
+              "Missä? (being)",
+              "Mistä? (from)",
+              "Mihin? (to)"
+            ],
+            "rows": [
+              [
+                "olla — be",
+                "tulla — come",
+                "mennä — go"
+              ],
+              [
+                "asua — live",
+                "lähteä — leave",
+                "matkustaa — travel"
+              ],
+              [
+                "työskennellä / olla töissä — work",
+                "palata — return (from)",
+                "muuttaa — move (house)"
+              ],
+              [
+                "opiskella — study",
+                "ottaa — take (out of)",
+                "laittaa / panna — put"
+              ],
+              [
+                "istua, seistä, maata",
+                "ostaa — buy (from)",
+                "tulla — come (to)"
+              ],
+              [
+                "syödä — eat (at)",
+                "löytää — find (in) ✱",
+                "jäädä — stay ✱"
+              ],
+              [
+                "käydä — visit (missä!)",
+                "kysyä — ask (from someone)",
+                "soittaa — call (someone)"
+              ]
+            ]
+          },
+          "note": "✱ Finnish logic: *Jään kotiin.* (I stay home — 'into' home), *Löysin avaimen laukusta.* (I found the key in the bag — 'out of'). **käydä** uses Missä?: *Käyn kaupassa.* (I pop to the shop.)"
+        },
+        {
+          "heading": "Examples from the course",
+          "examples": [
+            {
+              "fi": "Missä te asutte? — Asumme Lontoossa.",
+              "en": "Where do you live? — We live in London."
+            },
+            {
+              "fi": "Milloin te menette lomalle? — Menemme heinäkuussa Suomeen.",
+              "en": "When are you going on holiday? — We're going to Finland in July."
+            },
+            {
+              "fi": "Lähden töistä kello viisi ja menen kotiin.",
+              "en": "I leave work at five and go home."
+            },
+            {
+              "fi": "Ostan leipää kaupasta ja vihanneksia torilta.",
+              "en": "I buy bread from the shop and vegetables from the market."
+            },
+            {
+              "fi": "Lapset tulevat koulusta kotiin.",
+              "en": "The children come home from school."
+            }
+          ]
+        },
+        {
+          "heading": "Home, work, outside — special forms",
+          "table": {
+            "headers": [
+              "",
+              "Missä?",
+              "Mistä?",
+              "Mihin?"
+            ],
+            "rows": [
+              [
+                "home",
+                "kotona",
+                "kotoa",
+                "kotiin"
+              ],
+              [
+                "work",
+                "töissä",
+                "töistä",
+                "töihin"
+              ],
+              [
+                "outside",
+                "ulkona",
+                "ulkoa",
+                "ulos"
+              ],
+              [
+                "inside",
+                "sisällä",
+                "sisältä",
+                "sisään"
+              ],
+              [
+                "here",
+                "täällä",
+                "täältä",
+                "tänne"
+              ],
+              [
+                "there",
+                "siellä",
+                "sieltä",
+                "sinne"
+              ],
+              [
+                "away",
+                "poissa",
+                "pois(ta)",
+                "pois"
+              ]
+            ]
+          }
+        }
+      ],
+      "related": [
+        "local-cases",
+        "illative",
+        "postpositions"
+      ],
+      "practice": [
+        {
+          "label": "Local-case drill",
+          "to": "/practice/course/drill-local-cases"
+        }
+      ]
+    },
+    {
+      "id": "postpositions",
+      "title": "Postpositions: on, under, next to…",
+      "fi": "Postpositiot",
+      "emoji": "📦",
+      "summary": "Words like päällä (on), alla (under), vieressä (next to) come after a noun in the genitive: pöydän alla — under the table.",
+      "requires": [
+        "genitive",
+        "local-cases"
+      ],
+      "sections": [
+        {
+          "heading": "Genitive + postposition",
+          "body": "Finnish puts these words **after** the noun (post-position), and the noun is in the **genitive** (-n).",
+          "examples": [
+            {
+              "fi": "Kissa on pöydän alla.",
+              "en": "The cat is under the table."
+            },
+            {
+              "fi": "Kauppa on pankin vieressä.",
+              "en": "The shop is next to the bank."
+            },
+            {
+              "fi": "Auto on talon edessä.",
+              "en": "The car is in front of the house."
+            }
+          ]
+        },
+        {
+          "heading": "Missä? — Mistä? — Mihin? forms",
+          "body": "Most postpositions have three forms, just like the local cases: **-lla/-llä (where), -lta/-ltä (from), -lle (to)** — or -ssa/-sta/-en.",
+          "table": {
+            "headers": [
+              "Meaning",
+              "Missä? (where)",
+              "Mistä? (from where)",
+              "Mihin? (to where)"
+            ],
+            "rows": [
+              [
+                "on (top of)",
+                "päällä",
+                "päältä",
+                "päälle"
+              ],
+              [
+                "under",
+                "alla",
+                "alta",
+                "alle"
+              ],
+              [
+                "above, over",
+                "yllä / yläpuolella",
+                "yläpuolelta",
+                "yläpuolelle"
+              ],
+              [
+                "below",
+                "alapuolella",
+                "alapuolelta",
+                "alapuolelle"
+              ],
+              [
+                "in front of",
+                "edessä",
+                "edestä",
+                "eteen"
+              ],
+              [
+                "behind",
+                "takana",
+                "takaa",
+                "taakse"
+              ],
+              [
+                "next to, beside",
+                "vieressä",
+                "vierestä",
+                "viereen"
+              ],
+              [
+                "between",
+                "välissä",
+                "välistä",
+                "väliin"
+              ],
+              [
+                "inside",
+                "sisällä",
+                "sisältä",
+                "sisään"
+              ],
+              [
+                "outside",
+                "ulkopuolella",
+                "ulkopuolelta",
+                "ulkopuolelle"
+              ],
+              [
+                "near",
+                "lähellä",
+                "läheltä",
+                "lähelle"
+              ],
+              [
+                "around",
+                "ympärillä",
+                "ympäriltä",
+                "ympärille"
+              ],
+              [
+                "in the middle of",
+                "keskellä",
+                "keskeltä",
+                "keskelle"
+              ],
+              [
+                "at someone's place",
+                "luona",
+                "luota",
+                "luo / luokse"
+              ],
+              [
+                "opposite",
+                "vastapäätä",
+                "",
+                ""
+              ],
+              [
+                "on the left / right of",
+                "vasemmalla / oikealla puolella",
+                "",
+                ""
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Examples from the course (kitchen & party pictures)",
+          "examples": [
+            {
+              "fi": "Missä lasit ovat? — Ne ovat kaapissa, lautasten vieressä.",
+              "en": "Where are the glasses? — In the cupboard, next to the plates."
+            },
+            {
+              "fi": "Kissa hyppää pöydän päälle.",
+              "en": "The cat jumps onto the table."
+            },
+            {
+              "fi": "Otan kirjan sängyn alta.",
+              "en": "I take the book from under the bed."
+            },
+            {
+              "fi": "Menen ystäväni luo.",
+              "en": "I'm going to my friend's place."
+            },
+            {
+              "fi": "Lapset istuvat äidin ja isän välissä.",
+              "en": "The children sit between mum and dad."
+            },
+            {
+              "fi": "Elokuvateatteri on kirjaston vastapäätä.",
+              "en": "The cinema is opposite the library."
+            },
+            {
+              "fi": "Kenen vieressä sinä istut?",
+              "en": "Who are you sitting next to?"
+            }
+          ]
+        },
+        {
+          "heading": "With pronouns",
+          "body": "Use the genitive pronoun, often with a possessive suffix in written Finnish: *minun vieressäni* (next to me), *sinun takanasi* (behind you), *hänen edessään* (in front of him/her). In speech: *mun vieressä*."
+        },
+        {
+          "heading": "Prepositions (before the noun)",
+          "body": "A few words come *before* the noun and take the **partitive**: **ennen** (before) — *ennen joulua*; **ilman** (without) — *ilman sokeria*; **keskellä** can be both — *keskellä päivää*. **Kanssa** (with) is a postposition with the genitive: *ystävän kanssa*."
+        }
+      ],
+      "related": [
+        "genitive",
+        "local-cases"
+      ],
+      "practice": [
+        {
+          "label": "Postposition drill",
+          "to": "/practice/course/drill-postpositions"
+        }
+      ]
+    }
+  ]
+}

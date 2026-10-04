@@ -1,0 +1,227 @@
+{
+  "source": "term-2026-winter/Lesson 9 (9.3.2026)/1772528204667.jpg",
+  "md5": "57b56aed6b9f1ce5e682293c5effd0b4",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 9,
+    "date": "2026-03-09"
+  },
+  "kind": "grammar",
+  "title": {
+    "fi": "k-p-t-vaihtelu",
+    "en": "Consonant gradation (k-p-t)"
+  },
+  "topics": [
+    "kpt-nouns"
+  ],
+  "summary": "Grammar box on consonant gradation in nouns: strong → weak pairs (kk→k, pp→p, tt→t, k→–, p→v, t→d, nk→ng, nt→nn, mp→mm, lt→ll, rt→rr) with examples, plus exceptions (sk, st, tk; words ending in two vowels).",
+  "transcript": "k-p-t-vaihtelu\nvahva  heikko\nkk  k  Afrikka → Afrikasta\npp  p  Eurooppa → Euroopassa\ntt  t  konsertti → konsertin\nk  –  Turku → Turussa\np  v  kylpy → kylvyssä\nt  d  katu → kadulla\nnk  ng  Helsinki → Helsingissä\nnt  nn  Irlanti → Irlannin\nmp  mm  kampa → kammalla\nlt  ll  ilta → illalla\nrt  rr  parta → parran\n– Ei k-p-t-vaihtelua: sk, st, tk\n– Ei k-p-t-vaihtelua: 2 vokaalia lopussa\n(vapaa → vapaassa, keittiö → keittiössä)",
+  "grammar_notes": [
+    {
+      "topic": "kpt-nouns",
+      "heading": "k-p-t-vaihtelu (vahva → heikko)",
+      "text": "Strong grade in the basic form, weak grade in many case forms. No gradation: sk, st, tk; no gradation when the word ends in 2 vowels (vapaa → vapaassa, keittiö → keittiössä).",
+      "table": [
+        [
+          "vahva",
+          "heikko",
+          "esimerkki",
+          ""
+        ],
+        [
+          "kk",
+          "k",
+          "Afrikka",
+          "Afrikasta"
+        ],
+        [
+          "pp",
+          "p",
+          "Eurooppa",
+          "Euroopassa"
+        ],
+        [
+          "tt",
+          "t",
+          "konsertti",
+          "konsertin"
+        ],
+        [
+          "k",
+          "–",
+          "Turku",
+          "Turussa"
+        ],
+        [
+          "p",
+          "v",
+          "kylpy",
+          "kylvyssä"
+        ],
+        [
+          "t",
+          "d",
+          "katu",
+          "kadulla"
+        ],
+        [
+          "nk",
+          "ng",
+          "Helsinki",
+          "Helsingissä"
+        ],
+        [
+          "nt",
+          "nn",
+          "Irlanti",
+          "Irlannin"
+        ],
+        [
+          "mp",
+          "mm",
+          "kampa",
+          "kammalla"
+        ],
+        [
+          "lt",
+          "ll",
+          "ilta",
+          "illalla"
+        ],
+        [
+          "rt",
+          "rr",
+          "parta",
+          "parran"
+        ]
+      ]
+    }
+  ],
+  "words": [
+    {
+      "fi": "Afrikka",
+      "en": "Africa",
+      "pos": "proper",
+      "note": "kk → k: Afrikasta",
+      "theme": "travel"
+    },
+    {
+      "fi": "Eurooppa",
+      "en": "Europe",
+      "pos": "proper",
+      "note": "pp → p: Euroopassa",
+      "theme": "travel"
+    },
+    {
+      "fi": "konsertti",
+      "en": "concert",
+      "pos": "noun",
+      "note": "tt → t: konsertin",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "Turku",
+      "en": "Turku",
+      "pos": "proper",
+      "note": "k → –: Turussa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "kylpy",
+      "en": "bath",
+      "pos": "noun",
+      "note": "p → v: kylvyssä",
+      "theme": "home"
+    },
+    {
+      "fi": "katu",
+      "en": "street",
+      "pos": "noun",
+      "note": "t → d: kadulla",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Helsinki",
+      "en": "Helsinki",
+      "pos": "proper",
+      "note": "nk → ng: Helsingissä",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Irlanti",
+      "en": "Ireland",
+      "pos": "proper",
+      "note": "nt → nn: Irlannin",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "kampa",
+      "en": "comb",
+      "pos": "noun",
+      "note": "mp → mm: kammalla",
+      "theme": "household"
+    },
+    {
+      "fi": "ilta",
+      "en": "evening",
+      "pos": "noun",
+      "note": "lt → ll: illalla",
+      "theme": "days-time"
+    },
+    {
+      "fi": "parta",
+      "en": "beard",
+      "pos": "noun",
+      "note": "rt → rr: parran",
+      "theme": "appearance"
+    },
+    {
+      "fi": "vapaa",
+      "en": "free",
+      "pos": "adj",
+      "note": "no gradation: vapaassa",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "keittiö",
+      "en": "kitchen",
+      "pos": "noun",
+      "note": "no gradation: keittiössä",
+      "theme": "home"
+    },
+    {
+      "fi": "vahva",
+      "en": "strong",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "heikko",
+      "en": "weak",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "vaihtelu",
+      "en": "alternation, variation",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "vokaali",
+      "en": "vowel",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "loppu",
+      "en": "end",
+      "pos": "noun",
+      "form_seen": "lopussa",
+      "theme": "other"
+    }
+  ],
+  "texts": [],
+  "exercises": []
+}

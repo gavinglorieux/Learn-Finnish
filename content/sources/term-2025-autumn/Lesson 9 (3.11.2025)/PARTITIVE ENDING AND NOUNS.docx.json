@@ -1,0 +1,437 @@
+{
+  "source": "term-2025-autumn/Lesson 9 (3.11.2025)/PARTITIVE ENDING AND NOUNS.docx",
+  "md5": "318490e95a0028f92e34f8573c4c2c94",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 9,
+    "date": "2025-11-03"
+  },
+  "kind": "grammar",
+  "title": {
+    "fi": "PARTITIVE ENDING AND NOUNS",
+    "en": "Partitive ending and nouns"
+  },
+  "topics": [
+    "partitive",
+    "numbers",
+    "adjectives"
+  ],
+  "summary": "Grammar sheet on forming the partitive singular of nouns after numbers (five rules by word ending), adjective agreement, and partitive after monta/pari/paljon.",
+  "transcript": "PARTITIVE ENDING AND NOUNS\n\n1) words ending in a single vowel (except vowel E): add -A/-Ä: kalja > kaksi kaljaa, tyttö > kaksi tyttöä, talo > kaksi taloa, koti > kaksi kotia\n\n2) words ending in E: add –TTA/-TTÄ: huone > kaksi huonetta, liite > kolme liitettä, vene > neljä venettä\n\n3) words ending in two vowels or a consonant: add -TA/-TÄ: puu > kolme puuta, tie > viisi tietä, vyö > kolme vyötä, museo > kaksi museota avain > kolme avainta, lammas > kaksi lammasta, olut > kuusi olutta\n\n4) words ending in -NEN: the –NEN will change into -STA/-STÄ: ihminen > kuusi ihmistä, nainen > viisi naista, lautanen > kaksi lautasta\n\n5) foreign names or words ending in consonant: add -IA/-IÄ: burger > kaksi burgeria, kebab > kolme kebabia, denier > 10 denieriä\n\nWith the foreign words and names, though, the rules seem to get bent on occasion: humus > humusta\n\nMUISTA! If the headword (the noun) takes the partitive ending, you must also add the partitive ending to all the adjectives that come before the noun and refer directly to it:\n\nvalkoinen koira (a white dog) > kaksi valkoista koiraa suomalainen mies > kuusi suomalaista miestä iso huone > kolme isoa huonetta\n\nALSO words ”monta” (many), pari (a couple) ja ”paljon” (a lot of) are followed by partitive: Minulla on monta siskoa = I have many sisters. Täällä on pari vapaata tuolia = Here are a couple of free chairs. Syötkö sinä paljon lihaa? = Do you eat a lot of meat?",
+  "words": [
+    {
+      "fi": "kalja",
+      "en": "beer (colloquial)",
+      "pos": "noun",
+      "form_seen": "kaljaa",
+      "theme": "drinks"
+    },
+    {
+      "fi": "tyttö",
+      "en": "girl",
+      "pos": "noun",
+      "form_seen": "tyttöä",
+      "theme": "people"
+    },
+    {
+      "fi": "talo",
+      "en": "house",
+      "pos": "noun",
+      "form_seen": "taloa",
+      "theme": "home"
+    },
+    {
+      "fi": "koti",
+      "en": "home",
+      "pos": "noun",
+      "form_seen": "kotia",
+      "theme": "home"
+    },
+    {
+      "fi": "huone",
+      "en": "room",
+      "pos": "noun",
+      "form_seen": "huonetta",
+      "theme": "home"
+    },
+    {
+      "fi": "liite",
+      "en": "attachment, appendix",
+      "pos": "noun",
+      "form_seen": "liitettä",
+      "theme": "school-work"
+    },
+    {
+      "fi": "vene",
+      "en": "boat",
+      "pos": "noun",
+      "form_seen": "venettä",
+      "theme": "transport"
+    },
+    {
+      "fi": "puu",
+      "en": "tree; wood",
+      "pos": "noun",
+      "form_seen": "puuta",
+      "theme": "nature"
+    },
+    {
+      "fi": "tie",
+      "en": "road",
+      "pos": "noun",
+      "form_seen": "tietä",
+      "theme": "places-town"
+    },
+    {
+      "fi": "vyö",
+      "en": "belt",
+      "pos": "noun",
+      "form_seen": "vyötä",
+      "theme": "clothes"
+    },
+    {
+      "fi": "museo",
+      "en": "museum",
+      "pos": "noun",
+      "form_seen": "museota",
+      "theme": "places-town"
+    },
+    {
+      "fi": "avain",
+      "en": "key",
+      "pos": "noun",
+      "form_seen": "avainta",
+      "theme": "household"
+    },
+    {
+      "fi": "lammas",
+      "en": "sheep",
+      "pos": "noun",
+      "form_seen": "lammasta",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "olut",
+      "en": "beer",
+      "pos": "noun",
+      "form_seen": "olutta",
+      "theme": "drinks"
+    },
+    {
+      "fi": "ihminen",
+      "en": "person, human being",
+      "pos": "noun",
+      "form_seen": "ihmistä",
+      "theme": "people"
+    },
+    {
+      "fi": "nainen",
+      "en": "woman",
+      "pos": "noun",
+      "form_seen": "naista",
+      "theme": "people"
+    },
+    {
+      "fi": "lautanen",
+      "en": "plate",
+      "pos": "noun",
+      "form_seen": "lautasta",
+      "theme": "tableware"
+    },
+    {
+      "fi": "burger",
+      "en": "burger",
+      "pos": "noun",
+      "form_seen": "burgeria",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kebab",
+      "en": "kebab",
+      "pos": "noun",
+      "form_seen": "kebabia",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "denier",
+      "en": "denier (tights thickness)",
+      "pos": "noun",
+      "form_seen": "denieriä",
+      "theme": "clothes"
+    },
+    {
+      "fi": "humus",
+      "en": "hummus",
+      "pos": "noun",
+      "form_seen": "humusta",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "valkoinen",
+      "en": "white",
+      "pos": "adj",
+      "form_seen": "valkoista",
+      "theme": "colours"
+    },
+    {
+      "fi": "koira",
+      "en": "dog",
+      "pos": "noun",
+      "form_seen": "koiraa",
+      "theme": "animals"
+    },
+    {
+      "fi": "suomalainen",
+      "en": "Finnish; a Finn",
+      "pos": "adj",
+      "form_seen": "suomalaista",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "mies",
+      "en": "man",
+      "pos": "noun",
+      "form_seen": "miestä",
+      "theme": "people"
+    },
+    {
+      "fi": "iso",
+      "en": "big",
+      "pos": "adj",
+      "form_seen": "isoa",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "monta",
+      "en": "many (+ partitive)",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "pari",
+      "en": "a couple (of) (+ partitive)",
+      "pos": "noun",
+      "theme": "numbers"
+    },
+    {
+      "fi": "paljon",
+      "en": "a lot (of) (+ partitive)",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "sisko",
+      "en": "sister",
+      "pos": "noun",
+      "form_seen": "siskoa",
+      "theme": "family"
+    },
+    {
+      "fi": "täällä",
+      "en": "here",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "vapaa",
+      "en": "free, vacant",
+      "pos": "adj",
+      "form_seen": "vapaata",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "tuoli",
+      "en": "chair",
+      "pos": "noun",
+      "form_seen": "tuolia",
+      "theme": "furniture"
+    },
+    {
+      "fi": "syödä",
+      "en": "to eat",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "syötkö",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "liha",
+      "en": "meat",
+      "pos": "noun",
+      "form_seen": "lihaa",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "olla",
+      "en": "to be; (minulla on) to have",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "on",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kaksi",
+      "en": "two",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kolme",
+      "en": "three",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "neljä",
+      "en": "four",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "viisi",
+      "en": "five",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kuusi",
+      "en": "six",
+      "pos": "num",
+      "theme": "numbers"
+    }
+  ],
+  "texts": [],
+  "exercises": [],
+  "grammar_notes": [
+    {
+      "topic": "partitive",
+      "heading": "Partitive ending and nouns",
+      "text": "1) Words ending in a single vowel (except E): add -A/-Ä. 2) Words ending in E: add -TTA/-TTÄ. 3) Words ending in two vowels or a consonant: add -TA/-TÄ. 4) Words ending in -NEN: -NEN changes to -STA/-STÄ. 5) Foreign names/words ending in a consonant: add -IA/-IÄ (rules sometimes bent: humus > humusta).",
+      "table": [
+        [
+          "kalja",
+          "kaksi kaljaa"
+        ],
+        [
+          "tyttö",
+          "kaksi tyttöä"
+        ],
+        [
+          "talo",
+          "kaksi taloa"
+        ],
+        [
+          "koti",
+          "kaksi kotia"
+        ],
+        [
+          "huone",
+          "kaksi huonetta"
+        ],
+        [
+          "liite",
+          "kolme liitettä"
+        ],
+        [
+          "vene",
+          "neljä venettä"
+        ],
+        [
+          "puu",
+          "kolme puuta"
+        ],
+        [
+          "tie",
+          "viisi tietä"
+        ],
+        [
+          "vyö",
+          "kolme vyötä"
+        ],
+        [
+          "museo",
+          "kaksi museota"
+        ],
+        [
+          "avain",
+          "kolme avainta"
+        ],
+        [
+          "lammas",
+          "kaksi lammasta"
+        ],
+        [
+          "olut",
+          "kuusi olutta"
+        ],
+        [
+          "ihminen",
+          "kuusi ihmistä"
+        ],
+        [
+          "nainen",
+          "viisi naista"
+        ],
+        [
+          "lautanen",
+          "kaksi lautasta"
+        ],
+        [
+          "burger",
+          "kaksi burgeria"
+        ],
+        [
+          "kebab",
+          "kolme kebabia"
+        ],
+        [
+          "denier",
+          "10 denieriä"
+        ],
+        [
+          "humus",
+          "humusta"
+        ]
+      ]
+    },
+    {
+      "topic": "partitive",
+      "heading": "MUISTA! Adjectives agree",
+      "text": "If the noun takes the partitive ending, all adjectives before it that refer to it also take the partitive ending.",
+      "table": [
+        [
+          "valkoinen koira",
+          "kaksi valkoista koiraa"
+        ],
+        [
+          "suomalainen mies",
+          "kuusi suomalaista miestä"
+        ],
+        [
+          "iso huone",
+          "kolme isoa huonetta"
+        ]
+      ]
+    },
+    {
+      "topic": "partitive",
+      "heading": "monta, pari, paljon + partitive",
+      "text": "The words monta (many), pari (a couple) and paljon (a lot of) are followed by the partitive.",
+      "table": [
+        [
+          "Minulla on monta siskoa.",
+          "I have many sisters."
+        ],
+        [
+          "Täällä on pari vapaata tuolia.",
+          "Here are a couple of free chairs."
+        ],
+        [
+          "Syötkö sinä paljon lihaa?",
+          "Do you eat a lot of meat?"
+        ]
+      ]
+    }
+  ]
+}

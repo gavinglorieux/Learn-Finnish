@@ -1,0 +1,291 @@
+{
+  "source": "term-2025-autumn/Lesson 3 (15.9.2025)/1757394123615.jpg",
+  "md5": "3372fe7500a015151acbe25b29af4344",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 3,
+    "date": "2025-09-15"
+  },
+  "kind": "grammar",
+  "title": {
+    "fi": "Genetiivi",
+    "en": "The genitive case"
+  },
+  "topics": [
+    "genitive",
+    "possessive",
+    "pronouns",
+    "kpt-nouns",
+    "question-words"
+  ],
+  "summary": "Grammar box on the genitive (-n): Kuka? → Kenen?, Mikä? → Minkä? with examples (incl. consonant gradation Helsinki → Helsingin), and the genitive of personal pronouns with possessive suffixes (-ni, -si, -nsa, -mme, -nne, -nsa).",
+  "transcript": "Genetiivi n\nKuka?            Kenen?\nPedro            Pedron              Pedron tyttöystävä\nAlex             Alexin              Alexin kotimaa\nkiva opettaja    kivan opettajan     kivan opettajan nimi\n\nMikä?            Minkä?\nHelsinki         Helsingin           Helsingin sää\npitkä kurssi     pitkän kurssin      pitkän kurssin opettaja\n\nPersoonapronominit\nKuka?   Kenen?\nminä    minun     minun ystävä     =  (minun) ystäväni\nsinä    sinun     sinun kirja      =  (sinun) kirjasi\nhän     hänen     hänen auto       =  hänen autonsa\nme      meidän    meidän opettaja  =  (meidän) opettajamme\nte      teidän    teidän kotimaa   =  (teidän) kotimaanne\nhe      heidän    heidän kurssi    =  heidän kurssinsa",
+  "words": [
+    {
+      "fi": "genetiivi",
+      "en": "genitive",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "kuka",
+      "en": "who",
+      "pos": "question",
+      "forms": {
+        "genitive": "kenen"
+      },
+      "theme": "question-words"
+    },
+    {
+      "fi": "kenen",
+      "en": "whose",
+      "pos": "question",
+      "note": "genitive of kuka",
+      "theme": "question-words"
+    },
+    {
+      "fi": "mikä",
+      "en": "what",
+      "pos": "question",
+      "forms": {
+        "genitive": "minkä"
+      },
+      "theme": "question-words"
+    },
+    {
+      "fi": "minkä",
+      "en": "of what, which (genitive)",
+      "pos": "question",
+      "note": "genitive of mikä",
+      "theme": "question-words"
+    },
+    {
+      "fi": "tyttöystävä",
+      "en": "girlfriend",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "kotimaa",
+      "en": "home country",
+      "pos": "noun",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "kiva",
+      "en": "nice",
+      "pos": "adj",
+      "form_seen": "kivan",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "opettaja",
+      "en": "teacher",
+      "pos": "noun",
+      "forms": {
+        "genitive": "opettajan"
+      },
+      "theme": "professions"
+    },
+    {
+      "fi": "nimi",
+      "en": "name",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "Helsinki",
+      "en": "Helsinki",
+      "pos": "proper",
+      "forms": {
+        "genitive": "Helsingin"
+      },
+      "note": "nk → ng",
+      "theme": "places-town"
+    },
+    {
+      "fi": "sää",
+      "en": "weather",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "pitkä",
+      "en": "long",
+      "pos": "adj",
+      "form_seen": "pitkän",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "kurssi",
+      "en": "course",
+      "pos": "noun",
+      "forms": {
+        "genitive": "kurssin"
+      },
+      "theme": "school-work"
+    },
+    {
+      "fi": "persoonapronomini",
+      "en": "personal pronoun",
+      "pos": "noun",
+      "form_seen": "persoonapronominit",
+      "theme": "other"
+    },
+    {
+      "fi": "minä",
+      "en": "I",
+      "pos": "pron",
+      "forms": {
+        "genitive": "minun"
+      },
+      "theme": "people"
+    },
+    {
+      "fi": "sinä",
+      "en": "you (singular)",
+      "pos": "pron",
+      "forms": {
+        "genitive": "sinun"
+      },
+      "theme": "people"
+    },
+    {
+      "fi": "hän",
+      "en": "he, she",
+      "pos": "pron",
+      "forms": {
+        "genitive": "hänen"
+      },
+      "theme": "people"
+    },
+    {
+      "fi": "me",
+      "en": "we",
+      "pos": "pron",
+      "forms": {
+        "genitive": "meidän"
+      },
+      "theme": "people"
+    },
+    {
+      "fi": "te",
+      "en": "you (plural)",
+      "pos": "pron",
+      "forms": {
+        "genitive": "teidän"
+      },
+      "theme": "people"
+    },
+    {
+      "fi": "he",
+      "en": "they",
+      "pos": "pron",
+      "forms": {
+        "genitive": "heidän"
+      },
+      "theme": "people"
+    },
+    {
+      "fi": "ystävä",
+      "en": "friend",
+      "pos": "noun",
+      "form_seen": "ystäväni",
+      "theme": "people"
+    },
+    {
+      "fi": "kirja",
+      "en": "book",
+      "pos": "noun",
+      "form_seen": "kirjasi",
+      "theme": "classroom"
+    },
+    {
+      "fi": "auto",
+      "en": "car",
+      "pos": "noun",
+      "form_seen": "autonsa",
+      "theme": "transport"
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "genitive",
+      "heading": "Genetiivi n — Kenen? Minkä?",
+      "text": "The genitive ending is -n; it shows possession. Adjective and noun both take -n (kivan opettajan nimi). Consonant-stem names add -in (Alex → Alexin). Strong/weak gradation applies: Helsinki → Helsingin (nk → ng).",
+      "table": [
+        [
+          "Pedro",
+          "Pedron",
+          "Pedron tyttöystävä"
+        ],
+        [
+          "Alex",
+          "Alexin",
+          "Alexin kotimaa"
+        ],
+        [
+          "kiva opettaja",
+          "kivan opettajan",
+          "kivan opettajan nimi"
+        ],
+        [
+          "Helsinki",
+          "Helsingin",
+          "Helsingin sää"
+        ],
+        [
+          "pitkä kurssi",
+          "pitkän kurssin",
+          "pitkän kurssin opettaja"
+        ]
+      ]
+    },
+    {
+      "topic": "possessive",
+      "heading": "Persoonapronominit — genitive + possessive suffix",
+      "text": "The pronoun in the genitive + possessive suffix on the noun. With minä, sinä, me, te the pronoun can be dropped (in brackets); with hän and he it must stay.",
+      "table": [
+        [
+          "minä",
+          "minun",
+          "minun ystävä",
+          "(minun) ystäväni"
+        ],
+        [
+          "sinä",
+          "sinun",
+          "sinun kirja",
+          "(sinun) kirjasi"
+        ],
+        [
+          "hän",
+          "hänen",
+          "hänen auto",
+          "hänen autonsa"
+        ],
+        [
+          "me",
+          "meidän",
+          "meidän opettaja",
+          "(meidän) opettajamme"
+        ],
+        [
+          "te",
+          "teidän",
+          "teidän kotimaa",
+          "(teidän) kotimaanne"
+        ],
+        [
+          "he",
+          "heidän",
+          "heidän kurssi",
+          "heidän kurssinsa"
+        ]
+      ]
+    }
+  ],
+  "texts": [],
+  "exercises": []
+}

@@ -1,0 +1,403 @@
+{
+  "source": "term-2026-spring/Lesson 2 (27.4.2026)/1776150796743.jpg",
+  "md5": "ca9e565648993f26bb5c6d65ab30dc9c",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 2,
+    "date": "2026-04-27"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "Harjoitus 18. K-p-t-vaihtelu. Kirjoita verbin persoonat.",
+    "en": "Exercise 18. K-p-t gradation. Write the persons of the verb."
+  },
+  "topics": [
+    "kpt-verbs",
+    "verb-type-1"
+  ],
+  "summary": "Conjugation table: nukkua is given as a model (weak grade in minä/sinä/me/te, strong in hän/he); conjugate antaa, leipoa, lukea, ymmärtää and pitää in all six persons.",
+  "transcript": "Harjoitus 18. K-p-t-vaihtelu. Kirjoita verbin persoonat.\n\nNUKKUA          ANTAA     LEIPOA\nminä nukun      ____      ____\nsinä nukut      ____      ____\nhän nukkuu      ____      ____\nme nukumme      ____      ____\nte nukutte      ____      ____\nhe nukkuvat     ____      ____\n\nLUKEA     YMMÄRTÄÄ     PITÄÄ\n____      ____         ____\n(6 blank lines per verb)\n\n(In the model, the k/kk letters of nukkua are printed in bold.)",
+  "words": [
+    {
+      "fi": "nukkua",
+      "en": "to sleep",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "daily-routine",
+      "forms": {
+        "minä": "nukun",
+        "sinä": "nukut",
+        "hän": "nukkuu",
+        "me": "nukumme",
+        "te": "nukutte",
+        "he": "nukkuvat"
+      },
+      "note": "kk → k"
+    },
+    {
+      "fi": "antaa",
+      "en": "to give",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "minä": "annan",
+        "sinä": "annat",
+        "hän": "antaa",
+        "me": "annamme",
+        "te": "annatte",
+        "he": "antavat"
+      },
+      "note": "nt → nn"
+    },
+    {
+      "fi": "leipoa",
+      "en": "to bake",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "household",
+      "forms": {
+        "minä": "leivon",
+        "sinä": "leivot",
+        "hän": "leipoo",
+        "me": "leivomme",
+        "te": "leivotte",
+        "he": "leipovat"
+      },
+      "note": "p → v"
+    },
+    {
+      "fi": "lukea",
+      "en": "to read",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "school-work",
+      "forms": {
+        "minä": "luen",
+        "sinä": "luet",
+        "hän": "lukee",
+        "me": "luemme",
+        "te": "luette",
+        "he": "lukevat"
+      },
+      "note": "k → ∅"
+    },
+    {
+      "fi": "ymmärtää",
+      "en": "to understand",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "school-work",
+      "forms": {
+        "minä": "ymmärrän",
+        "sinä": "ymmärrät",
+        "hän": "ymmärtää",
+        "me": "ymmärrämme",
+        "te": "ymmärrätte",
+        "he": "ymmärtävät"
+      },
+      "note": "rt → rr"
+    },
+    {
+      "fi": "pitää",
+      "en": "to like (+ elative); to hold, to keep",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "minä": "pidän",
+        "sinä": "pidät",
+        "hän": "pitää",
+        "me": "pidämme",
+        "te": "pidätte",
+        "he": "pitävät"
+      },
+      "note": "t → d"
+    },
+    {
+      "fi": "persoona",
+      "en": "person (grammar)",
+      "pos": "noun",
+      "theme": "classroom",
+      "form_seen": "persoonat"
+    },
+    {
+      "fi": "verbi",
+      "en": "verb",
+      "pos": "noun",
+      "theme": "classroom",
+      "form_seen": "verbin"
+    },
+    {
+      "fi": "kirjoittaa",
+      "en": "to write",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "school-work",
+      "form_seen": "kirjoita"
+    },
+    {
+      "fi": "k-p-t-vaihtelu",
+      "en": "k-p-t (consonant) gradation",
+      "pos": "noun",
+      "theme": "classroom"
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Harjoitus 18. K-p-t-vaihtelu — ANTAA",
+      "instruction": "K-p-t gradation. Write the persons of the verb.",
+      "topic": "kpt-verbs",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "minä ____",
+          "base": "antaa",
+          "answer": "annan",
+          "en": "I give"
+        },
+        {
+          "prompt": "sinä ____",
+          "base": "antaa",
+          "answer": "annat",
+          "en": "you (sg.) give"
+        },
+        {
+          "prompt": "hän ____",
+          "base": "antaa",
+          "answer": "antaa",
+          "en": "he/she give"
+        },
+        {
+          "prompt": "me ____",
+          "base": "antaa",
+          "answer": "annamme",
+          "en": "we give"
+        },
+        {
+          "prompt": "te ____",
+          "base": "antaa",
+          "answer": "annatte",
+          "en": "you (pl.) give"
+        },
+        {
+          "prompt": "he ____",
+          "base": "antaa",
+          "answer": "antavat",
+          "en": "they give"
+        }
+      ]
+    },
+    {
+      "title": "Harjoitus 18. K-p-t-vaihtelu — LEIPOA",
+      "instruction": "K-p-t gradation. Write the persons of the verb.",
+      "topic": "kpt-verbs",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "minä ____",
+          "base": "leipoa",
+          "answer": "leivon",
+          "en": "I bake"
+        },
+        {
+          "prompt": "sinä ____",
+          "base": "leipoa",
+          "answer": "leivot",
+          "en": "you (sg.) bake"
+        },
+        {
+          "prompt": "hän ____",
+          "base": "leipoa",
+          "answer": "leipoo",
+          "en": "he/she bake"
+        },
+        {
+          "prompt": "me ____",
+          "base": "leipoa",
+          "answer": "leivomme",
+          "en": "we bake"
+        },
+        {
+          "prompt": "te ____",
+          "base": "leipoa",
+          "answer": "leivotte",
+          "en": "you (pl.) bake"
+        },
+        {
+          "prompt": "he ____",
+          "base": "leipoa",
+          "answer": "leipovat",
+          "en": "they bake"
+        }
+      ]
+    },
+    {
+      "title": "Harjoitus 18. K-p-t-vaihtelu — LUKEA",
+      "instruction": "K-p-t gradation. Write the persons of the verb.",
+      "topic": "kpt-verbs",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "minä ____",
+          "base": "lukea",
+          "answer": "luen",
+          "en": "I read"
+        },
+        {
+          "prompt": "sinä ____",
+          "base": "lukea",
+          "answer": "luet",
+          "en": "you (sg.) read"
+        },
+        {
+          "prompt": "hän ____",
+          "base": "lukea",
+          "answer": "lukee",
+          "en": "he/she read"
+        },
+        {
+          "prompt": "me ____",
+          "base": "lukea",
+          "answer": "luemme",
+          "en": "we read"
+        },
+        {
+          "prompt": "te ____",
+          "base": "lukea",
+          "answer": "luette",
+          "en": "you (pl.) read"
+        },
+        {
+          "prompt": "he ____",
+          "base": "lukea",
+          "answer": "lukevat",
+          "en": "they read"
+        }
+      ]
+    },
+    {
+      "title": "Harjoitus 18. K-p-t-vaihtelu — YMMÄRTÄÄ",
+      "instruction": "K-p-t gradation. Write the persons of the verb.",
+      "topic": "kpt-verbs",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "minä ____",
+          "base": "ymmärtää",
+          "answer": "ymmärrän",
+          "en": "I understand"
+        },
+        {
+          "prompt": "sinä ____",
+          "base": "ymmärtää",
+          "answer": "ymmärrät",
+          "en": "you (sg.) understand"
+        },
+        {
+          "prompt": "hän ____",
+          "base": "ymmärtää",
+          "answer": "ymmärtää",
+          "en": "he/she understand"
+        },
+        {
+          "prompt": "me ____",
+          "base": "ymmärtää",
+          "answer": "ymmärrämme",
+          "en": "we understand"
+        },
+        {
+          "prompt": "te ____",
+          "base": "ymmärtää",
+          "answer": "ymmärrätte",
+          "en": "you (pl.) understand"
+        },
+        {
+          "prompt": "he ____",
+          "base": "ymmärtää",
+          "answer": "ymmärtävät",
+          "en": "they understand"
+        }
+      ]
+    },
+    {
+      "title": "Harjoitus 18. K-p-t-vaihtelu — PITÄÄ",
+      "instruction": "K-p-t gradation. Write the persons of the verb.",
+      "topic": "kpt-verbs",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "minä ____",
+          "base": "pitää",
+          "answer": "pidän",
+          "en": "I like"
+        },
+        {
+          "prompt": "sinä ____",
+          "base": "pitää",
+          "answer": "pidät",
+          "en": "you (sg.) like"
+        },
+        {
+          "prompt": "hän ____",
+          "base": "pitää",
+          "answer": "pitää",
+          "en": "he/she like"
+        },
+        {
+          "prompt": "me ____",
+          "base": "pitää",
+          "answer": "pidämme",
+          "en": "we like"
+        },
+        {
+          "prompt": "te ____",
+          "base": "pitää",
+          "answer": "pidätte",
+          "en": "you (pl.) like"
+        },
+        {
+          "prompt": "he ____",
+          "base": "pitää",
+          "answer": "pitävät",
+          "en": "they like"
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "kpt-verbs",
+      "heading": "NUKKUA — model conjugation",
+      "text": "Strong grade kk in hän and he forms; weak grade k in minä, sinä, me, te (bolded on the sheet).",
+      "table": [
+        [
+          "minä",
+          "nukun"
+        ],
+        [
+          "sinä",
+          "nukut"
+        ],
+        [
+          "hän",
+          "nukkuu"
+        ],
+        [
+          "me",
+          "nukumme"
+        ],
+        [
+          "te",
+          "nukutte"
+        ],
+        [
+          "he",
+          "nukkuvat"
+        ]
+      ]
+    }
+  ],
+  "texts": []
+}

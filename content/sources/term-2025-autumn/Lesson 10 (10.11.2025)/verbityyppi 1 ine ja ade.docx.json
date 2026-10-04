@@ -1,0 +1,440 @@
+{
+  "source": "term-2025-autumn/Lesson 10 (10.11.2025)/verbityyppi 1 ine ja ade.docx",
+  "md5": "3a3ae0522967ac43e87499bdbd53a22e",
+  "also_in": [
+    "term-2025-autumn/Lesson 11 (17.11.2025)/verbityyppi 1 ine ja ade.docx"
+  ],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 10,
+    "date": "2025-11-10"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "VERBITYYPPI 1: Mitä he tekevät ja missä?",
+    "en": "Verb type 1: what do they do and where?"
+  },
+  "topics": [
+    "verb-type-1",
+    "inner-local-cases",
+    "outer-local-cases",
+    "question-words"
+  ],
+  "summary": "15 'What do you do at/in ...?' questions with places in the inessive/adessive, answered with verb type 1 phrases from a word bank (valmistaa ruokaa, nostaa painoja, etc.).",
+  "transcript": "VERBITYYPPI 1: Mitä he tekevät ja missä?\n\n1.  Mitä sinä teet kirkossa? (church)\n\n2.  Mitä sinä teet kaupassa? (shop)\n\n3.  Mitä sinä teet kassalla? (till, check-out)\n\n4.  Mitä sinä teet diskossa?\n\n5.  Mitä sinä teet tietokoneella? (computer)\n\n6.  Mitä sinä teet toimistossa? (office)\n\n7.  Mitä sinä teet torilla? (market square)\n\n8.  Mitä Jukka ja Paula tekevät postissa? (post office)\n\n9.  Mitä sinä teet kuntosalilla? (gym)\n\n10. Mitä Jukka ja Paula tekevät lentoasemalla? (airport)\n\n11. Mitä he tekevät teatterissa? (theatre)\n\n12. Mitä sinä teet olohuoneessa? (living room)\n\n13. Mitä sinä teet keittiössä? (kitchen)\n\n14. Mitä lapset tekevät makuuhuoneessa? (bedroom)\n\n15. Mitä heidän vanhemmat tekevät pankissa? (bank)\n\nvalmistaa ruokaa= to prepare food; katsoa näytelmää= to watch a play; lähettää kaksi pakettia= to send two parcels; katsoa televisiota= to watch TV; tanssia= to dance; laulaa= to sing; kirjoittaa sähköpostia= to write an email; odottaa lähtöä= to wait for the departure; nostaa painoja= to lift weights; ostaa ruokaa= to buy food; istua kahvilla= to sit having coffee; maksaa= to pay; to speak with a colleague= puhua työkaverin kanssa; nukkua= to sleep; maksaa ostokset= to pay for the shopping; maksaa laskut= to pay the bills",
+  "words": [
+    {
+      "fi": "tehdä",
+      "en": "to do, to make",
+      "pos": "verb",
+      "verb_type": 2,
+      "forms": {
+        "sinä": "teet",
+        "he": "tekevät"
+      },
+      "form_seen": "teet",
+      "theme": "common-verbs",
+      "note": "irregular"
+    },
+    {
+      "fi": "mitä",
+      "en": "what",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "missä",
+      "en": "where",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "kirkko",
+      "en": "church",
+      "pos": "noun",
+      "form_seen": "kirkossa",
+      "theme": "places-town",
+      "note": "kk → k"
+    },
+    {
+      "fi": "kauppa",
+      "en": "shop",
+      "pos": "noun",
+      "form_seen": "kaupassa",
+      "theme": "places-town",
+      "note": "pp → p"
+    },
+    {
+      "fi": "kassa",
+      "en": "till, check-out",
+      "pos": "noun",
+      "form_seen": "kassalla",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "disko",
+      "en": "disco",
+      "pos": "noun",
+      "form_seen": "diskossa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "tietokone",
+      "en": "computer",
+      "pos": "noun",
+      "form_seen": "tietokoneella",
+      "theme": "school-work"
+    },
+    {
+      "fi": "toimisto",
+      "en": "office",
+      "pos": "noun",
+      "form_seen": "toimistossa",
+      "theme": "school-work"
+    },
+    {
+      "fi": "tori",
+      "en": "market square",
+      "pos": "noun",
+      "form_seen": "torilla",
+      "theme": "places-town"
+    },
+    {
+      "fi": "posti",
+      "en": "post office",
+      "pos": "noun",
+      "form_seen": "postissa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "kuntosali",
+      "en": "gym",
+      "pos": "noun",
+      "form_seen": "kuntosalilla",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "lentoasema",
+      "en": "airport",
+      "pos": "noun",
+      "form_seen": "lentoasemalla",
+      "theme": "travel"
+    },
+    {
+      "fi": "teatteri",
+      "en": "theatre",
+      "pos": "noun",
+      "form_seen": "teatterissa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "olohuone",
+      "en": "living room",
+      "pos": "noun",
+      "form_seen": "olohuoneessa",
+      "theme": "home"
+    },
+    {
+      "fi": "keittiö",
+      "en": "kitchen",
+      "pos": "noun",
+      "form_seen": "keittiössä",
+      "theme": "home"
+    },
+    {
+      "fi": "lapsi",
+      "en": "child",
+      "pos": "noun",
+      "form_seen": "lapset",
+      "theme": "family"
+    },
+    {
+      "fi": "makuuhuone",
+      "en": "bedroom",
+      "pos": "noun",
+      "form_seen": "makuuhuoneessa",
+      "theme": "home"
+    },
+    {
+      "fi": "vanhemmat",
+      "en": "parents",
+      "pos": "noun",
+      "theme": "family",
+      "note": "plural"
+    },
+    {
+      "fi": "pankki",
+      "en": "bank",
+      "pos": "noun",
+      "form_seen": "pankissa",
+      "theme": "places-town",
+      "note": "kk → k"
+    },
+    {
+      "fi": "valmistaa",
+      "en": "to prepare",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "household"
+    },
+    {
+      "fi": "ruoka",
+      "en": "food",
+      "pos": "noun",
+      "form_seen": "ruokaa",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "katsoa",
+      "en": "to watch, to look at",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "näytelmä",
+      "en": "play (theatre)",
+      "pos": "noun",
+      "form_seen": "näytelmää",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "lähettää",
+      "en": "to send",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "tt → t: lähetän"
+    },
+    {
+      "fi": "paketti",
+      "en": "parcel, package",
+      "pos": "noun",
+      "form_seen": "pakettia",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "televisio",
+      "en": "television",
+      "pos": "noun",
+      "form_seen": "televisiota",
+      "theme": "home"
+    },
+    {
+      "fi": "tanssia",
+      "en": "to dance",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "laulaa",
+      "en": "to sing",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "kirjoittaa",
+      "en": "to write",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "tt → t: kirjoitan"
+    },
+    {
+      "fi": "sähköposti",
+      "en": "email",
+      "pos": "noun",
+      "form_seen": "sähköpostia",
+      "theme": "school-work"
+    },
+    {
+      "fi": "odottaa",
+      "en": "to wait (for)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "tt → t: odotan"
+    },
+    {
+      "fi": "lähtö",
+      "en": "departure",
+      "pos": "noun",
+      "form_seen": "lähtöä",
+      "theme": "travel"
+    },
+    {
+      "fi": "nostaa",
+      "en": "to lift",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "paino",
+      "en": "weight",
+      "pos": "noun",
+      "form_seen": "painoja",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "ostaa",
+      "en": "to buy",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "istua",
+      "en": "to sit",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kahvi",
+      "en": "coffee",
+      "pos": "noun",
+      "form_seen": "kahvilla",
+      "theme": "drinks",
+      "note": "istua kahvilla = to sit having coffee"
+    },
+    {
+      "fi": "maksaa",
+      "en": "to pay",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "puhua",
+      "en": "to speak, to talk",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "työkaveri",
+      "en": "colleague",
+      "pos": "noun",
+      "form_seen": "työkaverin kanssa",
+      "theme": "school-work"
+    },
+    {
+      "fi": "kanssa",
+      "en": "with",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "nukkua",
+      "en": "to sleep",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "daily-routine",
+      "note": "kk → k: nukun"
+    },
+    {
+      "fi": "ostos",
+      "en": "purchase; (ostokset) shopping",
+      "pos": "noun",
+      "form_seen": "ostokset",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "lasku",
+      "en": "bill",
+      "pos": "noun",
+      "form_seen": "laskut",
+      "theme": "shopping-money"
+    }
+  ],
+  "texts": [],
+  "exercises": [
+    {
+      "title": "Verbityyppi 1: Mitä he tekevät ja missä?",
+      "instruction": "Answer the question using a verb phrase from the list (verb type 1 conjugation; place in inessive -ssa/-ssä or adessive -lla/-llä).",
+      "topic": "verb-type-1",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "1. Mitä sinä teet kirkossa? ____",
+          "answer": "Minä laulan kirkossa.",
+          "en": "What do you do in church? – I sing in church."
+        },
+        {
+          "prompt": "2. Mitä sinä teet kaupassa? ____",
+          "answer": "Minä ostan ruokaa kaupassa.",
+          "en": "What do you do in the shop? – I buy food in the shop."
+        },
+        {
+          "prompt": "3. Mitä sinä teet kassalla? ____",
+          "answer": "Minä maksan ostokset kassalla.",
+          "en": "What do you do at the till? – I pay for the shopping at the till."
+        },
+        {
+          "prompt": "4. Mitä sinä teet diskossa? ____",
+          "answer": "Minä tanssin diskossa.",
+          "en": "What do you do at the disco? – I dance at the disco."
+        },
+        {
+          "prompt": "5. Mitä sinä teet tietokoneella? ____",
+          "answer": "Minä kirjoitan sähköpostia tietokoneella.",
+          "en": "What do you do on the computer? – I write an email on the computer."
+        },
+        {
+          "prompt": "6. Mitä sinä teet toimistossa? ____",
+          "answer": "Minä puhun työkaverin kanssa toimistossa.",
+          "en": "What do you do at the office? – I talk with a colleague at the office."
+        },
+        {
+          "prompt": "7. Mitä sinä teet torilla? ____",
+          "answer": "Minä istun kahvilla torilla.",
+          "en": "What do you do at the market square? – I sit having coffee at the market square."
+        },
+        {
+          "prompt": "8. Mitä Jukka ja Paula tekevät postissa? ____",
+          "answer": "He lähettävät kaksi pakettia postissa.",
+          "en": "What do Jukka and Paula do at the post office? – They send two parcels."
+        },
+        {
+          "prompt": "9. Mitä sinä teet kuntosalilla? ____",
+          "answer": "Minä nostan painoja kuntosalilla.",
+          "en": "What do you do at the gym? – I lift weights at the gym."
+        },
+        {
+          "prompt": "10. Mitä Jukka ja Paula tekevät lentoasemalla? ____",
+          "answer": "He odottavat lähtöä lentoasemalla.",
+          "en": "What do Jukka and Paula do at the airport? – They wait for the departure."
+        },
+        {
+          "prompt": "11. Mitä he tekevät teatterissa? ____",
+          "answer": "He katsovat näytelmää teatterissa.",
+          "en": "What do they do at the theatre? – They watch a play."
+        },
+        {
+          "prompt": "12. Mitä sinä teet olohuoneessa? ____",
+          "answer": "Minä katson televisiota olohuoneessa.",
+          "en": "What do you do in the living room? – I watch TV."
+        },
+        {
+          "prompt": "13. Mitä sinä teet keittiössä? ____",
+          "answer": "Minä valmistan ruokaa keittiössä.",
+          "en": "What do you do in the kitchen? – I prepare food."
+        },
+        {
+          "prompt": "14. Mitä lapset tekevät makuuhuoneessa? ____",
+          "answer": "Lapset nukkuvat makuuhuoneessa.",
+          "en": "What do the children do in the bedroom? – The children sleep."
+        },
+        {
+          "prompt": "15. Mitä heidän vanhemmat tekevät pankissa? ____",
+          "answer": "He maksavat laskut pankissa.",
+          "en": "What do their parents do at the bank? – They pay the bills at the bank."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": []
+}
