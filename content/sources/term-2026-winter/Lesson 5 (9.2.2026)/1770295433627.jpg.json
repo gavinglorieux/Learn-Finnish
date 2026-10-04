@@ -1,0 +1,231 @@
+{
+ "source": "term-2026-winter/Lesson 5 (9.2.2026)/1770295433627.jpg",
+ "md5": "3b21402a6a19157e956cf9b1dffa331f",
+ "also_in": [],
+ "lesson": {
+  "term": "term-2026-winter",
+  "number": 5,
+  "date": "2026-02-09"
+ },
+ "kind": "picture_vocab",
+ "title": {
+  "fi": "1.2. Missä? – Mistä? – Mihin? Minne?",
+  "en": "1.2. Where? – From where? – Where to?"
+ },
+ "topics": [
+  "outer-local-cases",
+  "local-cases",
+  "locative-verbs",
+  "question-words"
+ ],
+ "summary": "Picture grid (photographed sideways, phone screenshot) contrasting the outer local cases with four places: asema, tori, pysäkki, kioski — being there (-lla/-llä), coming/leaving from (-lta/-ltä) and going to (-lle).",
+ "transcript": "1.2.\nMISSÄ? – MISTÄ? – MIHIN? MINNE?\n\nMinä olen asemalla.   Minä tulen asemalta.   Minä menen asemalle.\nMinä olen torilla.   Minä tulen torilta.   Minä menen torille.\nHän on pysäkillä.   Hän lähtee pysäkiltä.   Hän menee pysäkille.\nHän on kioskilla.   Hän lähtee kioskilta.   Hän menee kioskille.",
+ "words": [
+  {
+   "fi": "missä",
+   "en": "where (at/in)",
+   "pos": "question",
+   "theme": "question-words"
+  },
+  {
+   "fi": "mistä",
+   "en": "where from",
+   "pos": "question",
+   "theme": "question-words"
+  },
+  {
+   "fi": "mihin",
+   "en": "where to",
+   "pos": "question",
+   "theme": "question-words"
+  },
+  {
+   "fi": "minne",
+   "en": "where to",
+   "pos": "question",
+   "theme": "question-words"
+  },
+  {
+   "fi": "minä",
+   "en": "I",
+   "pos": "pron",
+   "theme": "little-words"
+  },
+  {
+   "fi": "hän",
+   "en": "he, she",
+   "pos": "pron",
+   "theme": "little-words"
+  },
+  {
+   "fi": "olla",
+   "en": "to be",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "common-verbs",
+   "forms": {
+    "minä": "olen",
+    "hän": "on"
+   },
+   "form_seen": "olen / on"
+  },
+  {
+   "fi": "tulla",
+   "en": "to come",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "common-verbs",
+   "forms": {
+    "minä": "tulen"
+   },
+   "form_seen": "tulen"
+  },
+  {
+   "fi": "mennä",
+   "en": "to go",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "common-verbs",
+   "forms": {
+    "minä": "menen",
+    "hän": "menee"
+   },
+   "form_seen": "menen / menee"
+  },
+  {
+   "fi": "lähteä",
+   "en": "to leave, to set off",
+   "pos": "verb",
+   "verb_type": 1,
+   "theme": "common-verbs",
+   "forms": {
+    "hän": "lähtee"
+   },
+   "form_seen": "lähtee",
+   "note": "ht → hd (minä lähden)"
+  },
+  {
+   "fi": "asema",
+   "en": "station",
+   "pos": "noun",
+   "theme": "transport",
+   "form_seen": "asemalla / asemalta / asemalle"
+  },
+  {
+   "fi": "tori",
+   "en": "market square",
+   "pos": "noun",
+   "theme": "places-town",
+   "form_seen": "torilla / torilta / torille"
+  },
+  {
+   "fi": "pysäkki",
+   "en": "(bus) stop",
+   "pos": "noun",
+   "theme": "transport",
+   "form_seen": "pysäkillä / pysäkiltä / pysäkille",
+   "note": "kk → k"
+  },
+  {
+   "fi": "kioski",
+   "en": "kiosk",
+   "pos": "noun",
+   "theme": "places-town",
+   "form_seen": "kioskilla / kioskilta / kioskille"
+  }
+ ],
+ "texts": [
+  {
+   "title": {
+    "fi": "Missä? – Mistä? – Mihin?",
+    "en": "Where? – From where? – Where to?"
+   },
+   "kind": "reading",
+   "lines": [
+    {
+     "fi": "Minä olen asemalla.",
+     "en": "I am at the station."
+    },
+    {
+     "fi": "Minä tulen asemalta.",
+     "en": "I am coming from the station."
+    },
+    {
+     "fi": "Minä menen asemalle.",
+     "en": "I am going to the station."
+    },
+    {
+     "fi": "Minä olen torilla.",
+     "en": "I am at the market square."
+    },
+    {
+     "fi": "Minä tulen torilta.",
+     "en": "I am coming from the market square."
+    },
+    {
+     "fi": "Minä menen torille.",
+     "en": "I am going to the market square."
+    },
+    {
+     "fi": "Hän on pysäkillä.",
+     "en": "He/she is at the bus stop."
+    },
+    {
+     "fi": "Hän lähtee pysäkiltä.",
+     "en": "He/she leaves the bus stop."
+    },
+    {
+     "fi": "Hän menee pysäkille.",
+     "en": "He/she is going to the bus stop."
+    },
+    {
+     "fi": "Hän on kioskilla.",
+     "en": "He/she is at the kiosk."
+    },
+    {
+     "fi": "Hän lähtee kioskilta.",
+     "en": "He/she leaves the kiosk."
+    },
+    {
+     "fi": "Hän menee kioskille.",
+     "en": "He/she is going to the kiosk."
+    }
+   ]
+  }
+ ],
+ "exercises": [],
+ "grammar_notes": [
+  {
+   "topic": "outer-local-cases",
+   "heading": "Missä? – Mistä? – Mihin? Minne?",
+   "text": "Outer local cases: Missä? -lla/-llä (olla), Mistä? -lta/-ltä (tulla, lähteä), Mihin?/Minne? -lle (mennä).",
+   "table": [
+    [
+     "Missä?",
+     "Mistä?",
+     "Mihin? Minne?"
+    ],
+    [
+     "asemalla",
+     "asemalta",
+     "asemalle"
+    ],
+    [
+     "torilla",
+     "torilta",
+     "torille"
+    ],
+    [
+     "pysäkillä",
+     "pysäkiltä",
+     "pysäkille"
+    ],
+    [
+     "kioskilla",
+     "kioskilta",
+     "kioskille"
+    ]
+   ]
+  }
+ ]
+}

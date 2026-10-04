@@ -1,0 +1,490 @@
+{
+ "source": "term-2026-winter/Lesson 5 (9.2.2026)/1770295433654.jpg",
+ "md5": "585fadeb2ea1124a938b8d6972dc6a0e",
+ "also_in": [],
+ "lesson": {
+  "term": "term-2026-winter",
+  "number": 5,
+  "date": "2026-02-09"
+ },
+ "kind": "exercise",
+ "title": {
+  "fi": "1.2. Missä? – Mistä? – Mihin? Harjoitus 1",
+  "en": "1.2. Where? – From where? – Where to? Exercise 1"
+ },
+ "topics": [
+  "inner-local-cases",
+  "illative",
+  "local-cases",
+  "place-names"
+ ],
+ "summary": "Fill-in exercise on the inner local cases: inessive (-ssa/-ssä), elative (-sta/-stä) and the three illative endings (-Vn, -hVn, -seen), with the base word given in capitals. (Phone screenshot.)",
+ "transcript": "1.2.\nMISSÄ? – MISTÄ? – MIHIN?\nHarjoitus 1\n\nMissä?  Inessiivi  -SSA / -SSÄ\nMinä olen ____ (PUISTO).\nMe käymme ____ (MUSEO).\nÄiti on ____ (KEITTIÖ).\nMe asumme ____ (ESPOO).\n\nMistä?  Elatiivi  -STA / -STÄ\nMinä tulen ____ (POSTI).\nMe tulimme eilen ____ (LONTOO).\nTuletko sinä ____ (OULU)?\nMinä olen kotoisin ____ (PORVOO).\n\nMihin?  Illatiivi\n-Vn\nMinä menen ____ (KOULU).\nMenetkö sinä ____ (KEITTIÖ)?\nMe matkustamme ____ (ITALIA).\nMe menemme ____ (MUSEO).\n-hVn\nMinä menen ____ (TYÖ).\nMihin ____ (MAA) te matkustatte?\nRaketti lentää ____ (KUU).\nPanetko sinä ____ (TEE) sokeria?\n-SEEN\nMe matkustamme ____ (LONTOO).\nMe menemme ____ (PORVOO).\nMinä menen ____ (KYLPYHUONE : KYLPYHUONEE-).\nMinä panen ____ (KIRJE : KIRJEE-) kaksi valokuvaa.",
+ "words": [
+  {
+   "fi": "missä",
+   "en": "where (in/at)",
+   "pos": "question",
+   "theme": "question-words"
+  },
+  {
+   "fi": "mistä",
+   "en": "where from",
+   "pos": "question",
+   "theme": "question-words"
+  },
+  {
+   "fi": "mihin",
+   "en": "where to; which … to",
+   "pos": "question",
+   "theme": "question-words"
+  },
+  {
+   "fi": "harjoitus",
+   "en": "exercise",
+   "pos": "noun",
+   "theme": "classroom"
+  },
+  {
+   "fi": "inessiivi",
+   "en": "inessive case",
+   "pos": "noun",
+   "theme": "classroom"
+  },
+  {
+   "fi": "elatiivi",
+   "en": "elative case",
+   "pos": "noun",
+   "theme": "classroom"
+  },
+  {
+   "fi": "illatiivi",
+   "en": "illative case",
+   "pos": "noun",
+   "theme": "classroom"
+  },
+  {
+   "fi": "olla",
+   "en": "to be",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "common-verbs",
+   "forms": {
+    "minä": "olen",
+    "hän": "on"
+   },
+   "form_seen": "olen / on"
+  },
+  {
+   "fi": "puisto",
+   "en": "park",
+   "pos": "noun",
+   "theme": "places-town"
+  },
+  {
+   "fi": "käydä",
+   "en": "to visit; to go (and come back)",
+   "pos": "verb",
+   "verb_type": 2,
+   "theme": "common-verbs",
+   "forms": {
+    "me": "käymme"
+   },
+   "form_seen": "käymme"
+  },
+  {
+   "fi": "museo",
+   "en": "museum",
+   "pos": "noun",
+   "theme": "places-town"
+  },
+  {
+   "fi": "äiti",
+   "en": "mother",
+   "pos": "noun",
+   "theme": "family"
+  },
+  {
+   "fi": "keittiö",
+   "en": "kitchen",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "asua",
+   "en": "to live, to reside",
+   "pos": "verb",
+   "verb_type": 1,
+   "theme": "home",
+   "forms": {
+    "me": "asumme"
+   },
+   "form_seen": "asumme"
+  },
+  {
+   "fi": "Espoo",
+   "en": "Espoo",
+   "pos": "proper",
+   "theme": "places-town"
+  },
+  {
+   "fi": "tulla",
+   "en": "to come",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "common-verbs",
+   "forms": {
+    "minä": "tulen",
+    "sinä": "tulet"
+   },
+   "form_seen": "tulen / tulimme / tuletko",
+   "note": "tulimme = we came (past)"
+  },
+  {
+   "fi": "posti",
+   "en": "post office",
+   "pos": "noun",
+   "theme": "places-town"
+  },
+  {
+   "fi": "eilen",
+   "en": "yesterday",
+   "pos": "adv",
+   "theme": "days-time"
+  },
+  {
+   "fi": "Lontoo",
+   "en": "London",
+   "pos": "proper",
+   "theme": "places-town"
+  },
+  {
+   "fi": "Oulu",
+   "en": "Oulu",
+   "pos": "proper",
+   "theme": "places-town"
+  },
+  {
+   "fi": "kotoisin",
+   "en": "originally (from)",
+   "pos": "adv",
+   "theme": "nationalities",
+   "note": "olla kotoisin + elative = to be from"
+  },
+  {
+   "fi": "Porvoo",
+   "en": "Porvoo",
+   "pos": "proper",
+   "theme": "places-town"
+  },
+  {
+   "fi": "mennä",
+   "en": "to go",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "common-verbs",
+   "forms": {
+    "minä": "menen",
+    "sinä": "menet",
+    "me": "menemme"
+   },
+   "form_seen": "menen / menetkö / menemme"
+  },
+  {
+   "fi": "koulu",
+   "en": "school",
+   "pos": "noun",
+   "theme": "school-work"
+  },
+  {
+   "fi": "matkustaa",
+   "en": "to travel",
+   "pos": "verb",
+   "verb_type": 1,
+   "theme": "travel",
+   "forms": {
+    "me": "matkustamme",
+    "te": "matkustatte"
+   },
+   "form_seen": "matkustamme / matkustatte"
+  },
+  {
+   "fi": "Italia",
+   "en": "Italy",
+   "pos": "proper",
+   "theme": "nationalities"
+  },
+  {
+   "fi": "työ",
+   "en": "work",
+   "pos": "noun",
+   "theme": "school-work"
+  },
+  {
+   "fi": "maa",
+   "en": "country; land, ground",
+   "pos": "noun",
+   "theme": "travel"
+  },
+  {
+   "fi": "raketti",
+   "en": "rocket",
+   "pos": "noun",
+   "theme": "transport"
+  },
+  {
+   "fi": "lentää",
+   "en": "to fly",
+   "pos": "verb",
+   "verb_type": 1,
+   "theme": "transport",
+   "forms": {
+    "se": "lentää"
+   },
+   "form_seen": "lentää",
+   "note": "nt → nn (lennän)"
+  },
+  {
+   "fi": "kuu",
+   "en": "moon; month",
+   "pos": "noun",
+   "theme": "nature"
+  },
+  {
+   "fi": "panna",
+   "en": "to put",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "common-verbs",
+   "forms": {
+    "minä": "panen",
+    "sinä": "panet"
+   },
+   "form_seen": "panetko / panen"
+  },
+  {
+   "fi": "tee",
+   "en": "tea",
+   "pos": "noun",
+   "theme": "drinks"
+  },
+  {
+   "fi": "sokeri",
+   "en": "sugar",
+   "pos": "noun",
+   "theme": "food-meals",
+   "form_seen": "sokeria"
+  },
+  {
+   "fi": "kylpyhuone",
+   "en": "bathroom",
+   "pos": "noun",
+   "theme": "home",
+   "note": "stem kylpyhuonee-"
+  },
+  {
+   "fi": "kirje",
+   "en": "letter (mail)",
+   "pos": "noun",
+   "theme": "places-town",
+   "note": "stem kirjee-"
+  },
+  {
+   "fi": "kaksi",
+   "en": "two",
+   "pos": "num",
+   "theme": "numbers"
+  },
+  {
+   "fi": "valokuva",
+   "en": "photograph",
+   "pos": "noun",
+   "theme": "hobbies-sport",
+   "form_seen": "valokuvaa"
+  }
+ ],
+ "texts": [],
+ "exercises": [
+  {
+   "title": "Harjoitus 1 — Missä? Inessiivi (-ssa/-ssä)",
+   "instruction": "Put the word in capitals into the inessive.",
+   "topic": "inner-local-cases",
+   "answer_source": "derived",
+   "items": [
+    {
+     "prompt": "Minä olen ____.",
+     "base": "PUISTO",
+     "answer": "puistossa",
+     "en": "I am in the park."
+    },
+    {
+     "prompt": "Me käymme ____.",
+     "base": "MUSEO",
+     "answer": "museossa",
+     "en": "We visit (go to) the museum."
+    },
+    {
+     "prompt": "Äiti on ____.",
+     "base": "KEITTIÖ",
+     "answer": "keittiössä",
+     "en": "Mum is in the kitchen."
+    },
+    {
+     "prompt": "Me asumme ____.",
+     "base": "ESPOO",
+     "answer": "Espoossa",
+     "en": "We live in Espoo."
+    }
+   ]
+  },
+  {
+   "title": "Harjoitus 1 — Mistä? Elatiivi (-sta/-stä)",
+   "instruction": "Put the word in capitals into the elative.",
+   "topic": "inner-local-cases",
+   "answer_source": "derived",
+   "items": [
+    {
+     "prompt": "Minä tulen ____.",
+     "base": "POSTI",
+     "answer": "postista",
+     "en": "I'm coming from the post office."
+    },
+    {
+     "prompt": "Me tulimme eilen ____.",
+     "base": "LONTOO",
+     "answer": "Lontoosta",
+     "en": "We came from London yesterday."
+    },
+    {
+     "prompt": "Tuletko sinä ____?",
+     "base": "OULU",
+     "answer": "Oulusta",
+     "en": "Are you coming from Oulu?"
+    },
+    {
+     "prompt": "Minä olen kotoisin ____.",
+     "base": "PORVOO",
+     "answer": "Porvoosta",
+     "en": "I'm originally from Porvoo."
+    }
+   ]
+  },
+  {
+   "title": "Harjoitus 1 — Mihin? Illatiivi (-Vn)",
+   "instruction": "Put the word in capitals into the illative (vowel + n).",
+   "topic": "illative",
+   "answer_source": "derived",
+   "items": [
+    {
+     "prompt": "Minä menen ____.",
+     "base": "KOULU",
+     "answer": "kouluun",
+     "en": "I'm going to school."
+    },
+    {
+     "prompt": "Menetkö sinä ____?",
+     "base": "KEITTIÖ",
+     "answer": "keittiöön",
+     "en": "Are you going to the kitchen?"
+    },
+    {
+     "prompt": "Me matkustamme ____.",
+     "base": "ITALIA",
+     "answer": "Italiaan",
+     "en": "We are travelling to Italy."
+    },
+    {
+     "prompt": "Me menemme ____.",
+     "base": "MUSEO",
+     "answer": "museoon",
+     "en": "We are going to the museum."
+    }
+   ]
+  },
+  {
+   "title": "Harjoitus 1 — Mihin? Illatiivi (-hVn)",
+   "instruction": "Put the one-syllable word into the illative (h + vowel + n).",
+   "topic": "illative",
+   "answer_source": "derived",
+   "items": [
+    {
+     "prompt": "Minä menen ____.",
+     "base": "TYÖ",
+     "answer": "työhön",
+     "en": "I'm going to work."
+    },
+    {
+     "prompt": "Mihin ____ te matkustatte?",
+     "base": "MAA",
+     "answer": "maahan",
+     "en": "Which country are you travelling to?"
+    },
+    {
+     "prompt": "Raketti lentää ____.",
+     "base": "KUU",
+     "answer": "kuuhun",
+     "en": "The rocket flies to the moon."
+    },
+    {
+     "prompt": "Panetko sinä ____ sokeria?",
+     "base": "TEE",
+     "answer": "teehen",
+     "en": "Do you put sugar in your tea?"
+    }
+   ]
+  },
+  {
+   "title": "Harjoitus 1 — Mihin? Illatiivi (-seen)",
+   "instruction": "Put the word into the illative with -seen (long-vowel stems).",
+   "topic": "illative",
+   "answer_source": "derived",
+   "items": [
+    {
+     "prompt": "Me matkustamme ____.",
+     "base": "LONTOO",
+     "answer": "Lontooseen",
+     "en": "We are travelling to London."
+    },
+    {
+     "prompt": "Me menemme ____.",
+     "base": "PORVOO",
+     "answer": "Porvooseen",
+     "en": "We are going to Porvoo."
+    },
+    {
+     "prompt": "Minä menen ____.",
+     "base": "KYLPYHUONE : KYLPYHUONEE-",
+     "answer": "kylpyhuoneeseen",
+     "en": "I'm going to the bathroom."
+    },
+    {
+     "prompt": "Minä panen ____ kaksi valokuvaa.",
+     "base": "KIRJE : KIRJEE-",
+     "answer": "kirjeeseen",
+     "en": "I'm putting two photos in the letter."
+    }
+   ]
+  }
+ ],
+ "grammar_notes": [
+  {
+   "topic": "inner-local-cases",
+   "heading": "Missä? – Mistä? – Mihin?",
+   "text": "Missä? inessiivi -ssa/-ssä; Mistä? elatiivi -sta/-stä; Mihin? illatiivi: -Vn (repeat the final vowel + n: kouluun), -hVn (one-syllable words ending in a long vowel/diphthong: työhön, maahan), -seen (stems ending in a long vowel: Lontooseen, kylpyhuoneeseen).",
+   "table": [
+    [
+     "Missä? (inessiivi)",
+     "-ssa / -ssä"
+    ],
+    [
+     "Mistä? (elatiivi)",
+     "-sta / -stä"
+    ],
+    [
+     "Mihin? (illatiivi)",
+     "-Vn / -hVn / -seen"
+    ]
+   ]
+  }
+ ]
+}

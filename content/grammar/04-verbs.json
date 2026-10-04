@@ -1,0 +1,1943 @@
+{
+  "part": {
+    "id": "verbs",
+    "title": "Verbs",
+    "emoji": "⚙️",
+    "description": "The six verb types, consonant gradation in verbs, the imperative and useful verb patterns."
+  },
+  "topics": [
+    {
+      "id": "verb-types",
+      "title": "The six verb types — overview",
+      "fi": "Verbityypit",
+      "emoji": "🗂️",
+      "summary": "Every Finnish verb belongs to one of six types, recognised from the end of the infinitive. The type tells you how to find the stem.",
+      "requires": [
+        "olla",
+        "vowel-harmony"
+      ],
+      "sections": [
+        {
+          "heading": "Personal endings are the same for every verb",
+          "table": {
+            "headers": [
+              "Person",
+              "Ending",
+              "puhua"
+            ],
+            "rows": [
+              [
+                "minä",
+                "-n",
+                "puhun"
+              ],
+              [
+                "sinä",
+                "-t",
+                "puhut"
+              ],
+              [
+                "hän",
+                "-V (vowel lengthens) or nothing",
+                "puhuu"
+              ],
+              [
+                "me",
+                "-mme",
+                "puhumme"
+              ],
+              [
+                "te",
+                "-tte",
+                "puhutte"
+              ],
+              [
+                "he",
+                "-vat / -vät",
+                "puhuvat"
+              ]
+            ]
+          },
+          "body": "What differs between the types is only **how you get the stem** from the infinitive."
+        },
+        {
+          "heading": "How to recognise the type",
+          "table": {
+            "headers": [
+              "Type",
+              "Infinitive ends in",
+              "Examples",
+              "Stem",
+              "minä"
+            ],
+            "rows": [
+              [
+                "1",
+                "vowel + a/ä (-aa, -ea, -ia, -oa, -ua, -yä, -ää…)",
+                "puhua, asua, ostaa, lukea, kysyä",
+                "drop -a/-ä: puhu-",
+                "puhun"
+              ],
+              [
+                "2",
+                "-da / -dä",
+                "syödä, juoda, käydä, tehdä",
+                "drop -da/-dä: syö-",
+                "syön"
+              ],
+              [
+                "3",
+                "-la/-lä, -na/-nä, -ra/-rä, -sta/-stä",
+                "tulla, mennä, purra, nousta, opiskella",
+                "drop 2 letters + e: tule-",
+                "tulen"
+              ],
+              [
+                "4",
+                "-ata/-ätä, -ota/-ötä, -uta/-ytä",
+                "haluta, avata, pelata, tavata",
+                "drop -ta, add a/ä: halua-",
+                "haluan"
+              ],
+              [
+                "5",
+                "-ita / -itä",
+                "tarvita, valita, häiritä",
+                "drop -a, add -se: tarvitse-",
+                "tarvitsen"
+              ],
+              [
+                "6",
+                "-eta / -etä",
+                "vanheta, lämmetä, kylmetä",
+                "drop -ta, add -ne: vanhene-",
+                "vanhenen"
+              ]
+            ]
+          },
+          "tip": "Check the **last two letters** first: -da/-dä → type 2; double consonant or -st- + a → type 3; vowel + a → type 1; t + a after a vowel → 4, 5 or 6 (look at the vowel before -ta)."
+        },
+        {
+          "heading": "Which types have K-P-T?",
+          "bullets": [
+            "**Type 1**: infinitive is strong → minä, sinä, me, te and the negative are **weak** (*nukkua → nukun*). See [[kpt-verbs|K-P-T in verb type 1]].",
+            "**Type 2**: no gradation.",
+            "**Types 3 and 4** (and 6): infinitive is **weak** → all personal forms are **strong** (*ajatella → ajattelen*, *tavata → tapaan*). See [[kpt-verbs-3-4|K-P-T in types 3 & 4]].",
+            "**Type 5**: no gradation."
+          ]
+        },
+        {
+          "heading": "Exceptions worth knowing",
+          "bullets": [
+            "**olla** (to be) — olen, olet, on, olemme, olette, ovat.",
+            "**tehdä** (to do/make) — teen, teet, tekee, teemme, teette, tekevät.",
+            "**nähdä** (to see) — näen, näet, näkee, näemme, näette, näkevät.",
+            "**juosta** (to run) — juoksen, juokset, juoksee…",
+            "**maata** (to lie down) — makaan, makaat, makaa…",
+            "Some -ita/-eta verbs belong to type 4: **hävitä** → häviän, **kiivetä** → kiipeän, **selvitä** → selviän."
+          ]
+        }
+      ],
+      "related": [
+        "verb-type-1",
+        "verb-type-2",
+        "verb-type-3",
+        "verb-type-4",
+        "verb-type-5"
+      ],
+      "practice": [
+        {
+          "label": "Mixed conjugation (all types)",
+          "to": "/practice/conjugate"
+        }
+      ]
+    },
+    {
+      "id": "verb-type-1",
+      "title": "Verb type 1 (-a/-ä after a vowel)",
+      "fi": "Verbityyppi 1",
+      "emoji": "1️⃣",
+      "summary": "The biggest group: puhua, asua, ostaa, lukea… Drop the final -a/-ä to get the stem; hän doubles the last vowel.",
+      "requires": [
+        "verb-types"
+      ],
+      "sections": [
+        {
+          "heading": "Formation",
+          "body": "Infinitive minus the final **-a/-ä** = stem. Add the personal endings. In the **hän** form the last vowel of the stem doubles (unless it is already long or a diphthong ending in the same vowel).",
+          "table": {
+            "headers": [
+              "",
+              "puhua (speak)",
+              "asua (live)",
+              "kysyä (ask)",
+              "ostaa (buy)",
+              "lukea (read)"
+            ],
+            "rows": [
+              [
+                "minä",
+                "puhun",
+                "asun",
+                "kysyn",
+                "ostan",
+                "luen"
+              ],
+              [
+                "sinä",
+                "puhut",
+                "asut",
+                "kysyt",
+                "ostat",
+                "luet"
+              ],
+              [
+                "hän",
+                "puhuu",
+                "asuu",
+                "kysyy",
+                "ostaa",
+                "lukee"
+              ],
+              [
+                "me",
+                "puhumme",
+                "asumme",
+                "kysymme",
+                "ostamme",
+                "luemme"
+              ],
+              [
+                "te",
+                "puhutte",
+                "asutte",
+                "kysytte",
+                "ostatte",
+                "luette"
+              ],
+              [
+                "he",
+                "puhuvat",
+                "asuvat",
+                "kysyvät",
+                "ostavat",
+                "lukevat"
+              ],
+              [
+                "negative",
+                "en puhu",
+                "en asu",
+                "en kysy",
+                "en osta",
+                "en lue"
+              ]
+            ]
+          },
+          "note": "*lukea* shows K-P-T: k disappears in the weak forms (luen, luet). See [[kpt-verbs|K-P-T in verb type 1]]."
+        },
+        {
+          "heading": "Common type 1 verbs from the course",
+          "table": {
+            "headers": [
+              "Verb",
+              "English",
+              "Verb",
+              "English"
+            ],
+            "rows": [
+              [
+                "asua",
+                "to live",
+                "maksaa",
+                "to cost, pay"
+              ],
+              [
+                "puhua",
+                "to speak",
+                "ostaa",
+                "to buy"
+              ],
+              [
+                "istua",
+                "to sit",
+                "laulaa",
+                "to sing"
+              ],
+              [
+                "kysyä",
+                "to ask",
+                "ajaa",
+                "to drive"
+              ],
+              [
+                "sanoa",
+                "to say",
+                "rakastaa",
+                "to love"
+              ],
+              [
+                "katsoa",
+                "to look, watch",
+                "matkustaa",
+                "to travel"
+              ],
+              [
+                "tanssia",
+                "to dance",
+                "herättää",
+                "to wake (someone)"
+              ],
+              [
+                "leikkiä",
+                "to play (children)",
+                "soittaa",
+                "to call, play (instrument)"
+              ],
+              [
+                "nukkua",
+                "to sleep",
+                "odottaa",
+                "to wait"
+              ],
+              [
+                "kirjoittaa",
+                "to write",
+                "lukea",
+                "to read, study"
+              ],
+              [
+                "tietää",
+                "to know",
+                "ymmärtää",
+                "to understand"
+              ],
+              [
+                "ottaa",
+                "to take",
+                "antaa",
+                "to give"
+              ],
+              [
+                "lähteä",
+                "to leave",
+                "oppia",
+                "to learn"
+              ],
+              [
+                "alkaa",
+                "to begin",
+                "auttaa",
+                "to help"
+              ],
+              [
+                "pitää",
+                "to like (+ -sta), to hold",
+                "hiihtää",
+                "to ski"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Examples",
+          "examples": [
+            {
+              "fi": "Asun Lontoossa ja puhun englantia.",
+              "en": "I live in London and speak English."
+            },
+            {
+              "fi": "Mitä tämä maksaa? — Se maksaa kaksi euroa.",
+              "en": "How much does this cost? — It costs two euros."
+            },
+            {
+              "fi": "Lapset leikkivät pihalla.",
+              "en": "The children are playing in the yard."
+            },
+            {
+              "fi": "Me katsomme elokuvaa illalla.",
+              "en": "We're watching a film in the evening."
+            }
+          ]
+        }
+      ],
+      "related": [
+        "kpt-verbs",
+        "negation",
+        "verb-type-2"
+      ],
+      "practice": [
+        {
+          "label": "Conjugate type 1",
+          "to": "/practice/conjugate?type=1"
+        }
+      ]
+    },
+    {
+      "id": "kpt-verbs",
+      "title": "K-P-T in verb type 1",
+      "fi": "Astevaihtelu: verbityyppi 1",
+      "emoji": "🔀",
+      "summary": "nukkua → minä nukun, hän nukkuu. In type 1, minä/sinä/me/te and the negative take the weak grade; hän and he stay strong.",
+      "requires": [
+        "verb-type-1",
+        "kpt-nouns"
+      ],
+      "sections": [
+        {
+          "heading": "The pattern",
+          "body": "The endings **-n, -t, -mme, -tte** close the syllable → **weak grade**. The hän form (long vowel) and he form (-vat) keep it open → **strong grade**. The negative uses the same stem as minä → **weak**.",
+          "table": {
+            "headers": [
+              "",
+              "nukkua kk→k",
+              "tietää t→d",
+              "lukea k→∅",
+              "ottaa tt→t",
+              "antaa nt→nn",
+              "lähteä ht→hd"
+            ],
+            "rows": [
+              [
+                "minä",
+                "nukun",
+                "tiedän",
+                "luen",
+                "otan",
+                "annan",
+                "lähden"
+              ],
+              [
+                "sinä",
+                "nukut",
+                "tiedät",
+                "luet",
+                "otat",
+                "annat",
+                "lähdet"
+              ],
+              [
+                "hän",
+                "nukkuu",
+                "tietää",
+                "lukee",
+                "ottaa",
+                "antaa",
+                "lähtee"
+              ],
+              [
+                "me",
+                "nukumme",
+                "tiedämme",
+                "luemme",
+                "otamme",
+                "annamme",
+                "lähdemme"
+              ],
+              [
+                "te",
+                "nukutte",
+                "tiedätte",
+                "luette",
+                "otatte",
+                "annatte",
+                "lähdette"
+              ],
+              [
+                "he",
+                "nukkuvat",
+                "tietävät",
+                "lukevat",
+                "ottavat",
+                "antavat",
+                "lähtevät"
+              ],
+              [
+                "negative",
+                "en nuku",
+                "en tiedä",
+                "en lue",
+                "en ota",
+                "en anna",
+                "en lähde"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "All the changes",
+          "table": {
+            "headers": [
+              "Strong → weak",
+              "Infinitive",
+              "minä",
+              "hän"
+            ],
+            "rows": [
+              [
+                "kk → k",
+                "nukkua, leikkiä",
+                "nukun, leikin",
+                "nukkuu, leikkii"
+              ],
+              [
+                "pp → p",
+                "oppia, loppua",
+                "opin",
+                "oppii, loppuu"
+              ],
+              [
+                "tt → t",
+                "ottaa, odottaa, kirjoittaa, soittaa, auttaa, muuttaa",
+                "otan, odotan, kirjoitan",
+                "ottaa, odottaa"
+              ],
+              [
+                "k → ∅",
+                "lukea, hakea, jakaa, pukea",
+                "luen, haen, jaan, puen",
+                "lukee, hakee, jakaa"
+              ],
+              [
+                "p → v",
+                "sopia, leipoa, saapua",
+                "sovin, leivon, saavun",
+                "sopii, leipoo, saapuu"
+              ],
+              [
+                "t → d",
+                "tietää, pitää, vetää, kaataa",
+                "tiedän, pidän, vedän",
+                "tietää, pitää"
+              ],
+              [
+                "nk → ng",
+                "onkia, tunkea",
+                "ongin, tungen",
+                "onkii"
+              ],
+              [
+                "mp → mm",
+                "ampua",
+                "ammun",
+                "ampuu"
+              ],
+              [
+                "nt → nn",
+                "antaa, kääntää, lentää, tuntea, kantaa",
+                "annan, käännän, lennän, tunnen",
+                "antaa, tuntee"
+              ],
+              [
+                "lt → ll",
+                "kieltää",
+                "kiellän",
+                "kieltää"
+              ],
+              [
+                "rt → rr",
+                "kertoa, ymmärtää",
+                "kerron, ymmärrän",
+                "kertoo, ymmärtää"
+              ],
+              [
+                "ht → hd",
+                "lähteä, hiihtää",
+                "lähden, hiihdän",
+                "lähtee, hiihtää"
+              ],
+              [
+                "lk → lj",
+                "kulkea, polkea",
+                "kuljen, poljen",
+                "kulkee"
+              ],
+              [
+                "lk → l",
+                "alkaa",
+                "alan",
+                "alkaa"
+              ]
+            ]
+          },
+          "note": "No gradation after s, or in st, sk, tk, ts: *istua → istun*, *etsiä → etsin*, *tutkia → tutkin*, *katsoa → katson*."
+        },
+        {
+          "heading": "Examples from the course texts",
+          "examples": [
+            {
+              "fi": "Minä nukun yleensä kahdeksan tuntia.",
+              "en": "I usually sleep eight hours."
+            },
+            {
+              "fi": "Hän lukee kirjaa, mutta minä en lue.",
+              "en": "He/she is reading a book, but I'm not."
+            },
+            {
+              "fi": "Me lähdemme mökille perjantaina.",
+              "en": "We leave for the cottage on Friday."
+            },
+            {
+              "fi": "Pidän kahvista, mutta en pidä teestä.",
+              "en": "I like coffee, but I don't like tea."
+            },
+            {
+              "fi": "Tiedätkö, missä asema on? — En tiedä.",
+              "en": "Do you know where the station is? — I don't know."
+            }
+          ]
+        }
+      ],
+      "related": [
+        "kpt-nouns",
+        "kpt-verbs-3-4",
+        "negation"
+      ],
+      "practice": [
+        {
+          "label": "K-P-T verb drill (type 1)",
+          "to": "/practice/conjugate?mode=kpt&type=1"
+        },
+        {
+          "label": "Course exercises",
+          "to": "/practice/course"
+        }
+      ]
+    },
+    {
+      "id": "verb-type-2",
+      "title": "Verb type 2 (-da/-dä)",
+      "fi": "Verbityyppi 2",
+      "emoji": "2️⃣",
+      "summary": "syödä, juoda, käydä, tehdä, nähdä… Drop -da/-dä; the hän form is just the stem. No consonant gradation (except tehdä/nähdä).",
+      "requires": [
+        "verb-types"
+      ],
+      "sections": [
+        {
+          "heading": "Formation",
+          "table": {
+            "headers": [
+              "",
+              "syödä (eat)",
+              "juoda (drink)",
+              "käydä (visit, go)",
+              "uida (swim)",
+              "tehdä (do)",
+              "nähdä (see)"
+            ],
+            "rows": [
+              [
+                "minä",
+                "syön",
+                "juon",
+                "käyn",
+                "uin",
+                "teen",
+                "näen"
+              ],
+              [
+                "sinä",
+                "syöt",
+                "juot",
+                "käyt",
+                "uit",
+                "teet",
+                "näet"
+              ],
+              [
+                "hän",
+                "syö",
+                "juo",
+                "käy",
+                "ui",
+                "tekee",
+                "näkee"
+              ],
+              [
+                "me",
+                "syömme",
+                "juomme",
+                "käymme",
+                "uimme",
+                "teemme",
+                "näemme"
+              ],
+              [
+                "te",
+                "syötte",
+                "juotte",
+                "käytte",
+                "uitte",
+                "teette",
+                "näette"
+              ],
+              [
+                "he",
+                "syövät",
+                "juovat",
+                "käyvät",
+                "uivat",
+                "tekevät",
+                "näkevät"
+              ],
+              [
+                "negative",
+                "en syö",
+                "en juo",
+                "en käy",
+                "en ui",
+                "en tee",
+                "en näe"
+              ]
+            ]
+          },
+          "bullets": [
+            "Stem = infinitive minus **-da/-dä**.",
+            "**hän**: nothing is added — *hän syö*, *hän juo*.",
+            "**tehdä** and **nähdä** are irregular: stem *tee-/näe-*, but *tekee/näkee* and *tekevät/näkevät*."
+          ]
+        },
+        {
+          "heading": "Common type 2 verbs",
+          "table": {
+            "headers": [
+              "Verb",
+              "English",
+              "Verb",
+              "English"
+            ],
+            "rows": [
+              [
+                "syödä",
+                "to eat",
+                "juoda",
+                "to drink"
+              ],
+              [
+                "käydä",
+                "to visit, go (regularly)",
+                "saada",
+                "to get, may"
+              ],
+              [
+                "voida",
+                "to be able, can",
+                "myydä",
+                "to sell"
+              ],
+              [
+                "viedä",
+                "to take (away)",
+                "tuoda",
+                "to bring"
+              ],
+              [
+                "uida",
+                "to swim",
+                "jäädä",
+                "to stay"
+              ],
+              [
+                "imuroida",
+                "to vacuum",
+                "tupakoida",
+                "to smoke"
+              ],
+              [
+                "tehdä",
+                "to do, make",
+                "nähdä",
+                "to see"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Examples",
+          "examples": [
+            {
+              "fi": "Syön aamulla puuroa ja juon kahvia.",
+              "en": "In the morning I eat porridge and drink coffee."
+            },
+            {
+              "fi": "Käyn kaupassa joka päivä.",
+              "en": "I go to the shop every day."
+            },
+            {
+              "fi": "Mitä sinä teet viikonloppuna?",
+              "en": "What are you doing at the weekend?"
+            },
+            {
+              "fi": "Voinko auttaa? — Saanko kahvia?",
+              "en": "Can I help? — May I have some coffee?"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "verb-type-1",
+        "verb-type-3"
+      ],
+      "practice": [
+        {
+          "label": "Conjugate type 2",
+          "to": "/practice/conjugate?type=2"
+        }
+      ]
+    },
+    {
+      "id": "verb-type-3",
+      "title": "Verb type 3 (-la, -na, -ra, -sta)",
+      "fi": "Verbityyppi 3",
+      "emoji": "3️⃣",
+      "summary": "tulla → tulen, mennä → menen, nousta → nousen, opiskella → opiskelen. Drop the last two letters and add -e.",
+      "requires": [
+        "verb-types"
+      ],
+      "sections": [
+        {
+          "heading": "Formation",
+          "body": "Remove the last two letters (**-la/-lä, -na/-nä, -ra/-rä, -ta/-tä**) and add **-e**. hän lengthens it: **-ee**.",
+          "table": {
+            "headers": [
+              "",
+              "tulla (come)",
+              "mennä (go)",
+              "purra (bite)",
+              "nousta (rise)",
+              "opiskella (study)",
+              "pestä (wash)"
+            ],
+            "rows": [
+              [
+                "minä",
+                "tulen",
+                "menen",
+                "puren",
+                "nousen",
+                "opiskelen",
+                "pesen"
+              ],
+              [
+                "sinä",
+                "tulet",
+                "menet",
+                "puret",
+                "nouset",
+                "opiskelet",
+                "peset"
+              ],
+              [
+                "hän",
+                "tulee",
+                "menee",
+                "puree",
+                "nousee",
+                "opiskelee",
+                "pesee"
+              ],
+              [
+                "me",
+                "tulemme",
+                "menemme",
+                "puremme",
+                "nousemme",
+                "opiskelemme",
+                "pesemme"
+              ],
+              [
+                "te",
+                "tulette",
+                "menette",
+                "purette",
+                "nousette",
+                "opiskelette",
+                "pesette"
+              ],
+              [
+                "he",
+                "tulevat",
+                "menevät",
+                "purevat",
+                "nousevat",
+                "opiskelevat",
+                "pesevät"
+              ],
+              [
+                "negative",
+                "en tule",
+                "en mene",
+                "en pure",
+                "en nouse",
+                "en opiskele",
+                "en pese"
+              ]
+            ]
+          },
+          "note": "**juosta** (run) is irregular: *juoksen, juokset, juoksee*. **olla** is technically type 3 but irregular."
+        },
+        {
+          "heading": "Common type 3 verbs",
+          "table": {
+            "headers": [
+              "Verb",
+              "English",
+              "Verb",
+              "English"
+            ],
+            "rows": [
+              [
+                "tulla",
+                "to come",
+                "mennä",
+                "to go"
+              ],
+              [
+                "opiskella",
+                "to study",
+                "kävellä",
+                "to walk"
+              ],
+              [
+                "ajatella",
+                "to think",
+                "kuunnella",
+                "to listen"
+              ],
+              [
+                "luistella",
+                "to skate",
+                "pyöräillä",
+                "to cycle"
+              ],
+              [
+                "hymyillä",
+                "to smile",
+                "keskustella",
+                "to discuss, chat"
+              ],
+              [
+                "nousta",
+                "to rise, get up",
+                "pestä",
+                "to wash"
+              ],
+              [
+                "juosta",
+                "to run",
+                "purra",
+                "to bite"
+              ],
+              [
+                "harjoitella",
+                "to practise",
+                "työskennellä",
+                "to work"
+              ],
+              [
+                "jutella",
+                "to chat",
+                "esitellä",
+                "to introduce, present"
+              ],
+              [
+                "ommella",
+                "to sew",
+                "olla",
+                "to be"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Examples",
+          "examples": [
+            {
+              "fi": "Tuletko sinä huomenna? — Tulen.",
+              "en": "Are you coming tomorrow? — Yes."
+            },
+            {
+              "fi": "Menen kotiin bussilla.",
+              "en": "I'm going home by bus."
+            },
+            {
+              "fi": "Talvella me luistelemme ja hiihdämme.",
+              "en": "In winter we skate and ski."
+            },
+            {
+              "fi": "Hän opiskelee suomea maanantaisin.",
+              "en": "He/she studies Finnish on Mondays."
+            }
+          ]
+        },
+        {
+          "heading": "Reverse K-P-T",
+          "body": "Some type 3 verbs have a weak grade in the infinitive and a strong grade in all personal forms: *ajatella → ajattelen*, *kuunnella → kuuntelen*. See [[kpt-verbs-3-4|K-P-T in verb types 3 & 4]]."
+        }
+      ],
+      "related": [
+        "kpt-verbs-3-4",
+        "verb-type-4"
+      ],
+      "practice": [
+        {
+          "label": "Conjugate type 3",
+          "to": "/practice/conjugate?type=3"
+        }
+      ]
+    },
+    {
+      "id": "verb-type-4",
+      "title": "Verb type 4 (-ata, -ota, -uta, -ätä…)",
+      "fi": "Verbityyppi 4",
+      "emoji": "4️⃣",
+      "summary": "haluta → haluan, avata → avaan, pelata → pelaan. Drop -ta and add -a/-ä.",
+      "requires": [
+        "verb-types"
+      ],
+      "sections": [
+        {
+          "heading": "Formation",
+          "body": "Remove **-ta/-tä** and add **-a/-ä** (so -ata becomes -aa-, -uta becomes -ua-). hän adds another vowel unless there are already two the same (*avaa*, but *haluaa*).",
+          "table": {
+            "headers": [
+              "",
+              "haluta (want)",
+              "avata (open)",
+              "pelata (play)",
+              "siivota (clean)",
+              "herätä (wake up)",
+              "osata (know how)"
+            ],
+            "rows": [
+              [
+                "minä",
+                "haluan",
+                "avaan",
+                "pelaan",
+                "siivoan",
+                "herään",
+                "osaan"
+              ],
+              [
+                "sinä",
+                "haluat",
+                "avaat",
+                "pelaat",
+                "siivoat",
+                "heräät",
+                "osaat"
+              ],
+              [
+                "hän",
+                "haluaa",
+                "avaa",
+                "pelaa",
+                "siivoaa",
+                "herää",
+                "osaa"
+              ],
+              [
+                "me",
+                "haluamme",
+                "avaamme",
+                "pelaamme",
+                "siivoamme",
+                "heräämme",
+                "osaamme"
+              ],
+              [
+                "te",
+                "haluatte",
+                "avaatte",
+                "pelaatte",
+                "siivoatte",
+                "heräätte",
+                "osaatte"
+              ],
+              [
+                "he",
+                "haluavat",
+                "avaavat",
+                "pelaavat",
+                "siivoavat",
+                "heräävät",
+                "osaavat"
+              ],
+              [
+                "negative",
+                "en halua",
+                "en avaa",
+                "en pelaa",
+                "en siivoa",
+                "en herää",
+                "en osaa"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Common type 4 verbs",
+          "table": {
+            "headers": [
+              "Verb",
+              "English",
+              "Verb",
+              "English"
+            ],
+            "rows": [
+              [
+                "haluta",
+                "to want",
+                "osata",
+                "to know how, can"
+              ],
+              [
+                "avata",
+                "to open",
+                "pelata",
+                "to play (a game)"
+              ],
+              [
+                "siivota",
+                "to clean",
+                "herätä",
+                "to wake up"
+              ],
+              [
+                "tavata",
+                "to meet",
+                "vastata",
+                "to answer"
+              ],
+              [
+                "tilata",
+                "to order",
+                "kerätä",
+                "to collect, pick"
+              ],
+              [
+                "pakata",
+                "to pack",
+                "hypätä",
+                "to jump"
+              ],
+              [
+                "luvata",
+                "to promise",
+                "pudota",
+                "to fall"
+              ],
+              [
+                "tarjota",
+                "to offer",
+                "maata",
+                "to lie (down)"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Examples",
+          "examples": [
+            {
+              "fi": "Haluatko kahvia? — Kyllä, haluan.",
+              "en": "Would you like some coffee? — Yes, I would."
+            },
+            {
+              "fi": "Kauppa avaa kello yhdeksän.",
+              "en": "The shop opens at nine o'clock."
+            },
+            {
+              "fi": "Talvella me pelaamme jääkiekkoa.",
+              "en": "In winter we play ice hockey."
+            },
+            {
+              "fi": "Osaatko uida? — Osaan.",
+              "en": "Can you swim? — Yes, I can."
+            },
+            {
+              "fi": "Herään kello seitsemän.",
+              "en": "I wake up at seven o'clock."
+            }
+          ]
+        },
+        {
+          "heading": "Reverse K-P-T",
+          "body": "When the infinitive has a weak consonant, **every** personal form (including hän and he) is strong: *tavata → tapaan, tapaa, tapaavat*; *pakata → pakkaan*; *hypätä → hyppään*. See [[kpt-verbs-3-4|K-P-T in verb types 3 & 4]]."
+        }
+      ],
+      "related": [
+        "kpt-verbs-3-4",
+        "verb-type-5"
+      ],
+      "practice": [
+        {
+          "label": "Conjugate type 4",
+          "to": "/practice/conjugate?type=4"
+        }
+      ]
+    },
+    {
+      "id": "verb-type-5",
+      "title": "Verb type 5 (-ita/-itä)",
+      "fi": "Verbityyppi 5",
+      "emoji": "5️⃣",
+      "summary": "tarvita → tarvitsen, valita → valitsen. Drop -a/-ä and add -se.",
+      "requires": [
+        "verb-types"
+      ],
+      "sections": [
+        {
+          "heading": "Formation",
+          "body": "Remove the final **-a/-ä** and add **-se**; hän: **-see**. No consonant gradation.",
+          "table": {
+            "headers": [
+              "",
+              "tarvita (need)",
+              "valita (choose)",
+              "häiritä (disturb)",
+              "merkitä (mean, mark)"
+            ],
+            "rows": [
+              [
+                "minä",
+                "tarvitsen",
+                "valitsen",
+                "häiritsen",
+                "merkitsen"
+              ],
+              [
+                "sinä",
+                "tarvitset",
+                "valitset",
+                "häiritset",
+                "merkitset"
+              ],
+              [
+                "hän",
+                "tarvitsee",
+                "valitsee",
+                "häiritsee",
+                "merkitsee"
+              ],
+              [
+                "me",
+                "tarvitsemme",
+                "valitsemme",
+                "häiritsemme",
+                "merkitsemme"
+              ],
+              [
+                "te",
+                "tarvitsette",
+                "valitsette",
+                "häiritsette",
+                "merkitsette"
+              ],
+              [
+                "he",
+                "tarvitsevat",
+                "valitsevat",
+                "häiritsevät",
+                "merkitsevät"
+              ],
+              [
+                "negative",
+                "en tarvitse",
+                "en valitse",
+                "en häiritse",
+                "en merkitse"
+              ]
+            ]
+          },
+          "note": "A few -ita/-itä verbs are actually type 4: *hävitä → häviän* (lose), *selvitä → selviän* (survive), *levitä → leviän* (spread)."
+        },
+        {
+          "heading": "Examples",
+          "examples": [
+            {
+              "fi": "Tarvitsen uudet kengät.",
+              "en": "I need new shoes."
+            },
+            {
+              "fi": "Talvella tarvitsemme lämpimät vaatteet.",
+              "en": "In winter we need warm clothes."
+            },
+            {
+              "fi": "Mitä tämä sana merkitsee?",
+              "en": "What does this word mean?"
+            },
+            {
+              "fi": "Valitsetko kahvin vai teen?",
+              "en": "Will you choose coffee or tea?"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "verb-type-4",
+        "verb-type-6"
+      ],
+      "practice": [
+        {
+          "label": "Conjugate type 5",
+          "to": "/practice/conjugate?type=5"
+        }
+      ]
+    },
+    {
+      "id": "verb-type-6",
+      "title": "Verb type 6 (-eta/-etä)",
+      "fi": "Verbityyppi 6",
+      "emoji": "6️⃣",
+      "summary": "A small group meaning 'to become …': vanheta → vanhenen (grow old), lämmetä → lämpenee (get warmer).",
+      "requires": [
+        "verb-types"
+      ],
+      "sections": [
+        {
+          "heading": "Formation",
+          "body": "Remove **-ta/-tä** and add **-ne**; hän: **-nee**. Reverse K-P-T like types 3 and 4 (*lämmetä → lämpenee*).",
+          "table": {
+            "headers": [
+              "",
+              "vanheta (grow old)",
+              "lämmetä (get warm)",
+              "kylmetä (get cold)",
+              "pimetä (get dark)"
+            ],
+            "rows": [
+              [
+                "minä",
+                "vanhenen",
+                "lämpenen",
+                "kylmenen",
+                "—"
+              ],
+              [
+                "hän / se",
+                "vanhenee",
+                "lämpenee",
+                "kylmenee",
+                "pimenee"
+              ],
+              [
+                "he / ne",
+                "vanhenevat",
+                "lämpenevät",
+                "kylmenevät",
+                "pimenevät"
+              ],
+              [
+                "negative",
+                "en vanhene",
+                "ei lämpene",
+                "ei kylmene",
+                "ei pimene"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Weather and seasons",
+          "examples": [
+            {
+              "fi": "Syksyllä ilma kylmenee ja illat pimenevät.",
+              "en": "In autumn the air gets colder and the evenings get darker."
+            },
+            {
+              "fi": "Keväällä sää lämpenee.",
+              "en": "In spring the weather gets warmer."
+            }
+          ]
+        }
+      ],
+      "related": [
+        "verb-type-5",
+        "weather"
+      ],
+      "practice": [
+        {
+          "label": "Conjugate type 6",
+          "to": "/practice/conjugate?type=6"
+        }
+      ]
+    },
+    {
+      "id": "kpt-verbs-3-4",
+      "title": "K-P-T in verb types 3 & 4",
+      "fi": "Astevaihtelu: verbityypit 3 ja 4",
+      "emoji": "🔁",
+      "summary": "Reverse gradation: the infinitive is weak, every personal form is strong — tavata → tapaan, tapaa; ajatella → ajattelen, ajattelee.",
+      "requires": [
+        "kpt-verbs",
+        "verb-type-3",
+        "verb-type-4"
+      ],
+      "sections": [
+        {
+          "heading": "Why it's 'reverse'",
+          "body": "In types 3 and 4 the infinitive ends in a closed syllable (*a-ja-tel-la*, *ta-vat-a*), so the infinitive has the **weak** grade. In the personal forms the syllable is open (*a-jat-te-len*, *ta-paan*), so they have the **strong** grade. And because the ending doesn't close anything new, **all six persons and the negative are strong** — unlike type 1, where hän/he differ.",
+          "table": {
+            "headers": [
+              "",
+              "tavata v→p",
+              "pakata k→kk",
+              "hypätä p→pp",
+              "pudota d→t",
+              "ajatella t→tt",
+              "kuunnella nn→nt"
+            ],
+            "rows": [
+              [
+                "minä",
+                "tapaan",
+                "pakkaan",
+                "hyppään",
+                "putoan",
+                "ajattelen",
+                "kuuntelen"
+              ],
+              [
+                "sinä",
+                "tapaat",
+                "pakkaat",
+                "hyppäät",
+                "putoat",
+                "ajattelet",
+                "kuuntelet"
+              ],
+              [
+                "hän",
+                "tapaa",
+                "pakkaa",
+                "hyppää",
+                "putoaa",
+                "ajattelee",
+                "kuuntelee"
+              ],
+              [
+                "me",
+                "tapaamme",
+                "pakkaamme",
+                "hyppäämme",
+                "putoamme",
+                "ajattelemme",
+                "kuuntelemme"
+              ],
+              [
+                "te",
+                "tapaatte",
+                "pakkaatte",
+                "hyppäätte",
+                "putoatte",
+                "ajattelette",
+                "kuuntelette"
+              ],
+              [
+                "he",
+                "tapaavat",
+                "pakkaavat",
+                "hyppäävät",
+                "putoavat",
+                "ajattelevat",
+                "kuuntelevat"
+              ],
+              [
+                "negative",
+                "en tapaa",
+                "en pakkaa",
+                "en hyppää",
+                "en putoa",
+                "en ajattele",
+                "en kuuntele"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "All the changes (weak → strong)",
+          "table": {
+            "headers": [
+              "Weak (inf.)",
+              "Strong (forms)",
+              "Examples"
+            ],
+            "rows": [
+              [
+                "k",
+                "kk",
+                "pakata → pakkaan, hakata → hakkaan, leikata → leikkaan"
+              ],
+              [
+                "p",
+                "pp",
+                "hypätä → hyppään, tapella → tappelen"
+              ],
+              [
+                "t",
+                "tt",
+                "mitata → mittaan, ajatella → ajattelen, jutella → juttelen, esitellä → esittelen, luetella → luettelen"
+              ],
+              [
+                "d",
+                "t",
+                "pudota → putoan, kadota → katoan, riidellä → riitelen"
+              ],
+              [
+                "v",
+                "p",
+                "tavata → tapaan, luvata → lupaan, kaivata → kaipaan, levätä → lepään"
+              ],
+              [
+                "∅",
+                "k",
+                "maata → makaan"
+              ],
+              [
+                "ng",
+                "nk",
+                "hangata → hankaan"
+              ],
+              [
+                "mm",
+                "mp",
+                "ommella → ompelen, kammata → kampaan"
+              ],
+              [
+                "nn",
+                "nt",
+                "kuunnella → kuuntelen, työskennellä → työskentelen"
+              ],
+              [
+                "ll",
+                "lt",
+                "vallata → valtaan"
+              ],
+              [
+                "rr",
+                "rt",
+                "kerrata → kertaan"
+              ],
+              [
+                "l",
+                "lk",
+                "pelätä → pelkään, hylätä → hylkään"
+              ]
+            ]
+          },
+          "note": "Not every v or l alternates: *avata → avaan*, *kävellä → kävelen*, *pelata → pelaan* have no gradation. Watch out for st, sk: *opiskella → opiskelen*, *vastata → vastaan*."
+        },
+        {
+          "heading": "Examples from the course",
+          "examples": [
+            {
+              "fi": "Tapaan ystäväni kahvilassa.",
+              "en": "I'm meeting my friend at the café."
+            },
+            {
+              "fi": "Pakkaan laukun illalla.",
+              "en": "I'll pack my bag in the evening."
+            },
+            {
+              "fi": "Hän kuuntelee musiikkia ja ajattelee kesää.",
+              "en": "He/she listens to music and thinks about summer."
+            },
+            {
+              "fi": "Lehdet putoavat puista syksyllä.",
+              "en": "The leaves fall from the trees in autumn."
+            },
+            {
+              "fi": "Lapset hyppäävät ja juoksevat pihalla.",
+              "en": "The children jump and run in the yard."
+            }
+          ]
+        },
+        {
+          "heading": "Compare type 1 and type 4",
+          "table": {
+            "headers": [
+              "",
+              "Type 1: ottaa (strong inf.)",
+              "Type 4: pakata (weak inf.)"
+            ],
+            "rows": [
+              [
+                "minä",
+                "otan (weak)",
+                "pakkaan (strong)"
+              ],
+              [
+                "hän",
+                "ottaa (strong)",
+                "pakkaa (strong)"
+              ],
+              [
+                "he",
+                "ottavat (strong)",
+                "pakkaavat (strong)"
+              ],
+              [
+                "negative",
+                "en ota (weak)",
+                "en pakkaa (strong)"
+              ]
+            ]
+          }
+        }
+      ],
+      "related": [
+        "kpt-verbs",
+        "kpt-nouns",
+        "verb-type-3",
+        "verb-type-4"
+      ],
+      "practice": [
+        {
+          "label": "K-P-T drill (types 3 & 4)",
+          "to": "/practice/conjugate?mode=kpt&type=3,4"
+        },
+        {
+          "label": "Course exercises",
+          "to": "/practice/course"
+        }
+      ]
+    },
+    {
+      "id": "imperative",
+      "title": "Imperative — giving instructions",
+      "fi": "Imperatiivi",
+      "emoji": "📣",
+      "summary": "Tule! (Come!) — Tulkaa! (Come, all of you!) — Älä tule! — Älkää tulko! The singular imperative looks like the minä form without -n.",
+      "requires": [
+        "verb-types",
+        "negation"
+      ],
+      "sections": [
+        {
+          "heading": "Singular (to one person, sinä)",
+          "body": "Take the **minä** form and drop **-n**. It is the same as the negative stem, so K-P-T type 1 verbs are **weak**: *nukkua → nuku!*",
+          "table": {
+            "headers": [
+              "Infinitive",
+              "minä",
+              "Imperative",
+              "Negative imperative"
+            ],
+            "rows": [
+              [
+                "puhua",
+                "puhun",
+                "Puhu!",
+                "Älä puhu!"
+              ],
+              [
+                "ottaa",
+                "otan",
+                "Ota!",
+                "Älä ota!"
+              ],
+              [
+                "syödä",
+                "syön",
+                "Syö!",
+                "Älä syö!"
+              ],
+              [
+                "tehdä",
+                "teen",
+                "Tee!",
+                "Älä tee!"
+              ],
+              [
+                "tulla",
+                "tulen",
+                "Tule!",
+                "Älä tule!"
+              ],
+              [
+                "mennä",
+                "menen",
+                "Mene!",
+                "Älä mene!"
+              ],
+              [
+                "avata",
+                "avaan",
+                "Avaa!",
+                "Älä avaa!"
+              ],
+              [
+                "tarvita",
+                "tarvitsen",
+                "Tarvitse!",
+                "Älä tarvitse!"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Plural / polite (to several people, te)",
+          "body": "Type 1 and 2: drop -a/-ä or -da/-dä (*puhu-kaa*, *teh-kää*). Type 3: drop the last two letters, -la/-na/-ra/-ta (*tul-kaa*, *men-kää*, *nous-kaa*). Types 4–6: drop the final -a/-ä (*avat-kaa*, *tarvit-kaa*). Then add **-kaa/-kää**. Negative: **älkää** + the same stem + **-ko/-kö**. Type 1 keeps the **strong** grade (*nukkukaa*).",
+          "table": {
+            "headers": [
+              "Type",
+              "Infinitive",
+              "Imperative pl.",
+              "Negative pl."
+            ],
+            "rows": [
+              [
+                "1",
+                "puhua",
+                "Puhukaa!",
+                "Älkää puhuko!"
+              ],
+              [
+                "1 (KPT)",
+                "nukkua",
+                "Nukkukaa!",
+                "Älkää nukkuko!"
+              ],
+              [
+                "2",
+                "syödä",
+                "Syökää!",
+                "Älkää syökö!"
+              ],
+              [
+                "2",
+                "tehdä",
+                "Tehkää!",
+                "Älkää tehkö!"
+              ],
+              [
+                "3",
+                "tulla",
+                "Tulkaa!",
+                "Älkää tulko!"
+              ],
+              [
+                "3",
+                "mennä",
+                "Menkää!",
+                "Älkää menkö!"
+              ],
+              [
+                "3",
+                "nousta",
+                "Nouskaa!",
+                "Älkää nousko!"
+              ],
+              [
+                "4",
+                "avata",
+                "Avatkaa!",
+                "Älkää avatko!"
+              ],
+              [
+                "4",
+                "haluta",
+                "Halutkaa!",
+                "Älkää halutko!"
+              ],
+              [
+                "5",
+                "tarvita",
+                "Tarvitkaa!",
+                "Älkää tarvitko!"
+              ]
+            ]
+          },
+          "tip": "Shortcut: types 4–6 = infinitive minus -a/-ä + kaa (*avata → avat-kaa*); type 3 = infinitive minus its last two letters + kaa (*tulla → tul-kaa*)."
+        },
+        {
+          "heading": "Let's …! (me)",
+          "body": "In spoken Finnish 'let's' is the passive form: **Mennään!** (Let's go!), **Syödään!** (Let's eat!), **Aloitetaan!** (Let's start!). Negative: *Ei mennä!*"
+        },
+        {
+          "heading": "The object of an imperative",
+          "body": "A whole, countable object is in the **basic form** (no -n): *Osta leipä!* (Buy a loaf!), *Avaa ovi!* (Open the door!). Uncountable or negative → partitive: *Osta maitoa! Älä avaa ovea!*"
+        },
+        {
+          "heading": "Classroom and everyday instructions",
+          "examples": [
+            {
+              "fi": "Kuunnelkaa! Toistakaa! Kirjoittakaa!",
+              "en": "Listen! Repeat! Write! (to the class)"
+            },
+            {
+              "fi": "Avatkaa kirjat sivulta kymmenen.",
+              "en": "Open your books at page ten."
+            },
+            {
+              "fi": "Istu alas! Ole hyvä ja istu.",
+              "en": "Sit down! Please sit down."
+            },
+            {
+              "fi": "Hengitä sisään… ja ulos. Nosta kädet ylös.",
+              "en": "Breathe in… and out. Raise your arms. (yoga)"
+            },
+            {
+              "fi": "Käänny oikealle ja mene suoraan.",
+              "en": "Turn right and go straight on."
+            },
+            {
+              "fi": "Älä unohda avaimia!",
+              "en": "Don't forget the keys!"
+            },
+            {
+              "fi": "Tule tänne! Odota hetki!",
+              "en": "Come here! Wait a moment!"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "verb-types",
+        "negation",
+        "object-case"
+      ],
+      "practice": [
+        {
+          "label": "Imperative drill",
+          "to": "/practice/conjugate?mode=imperative"
+        }
+      ]
+    },
+    {
+      "id": "verb-patterns",
+      "title": "Verb patterns: I want to…, I like…",
+      "fi": "Verbi + infinitiivi, pitää + -sta",
+      "emoji": "💬",
+      "summary": "Haluan syödä (I want to eat), Osaan uida (I can swim), Pidän kahvista (I like coffee), Tykkään hiihtää.",
+      "requires": [
+        "verb-type-1",
+        "verb-type-4"
+      ],
+      "sections": [
+        {
+          "heading": "Verb + infinitive",
+          "body": "Many verbs are followed by a second verb in the **infinitive** (dictionary form):",
+          "table": {
+            "headers": [
+              "Verb",
+              "Meaning",
+              "Example"
+            ],
+            "rows": [
+              [
+                "haluta",
+                "want to",
+                "Haluan oppia suomea. — I want to learn Finnish."
+              ],
+              [
+                "osata",
+                "know how to",
+                "Osaatko uida? — Can you swim?"
+              ],
+              [
+                "voida",
+                "can, be able to",
+                "Voin tulla huomenna. — I can come tomorrow."
+              ],
+              [
+                "saada",
+                "may, be allowed to",
+                "Saanko istua tässä? — May I sit here?"
+              ],
+              [
+                "alkaa",
+                "begin to",
+                "Alkaa sataa. — It's starting to rain."
+              ],
+              [
+                "yrittää",
+                "try to",
+                "Yritän puhua suomea. — I try to speak Finnish."
+              ],
+              [
+                "täytyy (minun täytyy)",
+                "have to, must",
+                "Minun täytyy mennä. — I have to go."
+              ],
+              [
+                "tykätä",
+                "like to (+ inf.)",
+                "Tykkään laulaa. — I like singing."
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Liking: pitää + elative (-sta/-stä)",
+          "body": "**pitää** ('to like') takes its object in the **elative**: *pidän kahvista* = I like coffee. (In speech, **tykätä** works the same way: *tykkään kahvista*.)",
+          "table": {
+            "headers": [
+              "",
+              "pitää (type 1, t → d)",
+              "tykätä (type 4, k → kk)"
+            ],
+            "rows": [
+              [
+                "minä",
+                "pidän",
+                "tykkään"
+              ],
+              [
+                "sinä",
+                "pidät",
+                "tykkäät"
+              ],
+              [
+                "hän",
+                "pitää",
+                "tykkää"
+              ],
+              [
+                "me",
+                "pidämme",
+                "tykkäämme"
+              ],
+              [
+                "te",
+                "pidätte",
+                "tykkäätte"
+              ],
+              [
+                "he",
+                "pitävät",
+                "tykkäävät"
+              ],
+              [
+                "negative",
+                "en pidä",
+                "en tykkää"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "fi": "Pidän suklaasta, mutta en pidä lakritsista.",
+              "en": "I like chocolate, but I don't like liquorice."
+            },
+            {
+              "fi": "Mistä sinä pidät? — Pidän joogasta ja kävelystä.",
+              "en": "What do you like? — I like yoga and walking."
+            },
+            {
+              "fi": "Tykkäätkö saunasta?",
+              "en": "Do you like sauna?"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "inner-local-cases",
+        "kpt-verbs",
+        "kpt-verbs-3-4"
+      ]
+    }
+  ]
+}

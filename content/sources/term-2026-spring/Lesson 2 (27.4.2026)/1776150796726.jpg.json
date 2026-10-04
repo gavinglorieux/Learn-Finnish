@@ -1,0 +1,656 @@
+{
+  "source": "term-2026-spring/Lesson 2 (27.4.2026)/1776150796726.jpg",
+  "md5": "848d5082dd9ee0de91a3aeb94d76653b",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 2,
+    "date": "2026-04-27"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "Harjoitus 21. Valitse verbi ja kirjoita oikea persoona.",
+    "en": "Exercise 21. Choose the verb and write the correct person."
+  },
+  "topics": [
+    "kpt-verbs",
+    "verb-type-1",
+    "negation"
+  ],
+  "summary": "Cloze story about Pekka and the narrator travelling to Paris: choose a verb from an 18-verb bank and conjugate it (many with k-p-t gradation; two negative forms). Item 1 is filled in (lähdemme).",
+  "transcript": "Harjoitus 21. Valitse verbi ja kirjoita oikea persoona.\n\nlähteä (crossed out)  ajaa  lentää  kirjoittaa  odottaa  ottaa\nlukea  katsoa  istua  kertoa  ostaa  sanoa\nlöytää  yöpyä  nukkua  soittaa  ymmärtää  saapua\n\nPekka ja minä 1. lähdemme tänään Ranskaan. Aamulla minä 2. ____ (NEG.) pitkään, koska me 3. ____ jo kello 6 lentokoneella Pariisiin. Lentokoneessa minä 4. ____ kirjaa ja Pekka nukkuu vähän. Kun me 5. ____ Pariisiin, Elise ja Fabian 6. ____ meitä. He 7. ____: \"Tervetuloa! 8. ____ te ranskaa?\" Sitten me 9. ____ autolla keskustaan ja 10. ____ kaupunkia. Pekka 11. ____ monta valokuvaa. Iltapäivällä minä 12. ____ kahvilassa ja 13. ____ postikortit Suomeen. Pekka menee kioskille ja 14. ____ Pariisin kartan. Me 15. ____ Elisen ja Fabianin kotona, mutta me 16. ____ (NEG.) taloa heti. Siksi Pekka 17. ____ Eliselle. Elise 18. ____, missä talo on.",
+  "words": [
+    {
+      "fi": "lähteä",
+      "en": "to leave, to set off",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "travel",
+      "forms": {
+        "minä": "lähden",
+        "me": "lähdemme",
+        "hän": "lähtee"
+      },
+      "note": "ht → hd"
+    },
+    {
+      "fi": "ajaa",
+      "en": "to drive",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "transport",
+      "forms": {
+        "me": "ajamme"
+      }
+    },
+    {
+      "fi": "lentää",
+      "en": "to fly",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "travel",
+      "forms": {
+        "me": "lennämme",
+        "hän": "lentää"
+      },
+      "note": "nt → nn"
+    },
+    {
+      "fi": "kirjoittaa",
+      "en": "to write",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "school-work",
+      "forms": {
+        "minä": "kirjoitan"
+      },
+      "note": "tt → t"
+    },
+    {
+      "fi": "odottaa",
+      "en": "to wait (for)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "minä": "odotan",
+        "he": "odottavat"
+      },
+      "note": "tt → t"
+    },
+    {
+      "fi": "ottaa",
+      "en": "to take",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "minä": "otan",
+        "hän": "ottaa"
+      },
+      "note": "tt → t"
+    },
+    {
+      "fi": "lukea",
+      "en": "to read",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "school-work",
+      "forms": {
+        "minä": "luen"
+      },
+      "note": "k → ∅"
+    },
+    {
+      "fi": "katsoa",
+      "en": "to look at, to watch",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "me": "katsomme"
+      }
+    },
+    {
+      "fi": "istua",
+      "en": "to sit",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "minä": "istun"
+      }
+    },
+    {
+      "fi": "kertoa",
+      "en": "to tell",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "minä": "kerron",
+        "hän": "kertoo"
+      },
+      "note": "rt → rr (minä kerron)"
+    },
+    {
+      "fi": "ostaa",
+      "en": "to buy",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "shopping-money",
+      "forms": {
+        "hän": "ostaa"
+      }
+    },
+    {
+      "fi": "sanoa",
+      "en": "to say",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "he": "sanovat"
+      }
+    },
+    {
+      "fi": "löytää",
+      "en": "to find",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "me": "löydämme",
+        "NEG": "emme löydä"
+      },
+      "note": "t → d"
+    },
+    {
+      "fi": "yöpyä",
+      "en": "to stay overnight",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "travel",
+      "forms": {
+        "me": "yövymme"
+      },
+      "note": "p → v"
+    },
+    {
+      "fi": "nukkua",
+      "en": "to sleep",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "daily-routine",
+      "forms": {
+        "minä": "nukun",
+        "hän": "nukkuu",
+        "NEG": "en nuku"
+      },
+      "note": "kk → k"
+    },
+    {
+      "fi": "soittaa",
+      "en": "to call (phone); to play (instrument)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "hän": "soittaa"
+      },
+      "note": "tt → t"
+    },
+    {
+      "fi": "ymmärtää",
+      "en": "to understand",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "school-work",
+      "forms": {
+        "te": "ymmärrätte"
+      },
+      "note": "rt → rr"
+    },
+    {
+      "fi": "saapua",
+      "en": "to arrive",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "travel",
+      "forms": {
+        "me": "saavumme"
+      },
+      "note": "p → v"
+    },
+    {
+      "fi": "tänään",
+      "en": "today",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "Ranska",
+      "en": "France",
+      "pos": "proper",
+      "theme": "nationalities",
+      "form_seen": "Ranskaan"
+    },
+    {
+      "fi": "aamulla",
+      "en": "in the morning",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "pitkään",
+      "en": "for a long time",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "koska",
+      "en": "because",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "jo",
+      "en": "already",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kello",
+      "en": "clock; o'clock",
+      "pos": "noun",
+      "theme": "clock"
+    },
+    {
+      "fi": "lentokone",
+      "en": "aeroplane",
+      "pos": "noun",
+      "theme": "transport",
+      "form_seen": "lentokoneella / lentokoneessa"
+    },
+    {
+      "fi": "Pariisi",
+      "en": "Paris",
+      "pos": "proper",
+      "theme": "travel",
+      "form_seen": "Pariisiin"
+    },
+    {
+      "fi": "kirja",
+      "en": "book",
+      "pos": "noun",
+      "theme": "school-work",
+      "form_seen": "kirjaa"
+    },
+    {
+      "fi": "vähän",
+      "en": "a little",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kun",
+      "en": "when",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "tervetuloa",
+      "en": "welcome",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "ranska",
+      "en": "French (language)",
+      "pos": "noun",
+      "theme": "nationalities",
+      "form_seen": "ranskaa"
+    },
+    {
+      "fi": "sitten",
+      "en": "then",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "auto",
+      "en": "car",
+      "pos": "noun",
+      "theme": "transport",
+      "form_seen": "autolla"
+    },
+    {
+      "fi": "keskusta",
+      "en": "town centre",
+      "pos": "noun",
+      "theme": "places-town",
+      "form_seen": "keskustaan"
+    },
+    {
+      "fi": "kaupunki",
+      "en": "city, town",
+      "pos": "noun",
+      "theme": "places-town",
+      "form_seen": "kaupunkia"
+    },
+    {
+      "fi": "monta",
+      "en": "many",
+      "pos": "adv",
+      "theme": "numbers"
+    },
+    {
+      "fi": "valokuva",
+      "en": "photograph",
+      "pos": "noun",
+      "theme": "hobbies-sport",
+      "form_seen": "valokuvaa"
+    },
+    {
+      "fi": "iltapäivällä",
+      "en": "in the afternoon",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "kahvila",
+      "en": "café",
+      "pos": "noun",
+      "theme": "cafe-shop",
+      "form_seen": "kahvilassa"
+    },
+    {
+      "fi": "postikortti",
+      "en": "postcard",
+      "pos": "noun",
+      "theme": "travel",
+      "form_seen": "postikortit"
+    },
+    {
+      "fi": "Suomi",
+      "en": "Finland",
+      "pos": "proper",
+      "theme": "nationalities",
+      "form_seen": "Suomeen"
+    },
+    {
+      "fi": "mennä",
+      "en": "to go",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs",
+      "form_seen": "menee"
+    },
+    {
+      "fi": "kioski",
+      "en": "kiosk",
+      "pos": "noun",
+      "theme": "cafe-shop",
+      "form_seen": "kioskille"
+    },
+    {
+      "fi": "kartta",
+      "en": "map",
+      "pos": "noun",
+      "theme": "travel",
+      "form_seen": "kartan",
+      "note": "tt → t"
+    },
+    {
+      "fi": "koti",
+      "en": "home",
+      "pos": "noun",
+      "theme": "home",
+      "form_seen": "kotona"
+    },
+    {
+      "fi": "mutta",
+      "en": "but",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "talo",
+      "en": "house",
+      "pos": "noun",
+      "theme": "home",
+      "form_seen": "taloa"
+    },
+    {
+      "fi": "heti",
+      "en": "immediately, straight away",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "siksi",
+      "en": "therefore, so",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "missä",
+      "en": "where",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs",
+      "form_seen": "on"
+    },
+    {
+      "fi": "verbi",
+      "en": "verb",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "persoona",
+      "en": "person (grammar)",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "valita",
+      "en": "to choose",
+      "pos": "verb",
+      "verb_type": 5,
+      "theme": "classroom",
+      "form_seen": "valitse"
+    },
+    {
+      "fi": "oikea",
+      "en": "correct, right",
+      "pos": "adj",
+      "theme": "adjectives"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Matka Pariisiin",
+        "en": "A trip to Paris (completed exercise text)"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Pekka ja minä lähdemme tänään Ranskaan.",
+          "en": "Pekka and I are leaving for France today."
+        },
+        {
+          "fi": "Aamulla minä en nuku pitkään, koska me lennämme jo kello 6 lentokoneella Pariisiin.",
+          "en": "In the morning I don't sleep long, because we fly to Paris by plane as early as 6 o'clock."
+        },
+        {
+          "fi": "Lentokoneessa minä luen kirjaa ja Pekka nukkuu vähän.",
+          "en": "On the plane I read a book and Pekka sleeps a little."
+        },
+        {
+          "fi": "Kun me saavumme Pariisiin, Elise ja Fabian odottavat meitä.",
+          "en": "When we arrive in Paris, Elise and Fabian are waiting for us."
+        },
+        {
+          "fi": "He sanovat: \"Tervetuloa! Ymmärrättekö te ranskaa?\"",
+          "en": "They say: \"Welcome! Do you understand French?\""
+        },
+        {
+          "fi": "Sitten me ajamme autolla keskustaan ja katsomme kaupunkia.",
+          "en": "Then we drive into the centre and look around the city."
+        },
+        {
+          "fi": "Pekka ottaa monta valokuvaa.",
+          "en": "Pekka takes lots of photos."
+        },
+        {
+          "fi": "Iltapäivällä minä istun kahvilassa ja kirjoitan postikortit Suomeen.",
+          "en": "In the afternoon I sit in a café and write the postcards to Finland."
+        },
+        {
+          "fi": "Pekka menee kioskille ja ostaa Pariisin kartan.",
+          "en": "Pekka goes to the kiosk and buys a map of Paris."
+        },
+        {
+          "fi": "Me yövymme Elisen ja Fabianin kotona, mutta me emme löydä taloa heti.",
+          "en": "We are staying at Elise and Fabian's home, but we don't find the house straight away."
+        },
+        {
+          "fi": "Siksi Pekka soittaa Eliselle.",
+          "en": "So Pekka calls Elise."
+        },
+        {
+          "fi": "Elise kertoo, missä talo on.",
+          "en": "Elise tells (him) where the house is."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Harjoitus 21. Valitse verbi ja kirjoita oikea persoona",
+      "instruction": "Choose the verb and write the correct person.",
+      "topic": "kpt-verbs",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Pekka ja minä ____ tänään Ranskaan.",
+          "base": "lähteä",
+          "answer": "lähdemme",
+          "en": "Pekka and I are leaving for France today.",
+          "answer_source": "key"
+        },
+        {
+          "prompt": "Aamulla minä ____ (NEG.) pitkään,",
+          "base": "nukkua",
+          "answer": "en nuku",
+          "en": "In the morning I don't sleep long,"
+        },
+        {
+          "prompt": "koska me ____ jo kello 6 lentokoneella Pariisiin.",
+          "base": "lentää",
+          "answer": "lennämme",
+          "en": "because we fly to Paris by plane already at 6 o'clock."
+        },
+        {
+          "prompt": "Lentokoneessa minä ____ kirjaa",
+          "base": "lukea",
+          "answer": "luen",
+          "en": "On the plane I read a book"
+        },
+        {
+          "prompt": "Kun me ____ Pariisiin,",
+          "base": "saapua",
+          "answer": "saavumme",
+          "en": "When we arrive in Paris,"
+        },
+        {
+          "prompt": "Elise ja Fabian ____ meitä.",
+          "base": "odottaa",
+          "answer": "odottavat",
+          "en": "Elise and Fabian are waiting for us."
+        },
+        {
+          "prompt": "He ____: \"Tervetuloa!\"",
+          "base": "sanoa",
+          "answer": "sanovat",
+          "en": "They say: \"Welcome!\""
+        },
+        {
+          "prompt": "\"____ te ranskaa?\"",
+          "base": "ymmärtää",
+          "answer": "Ymmärrättekö",
+          "en": "\"Do you understand French?\""
+        },
+        {
+          "prompt": "Sitten me ____ autolla keskustaan",
+          "base": "ajaa",
+          "answer": "ajamme",
+          "en": "Then we drive to the centre by car"
+        },
+        {
+          "prompt": "ja ____ kaupunkia.",
+          "base": "katsoa",
+          "answer": "katsomme",
+          "en": "and look at the city."
+        },
+        {
+          "prompt": "Pekka ____ monta valokuvaa.",
+          "base": "ottaa",
+          "answer": "ottaa",
+          "en": "Pekka takes many photos."
+        },
+        {
+          "prompt": "Iltapäivällä minä ____ kahvilassa",
+          "base": "istua",
+          "answer": "istun",
+          "en": "In the afternoon I sit in a café"
+        },
+        {
+          "prompt": "ja ____ postikortit Suomeen.",
+          "base": "kirjoittaa",
+          "answer": "kirjoitan",
+          "en": "and write the postcards to Finland."
+        },
+        {
+          "prompt": "Pekka menee kioskille ja ____ Pariisin kartan.",
+          "base": "ostaa",
+          "answer": "ostaa",
+          "en": "Pekka goes to the kiosk and buys a map of Paris."
+        },
+        {
+          "prompt": "Me ____ Elisen ja Fabianin kotona,",
+          "base": "yöpyä",
+          "answer": "yövymme",
+          "en": "We stay the night at Elise and Fabian's home,"
+        },
+        {
+          "prompt": "mutta me ____ (NEG.) taloa heti.",
+          "base": "löytää",
+          "answer": "emme löydä",
+          "en": "but we don't find the house straight away."
+        },
+        {
+          "prompt": "Siksi Pekka ____ Eliselle.",
+          "base": "soittaa",
+          "answer": "soittaa",
+          "en": "So Pekka calls Elise."
+        },
+        {
+          "prompt": "Elise ____, missä talo on.",
+          "base": "kertoa",
+          "answer": "kertoo",
+          "en": "Elise tells (him) where the house is."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": []
+}

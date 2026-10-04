@@ -1,0 +1,884 @@
+{
+  "source": "term-2026-winter/Lesson 10 (16.3.2026)/maanantai verbit.docx",
+  "md5": "797d0c186390db2eba26a5a5a1be4474",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 10,
+    "date": "2026-03-16"
+  },
+  "kind": "dialogue",
+  "title": {
+    "fi": "Tero ja Pasi — verbiharjoitus",
+    "en": "Tero and Pasi — verb exercise (Monday group)"
+  },
+  "topics": [
+    "verb-types",
+    "verb-type-1",
+    "verb-type-2",
+    "verb-type-3",
+    "verb-type-4",
+    "verb-type-5",
+    "negation",
+    "questions-ko",
+    "have-adessive"
+  ],
+  "summary": "Gap-fill dialogue between Tero and Pasi at a bar: fill in present-tense verbs of all types (some negative, marked NEG!) and translate English phrases; italic words glossed underneath.",
+  "transcript": "TERO: - Pasi, ____ (HALUTA) sinä olutta?\n\nPASI: - Joo, kiitos. ____ (KÄYDÄ) sinä baaritiskillä ja ____ (TILATA= to order) meille pullot olutta? Se on minun vuoro tarjota, mutta\n\n____ (I don´t have my card) mukana.\n\nbaaritiski= bar counter vuoro= turn tarjota= to offer, to buy a round\n\nTERO: - Älä huoli, minä ____ (MAKSAA). Sinä ____\n\n(VOIDA) ostaa meille seuraavat kaljat sitten, kun me ____ (MENNÄ)\n\ntaas ulos. ____ (TUODA) minä myös suolapähkinöitä tai sipsejä?\n\nPASI: - Miksi ei? ____ (I am a little hungry).\n\nälä huoli= don´t worry seuraava= the next/ following suolapähkinä= salted nut sipsit=crisps\n\nTERO: - Minä ____ (TARVITA NEG!) pähkinöitä, minä ____ (SYÖDÄ), kun minä ____ (MENNÄ) kotiin. Minun\n\ntytär ____ (TEHDÄ) ruokaa meille. Hän tykkää kokata.\n\nPASI: - Olet onnenpekka! Minä ____ (INHOTA) tehdä ruokaa ja minun\n\nvaimoni ____ (OSATA NEG!!) tehdä ruokaa. Hän ____ (OSATA) keittää perunat ja puuroa, mutta siinä se. Me ____\n\n(KÄYDÄ) usein ravintolassa tai me ____ (TILATA) ruokaa kotiin.\n\nkokata= to cook onnenpekka= lucky chap keittää= to cook in boiling water\n\nTERO: - Se ____ (OLLA NEG!!) ilmaista. Eikä terveellistä.\n\nPASI: - Joo. Minä ____ (LUULLA), että me ____\n\n(MAKSAA) ainakin 150 euroa kuussa Woltille. Mutta me ____\n\n(JAKSAA NEG!= to have the energy) alkaa tehdä ruokaa, kun me ____\n\n(TULLA) kotiin töistä.\n\nilmainen= free of charge eikä= neither terveellinen= healthy ainakin= at least kuussa=in a month Wolt= Suomen Deliveroo alkaa= to start to\n\nTERO: - Se on totta. Minä olen myös tosi väsynyt, kun ____ (PÄÄSTÄ)\n\ntöistä. Sitten minä ____ (ISTUA) bussissa 45 minuuttia. Me ____ (KÄYDÄ NEG!) enää edes kuntosalilla. Koko illan me ____ (LOJUA= to lie completely lazy) sohvalla ja ____\n\n(KATSELLA) TV:tä. No mutta ne oluet! Hei, tuolla on vapaa pöytä! Nuo ihmiset ____ (LÄHTEÄ= to leave) juuri, ____ (NÄHDÄ) sinä?\n\nMinä ____ (TUODA) meille juotavaa. Me ____\n\n(VOIDA) jatkaa juttua pöydässä. Minä ____ (TULLA) ihan pian!\n\ntotta= true enää= anymore edes= even tuolla=over there vapaa= free, unoccupied nuo= those juuri= just now juotava= something to drink juttu=the chat ihan pian= in a sec",
+  "words": [
+    {
+      "fi": "haluta",
+      "en": "to want",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "haluatko",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "olut",
+      "en": "beer",
+      "pos": "noun",
+      "form_seen": "olutta",
+      "theme": "drinks",
+      "note": "olut → olue-"
+    },
+    {
+      "fi": "joo",
+      "en": "yeah",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "kiitos",
+      "en": "thank you",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "käydä",
+      "en": "to go (and come back), to visit",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "käytkö",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "baaritiski",
+      "en": "bar counter",
+      "pos": "noun",
+      "form_seen": "baaritiskillä",
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "tilata",
+      "en": "to order",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "tilaat",
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "pullo",
+      "en": "bottle",
+      "pos": "noun",
+      "form_seen": "pullot",
+      "theme": "tableware"
+    },
+    {
+      "fi": "vuoro",
+      "en": "turn",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "tarjota",
+      "en": "to offer; to buy (someone) a round",
+      "pos": "verb",
+      "verb_type": 4,
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "kortti",
+      "en": "card (bank card)",
+      "pos": "noun",
+      "form_seen": "korttia",
+      "theme": "shopping-money",
+      "note": "tt → t"
+    },
+    {
+      "fi": "mukana",
+      "en": "with (me), along",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "älä huoli",
+      "en": "don't worry",
+      "pos": "phrase",
+      "theme": "feelings"
+    },
+    {
+      "fi": "maksaa",
+      "en": "to pay",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "maksan",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "voida",
+      "en": "can, to be able to",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "voit",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "ostaa",
+      "en": "to buy",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "seuraava",
+      "en": "next, following",
+      "pos": "adj",
+      "form_seen": "seuraavat",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "kalja",
+      "en": "beer (colloquial)",
+      "pos": "noun",
+      "form_seen": "kaljat",
+      "theme": "drinks"
+    },
+    {
+      "fi": "mennä",
+      "en": "to go",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "menemme",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "ulos",
+      "en": "out",
+      "pos": "adv",
+      "theme": "directions"
+    },
+    {
+      "fi": "tuoda",
+      "en": "to bring",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "tuonko",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "suolapähkinä",
+      "en": "salted nut",
+      "pos": "noun",
+      "form_seen": "suolapähkinöitä",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "sipsit",
+      "en": "crisps",
+      "pos": "noun",
+      "form_seen": "sipsejä",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "miksi ei",
+      "en": "why not",
+      "pos": "phrase",
+      "theme": "question-words"
+    },
+    {
+      "fi": "olla nälkä",
+      "en": "to be hungry",
+      "pos": "phrase",
+      "form_seen": "minulla on vähän nälkä",
+      "theme": "feelings"
+    },
+    {
+      "fi": "tarvita",
+      "en": "to need",
+      "pos": "verb",
+      "verb_type": 5,
+      "form_seen": "en tarvitse",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "pähkinä",
+      "en": "nut",
+      "pos": "noun",
+      "form_seen": "pähkinöitä",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "syödä",
+      "en": "to eat",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "syön",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "koti",
+      "en": "home",
+      "pos": "noun",
+      "form_seen": "kotiin",
+      "theme": "home"
+    },
+    {
+      "fi": "tytär",
+      "en": "daughter",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "tehdä",
+      "en": "to make, to do",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "tekee",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "ruoka",
+      "en": "food",
+      "pos": "noun",
+      "form_seen": "ruokaa",
+      "theme": "food-meals",
+      "note": "k → ∅ (ruoan)"
+    },
+    {
+      "fi": "tykätä",
+      "en": "to like",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "tykkää",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kokata",
+      "en": "to cook",
+      "pos": "verb",
+      "verb_type": 4,
+      "theme": "food-meals"
+    },
+    {
+      "fi": "onnenpekka",
+      "en": "lucky chap",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "inhota",
+      "en": "to hate, to loathe",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "inhoan",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "vaimo",
+      "en": "wife",
+      "pos": "noun",
+      "form_seen": "vaimoni",
+      "theme": "family"
+    },
+    {
+      "fi": "osata",
+      "en": "to know how to, can",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "ei osaa",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "keittää",
+      "en": "to cook (in boiling water), to boil",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "food-meals",
+      "note": "tt → t"
+    },
+    {
+      "fi": "peruna",
+      "en": "potato",
+      "pos": "noun",
+      "form_seen": "perunat",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "puuro",
+      "en": "porridge",
+      "pos": "noun",
+      "form_seen": "puuroa",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "siinä se",
+      "en": "that's it",
+      "pos": "phrase",
+      "theme": "little-words"
+    },
+    {
+      "fi": "usein",
+      "en": "often",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "ravintola",
+      "en": "restaurant",
+      "pos": "noun",
+      "form_seen": "ravintolassa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "ilmainen",
+      "en": "free (of charge)",
+      "pos": "adj",
+      "form_seen": "ilmaista",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "eikä",
+      "en": "and not, nor",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "terveellinen",
+      "en": "healthy",
+      "pos": "adj",
+      "form_seen": "terveellistä",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "luulla",
+      "en": "to think, to suppose",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "luulen",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "ainakin",
+      "en": "at least",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "euro",
+      "en": "euro",
+      "pos": "noun",
+      "form_seen": "euroa",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "kuukausi",
+      "en": "month",
+      "pos": "noun",
+      "form_seen": "kuussa",
+      "theme": "months-seasons",
+      "note": "kuussa = per month"
+    },
+    {
+      "fi": "jaksaa",
+      "en": "to have the energy to",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "emme jaksa",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "alkaa",
+      "en": "to start (to)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "lk → l (alan)"
+    },
+    {
+      "fi": "tulla",
+      "en": "to come",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "tulemme",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "työ",
+      "en": "work",
+      "pos": "noun",
+      "form_seen": "töistä",
+      "theme": "school-work"
+    },
+    {
+      "fi": "totta",
+      "en": "true",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "väsynyt",
+      "en": "tired",
+      "pos": "adj",
+      "theme": "feelings"
+    },
+    {
+      "fi": "päästä",
+      "en": "to get (off/out); to finish (work)",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "pääsen",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "istua",
+      "en": "to sit",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "istun",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "bussi",
+      "en": "bus",
+      "pos": "noun",
+      "form_seen": "bussissa",
+      "theme": "transport"
+    },
+    {
+      "fi": "minuutti",
+      "en": "minute",
+      "pos": "noun",
+      "form_seen": "minuuttia",
+      "theme": "clock"
+    },
+    {
+      "fi": "enää",
+      "en": "anymore",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "edes",
+      "en": "even",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kuntosali",
+      "en": "gym",
+      "pos": "noun",
+      "form_seen": "kuntosalilla",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "koko",
+      "en": "whole, entire",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "lojua",
+      "en": "to lie around lazily",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "lojumme",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "sohva",
+      "en": "sofa",
+      "pos": "noun",
+      "form_seen": "sohvalla",
+      "theme": "furniture"
+    },
+    {
+      "fi": "katsella",
+      "en": "to watch",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "katselemme",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "TV",
+      "en": "TV",
+      "pos": "noun",
+      "form_seen": "TV:tä",
+      "theme": "home"
+    },
+    {
+      "fi": "tuolla",
+      "en": "over there",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "vapaa",
+      "en": "free, unoccupied",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "pöytä",
+      "en": "table",
+      "pos": "noun",
+      "form_seen": "pöydässä",
+      "theme": "furniture",
+      "note": "t → d"
+    },
+    {
+      "fi": "nuo",
+      "en": "those",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "ihminen",
+      "en": "person",
+      "pos": "noun",
+      "form_seen": "ihmiset",
+      "theme": "people"
+    },
+    {
+      "fi": "lähteä",
+      "en": "to leave",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "lähtevät",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "juuri",
+      "en": "just (now)",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "nähdä",
+      "en": "to see",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "näetkö",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "juotava",
+      "en": "something to drink",
+      "pos": "noun",
+      "form_seen": "juotavaa",
+      "theme": "drinks"
+    },
+    {
+      "fi": "jatkaa",
+      "en": "to continue",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "juttu",
+      "en": "chat; thing",
+      "pos": "noun",
+      "form_seen": "juttua",
+      "theme": "other",
+      "note": "tt → t"
+    },
+    {
+      "fi": "ihan pian",
+      "en": "in a sec",
+      "pos": "phrase",
+      "theme": "days-time"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "ei ole",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "Wolt",
+      "en": "Wolt (food delivery app)",
+      "pos": "noun",
+      "form_seen": "Woltille",
+      "theme": "food-meals"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Tero ja Pasi baarissa",
+        "en": "Tero and Pasi at the bar"
+      },
+      "kind": "dialogue",
+      "lines": [
+        {
+          "speaker": "TERO",
+          "fi": "Pasi, haluatko sinä olutta?",
+          "en": "Pasi, do you want a beer?"
+        },
+        {
+          "speaker": "PASI",
+          "fi": "Joo, kiitos. Käytkö sinä baaritiskillä ja tilaat meille pullot olutta? Se on minun vuoro tarjota, mutta minulla ei ole korttia mukana.",
+          "en": "Yeah, thanks. Will you go to the bar and order us bottles of beer? It's my turn to buy, but I don't have my card with me."
+        },
+        {
+          "speaker": "TERO",
+          "fi": "Älä huoli, minä maksan. Sinä voit ostaa meille seuraavat kaljat sitten, kun me menemme taas ulos. Tuonko minä myös suolapähkinöitä tai sipsejä?",
+          "en": "Don't worry, I'll pay. You can buy us the next beers when we go out again. Shall I bring salted nuts or crisps too?"
+        },
+        {
+          "speaker": "PASI",
+          "fi": "Miksi ei? Minulla on vähän nälkä.",
+          "en": "Why not? I'm a little hungry."
+        },
+        {
+          "speaker": "TERO",
+          "fi": "Minä en tarvitse pähkinöitä, minä syön, kun minä menen kotiin. Minun tytär tekee ruokaa meille. Hän tykkää kokata.",
+          "en": "I don't need nuts, I'll eat when I go home. My daughter is making food for us. She likes to cook."
+        },
+        {
+          "speaker": "PASI",
+          "fi": "Olet onnenpekka! Minä inhoan tehdä ruokaa ja minun vaimoni ei osaa tehdä ruokaa. Hän osaa keittää perunat ja puuroa, mutta siinä se. Me käymme usein ravintolassa tai me tilaamme ruokaa kotiin.",
+          "en": "You're a lucky chap! I hate cooking and my wife can't cook. She can boil potatoes and porridge, but that's it. We often go to a restaurant or order food home."
+        },
+        {
+          "speaker": "TERO",
+          "fi": "Se ei ole ilmaista. Eikä terveellistä.",
+          "en": "That isn't free. Nor healthy."
+        },
+        {
+          "speaker": "PASI",
+          "fi": "Joo. Minä luulen, että me maksamme ainakin 150 euroa kuussa Woltille. Mutta me emme jaksa alkaa tehdä ruokaa, kun me tulemme kotiin töistä.",
+          "en": "Yeah. I think we pay at least 150 euros a month to Wolt. But we don't have the energy to start cooking when we get home from work."
+        },
+        {
+          "speaker": "TERO",
+          "fi": "Se on totta. Minä olen myös tosi väsynyt, kun pääsen töistä. Sitten minä istun bussissa 45 minuuttia. Me emme käy enää edes kuntosalilla. Koko illan me lojumme sohvalla ja katselemme TV:tä. No mutta ne oluet! Hei, tuolla on vapaa pöytä! Nuo ihmiset lähtevät juuri, näetkö sinä? Minä tuon meille juotavaa. Me voimme jatkaa juttua pöydässä. Minä tulen ihan pian!",
+          "en": "That's true. I'm also really tired when I get off work. Then I sit on the bus for 45 minutes. We don't even go to the gym anymore. All evening we lie around on the sofa and watch TV. Well, anyway, those beers! Hey, there's a free table over there! Those people are just leaving, do you see? I'll bring us something to drink. We can carry on chatting at the table. I'll be right there!"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Tero ja Pasi baarissa — verbit",
+      "instruction": "Fill in the verbs (present tense; NEG! = negative form) or translate the English phrase.",
+      "topic": "verb-types",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Pasi, ____ sinä olutta?",
+          "base": "HALUTA",
+          "answer": "haluatko",
+          "en": "Pasi, do you want a beer?"
+        },
+        {
+          "prompt": "Joo, kiitos. ____ sinä baaritiskillä ja tilaat meille pullot olutta?",
+          "base": "KÄYDÄ",
+          "answer": "Käytkö",
+          "en": "Yeah, thanks. Will you go to the bar…"
+        },
+        {
+          "prompt": "Käytkö sinä baaritiskillä ja ____ meille pullot olutta?",
+          "base": "TILATA",
+          "answer": "tilaat",
+          "en": "…and order us bottles of beer?"
+        },
+        {
+          "prompt": "Se on minun vuoro tarjota, mutta ____ mukana.",
+          "base": "I don't have my card",
+          "answer": "minulla ei ole korttia",
+          "en": "It's my turn to buy, but I don't have my card with me."
+        },
+        {
+          "prompt": "Älä huoli, minä ____ .",
+          "base": "MAKSAA",
+          "answer": "maksan",
+          "en": "Don't worry, I'll pay."
+        },
+        {
+          "prompt": "Sinä ____ ostaa meille seuraavat kaljat sitten, kun me menemme taas ulos.",
+          "base": "VOIDA",
+          "answer": "voit",
+          "en": "You can buy us the next beers when we go out again."
+        },
+        {
+          "prompt": "…sitten, kun me ____ taas ulos.",
+          "base": "MENNÄ",
+          "answer": "menemme",
+          "en": "…when we go out again."
+        },
+        {
+          "prompt": "____ minä myös suolapähkinöitä tai sipsejä?",
+          "base": "TUODA",
+          "answer": "Tuonko",
+          "en": "Shall I also bring salted nuts or crisps?"
+        },
+        {
+          "prompt": "Miksi ei? ____ .",
+          "base": "I am a little hungry",
+          "answer": "Minulla on vähän nälkä",
+          "en": "Why not? I'm a little hungry."
+        },
+        {
+          "prompt": "Minä ____ pähkinöitä…",
+          "base": "TARVITA NEG!",
+          "answer": "en tarvitse",
+          "en": "I don't need nuts…"
+        },
+        {
+          "prompt": "…minä ____ , kun minä menen kotiin.",
+          "base": "SYÖDÄ",
+          "answer": "syön",
+          "en": "…I'll eat when I go home."
+        },
+        {
+          "prompt": "…kun minä ____ kotiin.",
+          "base": "MENNÄ",
+          "answer": "menen",
+          "en": "…when I go home."
+        },
+        {
+          "prompt": "Minun tytär ____ ruokaa meille.",
+          "base": "TEHDÄ",
+          "answer": "tekee",
+          "en": "My daughter is making food for us."
+        },
+        {
+          "prompt": "Olet onnenpekka! Minä ____ tehdä ruokaa…",
+          "base": "INHOTA",
+          "answer": "inhoan",
+          "en": "You're a lucky chap! I hate cooking…"
+        },
+        {
+          "prompt": "…ja minun vaimoni ____ tehdä ruokaa.",
+          "base": "OSATA NEG!!",
+          "answer": "ei osaa",
+          "en": "…and my wife can't cook."
+        },
+        {
+          "prompt": "Hän ____ keittää perunat ja puuroa, mutta siinä se.",
+          "base": "OSATA",
+          "answer": "osaa",
+          "en": "She can boil potatoes and porridge, but that's it."
+        },
+        {
+          "prompt": "Me ____ usein ravintolassa…",
+          "base": "KÄYDÄ",
+          "answer": "käymme",
+          "en": "We often go to a restaurant…"
+        },
+        {
+          "prompt": "…tai me ____ ruokaa kotiin.",
+          "base": "TILATA",
+          "answer": "tilaamme",
+          "en": "…or we order food home."
+        },
+        {
+          "prompt": "Se ____ ilmaista. Eikä terveellistä.",
+          "base": "OLLA NEG!!",
+          "answer": "ei ole",
+          "en": "That's not free. Nor healthy."
+        },
+        {
+          "prompt": "Joo. Minä ____ , että me maksamme ainakin 150 euroa kuussa Woltille.",
+          "base": "LUULLA",
+          "answer": "luulen",
+          "en": "Yeah. I think we pay at least 150 euros a month to Wolt."
+        },
+        {
+          "prompt": "…että me ____ ainakin 150 euroa kuussa Woltille.",
+          "base": "MAKSAA",
+          "answer": "maksamme",
+          "en": "…that we pay at least 150 euros a month."
+        },
+        {
+          "prompt": "Mutta me ____ alkaa tehdä ruokaa…",
+          "base": "JAKSAA NEG!",
+          "answer": "emme jaksa",
+          "en": "But we don't have the energy to start cooking…"
+        },
+        {
+          "prompt": "…kun me ____ kotiin töistä.",
+          "base": "TULLA",
+          "answer": "tulemme",
+          "en": "…when we come home from work."
+        },
+        {
+          "prompt": "Minä olen myös tosi väsynyt, kun ____ töistä.",
+          "base": "PÄÄSTÄ",
+          "answer": "pääsen",
+          "en": "I'm also really tired when I get off work."
+        },
+        {
+          "prompt": "Sitten minä ____ bussissa 45 minuuttia.",
+          "base": "ISTUA",
+          "answer": "istun",
+          "en": "Then I sit on the bus for 45 minutes."
+        },
+        {
+          "prompt": "Me ____ enää edes kuntosalilla.",
+          "base": "KÄYDÄ NEG!",
+          "answer": "emme käy",
+          "en": "We don't even go to the gym anymore."
+        },
+        {
+          "prompt": "Koko illan me ____ sohvalla…",
+          "base": "LOJUA",
+          "answer": "lojumme",
+          "en": "All evening we lie around on the sofa…"
+        },
+        {
+          "prompt": "…ja ____ TV:tä.",
+          "base": "KATSELLA",
+          "answer": "katselemme",
+          "en": "…and watch TV."
+        },
+        {
+          "prompt": "Nuo ihmiset ____ juuri…",
+          "base": "LÄHTEÄ",
+          "answer": "lähtevät",
+          "en": "Those people are just leaving…"
+        },
+        {
+          "prompt": "…____ sinä?",
+          "base": "NÄHDÄ",
+          "answer": "näetkö",
+          "en": "…do you see?"
+        },
+        {
+          "prompt": "Minä ____ meille juotavaa.",
+          "base": "TUODA",
+          "answer": "tuon",
+          "en": "I'll bring us something to drink."
+        },
+        {
+          "prompt": "Me ____ jatkaa juttua pöydässä.",
+          "base": "VOIDA",
+          "answer": "voimme",
+          "en": "We can continue the chat at the table."
+        },
+        {
+          "prompt": "Minä ____ ihan pian!",
+          "base": "TULLA",
+          "answer": "tulen",
+          "en": "I'll be there in a sec!"
+        }
+      ]
+    }
+  ],
+  "grammar_notes": []
+}

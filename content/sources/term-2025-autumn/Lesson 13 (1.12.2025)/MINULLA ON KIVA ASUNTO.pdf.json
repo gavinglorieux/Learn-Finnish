@@ -1,0 +1,377 @@
+{
+  "source": "term-2025-autumn/Lesson 13 (1.12.2025)/MINULLA ON KIVA ASUNTO.pdf",
+  "md5": "4b1afa01a3e4f7db411a31f0299df451",
+  "also_in": [
+    "term-2025-autumn/Lesson 14 (8.12.2025)/MINULLA ON KIVA ASUNTO (1).pdf",
+    "term-2026-winter/Lesson 1 (12.1.2026)/MINULLA ON KIVA ASUNTO (1).pdf"
+  ],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 13,
+    "date": "2025-12-01"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "MINULLA ON KIVA ASUNTO",
+    "en": "I have a nice flat"
+  },
+  "topics": [
+    "have-adessive",
+    "negation",
+    "partitive",
+    "adjectives"
+  ],
+  "summary": "12 English sentences about one's home to translate into Finnish practising minulla on / minulla ei ole + partitive, with a vocabulary list.",
+  "transcript": "MINULLA ON KIVA ASUNTO     (I HAVE A NICE FLAT)\n\n1. I HAVE A MODERN KITCHEN BUT I DON’T HAVE A MICROWAVE.\n\n2. I HAVE A SPACIOUS LIVING-ROOM AND A BIG, SOFT, COMFORTABLE LEATHER SOFA.\n\n3. MY BEDROOM IS LIGHT AND TIDY. WE HAVE THREE WINDOWS.\n\n4. MY BATHROOM IS REALLY SMALL. WE DON’T HAVE A BATHTUB. WE HAVE A SHOWER.\n\n5. I DON’T HAVE A STUDY.\n\n6. WE DON’T HAVE A SAUNA IN LONDON.\n\n7. OUR TOILET IS CRAMPED AND THAT’S WHY IT IS MESSY.\n\n8. DO YOU HAVE A BALCONY? WE DON’T HAVE A BALCONY.\n\n9. WE DON’T HAVE A GARDEN BUT OUR FRONTYARD IS BIG AND GREEN.\n\n10. WE HAVE TWO KIDS SO WE HAVE A SANDPIT AND A SWING.\n\n11. I DON’T HAVE A CAR SO WE DON’T HAVE A GARAGE.\n\n12. WE DON’T HAVE A PET. DO YOU HAVE A DOG OR A CAT?\n\nMODERN=MODERNI KITCHEN=KEITTIÖ BUT=MUTTA MICROWAVE=MIKRO(AALTOUUNI)\nSPACIOUS= TILAVA LIVING-ROOM=OLOHUONE BIG= ISO SOFT= PEHMEÄ COMFORTABLE= MUKAVA\nLEATHER= NAHKA- SOFA= SOHVA BEDROOM=MAKUUHUONE LIGHT=VALOISA TIDY=SIISTI\nWINDOW= IKKUNA BATHROOM=KYLPYHUONE REALLY=TOSI, TODELLA SMALL=PIENI\nBATHTUB=KYLPYAMME SHOWER=SUIHKU STUDY= TYÖHUONE TOILET=VESSA CRAMPED=AHDAS\nTHAT’S WHY= SEN TAKIA MESSY= SEKAINEN BALCONY= PARVEKE GARDEN=PUUTARHA\nFRONTYARD=ETUPIHA GREEN= VIHREÄ CHILD= LAPSI (PARTITIIVI: LASTA) SANDPIT=HIEKKALAATIKKO\nSWING=KEINU CAR=AUTO GARAGE=AUTOTALLI PET = LEMMIKKI DOG= KOIRA OR= TAI CAT= KISSA",
+  "words": [
+    {
+      "fi": "kiva",
+      "en": "nice",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "asunto",
+      "en": "flat, apartment",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "moderni",
+      "en": "modern",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "keittiö",
+      "en": "kitchen",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "mutta",
+      "en": "but",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "mikro",
+      "en": "microwave",
+      "pos": "noun",
+      "theme": "household"
+    },
+    {
+      "fi": "mikroaaltouuni",
+      "en": "microwave oven",
+      "pos": "noun",
+      "theme": "household"
+    },
+    {
+      "fi": "tilava",
+      "en": "spacious",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "olohuone",
+      "en": "living room",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "iso",
+      "en": "big",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "pehmeä",
+      "en": "soft",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "mukava",
+      "en": "comfortable",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "nahka-",
+      "en": "leather (prefix)",
+      "pos": "adj",
+      "theme": "furniture"
+    },
+    {
+      "fi": "sohva",
+      "en": "sofa",
+      "pos": "noun",
+      "theme": "furniture"
+    },
+    {
+      "fi": "nahkasohva",
+      "en": "leather sofa",
+      "pos": "noun",
+      "theme": "furniture"
+    },
+    {
+      "fi": "makuuhuone",
+      "en": "bedroom",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "valoisa",
+      "en": "light, bright",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "siisti",
+      "en": "tidy",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "ikkuna",
+      "en": "window",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "kylpyhuone",
+      "en": "bathroom",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "tosi",
+      "en": "really",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "todella",
+      "en": "really",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "pieni",
+      "en": "small",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "kylpyamme",
+      "en": "bathtub",
+      "pos": "noun",
+      "theme": "household"
+    },
+    {
+      "fi": "suihku",
+      "en": "shower",
+      "pos": "noun",
+      "theme": "household"
+    },
+    {
+      "fi": "työhuone",
+      "en": "study",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "sauna",
+      "en": "sauna",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "vessa",
+      "en": "toilet",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "ahdas",
+      "en": "cramped",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "sen takia",
+      "en": "that's why",
+      "pos": "phrase",
+      "theme": "little-words"
+    },
+    {
+      "fi": "sekainen",
+      "en": "messy",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "parveke",
+      "en": "balcony",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "puutarha",
+      "en": "garden",
+      "pos": "noun",
+      "theme": "garden"
+    },
+    {
+      "fi": "etupiha",
+      "en": "front yard",
+      "pos": "noun",
+      "theme": "garden"
+    },
+    {
+      "fi": "vihreä",
+      "en": "green",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "lapsi",
+      "en": "child",
+      "pos": "noun",
+      "theme": "family",
+      "note": "partitive lasta"
+    },
+    {
+      "fi": "hiekkalaatikko",
+      "en": "sandpit",
+      "pos": "noun",
+      "theme": "garden"
+    },
+    {
+      "fi": "keinu",
+      "en": "swing",
+      "pos": "noun",
+      "theme": "garden"
+    },
+    {
+      "fi": "auto",
+      "en": "car",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "autotalli",
+      "en": "garage",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "lemmikki",
+      "en": "pet",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "koira",
+      "en": "dog",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "tai",
+      "en": "or",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kissa",
+      "en": "cat",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "joten",
+      "en": "so",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "Lontoo",
+      "en": "London",
+      "pos": "proper",
+      "theme": "places-town"
+    }
+  ],
+  "texts": [],
+  "exercises": [
+    {
+      "title": "Minulla on kiva asunto (I have a nice flat)",
+      "instruction": "Translate into Finnish (minulla on / minulla ei ole + partitive).",
+      "topic": "have-adessive",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "1. I HAVE A MODERN KITCHEN BUT I DON'T HAVE A MICROWAVE.",
+          "answer": "Minulla on moderni keittiö, mutta minulla ei ole mikroa.",
+          "en": "I have a modern kitchen but i don't have a microwave."
+        },
+        {
+          "prompt": "2. I HAVE A SPACIOUS LIVING-ROOM AND A BIG, SOFT, COMFORTABLE LEATHER SOFA.",
+          "answer": "Minulla on tilava olohuone ja iso, pehmeä, mukava nahkasohva.",
+          "en": "I have a spacious living-room and a big, soft, comfortable leather sofa."
+        },
+        {
+          "prompt": "3. MY BEDROOM IS LIGHT AND TIDY. WE HAVE THREE WINDOWS.",
+          "answer": "Minun makuuhuone on valoisa ja siisti. Meillä on kolme ikkunaa.",
+          "en": "My bedroom is light and tidy. we have three windows."
+        },
+        {
+          "prompt": "4. MY BATHROOM IS REALLY SMALL. WE DON'T HAVE A BATHTUB. WE HAVE A SHOWER.",
+          "answer": "Minun kylpyhuone on tosi pieni. Meillä ei ole kylpyammetta. Meillä on suihku.",
+          "en": "My bathroom is really small. we don't have a bathtub. we have a shower."
+        },
+        {
+          "prompt": "5. I DON'T HAVE A STUDY.",
+          "answer": "Minulla ei ole työhuonetta.",
+          "en": "I don't have a study."
+        },
+        {
+          "prompt": "6. WE DON'T HAVE A SAUNA IN LONDON.",
+          "answer": "Meillä ei ole saunaa Lontoossa.",
+          "en": "We don't have a sauna in london."
+        },
+        {
+          "prompt": "7. OUR TOILET IS CRAMPED AND THAT'S WHY IT IS MESSY.",
+          "answer": "Meidän vessa on ahdas ja sen takia se on sekainen.",
+          "en": "Our toilet is cramped and that's why it is messy."
+        },
+        {
+          "prompt": "8. DO YOU HAVE A BALCONY? WE DON'T HAVE A BALCONY.",
+          "answer": "Onko sinulla parveke? Meillä ei ole parveketta.",
+          "en": "Do you have a balcony? we don't have a balcony."
+        },
+        {
+          "prompt": "9. WE DON'T HAVE A GARDEN BUT OUR FRONTYARD IS BIG AND GREEN.",
+          "answer": "Meillä ei ole puutarhaa, mutta meidän etupiha on iso ja vihreä.",
+          "en": "We don't have a garden but our frontyard is big and green."
+        },
+        {
+          "prompt": "10. WE HAVE TWO KIDS SO WE HAVE A SANDPIT AND A SWING.",
+          "answer": "Meillä on kaksi lasta, joten meillä on hiekkalaatikko ja keinu.",
+          "en": "We have two kids so we have a sandpit and a swing."
+        },
+        {
+          "prompt": "11. I DON'T HAVE A CAR SO WE DON'T HAVE A GARAGE.",
+          "answer": "Minulla ei ole autoa, joten meillä ei ole autotallia.",
+          "en": "I don't have a car so we don't have a garage."
+        },
+        {
+          "prompt": "12. WE DON'T HAVE A PET. DO YOU HAVE A DOG OR A CAT?",
+          "answer": "Meillä ei ole lemmikkiä. Onko sinulla koira tai kissa?",
+          "en": "We don't have a pet. do you have a dog or a cat?"
+        }
+      ]
+    }
+  ],
+  "grammar_notes": []
+}

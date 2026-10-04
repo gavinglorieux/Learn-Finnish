@@ -1,0 +1,207 @@
+{
+  "source": "term-2026-winter/Lesson 9 (9.3.2026)/1771322682039.jpg",
+  "md5": "c6046ed39c1b353f9f71115a5939c197",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 9,
+    "date": "2026-03-09"
+  },
+  "kind": "other",
+  "title": {
+    "fi": "Herkkuhetki",
+    "en": "Treat time (spot the difference)"
+  },
+  "topics": [
+    "other"
+  ],
+  "summary": "Newspaper Donald Duck (Aku Ankka) spot-the-difference puzzle: Donald waits by a barbecue to grill a corn cob; find the differences between the two pictures.",
+  "transcript": "Herkkuhetki\nGrilli on parahiksi kuumana, ja pian Aku pääsee laittamaan makoisan maissintähkän tulille.\nKuinka monta eroa löydät kuvista?\n© DISNEY\nTehtävän ratkaisu löytyy sivulta A 29.",
+  "texts": [
+    {
+      "title": {
+        "fi": "Herkkuhetki",
+        "en": "Treat time"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Herkkuhetki",
+          "en": "A treat moment"
+        },
+        {
+          "fi": "Grilli on parahiksi kuumana, ja pian Aku pääsee laittamaan makoisan maissintähkän tulille.",
+          "en": "The grill is just hot enough, and soon Donald gets to put a tasty corn cob on the fire."
+        },
+        {
+          "fi": "Kuinka monta eroa löydät kuvista?",
+          "en": "How many differences can you find in the pictures?"
+        },
+        {
+          "fi": "Tehtävän ratkaisu löytyy sivulta A 29.",
+          "en": "The solution to the puzzle is on page A29."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Herkkuhetki – etsi erot",
+      "instruction": "Kuinka monta eroa löydät kuvista? (Find the differences.)",
+      "topic": "other",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Ero: vasemmassa kuvassa on aurinko, oikeassa ____.",
+          "answer": "kuu",
+          "en": "Difference: the left picture has the sun, the right one the moon.",
+          "uncertain": true
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "fi": "herkkuhetki",
+      "en": "treat moment",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "herkku",
+      "en": "treat, delicacy",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "hetki",
+      "en": "moment",
+      "pos": "noun",
+      "theme": "days-time"
+    },
+    {
+      "fi": "grilli",
+      "en": "grill, barbecue",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "parahiksi",
+      "en": "just right, just enough",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "kuuma",
+      "en": "hot",
+      "pos": "adj",
+      "form_seen": "kuumana",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "pian",
+      "en": "soon",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "päästä",
+      "en": "to get to, to be able to go",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "pääsee",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "laittaa",
+      "en": "to put",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "laittamaan",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "makoisa",
+      "en": "tasty, delicious",
+      "pos": "adj",
+      "form_seen": "makoisan",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "maissintähkä",
+      "en": "corn cob",
+      "pos": "noun",
+      "form_seen": "maissintähkän",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "tuli",
+      "en": "fire",
+      "pos": "noun",
+      "form_seen": "tulille",
+      "note": "tulille = onto the fire (grill)",
+      "theme": "nature"
+    },
+    {
+      "fi": "kuinka monta",
+      "en": "how many",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "ero",
+      "en": "difference",
+      "pos": "noun",
+      "form_seen": "eroa",
+      "theme": "other"
+    },
+    {
+      "fi": "löytää",
+      "en": "to find",
+      "pos": "verb",
+      "verb_type": 1,
+      "forms": {
+        "sinä": "löydät",
+        "hän": "löytyy (löytyä)"
+      },
+      "note": "t → d",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kuva",
+      "en": "picture",
+      "pos": "noun",
+      "form_seen": "kuvista",
+      "theme": "classroom"
+    },
+    {
+      "fi": "tehtävä",
+      "en": "task, puzzle",
+      "pos": "noun",
+      "form_seen": "tehtävän",
+      "theme": "school-work"
+    },
+    {
+      "fi": "ratkaisu",
+      "en": "solution",
+      "pos": "noun",
+      "theme": "school-work"
+    },
+    {
+      "fi": "löytyä",
+      "en": "to be found",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "löytyy",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "sivu",
+      "en": "page",
+      "pos": "noun",
+      "form_seen": "sivulta",
+      "theme": "classroom"
+    }
+  ],
+  "grammar_notes": []
+}

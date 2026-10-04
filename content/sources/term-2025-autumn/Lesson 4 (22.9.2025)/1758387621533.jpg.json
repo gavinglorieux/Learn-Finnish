@@ -1,0 +1,447 @@
+{
+  "source": "term-2025-autumn/Lesson 4 (22.9.2025)/1758387621533.jpg",
+  "md5": "afcebf3a3e7632994e4a70a005669e5a",
+  "also_in": [
+    "term-2025-autumn/Lesson 5 (29.9.2025)/1758387621533.jpg"
+  ],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 4,
+    "date": "2025-09-22"
+  },
+  "kind": "text",
+  "title": {
+    "fi": "Pertti Hyvärinen",
+    "en": "Pertti Hyvärinen"
+  },
+  "topics": [
+    "olla",
+    "negation",
+    "questions-ko",
+    "have-adessive",
+    "partitive",
+    "genitive"
+  ],
+  "summary": "Short reading text in which Pertti Hyvärinen describes his partner, three sons and two dogs; followed by the negative forms of olla and -ko/-kö questions with short yes/no answers, and a 'Kysymyksiä' prompt.",
+  "transcript": "Minun nimi on Pertti Hyvärinen. Minä olen 29-vuotias suomalainen mies. Minä en ole naimisissa. Minulla on avovaimo. Hänen nimi on Marja-Liisa. Hän on 31 vuotta vanha. Meillä on kolme lasta: Juhani, Tero ja Teemu. Kolme poikaa. Juhani on 11, Tero on 8 ja Teemu on 5. Minä olen poliisi ja Marja-Liisa on ammatiltaan sairaanhoitaja. Meillä on myös kaksi koiraa: Pietu ja Jaska. Pietu on minun poliisikoira ja Jaska on Marja-Liisan vanha labradori. Se on jo yli kymmenen vuotta vanha. Pietu on nuori malinois.\n\nMINÄ EN OLE....   SINÄ ET OLE....   HÄN EI OLE....\nME EMME OLE.....   TE ETTE OLE....   HE EIVÄT OLE...\n\nOletko sinä kiinalainen?   Olen.  /  En ole.\nOnko hän ruotsalainen?   On.  /  Ei ole.\nOletteko te naimisissa?   Olemme.  /  Emme ole.\nOvatko he naimisissa?   Ovat.  /  Eivät ole.\n\nKYSYMYKSIÄ:",
+  "words": [
+    {
+      "fi": "minä",
+      "en": "I",
+      "pos": "pron",
+      "form_seen": "minun / minulla",
+      "theme": "people"
+    },
+    {
+      "fi": "nimi",
+      "en": "name",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "forms": {
+        "minä": "olen",
+        "me": "olemme",
+        "he": "ovat"
+      },
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "-vuotias",
+      "en": "… years old",
+      "pos": "adj",
+      "form_seen": "29-vuotias",
+      "theme": "numbers"
+    },
+    {
+      "fi": "suomalainen",
+      "en": "Finnish; Finn",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "mies",
+      "en": "man",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "ei",
+      "en": "not (negation verb)",
+      "pos": "verb",
+      "forms": {
+        "minä": "en",
+        "sinä": "et",
+        "hän": "ei",
+        "me": "emme",
+        "te": "ette",
+        "he": "eivät"
+      },
+      "theme": "little-words"
+    },
+    {
+      "fi": "naimisissa",
+      "en": "married",
+      "pos": "adv",
+      "theme": "family"
+    },
+    {
+      "fi": "avovaimo",
+      "en": "common-law wife, live-in partner",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "hän",
+      "en": "he, she",
+      "pos": "pron",
+      "form_seen": "hänen",
+      "theme": "people"
+    },
+    {
+      "fi": "vuosi",
+      "en": "year",
+      "pos": "noun",
+      "form_seen": "vuotta",
+      "theme": "days-time"
+    },
+    {
+      "fi": "vanha",
+      "en": "old",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "me",
+      "en": "we",
+      "pos": "pron",
+      "form_seen": "meillä",
+      "theme": "people"
+    },
+    {
+      "fi": "kolme",
+      "en": "three",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "lapsi",
+      "en": "child",
+      "pos": "noun",
+      "form_seen": "lasta",
+      "theme": "family"
+    },
+    {
+      "fi": "poika",
+      "en": "boy, son",
+      "pos": "noun",
+      "form_seen": "poikaa",
+      "theme": "family"
+    },
+    {
+      "fi": "poliisi",
+      "en": "police officer",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "ammatti",
+      "en": "profession",
+      "pos": "noun",
+      "form_seen": "ammatiltaan",
+      "note": "ammatiltaan = by profession",
+      "theme": "professions"
+    },
+    {
+      "fi": "sairaanhoitaja",
+      "en": "nurse",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "myös",
+      "en": "also",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kaksi",
+      "en": "two",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "koira",
+      "en": "dog",
+      "pos": "noun",
+      "form_seen": "koiraa",
+      "theme": "animals"
+    },
+    {
+      "fi": "poliisikoira",
+      "en": "police dog",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "labradori",
+      "en": "Labrador (dog)",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "se",
+      "en": "it",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "jo",
+      "en": "already",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "yli",
+      "en": "over, more than",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kymmenen",
+      "en": "ten",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "nuori",
+      "en": "young",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "malinois",
+      "en": "Malinois (Belgian shepherd dog)",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "sinä",
+      "en": "you (sg.)",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "te",
+      "en": "you (pl.)",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "he",
+      "en": "they",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "kiinalainen",
+      "en": "Chinese; Chinese person",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "ruotsalainen",
+      "en": "Swedish; Swede",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "kysymys",
+      "en": "question",
+      "pos": "noun",
+      "form_seen": "kysymyksiä",
+      "theme": "classroom"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Pertti Hyvärinen",
+        "en": "Pertti Hyvärinen"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Minun nimi on Pertti Hyvärinen.",
+          "en": "My name is Pertti Hyvärinen."
+        },
+        {
+          "fi": "Minä olen 29-vuotias suomalainen mies.",
+          "en": "I am a 29-year-old Finnish man."
+        },
+        {
+          "fi": "Minä en ole naimisissa.",
+          "en": "I am not married."
+        },
+        {
+          "fi": "Minulla on avovaimo.",
+          "en": "I have a common-law wife (partner)."
+        },
+        {
+          "fi": "Hänen nimi on Marja-Liisa.",
+          "en": "Her name is Marja-Liisa."
+        },
+        {
+          "fi": "Hän on 31 vuotta vanha.",
+          "en": "She is 31 years old."
+        },
+        {
+          "fi": "Meillä on kolme lasta: Juhani, Tero ja Teemu.",
+          "en": "We have three children: Juhani, Tero and Teemu."
+        },
+        {
+          "fi": "Kolme poikaa.",
+          "en": "Three boys."
+        },
+        {
+          "fi": "Juhani on 11, Tero on 8 ja Teemu on 5.",
+          "en": "Juhani is 11, Tero is 8 and Teemu is 5."
+        },
+        {
+          "fi": "Minä olen poliisi ja Marja-Liisa on ammatiltaan sairaanhoitaja.",
+          "en": "I am a police officer and Marja-Liisa is a nurse by profession."
+        },
+        {
+          "fi": "Meillä on myös kaksi koiraa: Pietu ja Jaska.",
+          "en": "We also have two dogs: Pietu and Jaska."
+        },
+        {
+          "fi": "Pietu on minun poliisikoira ja Jaska on Marja-Liisan vanha labradori.",
+          "en": "Pietu is my police dog and Jaska is Marja-Liisa's old Labrador."
+        },
+        {
+          "fi": "Se on jo yli kymmenen vuotta vanha.",
+          "en": "It is already over ten years old."
+        },
+        {
+          "fi": "Pietu on nuori malinois.",
+          "en": "Pietu is a young Malinois."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fi": "Kyllä / ei -vastaukset",
+        "en": "Yes / no answers"
+      },
+      "kind": "dialogue",
+      "lines": [
+        {
+          "speaker": "A",
+          "fi": "Oletko sinä kiinalainen?",
+          "en": "Are you Chinese?"
+        },
+        {
+          "speaker": "B",
+          "fi": "Olen. / En ole.",
+          "en": "Yes. / No."
+        },
+        {
+          "speaker": "A",
+          "fi": "Onko hän ruotsalainen?",
+          "en": "Is he/she Swedish?"
+        },
+        {
+          "speaker": "B",
+          "fi": "On. / Ei ole.",
+          "en": "Yes. / No."
+        },
+        {
+          "speaker": "A",
+          "fi": "Oletteko te naimisissa?",
+          "en": "Are you (pl.) married?"
+        },
+        {
+          "speaker": "B",
+          "fi": "Olemme. / Emme ole.",
+          "en": "Yes. / No."
+        },
+        {
+          "speaker": "A",
+          "fi": "Ovatko he naimisissa?",
+          "en": "Are they married?"
+        },
+        {
+          "speaker": "B",
+          "fi": "Ovat. / Eivät ole.",
+          "en": "Yes. / No."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "negation",
+      "heading": "Negative of olla",
+      "text": "minä en ole, sinä et ole, hän ei ole, me emme ole, te ette ole, he eivät ole.",
+      "table": [
+        [
+          "minä",
+          "en ole"
+        ],
+        [
+          "sinä",
+          "et ole"
+        ],
+        [
+          "hän",
+          "ei ole"
+        ],
+        [
+          "me",
+          "emme ole"
+        ],
+        [
+          "te",
+          "ette ole"
+        ],
+        [
+          "he",
+          "eivät ole"
+        ]
+      ]
+    },
+    {
+      "topic": "questions-ko",
+      "heading": "Short answers to -ko/-kö questions",
+      "text": "Answer yes by repeating the verb in the right person (Olen. On. Olemme. Ovat.); answer no with the negation verb + ole (En ole. Ei ole. Emme ole. Eivät ole.).",
+      "table": [
+        [
+          "Oletko sinä kiinalainen?",
+          "Olen.",
+          "En ole."
+        ],
+        [
+          "Onko hän ruotsalainen?",
+          "On.",
+          "Ei ole."
+        ],
+        [
+          "Oletteko te naimisissa?",
+          "Olemme.",
+          "Emme ole."
+        ],
+        [
+          "Ovatko he naimisissa?",
+          "Ovat.",
+          "Eivät ole."
+        ]
+      ]
+    }
+  ],
+  "exercises": []
+}

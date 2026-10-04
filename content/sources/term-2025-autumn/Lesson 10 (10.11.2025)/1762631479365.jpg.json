@@ -1,0 +1,406 @@
+{
+  "source": "term-2025-autumn/Lesson 10 (10.11.2025)/1762631479365.jpg",
+  "md5": "e2a5f0f57ee02e1b844e40e2719a823a",
+  "also_in": [
+    "term-2025-autumn/Lesson 11 (17.11.2025)/1762631479365.jpg",
+    "term-2025-autumn/Lesson 12 (24.11.2025)/1762631479365 (1).jpg"
+  ],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 10,
+    "date": "2025-11-10"
+  },
+  "kind": "grammar",
+  "title": {
+    "fi": "Vuorokausi, vuodenajat, kuukaudet, värit",
+    "en": "Times of day, seasons, months, colours"
+  },
+  "topics": [
+    "days-dates",
+    "months-seasons",
+    "outer-local-cases",
+    "inner-local-cases",
+    "colours-adjectives"
+  ],
+  "summary": "Reference page: times of day with the adessive (aamulla, illalla…), seasons with \"Milloin?\" (talvella, keväällä…), the twelve months with the inessive (tammikuussa…), and a box of ten colours.",
+  "transcript": "Vuorokausi (24 h): lla/llä\naamulla\naamupäivällä\npäivällä\niltapäivällä\nillalla\nyöllä\naamuyöllä\nVuodenajat: lla/llä\nMilloin?\ntalvi  talvella\nkevät  keväällä\nkesä  kesällä\nsyksy  syksyllä\n[pictures:] talvi, kevät, kesä, syksy\nKuukaudet: ssa/ssä\nMilloin?\n1. tammikuu  tammikuussa\n2. helmikuu  helmikuussa\n3. maaliskuu  maaliskuussa\n4. huhtikuu  huhtikuussa\n5. toukokuu  toukokuussa\n6. kesäkuu  kesäkuussa\n7. heinäkuu  heinäkuussa\n8. elokuu  elokuussa\n9. syyskuu  syyskuussa\n10. lokakuu  lokakuussa\n11. marraskuu  marraskuussa\n12. joulukuu  joulukuussa\nVärit  Minkävärinen?\nvalkoinen  musta\npunainen  ruskea\nsininen  harmaa\nkeltainen  oranssi\nvihreä  liila",
+  "words": [
+    {
+      "fi": "vuorokausi",
+      "en": "day (24 hours)",
+      "pos": "noun",
+      "theme": "days-time"
+    },
+    {
+      "fi": "vuodenaika",
+      "en": "season",
+      "pos": "noun",
+      "form_seen": "vuodenajat",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "kuukausi",
+      "en": "month",
+      "pos": "noun",
+      "form_seen": "kuukaudet",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "milloin",
+      "en": "when",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "aamu",
+      "en": "morning",
+      "pos": "noun",
+      "form_seen": "aamulla",
+      "theme": "days-time"
+    },
+    {
+      "fi": "aamupäivä",
+      "en": "late morning, forenoon",
+      "pos": "noun",
+      "form_seen": "aamupäivällä",
+      "theme": "days-time"
+    },
+    {
+      "fi": "päivä",
+      "en": "day; midday",
+      "pos": "noun",
+      "form_seen": "päivällä",
+      "theme": "days-time"
+    },
+    {
+      "fi": "iltapäivä",
+      "en": "afternoon",
+      "pos": "noun",
+      "form_seen": "iltapäivällä",
+      "theme": "days-time"
+    },
+    {
+      "fi": "ilta",
+      "en": "evening",
+      "pos": "noun",
+      "form_seen": "illalla",
+      "theme": "days-time"
+    },
+    {
+      "fi": "yö",
+      "en": "night",
+      "pos": "noun",
+      "form_seen": "yöllä",
+      "theme": "days-time"
+    },
+    {
+      "fi": "aamuyö",
+      "en": "small hours, early morning (night)",
+      "pos": "noun",
+      "form_seen": "aamuyöllä",
+      "theme": "days-time"
+    },
+    {
+      "fi": "talvi",
+      "en": "winter",
+      "pos": "noun",
+      "form_seen": "talvella",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "kevät",
+      "en": "spring",
+      "pos": "noun",
+      "form_seen": "keväällä",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "kesä",
+      "en": "summer",
+      "pos": "noun",
+      "form_seen": "kesällä",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "syksy",
+      "en": "autumn",
+      "pos": "noun",
+      "form_seen": "syksyllä",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "tammikuu",
+      "en": "January",
+      "pos": "noun",
+      "form_seen": "tammikuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "helmikuu",
+      "en": "February",
+      "pos": "noun",
+      "form_seen": "helmikuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "maaliskuu",
+      "en": "March",
+      "pos": "noun",
+      "form_seen": "maaliskuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "huhtikuu",
+      "en": "April",
+      "pos": "noun",
+      "form_seen": "huhtikuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "toukokuu",
+      "en": "May",
+      "pos": "noun",
+      "form_seen": "toukokuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "kesäkuu",
+      "en": "June",
+      "pos": "noun",
+      "form_seen": "kesäkuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "heinäkuu",
+      "en": "July",
+      "pos": "noun",
+      "form_seen": "heinäkuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "elokuu",
+      "en": "August",
+      "pos": "noun",
+      "form_seen": "elokuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "syyskuu",
+      "en": "September",
+      "pos": "noun",
+      "form_seen": "syyskuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "lokakuu",
+      "en": "October",
+      "pos": "noun",
+      "form_seen": "lokakuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "marraskuu",
+      "en": "November",
+      "pos": "noun",
+      "form_seen": "marraskuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "joulukuu",
+      "en": "December",
+      "pos": "noun",
+      "form_seen": "joulukuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "väri",
+      "en": "colour",
+      "pos": "noun",
+      "form_seen": "värit",
+      "theme": "colours"
+    },
+    {
+      "fi": "minkävärinen",
+      "en": "what colour",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "valkoinen",
+      "en": "white",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "punainen",
+      "en": "red",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "sininen",
+      "en": "blue",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "keltainen",
+      "en": "yellow",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "vihreä",
+      "en": "green",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "musta",
+      "en": "black",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "ruskea",
+      "en": "brown",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "harmaa",
+      "en": "grey",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "oranssi",
+      "en": "orange",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "liila",
+      "en": "purple, lilac",
+      "pos": "adj",
+      "theme": "colours"
+    }
+  ],
+  "texts": [],
+  "exercises": [],
+  "grammar_notes": [
+    {
+      "topic": "days-dates",
+      "heading": "Vuorokausi (24 h): lla/llä",
+      "text": "Times of day answer \"Milloin?\" with the adessive -lla/-llä.",
+      "table": [
+        [
+          "aamu",
+          "aamulla"
+        ],
+        [
+          "aamupäivä",
+          "aamupäivällä"
+        ],
+        [
+          "päivä",
+          "päivällä"
+        ],
+        [
+          "iltapäivä",
+          "iltapäivällä"
+        ],
+        [
+          "ilta",
+          "illalla"
+        ],
+        [
+          "yö",
+          "yöllä"
+        ],
+        [
+          "aamuyö",
+          "aamuyöllä"
+        ]
+      ]
+    },
+    {
+      "topic": "months-seasons",
+      "heading": "Vuodenajat: lla/llä",
+      "text": "Seasons answer \"Milloin?\" with the adessive. Note talvi → talvella, kevät → keväällä.",
+      "table": [
+        [
+          "talvi",
+          "talvella"
+        ],
+        [
+          "kevät",
+          "keväällä"
+        ],
+        [
+          "kesä",
+          "kesällä"
+        ],
+        [
+          "syksy",
+          "syksyllä"
+        ]
+      ]
+    },
+    {
+      "topic": "months-seasons",
+      "heading": "Kuukaudet: ssa/ssä",
+      "text": "Months answer \"Milloin?\" with the inessive -ssa.",
+      "table": [
+        [
+          "tammikuu",
+          "tammikuussa"
+        ],
+        [
+          "helmikuu",
+          "helmikuussa"
+        ],
+        [
+          "maaliskuu",
+          "maaliskuussa"
+        ],
+        [
+          "huhtikuu",
+          "huhtikuussa"
+        ],
+        [
+          "toukokuu",
+          "toukokuussa"
+        ],
+        [
+          "kesäkuu",
+          "kesäkuussa"
+        ],
+        [
+          "heinäkuu",
+          "heinäkuussa"
+        ],
+        [
+          "elokuu",
+          "elokuussa"
+        ],
+        [
+          "syyskuu",
+          "syyskuussa"
+        ],
+        [
+          "lokakuu",
+          "lokakuussa"
+        ],
+        [
+          "marraskuu",
+          "marraskuussa"
+        ],
+        [
+          "joulukuu",
+          "joulukuussa"
+        ]
+      ]
+    }
+  ]
+}

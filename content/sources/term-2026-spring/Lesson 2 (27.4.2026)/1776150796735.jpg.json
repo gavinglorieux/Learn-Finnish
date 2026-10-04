@@ -1,0 +1,336 @@
+{
+  "source": "term-2026-spring/Lesson 2 (27.4.2026)/1776150796735.jpg",
+  "md5": "53997c03bb5f47664bbcfc7e7052570e",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 2,
+    "date": "2026-04-27"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "Harjoitus 20. K-p-t-vaihtelu. Kirjoita verbit.",
+    "en": "Exercise 20. K-p-t gradation. Write the verbs."
+  },
+  "topics": [
+    "kpt-verbs",
+    "verb-type-1",
+    "negation",
+    "questions-ko"
+  ],
+  "summary": "Ten sentences: conjugate the capitalised verb with k-p-t consonant gradation, including negatives and -ko/-kö questions. Item 1 is filled in (otan).",
+  "transcript": "Harjoitus 20. K-p-t-vaihtelu. Kirjoita verbit.\n\n1. Minä otan (OTTAA) kahvia.\n2. Me ____ (KIRJOITTAA) sähköpostia.\n3. ____ (TIETÄÄ) sinä, mikä on Chilen pääkaupunki?\n4. Pingviinit eivät ____ (LENTÄÄ).\n5. Me ____ (HIIHTÄÄ) talvella.\n6. ____ (YMMÄRTÄÄ) Te, mitä minä sanon?\n7. Hän ei ____ (LÄHTEÄ) Espanjaan, koska hän on töissä.\n8. ____ (LÄHETTÄÄ) te paljon sähköpostia?\n9. He eivät ____ (LUKEA) paljon.\n10. Sinä ____ (SOITTAA) kitaraa hyvin.\n\n(Illustration: a man playing guitar and singing, a woman listening.)",
+  "words": [
+    {
+      "fi": "ottaa",
+      "en": "to take; to have (food/drink)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "minä": "otan"
+      },
+      "note": "tt → t"
+    },
+    {
+      "fi": "kirjoittaa",
+      "en": "to write",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "school-work",
+      "forms": {
+        "me": "kirjoitamme"
+      },
+      "note": "tt → t"
+    },
+    {
+      "fi": "tietää",
+      "en": "to know",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "sinä": "tiedät"
+      },
+      "note": "t → d"
+    },
+    {
+      "fi": "lentää",
+      "en": "to fly",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "travel",
+      "forms": {
+        "NEG": "eivät lennä"
+      },
+      "note": "nt → nn"
+    },
+    {
+      "fi": "hiihtää",
+      "en": "to ski (cross-country)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "winter",
+      "forms": {
+        "me": "hiihdämme"
+      },
+      "note": "ht → hd"
+    },
+    {
+      "fi": "ymmärtää",
+      "en": "to understand",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "school-work",
+      "forms": {
+        "te": "ymmärrätte"
+      },
+      "note": "rt → rr"
+    },
+    {
+      "fi": "lähteä",
+      "en": "to leave, to set off",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "travel",
+      "forms": {
+        "NEG": "ei lähde"
+      },
+      "note": "ht → hd"
+    },
+    {
+      "fi": "lähettää",
+      "en": "to send",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "te": "lähetätte"
+      },
+      "note": "tt → t"
+    },
+    {
+      "fi": "lukea",
+      "en": "to read",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "school-work",
+      "forms": {
+        "NEG": "eivät lue"
+      },
+      "note": "k → ∅"
+    },
+    {
+      "fi": "soittaa",
+      "en": "to play (an instrument); to call",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "hobbies-sport",
+      "forms": {
+        "sinä": "soitat"
+      },
+      "note": "tt → t"
+    },
+    {
+      "fi": "sanoa",
+      "en": "to say",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "form_seen": "sanon"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs",
+      "form_seen": "on"
+    },
+    {
+      "fi": "kahvi",
+      "en": "coffee",
+      "pos": "noun",
+      "theme": "drinks",
+      "form_seen": "kahvia"
+    },
+    {
+      "fi": "sähköposti",
+      "en": "email",
+      "pos": "noun",
+      "theme": "school-work",
+      "form_seen": "sähköpostia"
+    },
+    {
+      "fi": "mikä",
+      "en": "what, which",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "mitä",
+      "en": "what (partitive)",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "Chile",
+      "en": "Chile",
+      "pos": "proper",
+      "theme": "nationalities",
+      "form_seen": "Chilen"
+    },
+    {
+      "fi": "pääkaupunki",
+      "en": "capital city",
+      "pos": "noun",
+      "theme": "places-town"
+    },
+    {
+      "fi": "pingviini",
+      "en": "penguin",
+      "pos": "noun",
+      "theme": "animals",
+      "form_seen": "pingviinit"
+    },
+    {
+      "fi": "talvi",
+      "en": "winter",
+      "pos": "noun",
+      "theme": "months-seasons",
+      "form_seen": "talvella"
+    },
+    {
+      "fi": "talvella",
+      "en": "in winter",
+      "pos": "adv",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "Espanja",
+      "en": "Spain",
+      "pos": "proper",
+      "theme": "nationalities",
+      "form_seen": "Espanjaan"
+    },
+    {
+      "fi": "koska",
+      "en": "because",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "työ",
+      "en": "work, job",
+      "pos": "noun",
+      "theme": "school-work",
+      "form_seen": "töissä",
+      "note": "töissä = at work"
+    },
+    {
+      "fi": "paljon",
+      "en": "a lot, much",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kitara",
+      "en": "guitar",
+      "pos": "noun",
+      "theme": "hobbies-sport",
+      "form_seen": "kitaraa"
+    },
+    {
+      "fi": "hyvin",
+      "en": "well",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "verbi",
+      "en": "verb",
+      "pos": "noun",
+      "theme": "classroom",
+      "form_seen": "verbit"
+    },
+    {
+      "fi": "k-p-t-vaihtelu",
+      "en": "k-p-t (consonant) gradation",
+      "pos": "noun",
+      "theme": "classroom"
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Harjoitus 20. K-p-t-vaihtelu. Kirjoita verbit.",
+      "instruction": "K-p-t gradation. Write the verbs.",
+      "topic": "kpt-verbs",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Minä ____ kahvia.",
+          "base": "ottaa",
+          "answer": "otan",
+          "en": "I'll have coffee.",
+          "answer_source": "key"
+        },
+        {
+          "prompt": "Me ____ sähköpostia.",
+          "base": "kirjoittaa",
+          "answer": "kirjoitamme",
+          "en": "We are writing an email."
+        },
+        {
+          "prompt": "____ sinä, mikä on Chilen pääkaupunki?",
+          "base": "tietää",
+          "answer": "Tiedätkö",
+          "en": "Do you know what the capital of Chile is?"
+        },
+        {
+          "prompt": "Pingviinit eivät ____.",
+          "base": "lentää",
+          "answer": "lennä",
+          "en": "Penguins don't fly."
+        },
+        {
+          "prompt": "Me ____ talvella.",
+          "base": "hiihtää",
+          "answer": "hiihdämme",
+          "en": "We ski in winter."
+        },
+        {
+          "prompt": "____ Te, mitä minä sanon?",
+          "base": "ymmärtää",
+          "answer": "Ymmärrättekö",
+          "en": "Do you understand what I am saying?"
+        },
+        {
+          "prompt": "Hän ei ____ Espanjaan, koska hän on töissä.",
+          "base": "lähteä",
+          "answer": "lähde",
+          "en": "He/She isn't leaving for Spain because he/she is at work."
+        },
+        {
+          "prompt": "____ te paljon sähköpostia?",
+          "base": "lähettää",
+          "answer": "Lähetättekö",
+          "en": "Do you send a lot of email?"
+        },
+        {
+          "prompt": "He eivät ____ paljon.",
+          "base": "lukea",
+          "answer": "lue",
+          "en": "They don't read much."
+        },
+        {
+          "prompt": "Sinä ____ kitaraa hyvin.",
+          "base": "soittaa",
+          "answer": "soitat",
+          "en": "You play the guitar well."
+        }
+      ]
+    }
+  ],
+  "texts": [],
+  "grammar_notes": []
+}

@@ -1,0 +1,879 @@
+{
+  "source": "term-2026-spring/Lesson 7 (1.6.2026)/postpositiot teksti ja piirrä LEFFASSA.docx",
+  "md5": "63a5e6f986855c590eb52e2fff0e5b75",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 7,
+    "date": "2026-06-01"
+  },
+  "kind": "text",
+  "title": {
+    "fi": "Leffassa",
+    "en": "At the cinema"
+  },
+  "topics": [
+    "postpositions",
+    "genitive",
+    "have-adessive"
+  ],
+  "summary": "Reading text about a group of friends at the cinema, told through postpositions (keskellä, takana, oikealla puolella, välissä, vieressä, luo, ohi, kuluttua, lähellä); students draw the seating plan from sentences 1–8. Bold words glossed at the end.",
+  "transcript": "LEFFASSA\n\nRiina, Timo, Tero, Jaakko, Anna-Mari, Pekka, Rauha ja Santeri istuvat elokuvateatterissa. Pian alkaa elokuva nimeltä ”Nettihuijari”. He hakevat yhdessä teatterin kioskista popcornia, kokista, irtokarkkia ja Riinalle teetä. Sitten he miettivät, kuka istuu ja missä.\n\nPiirrä heidän porukka leffateatterissa:\n\n1.  Riina istuu keskellä toisella rivillä.\n\n2.  Santeri istuu Riinan takana.\n\n3.  Santerin oikealla puolella istuu hänen tyttöystävä Anna-Mari.\n\n4.  Anna-Marin edessä, Riinan oikealla puolella, istuu Rauha.\n\n5.  Santeri istuu Anna-Marin ja Timon välissä.\n\n6.  Tero istuu Timon edessä, Riinan vasemmalla puolella.\n\n7.  Jaakko on leffateatterissa poikaystävänsä Pekan kanssa, mutta Jaakko ei istu Pekan vieressä, koska hän inhoaa popcornin hajua ja Pekka syö popcornia. Heillä on mykkäkoulu meneillään.\n\n8.  Pekka istuu nyt Teron vieressä ja Jaakko istuu Pekan takana. Jaakko mököttää ja potkaisee Pekan tuolia pari kertaa.\n\n9.  Keski-ikäinen nainen Jaakon vieressä katsoo Jaakkoa ja kysyy: -Onko sinulla joku ongelma?\n\n10. – On: minun poikaystävä, vastaa Jaakko.\n\n11. Nainen huokaisee ja siirtyy Jaakon vierestä hänen taakse. Hän kaivaa kassista jotain: popcornia.\n\n12. ”Nyt riittää”, Jaakko tiuskaisee ja siirtyy takimmaiselle riville. Takimmainen rivi on tyhjä: kukaan ei istu Jaakon vieressä.\n\n13. Mutta nyt hänen edessä istuu pitkä nuori mies. Miehellä on nuttura pään päällä…\n\n14. Onneksi juuri silloin Pekka tulee Jaakon luo: ”Anteeksi”, hän kuiskaa. ”Minulla ei ole enää popcornia. Tuletko sinä meidän luo vai tulemmeko me tänne?”\n\n15. Jaakko hymyilee: ”Minä tulen takaisin teidän luo. Ja ehkä Timo voi vaihtaa paikkaa sinun kanssa ja sinä voit istua minun vieressä?”\n\n16. ”Kysytään häneltä”, vastaa Pekka ja sitten he kävelevät yhdessä popcorn-naisen ohi takaisin Riinan ja porukan luo. Leffa alkaa kolmen minuutin kuluttua..\n\n17. ”Hei, leffan jälkeen me kaikki menemme kivaan pieneen kiinalaiseen ravintolaan Uudenmaankadulla”, kuiskaa Riina. ”Se ei ole kaukana, se on metroaseman lähellä. Sopiiko? Me voimme keskustella elokuvasta!”\n\nleffa= movie pian= soon netti= internet huijari= scammer yhdessä= together irtokarkki= pick´n´mix, ”loose candy” miettiä= to ponder piirtää= to draw porukka= ”the crew”, the group toinen= second, other rivi= row olla mykkäkoulu= to be having a ”silence, silent treatment” meneillään= ”in process” mököttää= to sulk potkaista= to (give a) kick to something kerta= time, occasion keski-ikäinen= middle-aged joku= some ongelma= problem huokaista= to sigh siirtyä= to move kaivaa= to dig kassi= a tote bag jotain= something Nyt riittää!= That´s enough! tiuskaista= to snap takimmainen= the back row tyhjä= empty kukaan= anyone nuttura= bun (of hair) pää=head onneksi= luckily, fortunately juuri silloin= just then kuiskata= to whisper enää= anymore tänne= (to) here vaihtaa= to change/ switch kysytään= let´s ask kuluttua= after (some time has passed) kaukana= far lähellä= near Sopiiko?= is that OK with you? Does it suit you? keskustella= to discuss, to have a conversation",
+  "words": [
+    {
+      "fi": "leffa",
+      "en": "movie, cinema (colloquial)",
+      "pos": "noun",
+      "form_seen": "leffassa",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "istua",
+      "en": "to sit",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "istuvat",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "elokuvateatteri",
+      "en": "cinema",
+      "pos": "noun",
+      "form_seen": "elokuvateatterissa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "pian",
+      "en": "soon",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "alkaa",
+      "en": "to start",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "lk → l"
+    },
+    {
+      "fi": "elokuva",
+      "en": "film",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "nimeltä",
+      "en": "called, by the name of",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "nettihuijari",
+      "en": "internet scammer",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "netti",
+      "en": "internet",
+      "pos": "noun",
+      "theme": "school-work"
+    },
+    {
+      "fi": "huijari",
+      "en": "scammer, cheat",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "hakea",
+      "en": "to fetch",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "hakevat",
+      "theme": "common-verbs",
+      "note": "k → ∅ (haen)"
+    },
+    {
+      "fi": "yhdessä",
+      "en": "together",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "teatteri",
+      "en": "theatre, cinema",
+      "pos": "noun",
+      "form_seen": "teatterin",
+      "theme": "places-town"
+    },
+    {
+      "fi": "kioski",
+      "en": "kiosk",
+      "pos": "noun",
+      "form_seen": "kioskista",
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "popcorn",
+      "en": "popcorn",
+      "pos": "noun",
+      "form_seen": "popcornia",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kokis",
+      "en": "Coke (colloquial)",
+      "pos": "noun",
+      "form_seen": "kokista",
+      "theme": "drinks"
+    },
+    {
+      "fi": "irtokarkki",
+      "en": "pick'n'mix, loose sweets",
+      "pos": "noun",
+      "form_seen": "irtokarkkia",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "tee",
+      "en": "tea",
+      "pos": "noun",
+      "form_seen": "teetä",
+      "theme": "drinks"
+    },
+    {
+      "fi": "miettiä",
+      "en": "to ponder, to think about",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "miettivät",
+      "theme": "common-verbs",
+      "note": "tt → t"
+    },
+    {
+      "fi": "kuka",
+      "en": "who",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "missä",
+      "en": "where",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "piirtää",
+      "en": "to draw",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "piirrä",
+      "theme": "common-verbs",
+      "note": "rt → rr"
+    },
+    {
+      "fi": "porukka",
+      "en": "group, crew",
+      "pos": "noun",
+      "theme": "people",
+      "note": "kk → k"
+    },
+    {
+      "fi": "leffateatteri",
+      "en": "cinema",
+      "pos": "noun",
+      "form_seen": "leffateatterissa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "keskellä",
+      "en": "in the middle",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "toinen",
+      "en": "second; other",
+      "pos": "num",
+      "form_seen": "toisella",
+      "theme": "numbers"
+    },
+    {
+      "fi": "rivi",
+      "en": "row",
+      "pos": "noun",
+      "form_seen": "rivillä",
+      "theme": "other"
+    },
+    {
+      "fi": "takana",
+      "en": "behind",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "oikealla puolella",
+      "en": "on the right-hand side",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "tyttöystävä",
+      "en": "girlfriend",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "edessä",
+      "en": "in front of",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "välissä",
+      "en": "between",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "vasemmalla puolella",
+      "en": "on the left-hand side",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "poikaystävä",
+      "en": "boyfriend",
+      "pos": "noun",
+      "form_seen": "poikaystävänsä",
+      "theme": "people"
+    },
+    {
+      "fi": "kanssa",
+      "en": "with",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "vieressä",
+      "en": "next to",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "koska",
+      "en": "because",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "inhota",
+      "en": "to hate",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "inhoaa",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "haju",
+      "en": "smell",
+      "pos": "noun",
+      "form_seen": "hajua",
+      "theme": "other"
+    },
+    {
+      "fi": "syödä",
+      "en": "to eat",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "syö",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "olla mykkäkoulu",
+      "en": "to give each other the silent treatment",
+      "pos": "phrase",
+      "form_seen": "heillä on mykkäkoulu",
+      "theme": "feelings"
+    },
+    {
+      "fi": "meneillään",
+      "en": "in progress, going on",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "nyt",
+      "en": "now",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "mököttää",
+      "en": "to sulk",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "feelings",
+      "note": "tt → t"
+    },
+    {
+      "fi": "potkaista",
+      "en": "to kick",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "potkaisee",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "tuoli",
+      "en": "chair",
+      "pos": "noun",
+      "form_seen": "tuolia",
+      "theme": "furniture"
+    },
+    {
+      "fi": "pari",
+      "en": "a couple (of)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kerta",
+      "en": "time, occasion",
+      "pos": "noun",
+      "form_seen": "kertaa",
+      "theme": "days-time",
+      "note": "rt → rr"
+    },
+    {
+      "fi": "keski-ikäinen",
+      "en": "middle-aged",
+      "pos": "adj",
+      "theme": "people"
+    },
+    {
+      "fi": "nainen",
+      "en": "woman",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "katsoa",
+      "en": "to look at",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "katsoo",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kysyä",
+      "en": "to ask",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "kysyy",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "joku",
+      "en": "some, someone",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "ongelma",
+      "en": "problem",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "vastata",
+      "en": "to answer",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "vastaa",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "huokaista",
+      "en": "to sigh",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "huokaisee",
+      "theme": "feelings"
+    },
+    {
+      "fi": "siirtyä",
+      "en": "to move (oneself)",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "siirtyy",
+      "theme": "common-verbs",
+      "note": "rt → rr"
+    },
+    {
+      "fi": "vierestä",
+      "en": "from next to",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "taakse",
+      "en": "(to) behind",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "kaivaa",
+      "en": "to dig",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kassi",
+      "en": "tote bag",
+      "pos": "noun",
+      "form_seen": "kassista",
+      "theme": "clothes"
+    },
+    {
+      "fi": "jotain",
+      "en": "something",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "nyt riittää!",
+      "en": "that's enough!",
+      "pos": "phrase",
+      "theme": "feelings"
+    },
+    {
+      "fi": "tiuskaista",
+      "en": "to snap (at someone)",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "tiuskaisee",
+      "theme": "feelings"
+    },
+    {
+      "fi": "takimmainen",
+      "en": "rearmost, the back (row)",
+      "pos": "adj",
+      "form_seen": "takimmaiselle",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "tyhjä",
+      "en": "empty",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "kukaan",
+      "en": "anyone (nobody with negative)",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "pitkä",
+      "en": "tall, long",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "nuori",
+      "en": "young",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "mies",
+      "en": "man",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "nuttura",
+      "en": "bun (of hair)",
+      "pos": "noun",
+      "theme": "appearance"
+    },
+    {
+      "fi": "pää",
+      "en": "head",
+      "pos": "noun",
+      "form_seen": "pään",
+      "theme": "body"
+    },
+    {
+      "fi": "päällä",
+      "en": "on top of",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "onneksi",
+      "en": "luckily",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "juuri silloin",
+      "en": "just then",
+      "pos": "phrase",
+      "theme": "days-time"
+    },
+    {
+      "fi": "tulla",
+      "en": "to come",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "tulee",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "luo",
+      "en": "to (someone's place)",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "anteeksi",
+      "en": "sorry, excuse me",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "kuiskata",
+      "en": "to whisper",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "kuiskaa",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "enää",
+      "en": "anymore",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "tänne",
+      "en": "(to) here",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "hymyillä",
+      "en": "to smile",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "hymyilee",
+      "theme": "feelings"
+    },
+    {
+      "fi": "takaisin",
+      "en": "back",
+      "pos": "adv",
+      "theme": "directions"
+    },
+    {
+      "fi": "ehkä",
+      "en": "maybe",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "voida",
+      "en": "can",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "voi",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "vaihtaa",
+      "en": "to change, to switch",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "paikka",
+      "en": "seat, place",
+      "pos": "noun",
+      "form_seen": "paikkaa",
+      "theme": "places-town",
+      "note": "kk → k"
+    },
+    {
+      "fi": "kysytään",
+      "en": "let's ask",
+      "pos": "phrase",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kävellä",
+      "en": "to walk",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "kävelevät",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "ohi",
+      "en": "past",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "minuutti",
+      "en": "minute",
+      "pos": "noun",
+      "form_seen": "minuutin",
+      "theme": "clock"
+    },
+    {
+      "fi": "kuluttua",
+      "en": "after (time has passed), in",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "jälkeen",
+      "en": "after",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "kaikki",
+      "en": "all, everyone",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "mennä",
+      "en": "to go",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "menemme",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kiva",
+      "en": "nice",
+      "pos": "adj",
+      "form_seen": "kivaan",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "pieni",
+      "en": "small",
+      "pos": "adj",
+      "form_seen": "pieneen",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "kiinalainen",
+      "en": "Chinese",
+      "pos": "adj",
+      "form_seen": "kiinalaiseen",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "ravintola",
+      "en": "restaurant",
+      "pos": "noun",
+      "form_seen": "ravintolaan",
+      "theme": "places-town"
+    },
+    {
+      "fi": "katu",
+      "en": "street",
+      "pos": "noun",
+      "form_seen": "Uudenmaankadulla",
+      "theme": "places-town",
+      "note": "t → d"
+    },
+    {
+      "fi": "kaukana",
+      "en": "far away",
+      "pos": "adv",
+      "theme": "directions"
+    },
+    {
+      "fi": "metroasema",
+      "en": "metro station",
+      "pos": "noun",
+      "form_seen": "metroaseman",
+      "theme": "transport"
+    },
+    {
+      "fi": "lähellä",
+      "en": "near",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "sopiiko?",
+      "en": "is that OK with you?",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "keskustella",
+      "en": "to discuss",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Leffassa",
+        "en": "At the cinema"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Riina, Timo, Tero, Jaakko, Anna-Mari, Pekka, Rauha ja Santeri istuvat elokuvateatterissa.",
+          "en": "Riina, Timo, Tero, Jaakko, Anna-Mari, Pekka, Rauha and Santeri are sitting in the cinema."
+        },
+        {
+          "fi": "Pian alkaa elokuva nimeltä ”Nettihuijari”.",
+          "en": "Soon a film called \"The Internet Scammer\" will start."
+        },
+        {
+          "fi": "He hakevat yhdessä teatterin kioskista popcornia, kokista, irtokarkkia ja Riinalle teetä.",
+          "en": "Together they fetch popcorn, Coke, pick'n'mix and tea for Riina from the cinema kiosk."
+        },
+        {
+          "fi": "Sitten he miettivät, kuka istuu ja missä.",
+          "en": "Then they think about who sits where."
+        },
+        {
+          "fi": "Piirrä heidän porukka leffateatterissa:",
+          "en": "Draw their group in the cinema:"
+        },
+        {
+          "fi": "1. Riina istuu keskellä toisella rivillä.",
+          "en": "1. Riina sits in the middle of the second row."
+        },
+        {
+          "fi": "2. Santeri istuu Riinan takana.",
+          "en": "2. Santeri sits behind Riina."
+        },
+        {
+          "fi": "3. Santerin oikealla puolella istuu hänen tyttöystävä Anna-Mari.",
+          "en": "3. On Santeri's right sits his girlfriend Anna-Mari."
+        },
+        {
+          "fi": "4. Anna-Marin edessä, Riinan oikealla puolella, istuu Rauha.",
+          "en": "4. In front of Anna-Mari, on Riina's right, sits Rauha."
+        },
+        {
+          "fi": "5. Santeri istuu Anna-Marin ja Timon välissä.",
+          "en": "5. Santeri sits between Anna-Mari and Timo."
+        },
+        {
+          "fi": "6. Tero istuu Timon edessä, Riinan vasemmalla puolella.",
+          "en": "6. Tero sits in front of Timo, on Riina's left."
+        },
+        {
+          "fi": "7. Jaakko on leffateatterissa poikaystävänsä Pekan kanssa, mutta Jaakko ei istu Pekan vieressä, koska hän inhoaa popcornin hajua ja Pekka syö popcornia. Heillä on mykkäkoulu meneillään.",
+          "en": "7. Jaakko is at the cinema with his boyfriend Pekka, but Jaakko isn't sitting next to Pekka, because he hates the smell of popcorn and Pekka is eating popcorn. They're giving each other the silent treatment."
+        },
+        {
+          "fi": "8. Pekka istuu nyt Teron vieressä ja Jaakko istuu Pekan takana. Jaakko mököttää ja potkaisee Pekan tuolia pari kertaa.",
+          "en": "8. Pekka is now sitting next to Tero and Jaakko sits behind Pekka. Jaakko sulks and kicks Pekka's chair a couple of times."
+        },
+        {
+          "fi": "9. Keski-ikäinen nainen Jaakon vieressä katsoo Jaakkoa ja kysyy: -Onko sinulla joku ongelma?",
+          "en": "9. A middle-aged woman next to Jaakko looks at him and asks: \"Do you have some problem?\""
+        },
+        {
+          "fi": "10. – On: minun poikaystävä, vastaa Jaakko.",
+          "en": "10. \"Yes: my boyfriend,\" Jaakko answers."
+        },
+        {
+          "fi": "11. Nainen huokaisee ja siirtyy Jaakon vierestä hänen taakse. Hän kaivaa kassista jotain: popcornia.",
+          "en": "11. The woman sighs and moves from beside Jaakko to behind him. She digs something out of her bag: popcorn."
+        },
+        {
+          "fi": "12. ”Nyt riittää”, Jaakko tiuskaisee ja siirtyy takimmaiselle riville. Takimmainen rivi on tyhjä: kukaan ei istu Jaakon vieressä.",
+          "en": "12. \"That's enough,\" Jaakko snaps and moves to the back row. The back row is empty: nobody sits next to Jaakko."
+        },
+        {
+          "fi": "13. Mutta nyt hänen edessä istuu pitkä nuori mies. Miehellä on nuttura pään päällä…",
+          "en": "13. But now a tall young man is sitting in front of him. The man has a bun on top of his head…"
+        },
+        {
+          "fi": "14. Onneksi juuri silloin Pekka tulee Jaakon luo: ”Anteeksi”, hän kuiskaa. ”Minulla ei ole enää popcornia. Tuletko sinä meidän luo vai tulemmeko me tänne?”",
+          "en": "14. Luckily, just then Pekka comes over to Jaakko. \"Sorry,\" he whispers. \"I don't have any popcorn any more. Are you coming over to us or shall we come here?\""
+        },
+        {
+          "fi": "15. Jaakko hymyilee: ”Minä tulen takaisin teidän luo. Ja ehkä Timo voi vaihtaa paikkaa sinun kanssa ja sinä voit istua minun vieressä?”",
+          "en": "15. Jaakko smiles: \"I'll come back to you. And maybe Timo can swap seats with you and you can sit next to me?\""
+        },
+        {
+          "fi": "16. ”Kysytään häneltä”, vastaa Pekka ja sitten he kävelevät yhdessä popcorn-naisen ohi takaisin Riinan ja porukan luo. Leffa alkaa kolmen minuutin kuluttua..",
+          "en": "16. \"Let's ask him,\" Pekka replies, and then together they walk past the popcorn woman back to Riina and the group. The film starts in three minutes."
+        },
+        {
+          "fi": "17. ”Hei, leffan jälkeen me kaikki menemme kivaan pieneen kiinalaiseen ravintolaan Uudenmaankadulla”, kuiskaa Riina. ”Se ei ole kaukana, se on metroaseman lähellä. Sopiiko? Me voimme keskustella elokuvasta!”",
+          "en": "17. \"Hey, after the film we're all going to a nice little Chinese restaurant on Uudenmaankatu,\" Riina whispers. \"It's not far, it's near the metro station. OK? We can talk about the film!\""
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Piirrä heidän porukka leffateatterissa",
+      "instruction": "Draw the group's seating in the cinema from sentences 1–8. (Derived seating plan given as the answer.)",
+      "topic": "postpositions",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Kuka istuu toisen rivin keskellä?",
+          "answer": "Riina",
+          "en": "Who sits in the middle of the second row?"
+        },
+        {
+          "prompt": "Kuka istuu Riinan oikealla puolella?",
+          "answer": "Rauha",
+          "en": "Who sits on Riina's right?"
+        },
+        {
+          "prompt": "Kuka istuu Riinan vasemmalla puolella?",
+          "answer": "Tero (ja Teron vieressä Pekka)",
+          "en": "Who sits on Riina's left?"
+        },
+        {
+          "prompt": "Kuka istuu Riinan takana?",
+          "answer": "Santeri",
+          "en": "Who sits behind Riina?"
+        },
+        {
+          "prompt": "Kuka istuu Santerin oikealla puolella?",
+          "answer": "Anna-Mari (Rauhan takana)",
+          "en": "Who sits on Santeri's right?"
+        },
+        {
+          "prompt": "Kuka istuu Santerin vasemmalla puolella?",
+          "answer": "Timo (Teron takana)",
+          "en": "Who sits on Santeri's left?"
+        },
+        {
+          "prompt": "Missä Jaakko istuu ensin?",
+          "answer": "Pekan takana, kolmannella rivillä Timon vieressä",
+          "en": "Where does Jaakko sit at first?"
+        }
+      ]
+    }
+  ],
+  "grammar_notes": []
+}

@@ -1,0 +1,206 @@
+{
+  "source": "term-2025-autumn/Lesson 6 (6.10.2025)/1759158791580.jpg",
+  "md5": "43d70ad3c1e6704ccfffc8715c4bee0b",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 6,
+    "date": "2025-10-06"
+  },
+  "kind": "picture_vocab",
+  "title": {
+    "fi": "Ruoka ja juoma",
+    "en": "Food and drink"
+  },
+  "topics": [],
+  "summary": "Illustrated textbook page labelling fruits (Hedelmät) and vegetables (Vihannekset/kasvikset).",
+  "transcript": "Ruoka ja juoma\nHedelmät\nananas, meloni, päärynä, omena, persikka, banaani, appelsiini, sitruuna, viinirypäle, luumu\nVihannekset/kasvikset\nkaali, salaatti, kukkakaali, porkkana, kurkku, tomaatti, oliivi, herne, paprika, sipuli, valkosipuli, papu, sieni, peruna",
+  "words": [
+    {
+      "fi": "ruoka",
+      "en": "food",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "juoma",
+      "en": "drink",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "hedelmä",
+      "en": "fruit",
+      "pos": "noun",
+      "form_seen": "hedelmät",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "ananas",
+      "en": "pineapple",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "meloni",
+      "en": "melon",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "päärynä",
+      "en": "pear",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "omena",
+      "en": "apple",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "persikka",
+      "en": "peach",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "banaani",
+      "en": "banana",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "appelsiini",
+      "en": "orange",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "sitruuna",
+      "en": "lemon",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "viinirypäle",
+      "en": "grape",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "luumu",
+      "en": "plum",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "vihannes",
+      "en": "vegetable",
+      "pos": "noun",
+      "form_seen": "vihannekset",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "kasvis",
+      "en": "vegetable",
+      "pos": "noun",
+      "form_seen": "kasvikset",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "kaali",
+      "en": "cabbage",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "salaatti",
+      "en": "lettuce; salad",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "kukkakaali",
+      "en": "cauliflower",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "porkkana",
+      "en": "carrot",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "kurkku",
+      "en": "cucumber",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "tomaatti",
+      "en": "tomato",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "oliivi",
+      "en": "olive",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "herne",
+      "en": "pea",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "paprika",
+      "en": "bell pepper",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "sipuli",
+      "en": "onion",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "valkosipuli",
+      "en": "garlic",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "papu",
+      "en": "bean",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "sieni",
+      "en": "mushroom",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "peruna",
+      "en": "potato",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "ja",
+      "en": "and",
+      "pos": "conj",
+      "theme": "little-words"
+    }
+  ],
+  "texts": [],
+  "exercises": [],
+  "grammar_notes": []
+}

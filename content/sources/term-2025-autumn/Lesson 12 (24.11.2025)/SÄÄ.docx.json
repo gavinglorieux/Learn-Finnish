@@ -1,0 +1,683 @@
+{
+  "source": "term-2025-autumn/Lesson 12 (24.11.2025)/SÄÄ.docx",
+  "md5": "ef862e2149fff622a52cf897df6aab5c",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 12,
+    "date": "2025-11-24"
+  },
+  "kind": "grammar",
+  "title": {
+    "fi": "SÄÄ: Tänään on kaunis päivä",
+    "en": "Weather: today is a beautiful day"
+  },
+  "topics": [
+    "weather",
+    "partitive",
+    "place-names",
+    "numbers"
+  ],
+  "summary": "Explains how to talk about the weather in Finnish (no subject, partitive adjectives, degrees of frost/warmth, compass directions) and includes a weather report for Finnish towns on 18 November.",
+  "transcript": "SÄÄ: Tänään on kaunis päivä\n\n- in Finnish, we don´t use the ”IT IS”-structure when talking about the weather as there is no subject in these sentences. We wonder ”What is this ”it”?”. There is no ”it”, you are just telling what the weather is like. As in Finnish you very rarely start a sentence with a verb (apart from questions or other structures yet to come), we start these weather ”informations” with either the location or a time expression:\n\nIT IS CLOUDY TOMORROW= Huomenna on pilvistä\n\nIT WILL BE SUNNY ON SATURDAY= Lauantaina on aurinkoista\n\nIT IS RAINING IN LONDON= Lontoossa sataa\n\nIT WILL BE SNOWING AT THE WEEKEND= Viikonloppuna sataa lunta\n\nIT WILL BE SNOWING IN TAMPERE AT THE WEEKEND= Tampereella sataa lunta viikonloppuna\n\nAT THE WEEKEND, IT WILL BE SUNNY IN TAMPERE= Viikonloppuna Tampereella on aurinkoista\n\n- You have two ways of saying basically the same thing, but in one version you are describing ”one thing” i.e you will have a noun in its basic form in the sentence. As the noun will be in basic form, soi ll the adjective:\n\nHUOMENNA ON PILVINEN PÄIVÄ= Tomorrow it will be a cloudy day\n\nSIELLÄ ON SUMUINEN AAMU= It is a foggy morning (out) there\n\nULKONA ON AURINKOINEN ILMA= It is a sunny weather outside\n\nSÄÄ ON HUOMENNA AURINKOINEN JA LÄMMIN= The weather will be sunny and warm tomorrow\n\nThe other way is the abstract way, where you don´t have a noun at all. Then you have the adjective in partitive form (i.e the A-ending form). As most adjectives to do with weather end in -NEN, you may remember that the -NEN will for partitive change into -STA (nainen > kaksi naista; punainen lippis > kolme punaista lippistä):\n\nHUOMENNA ON PILVISTÄ = It will be cloudy tomorrow\n\nSIELLÄ ON SUMUISTA= It is foggy out there\n\nULKONA ON AURINKOISTA= It is sunny out there\n\nHUOMENNA ON AURINKOISTA JA LÄMMINTÄ= Tomorrow it will be sunny and warm\n\n- We also use a lot less of the MIINUS and PLUS degrees. We rather say ”It is five degrees above zero= ”of warm” or ”It is five degrees below zero”=”of frozen”:\n\nULKONA ON MIINUS VIISI ASTETTA= ULKONA ON VIISI ASTETTA PAKKASTA\n\nULKONA ON PLUS KUUSI ASTETTA= ULKONA ON KUUSI ASTETTA LÄMMINTÄ\n\nLÄMPÖTILA= the temperature SÄÄENNUSTE/SÄÄTIEDOTE= weather forecast\n\nYou may also sometimes here these expressions:\n\nNOLLAN YLÄPUOLELLA= above zero\n\nNOLLAN ALAPUOLELLA= below zero\n\nSUOMI TÄNÄÄN 18. MARRASKUUTA KELLO 14:\n\nIvalossa, Kittilässä ja Sodankylässä on tänään aurinkoista. Lämpötila on noin miinus seitsemän astetta. Haltilla, Norjan rajalla, sataa lunta. noin= approximately raja= border\n\nRovaniemellä on tänään pilvinen päivä. Siellä on noin 10 astetta pakkasta.\n\nTänään Oulussa on pilvistä ja lämpötila on noin -8 astetta. Rannikolla tuulee. rannikko= coastline\n\nKuopiossa on tänään aurinkoinen päivä ja 5 astetta pakkasta. Vaasassa on puolipilvistä ja lämpötila on -2 astetta. Siellä myös tuulee vähän. vähän= a little bit\n\nTänään Jyväskylässä on aurinkoista ja 4 astetta pakkasta. Joensuussa on pilvinen päivä ja siellä on 3 astetta pakkasta.\n\nEtelä-Suomessa sää on vaihteleva. Rannikolla esiintyy heikkoa tuulta. Imatralla, itärajalla, on pilvistä. Helsingissä on aurinkoista ja 3 astetta pakkasta. Turussa on puolipilvinen iltapäivä. esiintyä= to occur heikko=slight tuulta= partitive of ”tuuli”= wind etelä= South vaihteleva= variable itäraja= Eastern border Turussa=in Turku\n\nTänään, tiistaina, Ahvenanmaalla on yksi aste lämmintä. Siellä on enimmäkseen pilvistä, mutta ajoittain myös aurinkoista. enimmäkseen= mostly, for the most part ajoittain= from time to time\n\nDIRECTIONS:\n\npohjoinen= the North > Pohjois-Suomi\n\netelä= South > Etelä-Suomi\n\nitä= east > Itä-Suomi\n\nlänsi= Wesrt > länsi-Suomi\n\nkoillinen > Koillis- > North-East\n\nkaakko > Kaakkois- > South-ast\n\nlounas > Lounais- > South-West\n\nluode > Luoteis- > North-West",
+  "words": [
+    {
+      "fi": "sää",
+      "en": "weather",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "tänään",
+      "en": "today",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "kaunis",
+      "en": "beautiful",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "päivä",
+      "en": "day",
+      "pos": "noun",
+      "theme": "days-time"
+    },
+    {
+      "fi": "huomenna",
+      "en": "tomorrow",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "pilvinen",
+      "en": "cloudy",
+      "pos": "adj",
+      "form_seen": "pilvistä",
+      "theme": "weather",
+      "note": "partitive pilvistä"
+    },
+    {
+      "fi": "lauantai",
+      "en": "Saturday",
+      "pos": "noun",
+      "form_seen": "lauantaina",
+      "theme": "days-time"
+    },
+    {
+      "fi": "aurinkoinen",
+      "en": "sunny",
+      "pos": "adj",
+      "form_seen": "aurinkoista",
+      "theme": "weather"
+    },
+    {
+      "fi": "sataa",
+      "en": "to rain; (sataa lunta) to snow",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "weather"
+    },
+    {
+      "fi": "viikonloppu",
+      "en": "weekend",
+      "pos": "noun",
+      "form_seen": "viikonloppuna",
+      "theme": "days-time"
+    },
+    {
+      "fi": "lumi",
+      "en": "snow",
+      "pos": "noun",
+      "form_seen": "lunta",
+      "theme": "weather",
+      "note": "partitive lunta"
+    },
+    {
+      "fi": "sumuinen",
+      "en": "foggy",
+      "pos": "adj",
+      "form_seen": "sumuista",
+      "theme": "weather"
+    },
+    {
+      "fi": "aamu",
+      "en": "morning",
+      "pos": "noun",
+      "theme": "days-time"
+    },
+    {
+      "fi": "siellä",
+      "en": "there",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "ulkona",
+      "en": "outside",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "ilma",
+      "en": "weather; air",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "lämmin",
+      "en": "warm",
+      "pos": "adj",
+      "form_seen": "lämmintä",
+      "theme": "weather",
+      "note": "partitive lämmintä"
+    },
+    {
+      "fi": "nainen",
+      "en": "woman",
+      "pos": "noun",
+      "form_seen": "naista",
+      "theme": "people"
+    },
+    {
+      "fi": "punainen",
+      "en": "red",
+      "pos": "adj",
+      "form_seen": "punaista",
+      "theme": "colours"
+    },
+    {
+      "fi": "lippis",
+      "en": "baseball cap",
+      "pos": "noun",
+      "form_seen": "lippistä",
+      "theme": "clothes"
+    },
+    {
+      "fi": "miinus",
+      "en": "minus",
+      "pos": "adv",
+      "theme": "weather"
+    },
+    {
+      "fi": "plus",
+      "en": "plus",
+      "pos": "adv",
+      "theme": "weather"
+    },
+    {
+      "fi": "aste",
+      "en": "degree",
+      "pos": "noun",
+      "form_seen": "astetta",
+      "theme": "weather"
+    },
+    {
+      "fi": "pakkanen",
+      "en": "frost, below-zero temperature",
+      "pos": "noun",
+      "form_seen": "pakkasta",
+      "theme": "weather"
+    },
+    {
+      "fi": "lämpötila",
+      "en": "temperature",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "sääennuste",
+      "en": "weather forecast",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "säätiedote",
+      "en": "weather report",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "nolla",
+      "en": "zero",
+      "pos": "num",
+      "form_seen": "nollan",
+      "theme": "numbers"
+    },
+    {
+      "fi": "yläpuolella",
+      "en": "above",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "alapuolella",
+      "en": "below",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "marraskuu",
+      "en": "November",
+      "pos": "noun",
+      "form_seen": "marraskuuta",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "kello",
+      "en": "clock; o'clock",
+      "pos": "noun",
+      "theme": "clock"
+    },
+    {
+      "fi": "noin",
+      "en": "approximately",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "raja",
+      "en": "border",
+      "pos": "noun",
+      "form_seen": "rajalla",
+      "theme": "directions"
+    },
+    {
+      "fi": "Norja",
+      "en": "Norway",
+      "pos": "proper",
+      "form_seen": "Norjan",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "rannikko",
+      "en": "coast",
+      "pos": "noun",
+      "form_seen": "rannikolla",
+      "theme": "nature"
+    },
+    {
+      "fi": "tuulla",
+      "en": "to be windy, to blow",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "tuulee",
+      "theme": "weather"
+    },
+    {
+      "fi": "puolipilvinen",
+      "en": "partly cloudy",
+      "pos": "adj",
+      "form_seen": "puolipilvistä",
+      "theme": "weather"
+    },
+    {
+      "fi": "myös",
+      "en": "also",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "vähän",
+      "en": "a little",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "vaihteleva",
+      "en": "variable",
+      "pos": "adj",
+      "theme": "weather"
+    },
+    {
+      "fi": "esiintyä",
+      "en": "to occur",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "esiintyy",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "heikko",
+      "en": "weak, slight",
+      "pos": "adj",
+      "form_seen": "heikkoa",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "tuuli",
+      "en": "wind",
+      "pos": "noun",
+      "form_seen": "tuulta",
+      "theme": "weather"
+    },
+    {
+      "fi": "itäraja",
+      "en": "eastern border",
+      "pos": "noun",
+      "form_seen": "itärajalla",
+      "theme": "directions"
+    },
+    {
+      "fi": "iltapäivä",
+      "en": "afternoon",
+      "pos": "noun",
+      "theme": "days-time"
+    },
+    {
+      "fi": "tiistai",
+      "en": "Tuesday",
+      "pos": "noun",
+      "form_seen": "tiistaina",
+      "theme": "days-time"
+    },
+    {
+      "fi": "enimmäkseen",
+      "en": "mostly",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "mutta",
+      "en": "but",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "ajoittain",
+      "en": "from time to time",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "pohjoinen",
+      "en": "north",
+      "pos": "noun",
+      "theme": "directions"
+    },
+    {
+      "fi": "etelä",
+      "en": "south",
+      "pos": "noun",
+      "theme": "directions"
+    },
+    {
+      "fi": "itä",
+      "en": "east",
+      "pos": "noun",
+      "theme": "directions"
+    },
+    {
+      "fi": "länsi",
+      "en": "west",
+      "pos": "noun",
+      "theme": "directions"
+    },
+    {
+      "fi": "koillinen",
+      "en": "north-east",
+      "pos": "noun",
+      "theme": "directions"
+    },
+    {
+      "fi": "kaakko",
+      "en": "south-east",
+      "pos": "noun",
+      "theme": "directions"
+    },
+    {
+      "fi": "lounas",
+      "en": "south-west",
+      "pos": "noun",
+      "theme": "directions"
+    },
+    {
+      "fi": "luode",
+      "en": "north-west",
+      "pos": "noun",
+      "theme": "directions"
+    },
+    {
+      "fi": "Pohjois-Suomi",
+      "en": "Northern Finland",
+      "pos": "proper",
+      "theme": "directions"
+    },
+    {
+      "fi": "Etelä-Suomi",
+      "en": "Southern Finland",
+      "pos": "proper",
+      "form_seen": "Etelä-Suomessa",
+      "theme": "directions"
+    },
+    {
+      "fi": "Itä-Suomi",
+      "en": "Eastern Finland",
+      "pos": "proper",
+      "theme": "directions"
+    },
+    {
+      "fi": "Länsi-Suomi",
+      "en": "Western Finland",
+      "pos": "proper",
+      "theme": "directions"
+    },
+    {
+      "fi": "Suomi",
+      "en": "Finland",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Lontoo",
+      "en": "London",
+      "pos": "proper",
+      "form_seen": "Lontoossa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "on",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "yksi",
+      "en": "one",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "viisi",
+      "en": "five",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kuusi",
+      "en": "six",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "seitsemän",
+      "en": "seven",
+      "pos": "num",
+      "theme": "numbers"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Suomi tänään 18. marraskuuta kello 14",
+        "en": "Finland today, 18 November, 2 pm"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Suomi tänään 18. marraskuuta kello 14:",
+          "en": "Finland today, 18 November, at 2 pm:"
+        },
+        {
+          "fi": "Ivalossa, Kittilässä ja Sodankylässä on tänään aurinkoista.",
+          "en": "In Ivalo, Kittilä and Sodankylä it is sunny today."
+        },
+        {
+          "fi": "Lämpötila on noin miinus seitsemän astetta.",
+          "en": "The temperature is about minus seven degrees."
+        },
+        {
+          "fi": "Haltilla, Norjan rajalla, sataa lunta.",
+          "en": "On Halti, at the Norwegian border, it is snowing."
+        },
+        {
+          "fi": "Rovaniemellä on tänään pilvinen päivä.",
+          "en": "In Rovaniemi it is a cloudy day today."
+        },
+        {
+          "fi": "Siellä on noin 10 astetta pakkasta.",
+          "en": "It is about 10 degrees below zero there."
+        },
+        {
+          "fi": "Tänään Oulussa on pilvistä ja lämpötila on noin -8 astetta.",
+          "en": "Today in Oulu it is cloudy and the temperature is about -8 degrees."
+        },
+        {
+          "fi": "Rannikolla tuulee.",
+          "en": "It is windy on the coast."
+        },
+        {
+          "fi": "Kuopiossa on tänään aurinkoinen päivä ja 5 astetta pakkasta.",
+          "en": "In Kuopio it is a sunny day today and 5 degrees below zero."
+        },
+        {
+          "fi": "Vaasassa on puolipilvistä ja lämpötila on -2 astetta.",
+          "en": "In Vaasa it is partly cloudy and the temperature is -2 degrees."
+        },
+        {
+          "fi": "Siellä myös tuulee vähän.",
+          "en": "It is also a little windy there."
+        },
+        {
+          "fi": "Tänään Jyväskylässä on aurinkoista ja 4 astetta pakkasta.",
+          "en": "Today in Jyväskylä it is sunny and 4 degrees below zero."
+        },
+        {
+          "fi": "Joensuussa on pilvinen päivä ja siellä on 3 astetta pakkasta.",
+          "en": "In Joensuu it is a cloudy day and it is 3 degrees below zero there."
+        },
+        {
+          "fi": "Etelä-Suomessa sää on vaihteleva.",
+          "en": "In Southern Finland the weather is variable."
+        },
+        {
+          "fi": "Rannikolla esiintyy heikkoa tuulta.",
+          "en": "There is a slight wind on the coast."
+        },
+        {
+          "fi": "Imatralla, itärajalla, on pilvistä.",
+          "en": "In Imatra, on the eastern border, it is cloudy."
+        },
+        {
+          "fi": "Helsingissä on aurinkoista ja 3 astetta pakkasta.",
+          "en": "In Helsinki it is sunny and 3 degrees below zero."
+        },
+        {
+          "fi": "Turussa on puolipilvinen iltapäivä.",
+          "en": "In Turku it is a partly cloudy afternoon."
+        },
+        {
+          "fi": "Tänään, tiistaina, Ahvenanmaalla on yksi aste lämmintä.",
+          "en": "Today, Tuesday, in Åland it is one degree above zero."
+        },
+        {
+          "fi": "Siellä on enimmäkseen pilvistä, mutta ajoittain myös aurinkoista.",
+          "en": "It is mostly cloudy there, but sometimes also sunny."
+        }
+      ]
+    }
+  ],
+  "exercises": [],
+  "grammar_notes": [
+    {
+      "topic": "weather",
+      "heading": "No 'it is' in weather sentences",
+      "text": "Finnish weather sentences have no subject. Start with a place or time expression instead of the verb.",
+      "table": [
+        [
+          "Huomenna on pilvistä.",
+          "It is cloudy tomorrow."
+        ],
+        [
+          "Lauantaina on aurinkoista.",
+          "It will be sunny on Saturday."
+        ],
+        [
+          "Lontoossa sataa.",
+          "It is raining in London."
+        ],
+        [
+          "Viikonloppuna sataa lunta.",
+          "It will be snowing at the weekend."
+        ],
+        [
+          "Tampereella sataa lunta viikonloppuna.",
+          "It will be snowing in Tampere at the weekend."
+        ],
+        [
+          "Viikonloppuna Tampereella on aurinkoista.",
+          "At the weekend it will be sunny in Tampere."
+        ]
+      ]
+    },
+    {
+      "topic": "weather",
+      "heading": "Noun + adjective (basic form) vs. adjective in partitive",
+      "text": "With a noun, both noun and adjective are in the basic form. Without a noun (abstract), the adjective is in the partitive; -nen > -sta (nainen > kaksi naista; punainen lippis > kolme punaista lippistä).",
+      "table": [
+        [
+          "Huomenna on pilvinen päivä.",
+          "Huomenna on pilvistä."
+        ],
+        [
+          "Siellä on sumuinen aamu.",
+          "Siellä on sumuista."
+        ],
+        [
+          "Ulkona on aurinkoinen ilma.",
+          "Ulkona on aurinkoista."
+        ],
+        [
+          "Sää on huomenna aurinkoinen ja lämmin.",
+          "Huomenna on aurinkoista ja lämmintä."
+        ]
+      ]
+    },
+    {
+      "topic": "weather",
+      "heading": "Temperatures",
+      "text": "Rather than miinus/plus, say degrees 'of frost' (pakkasta) or 'of warmth' (lämmintä). lämpötila = temperature; sääennuste/säätiedote = weather forecast; nollan yläpuolella = above zero; nollan alapuolella = below zero.",
+      "table": [
+        [
+          "Ulkona on miinus viisi astetta.",
+          "Ulkona on viisi astetta pakkasta."
+        ],
+        [
+          "Ulkona on plus kuusi astetta.",
+          "Ulkona on kuusi astetta lämmintä."
+        ]
+      ]
+    },
+    {
+      "topic": "weather",
+      "heading": "Directions",
+      "text": "Compass points and their compound prefixes.",
+      "table": [
+        [
+          "pohjoinen",
+          "Pohjois-Suomi",
+          "North"
+        ],
+        [
+          "etelä",
+          "Etelä-Suomi",
+          "South"
+        ],
+        [
+          "itä",
+          "Itä-Suomi",
+          "East"
+        ],
+        [
+          "länsi",
+          "Länsi-Suomi",
+          "West"
+        ],
+        [
+          "koillinen",
+          "Koillis-",
+          "North-East"
+        ],
+        [
+          "kaakko",
+          "Kaakkois-",
+          "South-East"
+        ],
+        [
+          "lounas",
+          "Lounais-",
+          "South-West"
+        ],
+        [
+          "luode",
+          "Luoteis-",
+          "North-West"
+        ]
+      ]
+    }
+  ]
+}

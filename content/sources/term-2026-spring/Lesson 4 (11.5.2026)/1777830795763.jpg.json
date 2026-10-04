@@ -1,0 +1,288 @@
+{
+  "source": "term-2026-spring/Lesson 4 (11.5.2026)/1777830795763.jpg",
+  "md5": "ff24df05d56efbdb1c2ed225966538c5",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 4,
+    "date": "2026-05-11"
+  },
+  "kind": "picture_vocab",
+  "title": {
+    "fi": "Verbit",
+    "en": "Verbs"
+  },
+  "topics": [
+    "verb-types"
+  ],
+  "summary": "Illustrated verb vocabulary box: 19 everyday verbs/verb phrases, each labelled with its verb type number (1–5).",
+  "transcript": "Verbit\n\npuhua (1)\nlukea (1)\nkirjoittaa (1)\npiirtää (1)\nopiskella (3)\nkeskustella (3)\nnukkua (1)\nsoida (2)\nherätä (4)\nnousta (3)\nsyödä (2)\njuoda (2)\ntehdä ruokaa (2)\npolttaa tupakkaa (1)\njuhlia (1)\nottaa (1)\nantaa (1)\navata (4)\nvalita (5)\n\n(Each verb is illustrated with a small line drawing.)",
+  "words": [
+    {
+      "fi": "puhua",
+      "en": "to speak, to talk",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "lukea",
+      "en": "to read",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "school-work",
+      "note": "k → ∅ (luen)"
+    },
+    {
+      "fi": "kirjoittaa",
+      "en": "to write",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "school-work",
+      "note": "tt → t"
+    },
+    {
+      "fi": "piirtää",
+      "en": "to draw",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "hobbies-sport",
+      "note": "rt → rr (piirrän)"
+    },
+    {
+      "fi": "opiskella",
+      "en": "to study",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "school-work"
+    },
+    {
+      "fi": "keskustella",
+      "en": "to discuss, to have a conversation",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "nukkua",
+      "en": "to sleep",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "daily-routine",
+      "note": "kk → k"
+    },
+    {
+      "fi": "soida",
+      "en": "to ring, to play (of a radio/instrument), to sound",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "household"
+    },
+    {
+      "fi": "herätä",
+      "en": "to wake up",
+      "pos": "verb",
+      "verb_type": 4,
+      "theme": "daily-routine"
+    },
+    {
+      "fi": "nousta",
+      "en": "to get up, to rise",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "daily-routine"
+    },
+    {
+      "fi": "syödä",
+      "en": "to eat",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "food-meals"
+    },
+    {
+      "fi": "juoda",
+      "en": "to drink",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "drinks"
+    },
+    {
+      "fi": "tehdä ruokaa",
+      "en": "to cook, to make food",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "food-meals",
+      "note": "tehdä is irregular; the sheet marks it (2)"
+    },
+    {
+      "fi": "polttaa tupakkaa",
+      "en": "to smoke (tobacco)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "tt → t"
+    },
+    {
+      "fi": "juhlia",
+      "en": "to celebrate, to party",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "celebrations"
+    },
+    {
+      "fi": "ottaa",
+      "en": "to take",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "tt → t"
+    },
+    {
+      "fi": "antaa",
+      "en": "to give",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "nt → nn"
+    },
+    {
+      "fi": "avata",
+      "en": "to open",
+      "pos": "verb",
+      "verb_type": 4,
+      "theme": "household"
+    },
+    {
+      "fi": "valita",
+      "en": "to choose",
+      "pos": "verb",
+      "verb_type": 5,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "tehdä",
+      "en": "to do, to make",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "common-verbs",
+      "note": "irregular"
+    },
+    {
+      "fi": "ruoka",
+      "en": "food",
+      "pos": "noun",
+      "theme": "food-meals",
+      "form_seen": "ruokaa",
+      "note": "k → ∅"
+    },
+    {
+      "fi": "polttaa",
+      "en": "to burn; to smoke",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "tt → t"
+    },
+    {
+      "fi": "tupakka",
+      "en": "tobacco, cigarette",
+      "pos": "noun",
+      "theme": "other",
+      "form_seen": "tupakkaa"
+    },
+    {
+      "fi": "verbi",
+      "en": "verb",
+      "pos": "noun",
+      "theme": "classroom",
+      "form_seen": "Verbit"
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "verb-types",
+      "heading": "Verbit (verb type in brackets)",
+      "text": "Each verb is labelled with its verb type.",
+      "table": [
+        [
+          "puhua",
+          "1"
+        ],
+        [
+          "lukea",
+          "1"
+        ],
+        [
+          "kirjoittaa",
+          "1"
+        ],
+        [
+          "piirtää",
+          "1"
+        ],
+        [
+          "opiskella",
+          "3"
+        ],
+        [
+          "keskustella",
+          "3"
+        ],
+        [
+          "nukkua",
+          "1"
+        ],
+        [
+          "soida",
+          "2"
+        ],
+        [
+          "herätä",
+          "4"
+        ],
+        [
+          "nousta",
+          "3"
+        ],
+        [
+          "syödä",
+          "2"
+        ],
+        [
+          "juoda",
+          "2"
+        ],
+        [
+          "tehdä ruokaa",
+          "2"
+        ],
+        [
+          "polttaa tupakkaa",
+          "1"
+        ],
+        [
+          "juhlia",
+          "1"
+        ],
+        [
+          "ottaa",
+          "1"
+        ],
+        [
+          "antaa",
+          "1"
+        ],
+        [
+          "avata",
+          "4"
+        ],
+        [
+          "valita",
+          "5"
+        ]
+      ]
+    }
+  ],
+  "texts": [],
+  "exercises": []
+}

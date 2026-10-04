@@ -1,0 +1,73 @@
+{
+  "source": "term-2026-spring/Lesson 4 (11.5.2026)/1675089629341 (1).jpg",
+  "md5": "9df2f39d0fe16bd85022b7c3b08d7ad4",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 4,
+    "date": "2026-05-11"
+  },
+  "kind": "grammar",
+  "title": {
+    "fi": "Kielioppi: Verbityyppi 1 ja KPT",
+    "en": "Verb type 1 and KPT"
+  },
+  "topics": [
+    "kpt-verbs",
+    "verb-type-1"
+  ],
+  "summary": "Grammar explanation (in English) of consonant gradation in type 1 verbs: strong grade in the infinitive and third-person forms, weak grade in first and second person; model conjugation of antaa (nt → nn).",
+  "transcript": "[KIEL]IOPPI\nVerb type 1 and KPT\n\nThere are a lot of type 1 verbs with KPT changes. The consonant(s) are the same in the dictionary form and the hän and he form. First person and second person verbs have weak grade, the infinitive (dictionary form) and the third person forms have the strong grade. The verbs in the previous example chart are type 1 verbs.\n\nantaa (to give)\nnt → nn\nminä annan      me annamme\nsinä annat      te annatte\nhän antaa       he antavat",
+  "words": [
+    {
+      "fi": "antaa",
+      "en": "to give",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "minä": "annan",
+        "sinä": "annat",
+        "hän": "antaa",
+        "me": "annamme",
+        "te": "annatte",
+        "he": "antavat"
+      },
+      "note": "nt → nn"
+    },
+    {
+      "fi": "kielioppi",
+      "en": "grammar",
+      "pos": "noun",
+      "theme": "classroom",
+      "note": "header partly cut off: '…IOPPI'"
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "kpt-verbs",
+      "heading": "Verb type 1 and KPT",
+      "text": "There are a lot of type 1 verbs with KPT changes. The consonant(s) are the same in the dictionary form and the hän and he form. First person and second person verbs have weak grade, the infinitive (dictionary form) and the third person forms have the strong grade. The verbs in the previous example chart are type 1 verbs.",
+      "table": [
+        [
+          "antaa (to give)",
+          "nt → nn"
+        ],
+        [
+          "minä annan",
+          "me annamme"
+        ],
+        [
+          "sinä annat",
+          "te annatte"
+        ],
+        [
+          "hän antaa",
+          "he antavat"
+        ]
+      ]
+    }
+  ],
+  "texts": [],
+  "exercises": []
+}

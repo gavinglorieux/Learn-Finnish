@@ -1,0 +1,471 @@
+{
+  "part": { "id": "basics", "title": "First steps", "emoji": "👋", "description": "Greetings, pronouns, the verb olla, saying no, asking questions and counting." },
+  "topics": [
+    {
+      "id": "greetings",
+      "title": "Greetings & polite phrases",
+      "fi": "Tervehdykset",
+      "emoji": "👋",
+      "summary": "Hello, goodbye, how are you, thank you — and which greeting fits which time of day.",
+      "sections": [
+        {
+          "heading": "Hello & goodbye",
+          "table": {
+            "headers": ["Finnish", "English", "When"],
+            "rows": [
+              ["Hei! / Moi! / Terve!", "Hi!", "any time, informal (moi is very common)"],
+              ["Päivää! / Hyvää päivää!", "Good day!", "formal, daytime"],
+              ["Huomenta! / Hyvää huomenta!", "Good morning!", "until about 10–11"],
+              ["Iltaa! / Hyvää iltaa!", "Good evening!", "evening"],
+              ["Hyvää yötä!", "Good night!", "going to bed"],
+              ["Näkemiin!", "Goodbye!", "formal, shops"],
+              ["Hei hei! / Moi moi! / Heippa!", "Bye!", "informal"],
+              ["Nähdään! / Nähdään huomenna!", "See you! / See you tomorrow!", ""],
+              ["Tervetuloa!", "Welcome!", ""]
+            ]
+          },
+          "tip": "**Hyvää** is the partitive of *hyvä* (good): greetings are short wishes — 'good day (to you)'."
+        },
+        {
+          "heading": "How are you?",
+          "table": {
+            "headers": ["Question", "Answer"],
+            "rows": [
+              ["Mitä kuuluu? — How are you?", "Hyvää, kiitos. Entä sinulle? — Fine, thanks. And you?"],
+              ["Miten menee? — How's it going?", "Hyvin! / Ihan hyvin. / Ei hassummin. / Huonosti."],
+              ["Kuinka voit? — How are you feeling?", "Voin hyvin. — I'm well."]
+            ]
+          }
+        },
+        {
+          "heading": "Polite words",
+          "table": {
+            "headers": ["Finnish", "English"],
+            "rows": [
+              ["Kiitos! / Kiitos paljon!", "Thank you! / Thanks a lot!"],
+              ["Ole hyvä! / Olkaa hyvä!", "Here you are / You're welcome (sg. / pl. & polite)"],
+              ["Ei kestä.", "You're welcome / No problem."],
+              ["Anteeksi!", "Sorry! / Excuse me!"],
+              ["Ei se mitään.", "It doesn't matter / Never mind."],
+              ["Kyllä / Joo", "Yes (joo is colloquial)"],
+              ["Ei", "No"],
+              ["Hauska tutustua!", "Nice to meet you!"],
+              ["Mikä sinun nimesi on? — Minun nimeni on …", "What's your name? — My name is …"],
+              ["Mistä sinä olet kotoisin? — Olen kotoisin Englannista.", "Where are you from? — I'm from England."],
+              ["Onnea! / Hyvää syntymäpäivää!", "Good luck! Congratulations! / Happy birthday!"],
+              ["Hyvää joulua! / Hyvää uutta vuotta!", "Merry Christmas! / Happy New Year!"],
+              ["Hyvää viikonloppua!", "Have a nice weekend!"]
+            ]
+          }
+        }
+      ],
+      "related": ["pronouns", "olla"],
+      "practice": [{ "label": "Greetings flashcards", "to": "/practice/flashcards?category=greetings" }]
+    },
+    {
+      "id": "pronouns",
+      "title": "Personal pronouns",
+      "fi": "Persoonapronominit",
+      "emoji": "🙋",
+      "summary": "minä, sinä, hän, me, te, he — and Finnish has no 'he' vs 'she'.",
+      "sections": [
+        {
+          "heading": "The six persons",
+          "table": {
+            "headers": ["Finnish", "Spoken", "English"],
+            "rows": [
+              ["minä", "mä", "I"],
+              ["sinä", "sä", "you (one person)"],
+              ["hän", "se", "he / she"],
+              ["me", "me", "we"],
+              ["te", "te", "you (several people, or polite)"],
+              ["he", "ne", "they (people)"],
+              ["se", "se", "it"],
+              ["ne", "ne", "they (things, animals)"]
+            ]
+          },
+          "bullets": [
+            "**hän** covers both he and she — no grammatical gender anywhere in Finnish.",
+            "**te** is also the polite 'you' for one person (teititellä), e.g. with older strangers or in formal letters.",
+            "Because the verb ending shows the person, **minä, sinä, me, te are often dropped**: *(Minä) Asun Lontoossa.* — but **hän** and **he** are always kept."
+          ]
+        },
+        {
+          "heading": "Pronoun forms you will meet early",
+          "table": {
+            "headers": ["Nominative", "Genitive (whose)", "Adessive (have)", "Partitive"],
+            "rows": [
+              ["minä", "minun — my", "minulla — I have", "minua"],
+              ["sinä", "sinun — your", "sinulla", "sinua"],
+              ["hän", "hänen — his/her", "hänellä", "häntä"],
+              ["me", "meidän — our", "meillä", "meitä"],
+              ["te", "teidän — your", "teillä", "teitä"],
+              ["he", "heidän — their", "heillä", "heitä"],
+              ["se", "sen — its", "sillä", "sitä"],
+              ["ne", "niiden — their", "niillä", "niitä"]
+            ]
+          },
+          "note": "See [[genitive|Genitive]], [[have-adessive|Minulla on]] and [[partitive|Partitive]]."
+        }
+      ],
+      "related": ["olla", "possessive", "have-adessive"]
+    },
+    {
+      "id": "olla",
+      "title": "The verb olla — to be",
+      "fi": "Olla-verbi",
+      "emoji": "🧠",
+      "summary": "olen, olet, on, olemme, olette, ovat — the most important (and irregular) verb.",
+      "requires": ["pronouns"],
+      "sections": [
+        {
+          "heading": "Present tense",
+          "table": {
+            "headers": ["Person", "Affirmative", "Negative", "Question"],
+            "rows": [
+              ["minä", "olen", "en ole", "olenko?"],
+              ["sinä", "olet", "et ole", "oletko?"],
+              ["hän", "on", "ei ole", "onko?"],
+              ["me", "olemme", "emme ole", "olemmeko?"],
+              ["te", "olette", "ette ole", "oletteko?"],
+              ["he", "ovat", "eivät ole", "ovatko?"]
+            ]
+          }
+        },
+        {
+          "heading": "Using olla",
+          "examples": [
+            { "fi": "Minä olen Gavin. Olen englantilainen.", "en": "I am Gavin. I am English." },
+            { "fi": "Hän on opettaja.", "en": "He/she is a teacher." },
+            { "fi": "Me olemme kotona.", "en": "We are at home." },
+            { "fi": "Te olette suomalaisia.", "en": "You are Finnish (pl. → partitive plural)." },
+            { "fi": "Tämä on kirja. Kirja on punainen.", "en": "This is a book. The book is red." },
+            { "fi": "Kello on kolme.", "en": "It is three o'clock." },
+            { "fi": "Tänään on maanantai.", "en": "Today is Monday." },
+            { "fi": "Ulkona on kylmä.", "en": "It is cold outside (no 'it' in Finnish)." }
+          ]
+        },
+        {
+          "heading": "Good to know",
+          "bullets": [
+            "There is **no word for 'a/an' or 'the'**: *Hän on opettaja* = he is a teacher.",
+            "With weather, time and temperature there is no subject: *On kylmä.* (It's cold.) *Sataa.* (It's raining.)",
+            "**olla + adessive** = to have: *Minulla on koira.* (see [[have-adessive|Minulla on]])",
+            "Spoken Finnish: mä oon, sä oot, se on, me ollaan, te ootte, ne on."
+          ]
+        }
+      ],
+      "related": ["negation", "questions-ko", "have-adessive"],
+      "practice": [
+        { "label": "Conjugate olla", "to": "/practice/conjugate?verb=olla" },
+        { "label": "Fill the gap", "to": "/practice/fill-gap" }
+      ]
+    },
+    {
+      "id": "negation",
+      "title": "Saying no: the negative verb",
+      "fi": "Kieltolause",
+      "emoji": "🚫",
+      "summary": "Finnish says 'no' with a verb of its own: en, et, ei, emme, ette, eivät + the verb's stem.",
+      "requires": ["olla"],
+      "sections": [
+        {
+          "heading": "The negative verb changes, the main verb doesn't",
+          "body": "In a negative sentence the **person ending moves to the negative verb** *e-*, and the main verb loses its ending (it takes the same stem as the minä form, without -n).",
+          "table": {
+            "headers": ["Person", "Negative verb", "olla", "puhua (1)", "syödä (2)", "tulla (3)", "haluta (4)"],
+            "rows": [
+              ["minä", "en", "en ole", "en puhu", "en syö", "en tule", "en halua"],
+              ["sinä", "et", "et ole", "et puhu", "et syö", "et tule", "et halua"],
+              ["hän", "ei", "ei ole", "ei puhu", "ei syö", "ei tule", "ei halua"],
+              ["me", "emme", "emme ole", "emme puhu", "emme syö", "emme tule", "emme halua"],
+              ["te", "ette", "ette ole", "ette puhu", "ette syö", "ette tule", "ette halua"],
+              ["he", "eivät", "eivät ole", "eivät puhu", "eivät syö", "eivät tule", "eivät halua"]
+            ]
+          }
+        },
+        {
+          "heading": "How to make it",
+          "bullets": [
+            "Take the **minä** form and remove **-n**: puhun → *puhu*, nukun → *nuku*, tapaan → *tapaa*.",
+            "Put the right form of **e-** in front: *en puhu, ei nuku, emme tapaa*.",
+            "Type 1 verbs with K-P-T keep the **weak** grade in all negative forms: *hän nukkuu* → *hän ei nuku* (see [[kpt-verbs|K-P-T in verbs]])."
+          ]
+        },
+        {
+          "heading": "Negation changes the object to partitive",
+          "body": "In a negative sentence the object (and the 'thing you have') goes into the **partitive**:",
+          "examples": [
+            { "fi": "Minulla on auto. → Minulla ei ole autoa.", "en": "I have a car. → I don't have a car." },
+            { "fi": "Ostan kirjan. → En osta kirjaa.", "en": "I'll buy the book. → I won't buy a book." },
+            { "fi": "Hän ei juo kahvia.", "en": "He/she doesn't drink coffee." }
+          ]
+        },
+        {
+          "heading": "Short answers",
+          "examples": [
+            { "fi": "Oletko suomalainen? — En ole. / Olen.", "en": "Are you Finnish? — No (I'm not). / Yes (I am)." },
+            { "fi": "Puhutko ruotsia? — En puhu.", "en": "Do you speak Swedish? — No." },
+            { "fi": "Asuuko hän Helsingissä? — Ei asu. / Asuu.", "en": "Does he live in Helsinki? — No. / Yes." }
+          ],
+          "tip": "Finns answer yes/no questions by **repeating the verb**: *Puhutko englantia? — Puhun.* A plain *kyllä/joo* or *ei* is also fine."
+        }
+      ],
+      "related": ["questions-ko", "partitive", "verb-types"],
+      "practice": [{ "label": "Negative conjugation drill", "to": "/practice/conjugate?mode=negative" }]
+    },
+    {
+      "id": "questions-ko",
+      "title": "Yes/no questions with -ko/-kö",
+      "fi": "Kysymyslause: -ko/-kö",
+      "emoji": "❔",
+      "summary": "Add -ko or -kö to the verb and move it to the front: Puhut suomea → Puhutko suomea?",
+      "requires": ["olla", "vowel-harmony"],
+      "sections": [
+        {
+          "heading": "How to build a yes/no question",
+          "bullets": [
+            "Take the verb and add **-ko** (back-vowel words) or **-kö** (front-vowel words) — see [[vowel-harmony|vowel harmony]].",
+            "Put the verb **first** in the sentence.",
+            "No 'do/does' is needed."
+          ],
+          "table": {
+            "headers": ["Statement", "Question"],
+            "rows": [
+              ["Sinä olet suomalainen.", "Oletko sinä suomalainen?"],
+              ["Hän on kotona.", "Onko hän kotona?"],
+              ["Te asutte Lontoossa.", "Asutteko te Lontoossa?"],
+              ["Sinä syöt kalaa.", "Syötkö sinä kalaa?"],
+              ["He tulevat huomenna.", "Tulevatko he huomenna?"],
+              ["Sinulla on lapsia.", "Onko sinulla lapsia?"]
+            ]
+          }
+        },
+        {
+          "heading": "Negative questions",
+          "body": "Add -kö to the negative verb (always -kö, because e- is a front word): **enkö, etkö, eikö, emmekö, ettekö, eivätkö**.",
+          "examples": [
+            { "fi": "Etkö sinä puhu suomea?", "en": "Don't you speak Finnish?" },
+            { "fi": "Eikö hän ole kotona?", "en": "Isn't he/she at home?" }
+          ]
+        },
+        {
+          "heading": "Focusing other words",
+          "body": "-ko/-kö can be attached to any word you want to question; that word goes first.",
+          "examples": [
+            { "fi": "Huomennako sinä tulet?", "en": "Is it tomorrow that you're coming?" },
+            { "fi": "Kahviako sinä juot?", "en": "Is it coffee you're drinking?" }
+          ]
+        }
+      ],
+      "related": ["question-words", "negation"],
+      "practice": [{ "label": "Fill the gap", "to": "/practice/fill-gap" }]
+    },
+    {
+      "id": "question-words",
+      "title": "Question words",
+      "fi": "Kysymyssanat",
+      "emoji": "❓",
+      "summary": "Mikä, kuka, missä, mistä, mihin, milloin, miten… Most question words are forms of mikä (what) and kuka (who).",
+      "requires": ["olla"],
+      "sections": [
+        {
+          "heading": "The core question words",
+          "table": {
+            "headers": ["Finnish", "English", "Example"],
+            "rows": [
+              ["Mikä?", "What? (subject)", "Mikä tämä on? — What is this?"],
+              ["Mitä?", "What? (object / partitive)", "Mitä sinä teet? — What are you doing?"],
+              ["Kuka? / Ketkä?", "Who? (sg. / pl.)", "Kuka hän on? — Who is he/she?"],
+              ["Kenen?", "Whose?", "Kenen kirja tämä on? — Whose book is this?"],
+              ["Kenellä?", "Who has?", "Kenellä on avain? — Who has the key?"],
+              ["Missä?", "Where? (in/at)", "Missä sinä asut? — Where do you live?"],
+              ["Mistä?", "Where from?", "Mistä sinä olet kotoisin? — Where are you from?"],
+              ["Mihin? / Minne?", "Where to?", "Mihin sinä menet? — Where are you going?"],
+              ["Milloin?", "When?", "Milloin kurssi alkaa? — When does the course start?"],
+              ["Mihin aikaan?", "At what time?", "Mihin aikaan juna lähtee?"],
+              ["Mitä kello on? / Paljonko kello on?", "What time is it?", ""],
+              ["Miten? / Kuinka?", "How?", "Miten menee? — How's it going?"],
+              ["Miksi?", "Why?", "Miksi opiskelet suomea? — Why are you studying Finnish?"],
+              ["Kuinka paljon? / Paljonko?", "How much?", "Paljonko tämä maksaa? — How much does this cost?"],
+              ["Kuinka monta?", "How many? (+ partitive)", "Kuinka monta lasta sinulla on?"],
+              ["Kuinka vanha?", "How old?", "Kuinka vanha sinä olet?"],
+              ["Millainen?", "What kind of? / What … like?", "Millainen sää on tänään? — What's the weather like?"],
+              ["Minkä värinen?", "What colour?", "Minkä värinen auto on?"],
+              ["Mikä päivä tänään on?", "What day is it today?", ""],
+              ["Monesko päivä tänään on?", "What's the date today?", "Tänään on neljäs lokakuuta."],
+              ["Kumpi?", "Which (of two)?", "Kumpi on parempi?"],
+              ["Millä?", "By what? (transport, tool)", "Millä sinä tulet töihin? — Bussilla."]
+            ]
+          }
+        },
+        {
+          "heading": "Missä — mistä — mihin",
+          "body": "The three 'where' words match the three directions of the [[local-cases|local cases]]. Always answer in the same direction:",
+          "examples": [
+            { "fi": "Missä sinä olet? — Olen kaupassa.", "en": "Where are you? — I'm in the shop." },
+            { "fi": "Mistä sinä tulet? — Tulen kaupasta.", "en": "Where are you coming from? — From the shop." },
+            { "fi": "Mihin sinä menet? — Menen kauppaan.", "en": "Where are you going? — To the shop." }
+          ]
+        },
+        {
+          "heading": "Tip",
+          "body": "No -ko/-kö is added when the sentence already has a question word: *Missä sinä asut?* (not ✗*Missäkö*)."
+        }
+      ],
+      "related": ["questions-ko", "local-cases", "clock"],
+      "practice": [
+        { "label": "Question-word drill", "to": "/practice/course/drill-question-words" },
+        { "label": "Question words flashcards", "to": "/practice/flashcards?category=question-words" }
+      ]
+    },
+    {
+      "id": "numbers",
+      "title": "Numbers",
+      "fi": "Numerot",
+      "emoji": "🔢",
+      "summary": "yksi, kaksi, kolme… Teens add -toista, tens add kymmentä, and the thing you count goes into the partitive.",
+      "sections": [
+        {
+          "heading": "0–10",
+          "table": {
+            "headers": ["", "", "", ""],
+            "rows": [
+              ["0 nolla", "1 yksi", "2 kaksi", "3 kolme"],
+              ["4 neljä", "5 viisi", "6 kuusi", "7 seitsemän"],
+              ["8 kahdeksan", "9 yhdeksän", "10 kymmenen", ""]
+            ]
+          }
+        },
+        {
+          "heading": "11–19: -toista ('of the second ten')",
+          "table": {
+            "headers": ["", ""],
+            "rows": [
+              ["11 yksitoista", "16 kuusitoista"],
+              ["12 kaksitoista", "17 seitsemäntoista"],
+              ["13 kolmetoista", "18 kahdeksantoista"],
+              ["14 neljätoista", "19 yhdeksäntoista"],
+              ["15 viisitoista", ""]
+            ]
+          }
+        },
+        {
+          "heading": "Tens, hundreds, thousands",
+          "body": "Multiply with **kymmentä** (tens), **sataa** (hundreds), **tuhatta** (thousands) — these are partitive forms. Just write the parts one after the other (as one word up to 999).",
+          "table": {
+            "headers": ["Number", "Finnish"],
+            "rows": [
+              ["20", "kaksikymmentä"],
+              ["21", "kaksikymmentäyksi"],
+              ["35", "kolmekymmentäviisi"],
+              ["99", "yhdeksänkymmentäyhdeksän"],
+              ["100", "sata"],
+              ["200", "kaksisataa"],
+              ["365", "kolmesataakuusikymmentäviisi"],
+              ["1000", "tuhat"],
+              ["2026", "kaksituhatta kaksikymmentäkuusi"],
+              ["1 000 000", "miljoona"]
+            ]
+          }
+        },
+        {
+          "heading": "Counting things: number + partitive",
+          "body": "After every number except *yksi* (1) the noun goes into the **partitive singular** — never plural.",
+          "examples": [
+            { "fi": "yksi kissa — kaksi kissaa", "en": "one cat — two cats" },
+            { "fi": "kolme lasta", "en": "three children (lapsi → lasta)" },
+            { "fi": "viisi euroa", "en": "five euros" },
+            { "fi": "kaksikymmentä astetta", "en": "twenty degrees" },
+            { "fi": "Minulla on kaksi veljeä ja yksi sisko.", "en": "I have two brothers and one sister." }
+          ],
+          "note": "See [[partitive|Partitive]]."
+        },
+        {
+          "heading": "Ordinal numbers (1st, 2nd…)",
+          "body": "Used for dates and floors. Written with a full stop: 1. = ensimmäinen.",
+          "table": {
+            "headers": ["", "", ""],
+            "rows": [
+              ["1. ensimmäinen", "2. toinen", "3. kolmas"],
+              ["4. neljäs", "5. viides", "6. kuudes"],
+              ["7. seitsemäs", "8. kahdeksas", "9. yhdeksäs"],
+              ["10. kymmenes", "11. yhdestoista", "20. kahdeskymmenes"]
+            ]
+          },
+          "examples": [{ "fi": "Asun kolmannessa kerroksessa.", "en": "I live on the third floor." }]
+        },
+        {
+          "heading": "Prices and phone numbers",
+          "examples": [
+            { "fi": "Paljonko tämä maksaa? — Se maksaa kolme euroa viisikymmentä (senttiä).", "en": "How much is this? — It costs €3.50." },
+            { "fi": "Puhelinnumeroni on nolla neljä nolla, yksi kaksi kolme…", "en": "My phone number is 040 123… (digits one by one)" }
+          ]
+        }
+      ],
+      "related": ["partitive", "clock", "days-dates"],
+      "practice": [
+        { "label": "Numbers flashcards", "to": "/practice/flashcards?category=numbers" },
+        { "label": "Typing", "to": "/practice/typing?category=numbers" }
+      ]
+    },
+    {
+      "id": "nationalities",
+      "title": "Countries, nationalities & languages",
+      "fi": "Maat, kansallisuudet ja kielet",
+      "emoji": "🌍",
+      "summary": "Suomi → suomalainen → suomi (the language). Nationalities end in -lainen/-läinen; languages and nationalities are written with a small letter.",
+      "requires": ["vowel-harmony"],
+      "sections": [
+        {
+          "heading": "Country → nationality → language",
+          "table": {
+            "headers": ["Country (maa)", "Nationality", "Language (kieli)", "I speak…"],
+            "rows": [
+              ["Suomi", "suomalainen", "suomi", "puhun suomea"],
+              ["Englanti", "englantilainen", "englanti", "puhun englantia"],
+              ["Ruotsi", "ruotsalainen", "ruotsi", "puhun ruotsia"],
+              ["Norja", "norjalainen", "norja", "puhun norjaa"],
+              ["Saksa", "saksalainen", "saksa", "puhun saksaa"],
+              ["Ranska", "ranskalainen", "ranska", "puhun ranskaa"],
+              ["Espanja", "espanjalainen", "espanja", "puhun espanjaa"],
+              ["Italia", "italialainen", "italia", "puhun italiaa"],
+              ["Viro", "virolainen", "viro", "puhun viroa"],
+              ["Venäjä", "venäläinen", "venäjä", "puhun venäjää"],
+              ["Puola", "puolalainen", "puola", "puhun puolaa"],
+              ["Kreikka", "kreikkalainen", "kreikka", "puhun kreikkaa"],
+              ["Belgia", "belgialainen", "hollanti / ranska", ""],
+              ["Hollanti", "hollantilainen", "hollanti", "puhun hollantia"],
+              ["Skotlanti", "skotlantilainen", "englanti", ""],
+              ["Irlanti", "irlantilainen", "englanti / iiri", ""],
+              ["Tanska", "tanskalainen", "tanska", "puhun tanskaa"],
+              ["Unkari", "unkarilainen", "unkari", "puhun unkaria"],
+              ["Iso-Britannia", "britti", "englanti", ""],
+              ["Yhdysvallat", "amerikkalainen", "englanti", ""],
+              ["Japani", "japanilainen", "japani", "puhun japania"],
+              ["Kiina", "kiinalainen", "kiina", "puhun kiinaa"]
+            ]
+          }
+        },
+        {
+          "heading": "Rules",
+          "bullets": [
+            "Nationality = country (or its stem) + **-lainen** (back words) / **-läinen** (front words): *Venäjä → venäläinen*.",
+            "Countries are capitalised; **nationalities and languages are not**: *Suomi* but *suomalainen*, *suomi*.",
+            "'I speak X' uses the **partitive**: *Puhun suomea, englantia ja vähän ruotsia.*",
+            "Plural of -nen words: *suomalainen → suomalaiset* (we are Finns: *Me olemme suomalaisia*)."
+          ]
+        },
+        {
+          "heading": "Where from? — elative",
+          "examples": [
+            { "fi": "Mistä sinä olet kotoisin? — Olen kotoisin Englannista.", "en": "Where are you from? — I'm from England." },
+            { "fi": "Hän on Ruotsista, mutta asuu Suomessa.", "en": "He/she is from Sweden but lives in Finland." }
+          ]
+        }
+      ],
+      "related": ["partitive", "inner-local-cases"],
+      "practice": [{ "label": "Nationalities flashcards", "to": "/practice/flashcards?category=nationalities" }]
+    }
+  ]
+}

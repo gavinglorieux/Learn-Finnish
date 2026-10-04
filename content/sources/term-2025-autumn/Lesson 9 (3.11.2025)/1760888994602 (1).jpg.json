@@ -1,0 +1,396 @@
+{
+  "source": "term-2025-autumn/Lesson 9 (3.11.2025)/1760888994602 (1).jpg",
+  "md5": "827aa11ada5513d3e0919816932c45a9",
+  "also_in": [
+    "term-2025-autumn/Lesson 11 (17.11.2025)/1760888994602 (1) (2).jpg",
+    "term-2026-winter/Lesson 3 (26.1.2026)/1768921939072.jpg",
+    "term-2026-winter/Lesson 4 (2.2.2026)/1768921939072.jpg"
+  ],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 9,
+    "date": "2025-11-03"
+  },
+  "kind": "worksheet",
+  "title": {
+    "fi": "1.3. Sairastaminen",
+    "en": "1.3. Being ill"
+  },
+  "topics": [
+    "have-adessive",
+    "negation",
+    "questions-ko",
+    "partitive"
+  ],
+  "summary": "Illustrated worksheet on illness and symptoms: \"Minulla on yskä / kurkku kipeä / kuumetta…\", pair questions to ask a neighbour, and a HUOMAA box on \"Minulla on / ei ole nälkä, jano, kuuma, kiire\". Also handed out in later lessons.",
+  "transcript": "1.3.\nSAIRASTAMINEN\nMinä olen sairas. Minulla on flunssa.    Oletko sinä sairas? Onko sinulla flunssa?\nMinulla on yskä.  Minulla on nuha.  Minulla on kurkku kipeä.\nMinulla on kuumetta. Minulla on flunssa.  Minulla on vatsa kipeä.\nMinulla on korva kipeä.  Minulla on selkä kipeä.  Minulla on hammas kipeä.\nMinulla on kuuma.  Minulla on kylmä.  Minulla on paha olo.\nKysy naapurilta:\nMikä sinua vaivaa? Oletko sinä vilustunut? Onko sinulla flunssa?\nOnko sinulla yskä? Entä nuha? Onko sinulla kuumetta? Onko sinulla selkä kipeä?\nHUOMAA!\nMinulla on nälkä.        Minulla ei ole nälkä.\nMinulla on jano.         Minulla ei ole jano.\nMinulla on kuuma.        Minulla ei ole kuuma.\nMinulla on selkä kipeä.  Minulla ei ole selkä kipeä.\nMinulla on kiire.        Minulla ei ole kiire.\nFlunssan oireet: kuume, päänsärky, yskä, kurkkukipu ja nuha.    Parane pian!",
+  "words": [
+    {
+      "fi": "sairastaminen",
+      "en": "being ill",
+      "pos": "noun",
+      "theme": "illness"
+    },
+    {
+      "fi": "sairas",
+      "en": "ill, sick",
+      "pos": "adj",
+      "theme": "illness"
+    },
+    {
+      "fi": "flunssa",
+      "en": "flu, cold",
+      "pos": "noun",
+      "theme": "illness"
+    },
+    {
+      "fi": "yskä",
+      "en": "cough",
+      "pos": "noun",
+      "theme": "illness"
+    },
+    {
+      "fi": "nuha",
+      "en": "runny nose, head cold",
+      "pos": "noun",
+      "theme": "illness"
+    },
+    {
+      "fi": "kurkku",
+      "en": "throat",
+      "pos": "noun",
+      "theme": "body"
+    },
+    {
+      "fi": "kipeä",
+      "en": "sore, aching",
+      "pos": "adj",
+      "theme": "illness"
+    },
+    {
+      "fi": "kuume",
+      "en": "fever",
+      "pos": "noun",
+      "form_seen": "kuumetta",
+      "theme": "illness"
+    },
+    {
+      "fi": "vatsa",
+      "en": "stomach",
+      "pos": "noun",
+      "theme": "body"
+    },
+    {
+      "fi": "korva",
+      "en": "ear",
+      "pos": "noun",
+      "theme": "body"
+    },
+    {
+      "fi": "selkä",
+      "en": "back",
+      "pos": "noun",
+      "theme": "body"
+    },
+    {
+      "fi": "hammas",
+      "en": "tooth",
+      "pos": "noun",
+      "theme": "body"
+    },
+    {
+      "fi": "kuuma",
+      "en": "hot",
+      "pos": "adj",
+      "theme": "feelings"
+    },
+    {
+      "fi": "kylmä",
+      "en": "cold",
+      "pos": "adj",
+      "theme": "feelings"
+    },
+    {
+      "fi": "paha",
+      "en": "bad",
+      "pos": "adj",
+      "theme": "illness"
+    },
+    {
+      "fi": "olo",
+      "en": "feeling, state (paha olo = feeling sick)",
+      "pos": "noun",
+      "theme": "feelings"
+    },
+    {
+      "fi": "kysyä",
+      "en": "to ask",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "kysy",
+      "theme": "classroom"
+    },
+    {
+      "fi": "naapuri",
+      "en": "neighbour",
+      "pos": "noun",
+      "form_seen": "naapurilta",
+      "theme": "people"
+    },
+    {
+      "fi": "vaivata",
+      "en": "to bother, to trouble",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "vaivaa",
+      "theme": "illness"
+    },
+    {
+      "fi": "vilustua",
+      "en": "to catch a cold",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "vilustunut",
+      "theme": "illness"
+    },
+    {
+      "fi": "entä",
+      "en": "what about, and",
+      "pos": "question",
+      "theme": "little-words"
+    },
+    {
+      "fi": "huomata",
+      "en": "to notice (huomaa! = note!)",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "huomaa",
+      "theme": "illness"
+    },
+    {
+      "fi": "nälkä",
+      "en": "hunger",
+      "pos": "noun",
+      "theme": "feelings"
+    },
+    {
+      "fi": "jano",
+      "en": "thirst",
+      "pos": "noun",
+      "theme": "feelings"
+    },
+    {
+      "fi": "kiire",
+      "en": "hurry, rush",
+      "pos": "noun",
+      "theme": "feelings"
+    },
+    {
+      "fi": "oire",
+      "en": "symptom",
+      "pos": "noun",
+      "form_seen": "oireet",
+      "theme": "illness"
+    },
+    {
+      "fi": "päänsärky",
+      "en": "headache",
+      "pos": "noun",
+      "theme": "illness"
+    },
+    {
+      "fi": "kurkkukipu",
+      "en": "sore throat",
+      "pos": "noun",
+      "theme": "illness"
+    },
+    {
+      "fi": "parantua",
+      "en": "to get better, to recover",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "parane",
+      "note": "imperative \"Parane pian!\"",
+      "theme": "illness"
+    },
+    {
+      "fi": "pian",
+      "en": "soon",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "olen, oletko, on",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "minä",
+      "en": "I",
+      "pos": "pron",
+      "form_seen": "minulla",
+      "theme": "people"
+    },
+    {
+      "fi": "sinä",
+      "en": "you",
+      "pos": "pron",
+      "form_seen": "sinulla, sinua",
+      "theme": "people"
+    },
+    {
+      "fi": "mikä",
+      "en": "what",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "ei",
+      "en": "not",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "ja",
+      "en": "and",
+      "pos": "conj",
+      "theme": "little-words"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Sairastaminen",
+        "en": "Being ill"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Minä olen sairas. Minulla on flunssa.",
+          "en": "I am ill. I have the flu."
+        },
+        {
+          "fi": "Oletko sinä sairas? Onko sinulla flunssa?",
+          "en": "Are you ill? Do you have the flu?"
+        },
+        {
+          "fi": "Minulla on yskä.",
+          "en": "I have a cough."
+        },
+        {
+          "fi": "Minulla on nuha.",
+          "en": "I have a runny nose / a cold."
+        },
+        {
+          "fi": "Minulla on kurkku kipeä.",
+          "en": "I have a sore throat."
+        },
+        {
+          "fi": "Minulla on kuumetta. Minulla on flunssa.",
+          "en": "I have a fever. I have the flu."
+        },
+        {
+          "fi": "Minulla on vatsa kipeä.",
+          "en": "I have a stomach ache."
+        },
+        {
+          "fi": "Minulla on korva kipeä.",
+          "en": "I have an earache."
+        },
+        {
+          "fi": "Minulla on selkä kipeä.",
+          "en": "My back hurts."
+        },
+        {
+          "fi": "Minulla on hammas kipeä.",
+          "en": "I have a toothache."
+        },
+        {
+          "fi": "Minulla on kuuma.",
+          "en": "I am hot."
+        },
+        {
+          "fi": "Minulla on kylmä.",
+          "en": "I am cold."
+        },
+        {
+          "fi": "Minulla on paha olo.",
+          "en": "I feel sick / unwell."
+        },
+        {
+          "fi": "Kysy naapurilta:",
+          "en": "Ask your neighbour:"
+        },
+        {
+          "fi": "Mikä sinua vaivaa?",
+          "en": "What's wrong with you? (What is bothering you?)"
+        },
+        {
+          "fi": "Oletko sinä vilustunut?",
+          "en": "Have you caught a cold?"
+        },
+        {
+          "fi": "Onko sinulla flunssa?",
+          "en": "Do you have the flu?"
+        },
+        {
+          "fi": "Onko sinulla yskä?",
+          "en": "Do you have a cough?"
+        },
+        {
+          "fi": "Entä nuha?",
+          "en": "What about a runny nose?"
+        },
+        {
+          "fi": "Onko sinulla kuumetta?",
+          "en": "Do you have a fever?"
+        },
+        {
+          "fi": "Onko sinulla selkä kipeä?",
+          "en": "Does your back hurt?"
+        },
+        {
+          "fi": "Flunssan oireet: kuume, päänsärky, yskä, kurkkukipu ja nuha.",
+          "en": "Flu symptoms: fever, headache, cough, sore throat and runny nose."
+        },
+        {
+          "fi": "Parane pian!",
+          "en": "Get well soon!"
+        }
+      ]
+    }
+  ],
+  "exercises": [],
+  "grammar_notes": [
+    {
+      "topic": "have-adessive",
+      "heading": "HUOMAA!",
+      "text": "States and feelings with \"minulla on\" + noun (nominative): nälkä (hunger), jano (thirst), kuuma (hot), kiire (hurry), selkä kipeä (sore back). Negative: \"minulla ei ole\" + same form. Note \"kuumetta\" (fever) is partitive.",
+      "table": [
+        [
+          "Minulla on nälkä.",
+          "Minulla ei ole nälkä."
+        ],
+        [
+          "Minulla on jano.",
+          "Minulla ei ole jano."
+        ],
+        [
+          "Minulla on kuuma.",
+          "Minulla ei ole kuuma."
+        ],
+        [
+          "Minulla on selkä kipeä.",
+          "Minulla ei ole selkä kipeä."
+        ],
+        [
+          "Minulla on kiire.",
+          "Minulla ei ole kiire."
+        ]
+      ]
+    }
+  ]
+}

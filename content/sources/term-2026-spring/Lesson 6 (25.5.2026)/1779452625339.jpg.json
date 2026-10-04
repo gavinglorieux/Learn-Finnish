@@ -1,0 +1,412 @@
+{
+  "source": "term-2026-spring/Lesson 6 (25.5.2026)/1779452625339.jpg",
+  "md5": "f0b4c093733db4704a607cf0bc83f5cd",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 6,
+    "date": "2026-05-25"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "Harjoitus 22. Katso kuvaa. A. Kirjoita, missä.",
+    "en": "Exercise 22. Look at the picture. A. Write where."
+  },
+  "topics": [
+    "postpositions",
+    "genitive",
+    "question-words"
+  ],
+  "summary": "Kitchen picture with eleven 'Missä … on?' questions to answer with location words (vieressä, päällä, takana, ääressä, edessä, keskellä, välissä, alla, vasemmalla/oikealla puolella) plus the genitive. Item 1 is answered on the sheet.",
+  "transcript": "Harjoitus 22. Katso kuvaa.\n(Picture: a kitchen — fridge, microwave with salt and pepper shakers and bottles on top, coffee maker, sink under a curtained window, wall clock, cupboard, stove; a round table with a candle, coffee cup, sandwich, a child's plate with fork and knife; a child sitting at the table, a mother holding a salad bowl behind him, a cat under the table, stools, rugs.)\n\nA. Kirjoita, missä.\nvieressä  päällä  takana  ääressä  vieressä (crossed out)  vasemmalla puolella\nedessä  keskellä  välissä  alla  oikealla puolella\n\n1. Missä kahvinkeitin on?  Se on mikroaaltouunin vieressä.\n2. Missä suola ja pippuri ovat? ____\n3. Missä kynttilä on? ____\n4. Missä kissa on? ____\n5. Missä haarukka on? ____\n6. Missä veitsi on? ____\n7. Missä jääkaappi on? ____\n8. Missä lapsi istuu? ____\n9. Missä lapsen lautanen on? ____\n10. Missä kello on? ____\n11. Missä äiti on? ____",
+  "words": [
+    {
+      "fi": "vieressä",
+      "en": "next to, beside",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "päällä",
+      "en": "on top of",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "takana",
+      "en": "behind",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "ääressä",
+      "en": "at (a table, desk)",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "vasemmalla puolella",
+      "en": "on the left side (of)",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "edessä",
+      "en": "in front of",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "keskellä",
+      "en": "in the middle (of)",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "välissä",
+      "en": "between",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "alla",
+      "en": "under",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "oikealla puolella",
+      "en": "on the right side (of)",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "kahvinkeitin",
+      "en": "coffee maker",
+      "pos": "noun",
+      "theme": "household"
+    },
+    {
+      "fi": "mikroaaltouuni",
+      "en": "microwave oven",
+      "pos": "noun",
+      "theme": "household",
+      "form_seen": "mikroaaltouunin"
+    },
+    {
+      "fi": "suola",
+      "en": "salt",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "pippuri",
+      "en": "pepper",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kynttilä",
+      "en": "candle",
+      "pos": "noun",
+      "theme": "household"
+    },
+    {
+      "fi": "kissa",
+      "en": "cat",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "haarukka",
+      "en": "fork",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "veitsi",
+      "en": "knife",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "jääkaappi",
+      "en": "fridge",
+      "pos": "noun",
+      "theme": "household"
+    },
+    {
+      "fi": "lapsi",
+      "en": "child",
+      "pos": "noun",
+      "theme": "family",
+      "form_seen": "lapsen"
+    },
+    {
+      "fi": "lautanen",
+      "en": "plate",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "kello",
+      "en": "clock",
+      "pos": "noun",
+      "theme": "clock"
+    },
+    {
+      "fi": "äiti",
+      "en": "mother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "kuva",
+      "en": "picture",
+      "pos": "noun",
+      "theme": "classroom",
+      "form_seen": "kuvaa"
+    },
+    {
+      "fi": "pöytä",
+      "en": "table",
+      "pos": "noun",
+      "theme": "furniture",
+      "form_seen": "pöydän",
+      "note": "used in the derived answers"
+    },
+    {
+      "fi": "ikkuna",
+      "en": "window",
+      "pos": "noun",
+      "theme": "home",
+      "form_seen": "ikkunan",
+      "note": "used in the derived answers"
+    },
+    {
+      "fi": "kaappi",
+      "en": "cupboard",
+      "pos": "noun",
+      "theme": "furniture",
+      "form_seen": "kaapin",
+      "note": "used in the derived answers"
+    },
+    {
+      "fi": "kahvikuppi",
+      "en": "coffee cup",
+      "pos": "noun",
+      "theme": "tableware",
+      "note": "depicted in the picture, not labelled"
+    },
+    {
+      "fi": "voileipä",
+      "en": "sandwich",
+      "pos": "noun",
+      "theme": "food-meals",
+      "note": "depicted in the picture, not labelled"
+    },
+    {
+      "fi": "pullo",
+      "en": "bottle",
+      "pos": "noun",
+      "theme": "household",
+      "note": "depicted in the picture, not labelled"
+    },
+    {
+      "fi": "liesi",
+      "en": "stove, cooker",
+      "pos": "noun",
+      "theme": "household",
+      "note": "depicted in the picture, not labelled"
+    },
+    {
+      "fi": "kattila",
+      "en": "saucepan",
+      "pos": "noun",
+      "theme": "household",
+      "note": "depicted in the picture, not labelled"
+    },
+    {
+      "fi": "kulho",
+      "en": "bowl",
+      "pos": "noun",
+      "theme": "tableware",
+      "note": "depicted in the picture, not labelled"
+    },
+    {
+      "fi": "salaatti",
+      "en": "salad",
+      "pos": "noun",
+      "theme": "food-fruit-veg",
+      "note": "depicted in the picture, not labelled"
+    },
+    {
+      "fi": "esiliina",
+      "en": "apron",
+      "pos": "noun",
+      "theme": "clothes",
+      "note": "depicted in the picture, not labelled"
+    },
+    {
+      "fi": "matto",
+      "en": "rug, carpet",
+      "pos": "noun",
+      "theme": "home",
+      "note": "depicted in the picture, not labelled"
+    },
+    {
+      "fi": "jakkara",
+      "en": "stool",
+      "pos": "noun",
+      "theme": "furniture",
+      "note": "depicted in the picture, not labelled"
+    },
+    {
+      "fi": "verho",
+      "en": "curtain",
+      "pos": "noun",
+      "theme": "home",
+      "note": "depicted in the picture, not labelled"
+    },
+    {
+      "fi": "lintu",
+      "en": "bird",
+      "pos": "noun",
+      "theme": "animals",
+      "note": "depicted in the picture, not labelled"
+    },
+    {
+      "fi": "hana",
+      "en": "tap",
+      "pos": "noun",
+      "theme": "home",
+      "note": "depicted in the picture, not labelled"
+    },
+    {
+      "fi": "kalenteri",
+      "en": "calendar",
+      "pos": "noun",
+      "theme": "days-time",
+      "note": "depicted in the picture, not labelled"
+    },
+    {
+      "fi": "keittiö",
+      "en": "kitchen",
+      "pos": "noun",
+      "theme": "home",
+      "note": "depicted in the picture, not labelled"
+    },
+    {
+      "fi": "missä",
+      "en": "where",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs",
+      "form_seen": "on / ovat"
+    },
+    {
+      "fi": "istua",
+      "en": "to sit",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "form_seen": "istuu"
+    },
+    {
+      "fi": "katsoa",
+      "en": "to look at",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "form_seen": "katso"
+    },
+    {
+      "fi": "kirjoittaa",
+      "en": "to write",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "school-work",
+      "form_seen": "kirjoita"
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Harjoitus 22 A. Kirjoita, missä.",
+      "instruction": "Look at the picture and write where things are, using the words in the box.",
+      "topic": "postpositions",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Missä kahvinkeitin on? ____",
+          "answer": "Se on mikroaaltouunin vieressä.",
+          "en": "Where is the coffee maker? It's next to the microwave.",
+          "answer_source": "key"
+        },
+        {
+          "prompt": "Missä suola ja pippuri ovat? ____",
+          "answer": "Ne ovat mikroaaltouunin päällä.",
+          "en": "Where are the salt and pepper? They're on top of the microwave."
+        },
+        {
+          "prompt": "Missä kynttilä on? ____",
+          "answer": "Se on pöydän keskellä.",
+          "en": "Where is the candle? It's in the middle of the table."
+        },
+        {
+          "prompt": "Missä kissa on? ____",
+          "answer": "Se on pöydän alla.",
+          "en": "Where is the cat? It's under the table."
+        },
+        {
+          "prompt": "Missä haarukka on? ____",
+          "answer": "Se on lautasen oikealla puolella.",
+          "en": "Where is the fork? It's on the right side of the plate."
+        },
+        {
+          "prompt": "Missä veitsi on? ____",
+          "answer": "Se on lautasen vasemmalla puolella.",
+          "en": "Where is the knife? It's on the left side of the plate."
+        },
+        {
+          "prompt": "Missä jääkaappi on? ____",
+          "answer": "Se on mikroaaltouunin vasemmalla puolella.",
+          "en": "Where is the fridge? It's to the left of the microwave."
+        },
+        {
+          "prompt": "Missä lapsi istuu? ____",
+          "answer": "Hän istuu pöydän ääressä.",
+          "en": "Where is the child sitting? He's sitting at the table."
+        },
+        {
+          "prompt": "Missä lapsen lautanen on? ____",
+          "answer": "Se on lapsen edessä.",
+          "en": "Where is the child's plate? It's in front of the child."
+        },
+        {
+          "prompt": "Missä kello on? ____",
+          "answer": "Se on ikkunan ja kaapin välissä.",
+          "en": "Where is the clock? It's between the window and the cupboard."
+        },
+        {
+          "prompt": "Missä äiti on? ____",
+          "answer": "Hän on lapsen takana.",
+          "en": "Where is the mother? She's behind the child."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "postpositions",
+      "heading": "Paikkasanat (word box)",
+      "text": "Location words used after a genitive: X:n vieressä, päällä, takana, ääressä, edessä, keskellä, välissä, alla, vasemmalla puolella, oikealla puolella. Example: Se on mikroaaltouunin vieressä."
+    }
+  ],
+  "texts": []
+}

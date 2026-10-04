@@ -1,0 +1,229 @@
+{
+ "source": "term-2025-autumn/Lesson 12 (24.11.2025)/1763834848922.jpg",
+ "md5": "3a29eb77165db3cbf84a9e6e0d1959d9",
+ "also_in": [
+  "term-2026-winter/Lesson 9 (9.3.2026)/1772526595384.jpg"
+ ],
+ "lesson": {
+  "term": "term-2025-autumn",
+  "number": 12,
+  "date": "2025-11-24"
+ },
+ "kind": "picture_vocab",
+ "title": {
+  "fi": "Huonekalut ja kodin tavarat",
+  "en": "Furniture and household items"
+ },
+ "topics": [
+  "other"
+ ],
+ "summary": "Photo vocabulary page of furniture and household items grouped by room: kitchen, living room, bedroom, hall and bathroom.",
+ "transcript": "HUONEKALUT JA KODIN TAVARAT\n\nkeittiö\nliesi\nuuni\nhella\njääkaappi\npakastin\ntuoli\nlasi\nlautanen\npöytä\n\nolohuone\nnojatuoli\nsohva\nkirjahylly\ntelevisio\nikkuna\nlamppu\n\nmakuuhuone\nsänky\nkaappi\nyöpöytä\nlipasto\n\neteinen\npeili\nnaulakko\nmatto\n\nkylpyhuone\nlavuaari\nsuihku\nvessanpönttö",
+ "words": [
+  {
+   "fi": "huonekalu",
+   "en": "piece of furniture",
+   "pos": "noun",
+   "theme": "furniture",
+   "form_seen": "huonekalut"
+  },
+  {
+   "fi": "koti",
+   "en": "home",
+   "pos": "noun",
+   "theme": "home",
+   "form_seen": "kodin",
+   "note": "t → d"
+  },
+  {
+   "fi": "tavara",
+   "en": "thing, item; (pl.) stuff, goods",
+   "pos": "noun",
+   "theme": "household",
+   "form_seen": "tavarat"
+  },
+  {
+   "fi": "keittiö",
+   "en": "kitchen",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "liesi",
+   "en": "hob, stovetop",
+   "pos": "noun",
+   "theme": "household"
+  },
+  {
+   "fi": "uuni",
+   "en": "oven",
+   "pos": "noun",
+   "theme": "household"
+  },
+  {
+   "fi": "hella",
+   "en": "cooker, stove (with oven)",
+   "pos": "noun",
+   "theme": "household"
+  },
+  {
+   "fi": "jääkaappi",
+   "en": "fridge, refrigerator",
+   "pos": "noun",
+   "theme": "household"
+  },
+  {
+   "fi": "pakastin",
+   "en": "freezer",
+   "pos": "noun",
+   "theme": "household"
+  },
+  {
+   "fi": "tuoli",
+   "en": "chair",
+   "pos": "noun",
+   "theme": "furniture"
+  },
+  {
+   "fi": "lasi",
+   "en": "glass",
+   "pos": "noun",
+   "theme": "tableware"
+  },
+  {
+   "fi": "lautanen",
+   "en": "plate",
+   "pos": "noun",
+   "theme": "tableware"
+  },
+  {
+   "fi": "pöytä",
+   "en": "table",
+   "pos": "noun",
+   "theme": "furniture"
+  },
+  {
+   "fi": "olohuone",
+   "en": "living room",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "nojatuoli",
+   "en": "armchair",
+   "pos": "noun",
+   "theme": "furniture"
+  },
+  {
+   "fi": "sohva",
+   "en": "sofa",
+   "pos": "noun",
+   "theme": "furniture"
+  },
+  {
+   "fi": "kirjahylly",
+   "en": "bookshelf",
+   "pos": "noun",
+   "theme": "furniture"
+  },
+  {
+   "fi": "televisio",
+   "en": "television",
+   "pos": "noun",
+   "theme": "household"
+  },
+  {
+   "fi": "ikkuna",
+   "en": "window",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "lamppu",
+   "en": "lamp",
+   "pos": "noun",
+   "theme": "household"
+  },
+  {
+   "fi": "makuuhuone",
+   "en": "bedroom",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "sänky",
+   "en": "bed",
+   "pos": "noun",
+   "theme": "furniture"
+  },
+  {
+   "fi": "kaappi",
+   "en": "cupboard, wardrobe",
+   "pos": "noun",
+   "theme": "furniture"
+  },
+  {
+   "fi": "yöpöytä",
+   "en": "bedside table",
+   "pos": "noun",
+   "theme": "furniture"
+  },
+  {
+   "fi": "lipasto",
+   "en": "chest of drawers",
+   "pos": "noun",
+   "theme": "furniture"
+  },
+  {
+   "fi": "eteinen",
+   "en": "hall, entrance hall",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "peili",
+   "en": "mirror",
+   "pos": "noun",
+   "theme": "furniture"
+  },
+  {
+   "fi": "naulakko",
+   "en": "coat rack, coat stand",
+   "pos": "noun",
+   "theme": "furniture"
+  },
+  {
+   "fi": "matto",
+   "en": "rug, carpet",
+   "pos": "noun",
+   "theme": "furniture"
+  },
+  {
+   "fi": "kylpyhuone",
+   "en": "bathroom",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "lavuaari",
+   "en": "washbasin, sink",
+   "pos": "noun",
+   "theme": "household"
+  },
+  {
+   "fi": "suihku",
+   "en": "shower",
+   "pos": "noun",
+   "theme": "household"
+  },
+  {
+   "fi": "vessanpönttö",
+   "en": "toilet bowl",
+   "pos": "noun",
+   "theme": "household"
+  }
+ ],
+ "texts": [],
+ "exercises": [],
+ "grammar_notes": []
+}

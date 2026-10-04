@@ -1,0 +1,247 @@
+{
+ "source": "term-2025-autumn/Lesson 14 (8.12.2025)/1763834790741.jpg",
+ "md5": "b30f25c61b16bc434e4b636c4a6be8a9",
+ "also_in": [],
+ "lesson": {
+  "term": "term-2025-autumn",
+  "number": 14,
+  "date": "2025-12-08"
+ },
+ "kind": "grammar",
+ "title": {
+  "fi": "Mitä kello on?",
+  "en": "What time is it?"
+ },
+ "topics": [
+  "clock",
+  "numbers",
+  "days-dates"
+ ],
+ "summary": "Telling the time (Kappale 5): a short dialogue, full hour / quarter past / half / quarter to examples, aamulla vs illalla for 8.00 and 20.00, and the parts of the day.",
+ "transcript": "Kappale 5\n\nMitä kello on?\n\nAnteeksi, mitä kello on?\nKello on puoli yhdeksän.\n\n[4.00] Kello on neljä.\n[4.15] Kello on viisitoista / varttia yli neljä.\n[4.30] Kello on puoli viisi.\n[4.45] Kello on viisitoista / varttia vaille viisi.\n\nHUOM!\n8.00 Kello on kahdeksan aamulla.\n20.00 Kello on kahdeksan illalla.\n\naamulla – aamupäivällä – iltapäivällä – illalla – yöllä",
+ "words": [
+  {
+   "fi": "kappale",
+   "en": "chapter, unit",
+   "pos": "noun",
+   "theme": "classroom"
+  },
+  {
+   "fi": "mikä",
+   "en": "what",
+   "pos": "question",
+   "theme": "question-words",
+   "form_seen": "mitä",
+   "note": "Mitä kello on? = What time is it?"
+  },
+  {
+   "fi": "kello",
+   "en": "clock; o'clock",
+   "pos": "noun",
+   "theme": "clock"
+  },
+  {
+   "fi": "olla",
+   "en": "to be",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "common-verbs",
+   "form_seen": "on"
+  },
+  {
+   "fi": "anteeksi",
+   "en": "excuse me; sorry",
+   "pos": "interj",
+   "theme": "greetings"
+  },
+  {
+   "fi": "puoli",
+   "en": "half",
+   "pos": "num",
+   "theme": "clock",
+   "note": "puoli yhdeksän = 8.30 (half to nine)"
+  },
+  {
+   "fi": "yhdeksän",
+   "en": "nine",
+   "pos": "num",
+   "theme": "numbers"
+  },
+  {
+   "fi": "neljä",
+   "en": "four",
+   "pos": "num",
+   "theme": "numbers"
+  },
+  {
+   "fi": "viisi",
+   "en": "five",
+   "pos": "num",
+   "theme": "numbers"
+  },
+  {
+   "fi": "viisitoista",
+   "en": "fifteen",
+   "pos": "num",
+   "theme": "numbers"
+  },
+  {
+   "fi": "kahdeksan",
+   "en": "eight",
+   "pos": "num",
+   "theme": "numbers"
+  },
+  {
+   "fi": "vartti",
+   "en": "quarter of an hour",
+   "pos": "noun",
+   "theme": "clock",
+   "form_seen": "varttia"
+  },
+  {
+   "fi": "yli",
+   "en": "past (time)",
+   "pos": "adv",
+   "theme": "clock"
+  },
+  {
+   "fi": "vailla",
+   "en": "to (time), lacking",
+   "pos": "adv",
+   "theme": "clock",
+   "form_seen": "vaille",
+   "note": "in time expressions usually vaille"
+  },
+  {
+   "fi": "aamu",
+   "en": "morning",
+   "pos": "noun",
+   "theme": "days-time",
+   "form_seen": "aamulla"
+  },
+  {
+   "fi": "aamupäivä",
+   "en": "late morning, forenoon",
+   "pos": "noun",
+   "theme": "days-time",
+   "form_seen": "aamupäivällä"
+  },
+  {
+   "fi": "iltapäivä",
+   "en": "afternoon",
+   "pos": "noun",
+   "theme": "days-time",
+   "form_seen": "iltapäivällä"
+  },
+  {
+   "fi": "ilta",
+   "en": "evening",
+   "pos": "noun",
+   "theme": "days-time",
+   "form_seen": "illalla",
+   "note": "lt → ll"
+  },
+  {
+   "fi": "yö",
+   "en": "night",
+   "pos": "noun",
+   "theme": "days-time",
+   "form_seen": "yöllä"
+  }
+ ],
+ "texts": [
+  {
+   "title": {
+    "fi": "Mitä kello on?",
+    "en": "What time is it?"
+   },
+   "kind": "dialogue",
+   "lines": [
+    {
+     "speaker": "A",
+     "fi": "Anteeksi, mitä kello on?",
+     "en": "Excuse me, what time is it?"
+    },
+    {
+     "speaker": "B",
+     "fi": "Kello on puoli yhdeksän.",
+     "en": "It's half past eight."
+    }
+   ]
+  },
+  {
+   "title": {
+    "fi": "Kellonajat",
+    "en": "Times"
+   },
+   "kind": "reading",
+   "lines": [
+    {
+     "fi": "Kello on neljä.",
+     "en": "It's four o'clock."
+    },
+    {
+     "fi": "Kello on viisitoista / varttia yli neljä.",
+     "en": "It's fifteen / a quarter past four."
+    },
+    {
+     "fi": "Kello on puoli viisi.",
+     "en": "It's half past four."
+    },
+    {
+     "fi": "Kello on viisitoista / varttia vaille viisi.",
+     "en": "It's fifteen / a quarter to five."
+    },
+    {
+     "fi": "Kello on kahdeksan aamulla.",
+     "en": "It's eight in the morning (8.00)."
+    },
+    {
+     "fi": "Kello on kahdeksan illalla.",
+     "en": "It's eight in the evening (20.00)."
+    }
+   ]
+  }
+ ],
+ "exercises": [],
+ "grammar_notes": [
+  {
+   "topic": "clock",
+   "heading": "Mitä kello on?",
+   "text": "Full hour: Kello on neljä. Minutes past: … yli (viisitoista / varttia yli neljä = 4.15). Half: puoli + NEXT hour (puoli viisi = 4.30). Minutes to: … vaille + next hour (viisitoista / varttia vaille viisi = 4.45).",
+   "table": [
+    [
+     "4.00",
+     "Kello on neljä."
+    ],
+    [
+     "4.15",
+     "Kello on viisitoista / varttia yli neljä."
+    ],
+    [
+     "4.30",
+     "Kello on puoli viisi."
+    ],
+    [
+     "4.45",
+     "Kello on viisitoista / varttia vaille viisi."
+    ]
+   ]
+  },
+  {
+   "topic": "clock",
+   "heading": "HUOM! aamulla / illalla",
+   "text": "Spoken time uses the 12-hour clock; add the part of the day: 8.00 Kello on kahdeksan aamulla. 20.00 Kello on kahdeksan illalla. Parts of the day: aamulla – aamupäivällä – iltapäivällä – illalla – yöllä.",
+   "table": [
+    [
+     "8.00",
+     "Kello on kahdeksan aamulla."
+    ],
+    [
+     "20.00",
+     "Kello on kahdeksan illalla."
+    ]
+   ]
+  }
+ ]
+}

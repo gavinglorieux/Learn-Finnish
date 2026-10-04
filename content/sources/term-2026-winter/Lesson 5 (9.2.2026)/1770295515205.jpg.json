@@ -1,0 +1,282 @@
+{
+  "source": "term-2026-winter/Lesson 5 (9.2.2026)/1770295515205.jpg",
+  "md5": "d3a416dc8aedae2217dc5ab1fa392f83",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 5,
+    "date": "2026-02-09"
+  },
+  "kind": "picture_vocab",
+  "title": {
+    "fi": "Paikat (kuvat 1–32)",
+    "en": "Places (pictures 1–32)"
+  },
+  "topics": [
+    "local-cases",
+    "place-names"
+  ],
+  "summary": "Unlabelled page of 32 numbered line drawings of places (park, swimming pool, library, dentist, café, classroom, hospital, plane, shop, concert, cinema, church, day care, square, railway station, kiosk, street, bus stop, theatre, countryside, indoors/outdoors, shower …), used for Missä?/Mistä?/Mihin? practice. The sheet has no Finnish text; the words below are identified from the drawings and marked uncertain.",
+  "transcript": "(No text on the page — 32 numbered pictures, 1–32.)",
+  "exercises": [],
+  "words": [
+    {
+      "fi": "puisto",
+      "en": "park",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 1 (identified from drawing, no label on sheet)",
+      "theme": "places-town"
+    },
+    {
+      "fi": "uimahalli",
+      "en": "swimming hall",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 2 (identified from drawing, no label on sheet)",
+      "theme": "places-town"
+    },
+    {
+      "fi": "kirjasto",
+      "en": "library",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 3 (identified from drawing, no label on sheet)",
+      "theme": "places-town"
+    },
+    {
+      "fi": "hammaslääkäri",
+      "en": "dentist",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 4 (identified from drawing, no label on sheet)",
+      "theme": "health"
+    },
+    {
+      "fi": "kahvila",
+      "en": "café",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 5 (identified from drawing, no label on sheet)",
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "keittiö",
+      "en": "kitchen",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 6 (identified from drawing, no label on sheet)",
+      "theme": "home"
+    },
+    {
+      "fi": "koulu",
+      "en": "school",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 7 (identified from drawing, no label on sheet)",
+      "theme": "school-work"
+    },
+    {
+      "fi": "vankila",
+      "en": "prison",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 8 (identified from drawing, no label on sheet)",
+      "theme": "places-town"
+    },
+    {
+      "fi": "eläintarha",
+      "en": "zoo",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 9 (identified from drawing, no label on sheet)",
+      "theme": "places-town"
+    },
+    {
+      "fi": "sairaala",
+      "en": "hospital",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 10 (identified from drawing, no label on sheet)",
+      "theme": "health"
+    },
+    {
+      "fi": "lentokone",
+      "en": "aeroplane",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 11 (identified from drawing, no label on sheet)",
+      "theme": "transport"
+    },
+    {
+      "fi": "taidenäyttely",
+      "en": "art exhibition",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 12 (identified from drawing, no label on sheet)",
+      "theme": "places-town"
+    },
+    {
+      "fi": "metsä",
+      "en": "forest",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 13 (identified from drawing, no label on sheet)",
+      "theme": "nature"
+    },
+    {
+      "fi": "kauppa",
+      "en": "shop",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 14 (identified from drawing, no label on sheet)",
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "konsertti",
+      "en": "concert",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 15 (identified from drawing, no label on sheet)",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "elokuvateatteri",
+      "en": "cinema",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 16 (identified from drawing, no label on sheet)",
+      "theme": "places-town"
+    },
+    {
+      "fi": "kirkko",
+      "en": "church",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 17 (identified from drawing, no label on sheet)",
+      "theme": "places-town"
+    },
+    {
+      "fi": "päiväkoti",
+      "en": "day-care centre",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 18 (identified from drawing, no label on sheet)",
+      "theme": "places-town"
+    },
+    {
+      "fi": "tori",
+      "en": "market square",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 19 (identified from drawing, no label on sheet)",
+      "theme": "places-town"
+    },
+    {
+      "fi": "rautatieasema",
+      "en": "railway station",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 20 (identified from drawing, no label on sheet)",
+      "theme": "transport"
+    },
+    {
+      "fi": "kioski",
+      "en": "kiosk",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 21 (identified from drawing, no label on sheet)",
+      "theme": "places-town"
+    },
+    {
+      "fi": "piha",
+      "en": "yard",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 22 (identified from drawing, no label on sheet)",
+      "theme": "home"
+    },
+    {
+      "fi": "katu",
+      "en": "street",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 23 (identified from drawing, no label on sheet)",
+      "theme": "places-town"
+    },
+    {
+      "fi": "posti",
+      "en": "post office",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 24 (identified from drawing, no label on sheet)",
+      "theme": "places-town"
+    },
+    {
+      "fi": "bussipysäkki",
+      "en": "bus stop",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 25 (identified from drawing, no label on sheet)",
+      "theme": "transport"
+    },
+    {
+      "fi": "olohuone",
+      "en": "living room",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 26 (identified from drawing, no label on sheet)",
+      "theme": "home"
+    },
+    {
+      "fi": "kokous",
+      "en": "meeting",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 27 (identified from drawing, no label on sheet)",
+      "theme": "school-work"
+    },
+    {
+      "fi": "teatteri",
+      "en": "theatre",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 28 (identified from drawing, no label on sheet)",
+      "theme": "places-town"
+    },
+    {
+      "fi": "maaseutu",
+      "en": "countryside",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 29 (identified from drawing, no label on sheet)",
+      "theme": "nature"
+    },
+    {
+      "fi": "sisällä",
+      "en": "inside",
+      "pos": "adv",
+      "uncertain": true,
+      "note": "picture 30 (identified from drawing, no label on sheet)",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "ulkona",
+      "en": "outside",
+      "pos": "adv",
+      "uncertain": true,
+      "note": "picture 31 (identified from drawing, no label on sheet)",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "suihku",
+      "en": "shower",
+      "pos": "noun",
+      "uncertain": true,
+      "note": "picture 32 (identified from drawing, no label on sheet)",
+      "theme": "household"
+    }
+  ],
+  "texts": [],
+  "grammar_notes": []
+}

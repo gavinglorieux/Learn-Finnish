@@ -1,0 +1,345 @@
+{
+  "source": "term-2025-autumn/Lesson 3 (15.9.2025)/1757393256828.jpg",
+  "md5": "ca6bdc10375561664ffc9f98b40935cd",
+  "also_in": [
+    "term-2025-autumn/Lesson 4 (22.9.2025)/1758112227963.jpg"
+  ],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 3,
+    "date": "2025-09-15"
+  },
+  "kind": "worksheet",
+  "title": {
+    "fi": "Perhe ja sukulaiset",
+    "en": "Family and relatives"
+  },
+  "topics": [],
+  "summary": "Family-tree worksheet: English→Finnish list of family and in-law words (first five left blank to fill in) around a drawn family tree of people with ages and home towns.",
+  "transcript": "PERHE JA SUKULAISET   family and relatives\nfather=\nmother=\nsister=\nbrother=\nson=\ndaughter=tytär\nchild=lapsi\ntwo children=kaksi lasta\ngrandfather=isoisä (pappa, vaari, ukki)\ngrandmother=isoäiti (mummi, mummu, mamma)\nlittle sister=pikkusisko\nbig brother=isoveli\nparents=vanhemmat\ngrandparents=isovanhemmat\naunt=täti\nuncle=setä\nmother's brother=eno\ncousin=serkku\ngrandchild=lapsenlapsi, lastenlapset\nmother-in-law=anoppi\nfather-in-law=appiukko\ndaughter-in-law=miniä\nson-in-law=vävy\nsister's husband=lanko (siskonmies)\nbrother's wife=käly (veljenvaimo)\nniece=veljen-/siskontytär\nnephew=veljen-/siskonpoika\nwidow=leski\nwidower=leskimies\ndeceased=kuollut\nstepfather=isäpuoli\nstepsister=siskopuoli\n\n(family tree) Maija 87 v. (Karkkila); Aliisa 56 v., Janne 55 v. (Salo); Henri 52 v., Salu 52 v. (Sipoo); Veli 68 v. (Mäkkylä); Kati 31 v. (Pertteli); Laura 27 v. (Nummela); Tiina 45 v. (Mikkeli); Sami 4 v.; Sanna 20 v. (Jyväskylä)",
+  "words": [
+    {
+      "fi": "perhe",
+      "en": "family",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "sukulainen",
+      "en": "relative",
+      "pos": "noun",
+      "form_seen": "sukulaiset",
+      "theme": "family"
+    },
+    {
+      "fi": "isä",
+      "en": "father",
+      "pos": "noun",
+      "note": "blank on sheet (father=), filled as derived",
+      "theme": "family"
+    },
+    {
+      "fi": "äiti",
+      "en": "mother",
+      "pos": "noun",
+      "note": "blank on sheet (mother=)",
+      "theme": "family"
+    },
+    {
+      "fi": "sisko",
+      "en": "sister",
+      "pos": "noun",
+      "note": "blank on sheet (sister=)",
+      "theme": "family"
+    },
+    {
+      "fi": "veli",
+      "en": "brother",
+      "pos": "noun",
+      "note": "blank on sheet (brother=)",
+      "theme": "family"
+    },
+    {
+      "fi": "poika",
+      "en": "son",
+      "pos": "noun",
+      "note": "blank on sheet (son=)",
+      "theme": "family"
+    },
+    {
+      "fi": "tytär",
+      "en": "daughter",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "lapsi",
+      "en": "child",
+      "pos": "noun",
+      "forms": {
+        "partitive": "lasta",
+        "plural": "lapset"
+      },
+      "theme": "family"
+    },
+    {
+      "fi": "kaksi lasta",
+      "en": "two children",
+      "pos": "phrase",
+      "theme": "family"
+    },
+    {
+      "fi": "isoisä",
+      "en": "grandfather",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "pappa",
+      "en": "grandpa",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "vaari",
+      "en": "grandpa",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "ukki",
+      "en": "grandpa",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "isoäiti",
+      "en": "grandmother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "mummi",
+      "en": "grandma",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "mummu",
+      "en": "grandma",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "mamma",
+      "en": "grandma",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "pikkusisko",
+      "en": "little sister",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "isoveli",
+      "en": "big brother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "vanhemmat",
+      "en": "parents",
+      "pos": "noun",
+      "note": "plural",
+      "theme": "family"
+    },
+    {
+      "fi": "isovanhemmat",
+      "en": "grandparents",
+      "pos": "noun",
+      "note": "plural",
+      "theme": "family"
+    },
+    {
+      "fi": "täti",
+      "en": "aunt",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "setä",
+      "en": "uncle (father's brother)",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "eno",
+      "en": "uncle (mother's brother)",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "serkku",
+      "en": "cousin",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "lapsenlapsi",
+      "en": "grandchild",
+      "pos": "noun",
+      "forms": {
+        "plural": "lastenlapset"
+      },
+      "theme": "family"
+    },
+    {
+      "fi": "anoppi",
+      "en": "mother-in-law",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "appiukko",
+      "en": "father-in-law",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "miniä",
+      "en": "daughter-in-law",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "vävy",
+      "en": "son-in-law",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "lanko",
+      "en": "brother-in-law (sister's husband)",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "siskonmies",
+      "en": "sister's husband",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "käly",
+      "en": "sister-in-law (brother's wife)",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "veljenvaimo",
+      "en": "brother's wife",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "veljentytär",
+      "en": "niece (brother's daughter)",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "siskontytär",
+      "en": "niece (sister's daughter)",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "veljenpoika",
+      "en": "nephew (brother's son)",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "siskonpoika",
+      "en": "nephew (sister's son)",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "leski",
+      "en": "widow",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "leskimies",
+      "en": "widower",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "kuollut",
+      "en": "deceased",
+      "pos": "adj",
+      "theme": "family"
+    },
+    {
+      "fi": "isäpuoli",
+      "en": "stepfather",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "siskopuoli",
+      "en": "stepsister",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "v.",
+      "en": "years (abbrev. of vuotta / -vuotias)",
+      "pos": "noun",
+      "note": "87 v. = 87 years old",
+      "theme": "numbers"
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Perhe ja sukulaiset — fill in the Finnish word",
+      "instruction": "Write the Finnish word.",
+      "topic": "other",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "father= ____",
+          "answer": "isä",
+          "en": "father"
+        },
+        {
+          "prompt": "mother= ____",
+          "answer": "äiti",
+          "en": "mother"
+        },
+        {
+          "prompt": "sister= ____",
+          "answer": "sisko (sisar)",
+          "en": "sister"
+        },
+        {
+          "prompt": "brother= ____",
+          "answer": "veli",
+          "en": "brother"
+        },
+        {
+          "prompt": "son= ____",
+          "answer": "poika",
+          "en": "son"
+        }
+      ]
+    }
+  ],
+  "texts": [],
+  "grammar_notes": []
+}

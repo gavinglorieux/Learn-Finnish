@@ -1,0 +1,482 @@
+{
+ "source": "term-2026-winter/Lesson 1 (12.1.2026)/1766847480449.jpg",
+ "md5": "40b121f5ed579d951440028be6067a1d",
+ "also_in": [],
+ "lesson": {
+  "term": "term-2026-winter",
+  "number": 1,
+  "date": "2026-01-12"
+ },
+ "kind": "exercise",
+ "title": {
+  "fi": "Mihin aikaan kauppa on auki?",
+  "en": "When is the store open?"
+ },
+ "topics": [
+  "clock",
+  "days-dates",
+  "questions-ko",
+  "question-words",
+  "negation",
+  "numbers"
+ ],
+ "summary": "Exercise 8: an illustrated street with signs and ads (Mega-market, Pankki, Ravintola Kippis-baari, Pizzeria Salami, Kampaamo Uusi tyyli) showing opening hours and prices; ten questions a)–j) about them, plus a small Sanastoa box.",
+ "transcript": "MIHIN AIKAAN KAUPPA ON AUKI?\nWhen is the store open?\n\n8 Katso kylttejä ja mainoksia ja vastaa kysymyksiin.\nLook at the signs and advertisements and answer the questions.\n\n[Signs]\nMEGA-MARKET\nMEGA-market\nTervetuloa ostoksille huomenna sunnuntaina kello 12–18!\nBANAANIT 1,50 €/kg\nKAHVI 4,30 €\n\nPIZZERIA SALAMI\nAuki joka päivä 17–03\nPäivän pizza 7,50 €\n\nRAVINTOLA KIPPIS-BAARI\nKIPPIS\nJOKA PÄIVÄ 13.00–23.00\nTÄNÄÄN ILLALLA OHRA-orkesteri\nKello: 20.00 alkaen\n\nPANKKI\nPANKKI auki\nmaanantai – perjantai 9.15–16.30\nlauantai – sunnuntai suljettu\n\nKAMPAAMO Uusi tyyli\nma, ti ja pe 9.00–16.00\nSuljettu tänään aamulla. Auki kello 12.00 →\n\na) Mihin aikaan pankki menee kiinni tiistaina?\nb) Onko Kippis-baari auki yöllä?\nc) Soittaako Ohra-orkesteri aamulla vai illalla?\nd) Mihin aikaan Kampaamo Uusi tyyli on auki normaalisti?\ne) Mihin aikaan Uusi tyyli on auki tänään?\nf) Minä arkipäivänä kampaamo ei ole auki?\ng) Onko Mega-market auki sunnuntaina päivällä?\nh) Kuinka paljon banaanit maksavat?\ni) Onko Pizzeria Salami auki lauantaina?\nj) Kuinka paljon päivän pizza maksaa?\n\nSANASTOA\nauki – open\nkampaamo, -n – hair salon\nravintola, -n – restaurant\nsuljettu – closed\nmennä (3) kiinni – to close\narkipäivä – weekday",
+ "words": [
+  {
+   "fi": "aika",
+   "en": "time",
+   "pos": "noun",
+   "theme": "clock",
+   "form_seen": "aikaan",
+   "note": "Mihin aikaan? = At what time?"
+  },
+  {
+   "fi": "kauppa",
+   "en": "shop, store",
+   "pos": "noun",
+   "theme": "cafe-shop",
+   "note": "pp → p"
+  },
+  {
+   "fi": "auki",
+   "en": "open",
+   "pos": "adv",
+   "theme": "cafe-shop"
+  },
+  {
+   "fi": "katsoa",
+   "en": "to look (at), to watch",
+   "pos": "verb",
+   "verb_type": 1,
+   "theme": "common-verbs",
+   "form_seen": "katso"
+  },
+  {
+   "fi": "kyltti",
+   "en": "sign",
+   "pos": "noun",
+   "theme": "places-town",
+   "form_seen": "kylttejä"
+  },
+  {
+   "fi": "mainos",
+   "en": "advertisement",
+   "pos": "noun",
+   "theme": "cafe-shop",
+   "form_seen": "mainoksia"
+  },
+  {
+   "fi": "vastata",
+   "en": "to answer",
+   "pos": "verb",
+   "verb_type": 4,
+   "theme": "classroom",
+   "form_seen": "vastaa"
+  },
+  {
+   "fi": "kysymys",
+   "en": "question",
+   "pos": "noun",
+   "theme": "classroom",
+   "form_seen": "kysymyksiin"
+  },
+  {
+   "fi": "tervetuloa",
+   "en": "welcome",
+   "pos": "interj",
+   "theme": "greetings"
+  },
+  {
+   "fi": "ostos",
+   "en": "purchase; (pl.) shopping",
+   "pos": "noun",
+   "theme": "shopping-money",
+   "form_seen": "ostoksille",
+   "note": "Tervetuloa ostoksille! = Welcome to shop!"
+  },
+  {
+   "fi": "huomenna",
+   "en": "tomorrow",
+   "pos": "adv",
+   "theme": "days-time"
+  },
+  {
+   "fi": "sunnuntai",
+   "en": "Sunday",
+   "pos": "noun",
+   "theme": "days-time",
+   "form_seen": "sunnuntaina"
+  },
+  {
+   "fi": "kello",
+   "en": "o'clock; clock",
+   "pos": "noun",
+   "theme": "clock"
+  },
+  {
+   "fi": "banaani",
+   "en": "banana",
+   "pos": "noun",
+   "theme": "food-fruit-veg",
+   "form_seen": "banaanit"
+  },
+  {
+   "fi": "kahvi",
+   "en": "coffee",
+   "pos": "noun",
+   "theme": "drinks"
+  },
+  {
+   "fi": "euro",
+   "en": "euro",
+   "pos": "noun",
+   "theme": "shopping-money",
+   "form_seen": "€"
+  },
+  {
+   "fi": "kilo",
+   "en": "kilo",
+   "pos": "noun",
+   "theme": "shopping-money",
+   "form_seen": "kg"
+  },
+  {
+   "fi": "pizzeria",
+   "en": "pizzeria",
+   "pos": "noun",
+   "theme": "places-town"
+  },
+  {
+   "fi": "joka",
+   "en": "every",
+   "pos": "pron",
+   "theme": "little-words",
+   "note": "joka päivä = every day"
+  },
+  {
+   "fi": "päivä",
+   "en": "day",
+   "pos": "noun",
+   "theme": "days-time",
+   "form_seen": "päivän / päivällä"
+  },
+  {
+   "fi": "pizza",
+   "en": "pizza",
+   "pos": "noun",
+   "theme": "food-meals"
+  },
+  {
+   "fi": "päivän pizza",
+   "en": "pizza of the day",
+   "pos": "phrase",
+   "theme": "food-meals"
+  },
+  {
+   "fi": "ravintola",
+   "en": "restaurant",
+   "pos": "noun",
+   "theme": "cafe-shop"
+  },
+  {
+   "fi": "baari",
+   "en": "bar",
+   "pos": "noun",
+   "theme": "cafe-shop"
+  },
+  {
+   "fi": "kippis",
+   "en": "cheers!",
+   "pos": "interj",
+   "theme": "drinks"
+  },
+  {
+   "fi": "tänään",
+   "en": "today",
+   "pos": "adv",
+   "theme": "days-time"
+  },
+  {
+   "fi": "ilta",
+   "en": "evening",
+   "pos": "noun",
+   "theme": "days-time",
+   "form_seen": "illalla"
+  },
+  {
+   "fi": "orkesteri",
+   "en": "band, orchestra",
+   "pos": "noun",
+   "theme": "hobbies-sport"
+  },
+  {
+   "fi": "alkaen",
+   "en": "from, starting at",
+   "pos": "postp",
+   "theme": "clock",
+   "note": "kello 20.00 alkaen = from 8 pm"
+  },
+  {
+   "fi": "pankki",
+   "en": "bank",
+   "pos": "noun",
+   "theme": "places-town",
+   "note": "kk → k"
+  },
+  {
+   "fi": "maanantai",
+   "en": "Monday",
+   "pos": "noun",
+   "theme": "days-time"
+  },
+  {
+   "fi": "tiistai",
+   "en": "Tuesday",
+   "pos": "noun",
+   "theme": "days-time",
+   "form_seen": "tiistaina"
+  },
+  {
+   "fi": "perjantai",
+   "en": "Friday",
+   "pos": "noun",
+   "theme": "days-time"
+  },
+  {
+   "fi": "lauantai",
+   "en": "Saturday",
+   "pos": "noun",
+   "theme": "days-time",
+   "form_seen": "lauantaina"
+  },
+  {
+   "fi": "suljettu",
+   "en": "closed",
+   "pos": "adj",
+   "theme": "cafe-shop"
+  },
+  {
+   "fi": "kampaamo",
+   "en": "hair salon",
+   "pos": "noun",
+   "theme": "places-town"
+  },
+  {
+   "fi": "uusi",
+   "en": "new",
+   "pos": "adj",
+   "theme": "adjectives"
+  },
+  {
+   "fi": "tyyli",
+   "en": "style",
+   "pos": "noun",
+   "theme": "appearance"
+  },
+  {
+   "fi": "aamu",
+   "en": "morning",
+   "pos": "noun",
+   "theme": "days-time",
+   "form_seen": "aamulla"
+  },
+  {
+   "fi": "mennä",
+   "en": "to go",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "common-verbs",
+   "forms": {
+    "se": "menee"
+   },
+   "form_seen": "menee"
+  },
+  {
+   "fi": "mennä kiinni",
+   "en": "to close",
+   "pos": "phrase",
+   "theme": "cafe-shop",
+   "form_seen": "menee kiinni"
+  },
+  {
+   "fi": "kiinni",
+   "en": "closed, shut",
+   "pos": "adv",
+   "theme": "cafe-shop"
+  },
+  {
+   "fi": "yö",
+   "en": "night",
+   "pos": "noun",
+   "theme": "days-time",
+   "form_seen": "yöllä"
+  },
+  {
+   "fi": "soittaa",
+   "en": "to play (music); to call",
+   "pos": "verb",
+   "verb_type": 1,
+   "theme": "hobbies-sport",
+   "form_seen": "soittaako",
+   "note": "tt → t"
+  },
+  {
+   "fi": "vai",
+   "en": "or (in questions)",
+   "pos": "conj",
+   "theme": "little-words"
+  },
+  {
+   "fi": "normaalisti",
+   "en": "normally",
+   "pos": "adv",
+   "theme": "adverbs"
+  },
+  {
+   "fi": "arkipäivä",
+   "en": "weekday, working day",
+   "pos": "noun",
+   "theme": "days-time",
+   "form_seen": "arkipäivänä"
+  },
+  {
+   "fi": "mikä",
+   "en": "what, which",
+   "pos": "question",
+   "theme": "question-words",
+   "form_seen": "mihin / minä"
+  },
+  {
+   "fi": "olla",
+   "en": "to be",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "common-verbs",
+   "form_seen": "on / onko / ei ole"
+  },
+  {
+   "fi": "kuinka paljon",
+   "en": "how much",
+   "pos": "question",
+   "theme": "question-words"
+  },
+  {
+   "fi": "maksaa",
+   "en": "to cost; to pay",
+   "pos": "verb",
+   "verb_type": 1,
+   "theme": "shopping-money",
+   "forms": {
+    "se": "maksaa",
+    "he": "maksavat"
+   },
+   "form_seen": "maksavat / maksaa"
+  }
+ ],
+ "texts": [
+  {
+   "title": {
+    "fi": "Kyltit ja mainokset",
+    "en": "Signs and advertisements"
+   },
+   "kind": "reading",
+   "lines": [
+    {
+     "fi": "Tervetuloa ostoksille huomenna sunnuntaina kello 12–18!",
+     "en": "Welcome to shop tomorrow, Sunday, from 12 to 6 pm!"
+    },
+    {
+     "fi": "Banaanit 1,50 €/kg. Kahvi 4,30 €.",
+     "en": "Bananas €1.50/kg. Coffee €4.30."
+    },
+    {
+     "fi": "Pizzeria Salami. Auki joka päivä 17–03. Päivän pizza 7,50 €.",
+     "en": "Pizzeria Salami. Open every day 5 pm – 3 am. Pizza of the day €7.50."
+    },
+    {
+     "fi": "Kippis. Joka päivä 13.00–23.00.",
+     "en": "Kippis. Every day 1 pm – 11 pm."
+    },
+    {
+     "fi": "Tänään illalla Ohra-orkesteri kello 20.00 alkaen.",
+     "en": "Tonight the Ohra band from 8 pm."
+    },
+    {
+     "fi": "Pankki auki maanantai–perjantai 9.15–16.30, lauantai–sunnuntai suljettu.",
+     "en": "Bank open Monday–Friday 9.15–16.30, Saturday–Sunday closed."
+    },
+    {
+     "fi": "Kampaamo Uusi tyyli: ma, ti ja pe 9.00–16.00.",
+     "en": "Hair salon New Style: Mon, Tue and Fri 9.00–16.00."
+    },
+    {
+     "fi": "Suljettu tänään aamulla. Auki kello 12.00 →",
+     "en": "Closed this morning. Open from 12.00."
+    }
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "title": "8. Katso kylttejä ja mainoksia ja vastaa kysymyksiin.",
+   "instruction": "Look at the signs and advertisements and answer the questions.",
+   "topic": "clock",
+   "answer_source": "derived",
+   "items": [
+    {
+     "prompt": "a) Mihin aikaan pankki menee kiinni tiistaina? ____",
+     "answer": "Pankki menee kiinni kello 16.30 (puoli viisi).",
+     "en": "What time does the bank close on Tuesday? – At 4.30 pm."
+    },
+    {
+     "prompt": "b) Onko Kippis-baari auki yöllä? ____",
+     "answer": "Ei ole. Se on auki kello 13–23.",
+     "en": "Is Kippis bar open at night? – No, it's open 1–11 pm."
+    },
+    {
+     "prompt": "c) Soittaako Ohra-orkesteri aamulla vai illalla? ____",
+     "answer": "Ohra-orkesteri soittaa illalla, kello 20 alkaen.",
+     "en": "Does the Ohra band play in the morning or evening? – In the evening, from 8 pm."
+    },
+    {
+     "prompt": "d) Mihin aikaan Kampaamo Uusi tyyli on auki normaalisti? ____",
+     "answer": "Se on auki maanantaina, tiistaina ja perjantaina kello 9–16.",
+     "en": "When is the salon normally open? – Mon, Tue and Fri 9–16."
+    },
+    {
+     "prompt": "e) Mihin aikaan Uusi tyyli on auki tänään? ____",
+     "answer": "Tänään se on auki kello 12–16.",
+     "en": "When is it open today? – From 12 to 4 pm."
+    },
+    {
+     "prompt": "f) Minä arkipäivänä kampaamo ei ole auki? ____",
+     "answer": "Keskiviikkona ja torstaina.",
+     "en": "On which weekday is the salon not open? – Wednesday and Thursday."
+    },
+    {
+     "prompt": "g) Onko Mega-market auki sunnuntaina päivällä? ____",
+     "answer": "On, kello 12–18.",
+     "en": "Is Mega-market open on Sunday during the day? – Yes, 12–18."
+    },
+    {
+     "prompt": "h) Kuinka paljon banaanit maksavat? ____",
+     "answer": "Banaanit maksavat 1,50 euroa kilo.",
+     "en": "How much do the bananas cost? – €1.50 a kilo."
+    },
+    {
+     "prompt": "i) Onko Pizzeria Salami auki lauantaina? ____",
+     "answer": "On. Se on auki joka päivä kello 17–03.",
+     "en": "Is Pizzeria Salami open on Saturday? – Yes, every day 17–03."
+    },
+    {
+     "prompt": "j) Kuinka paljon päivän pizza maksaa? ____",
+     "answer": "Päivän pizza maksaa 7,50 euroa.",
+     "en": "How much is the pizza of the day? – €7.50.",
+     "uncertain": true
+    }
+   ]
+  }
+ ],
+ "grammar_notes": []
+}

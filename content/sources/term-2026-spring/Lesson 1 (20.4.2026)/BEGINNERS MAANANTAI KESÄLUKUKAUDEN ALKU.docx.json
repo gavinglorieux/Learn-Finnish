@@ -1,0 +1,1133 @@
+{
+  "source": "term-2026-spring/Lesson 1 (20.4.2026)/BEGINNERS MAANANTAI KESÄLUKUKAUDEN ALKU.docx",
+  "md5": "56ed762736d6b41dd12175fc478a90c5",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 1,
+    "date": "2026-04-20"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "Beginners maanantai: kesälukukauden alku",
+    "en": "Beginners Monday: start of the summer term"
+  },
+  "topics": [
+    "verb-types",
+    "negation",
+    "questions-ko",
+    "have-adessive",
+    "verb-infinitive-object",
+    "weather",
+    "clock"
+  ],
+  "summary": "Gap-fill story (20 numbered sentences) about the Jokinen family's walk in the park: fill in present-tense verbs from English cues (affirmative, negative and questions); bold words are listed in a vocabulary (SANASTO) at the end.",
+  "transcript": "BEGINNERS MAANANTAI KESÄLUKUKAUDEN ALKU\n\nTäydennä verbit. Lause voi olla myös kysymys. Boldened words translated at the end.\n\n1.  Jokisen perhe on kävelyllä puistossa. Tänään on viileä päivä. Aurinko ____ (is not shining), vaan puistossa ____ (is windy).\n\n2.  Pikku Marjaana ____ (is collecting= KERÄTÄ) lehtiä.\n\n3.  Isä ja Marjaana ____ (stop= PYSÄHTYÄ) monta kertaa,\n\nkun Marjaana ____ (sees) hienoja lehtiä.\n\n4.  Hän ____ (picks up= POIMIA) maasta ison, keltaisen\n\nvaahteranlehden ja ____ (shows= NÄYTTÄÄ) sen isälle.\n\n5.  Marjaanan pikkuveli Marko ____ (is sleeping= NUKKUA)\n\nlastenvaunussa. Hän ____ (doesn´t wake up).\n\n6.  Äiti ____ (is pushing= TYÖNTÄÄ) lastenvaunua. Hän ____ (walks) reippaasti.\n\n7.  Hän ____ (does not want to) pysähtyä, koska ____ (she is hungry).\n\n8.  Hän ____ (doesn´t eat) koskaan aamulla. Hän ____\n\n(drinks) vain pari kuppia mustaa kahvia.\n\n9.  Mutta nyt ____ (it is 10 o´clock already) ja hän\n\n____ (doesn´t have the energy= JAKSAA) kävellä enää.\n\n10. - ____ (Are you (plural you) coming)? hän ____\n\n(shouts= HUUTAA) isälle ja Marjaanalle. – Minä ____ (am going) kahvilaan.\n\n11. - ____ (Do you remember), missä se on? isä ____ (asks) äidiltä.\n\n12. - ____ (No, I don´t), äiti ____ (replies).\n\n13. - ____ (Shall we go) yhdessä sinne? isä ____\n\n……… (continues). - ____ (Do you want some coffee)?\n\n14. – Joo, ja jotain syötävää. ____ (Do you have any\n\nmoney) mukana? ____ (I only have\n\na bank card) ja he ____ (take= OTTAA) vain käteistä.\n\n15. – Joo, ____ (I have cash), isä ____\n\n(says). Mutta Marjaana ____ (doesn´t want to) lähteä\n\nvielä. Puisto on täynnä hienoja lehtiä!\n\n16. – Jos sinä ____ (go) edeltä ja ____ (order)\n\nmeille pari voileipää, kahvia ja mehua, niin minä ja Marjaana ____ (will collect) vielä lehtiä. Me ____ (will follow=\n\nSEURATA) sitten perässä, isä ____ (suggests= EHDOTTAA).\n\n17. – Missä se kahvila ____ (is)? äiti ____ (asks). He …….\n\n____ (don´t visit) tässä puistossa usein.\n\n18. – Minä ____ (will google= GOOGLATA), missä se on ja me ____ (can) tavata siellä puolen tunnin kuluttua. Minä ja Marjaana ____ (will run) sinne. Mitä ____ (do you say)?\n\n19. – Sopii, ____ (says) äiti. Marko ____ (opens)\n\nsilmät. Hän ____ (is waking up).\n\n20. Äiti ____ (looks) taivaalle. Siellä on iso, musta pilvi. Pian ………\n\n____ (it will start raining: to start= ALKAA).\n\nSANASTO:\n\nlehti= leaf hieno= fine, nice-looking maa= ground vaahtera= maple tree lastenvaunu(t)= pram reippaasti= briskly yhdessä= together sinne= ”to there” jotain syötävää= something to eat lähteä= to leave täynnä= full edeltä= before perässä= after puolen tunnin kuluttua= after half an hour sopii= OK, suits me taivas= sky",
+  "words": [
+    {
+      "fi": "kesälukukausi",
+      "en": "summer term",
+      "pos": "noun",
+      "form_seen": "kesälukukauden",
+      "theme": "school-work"
+    },
+    {
+      "fi": "alku",
+      "en": "beginning, start",
+      "pos": "noun",
+      "theme": "days-time",
+      "note": "lk → l (alun)"
+    },
+    {
+      "fi": "perhe",
+      "en": "family",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "kävely",
+      "en": "walk",
+      "pos": "noun",
+      "form_seen": "kävelyllä",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "puisto",
+      "en": "park",
+      "pos": "noun",
+      "form_seen": "puistossa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "tänään",
+      "en": "today",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "viileä",
+      "en": "cool",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "päivä",
+      "en": "day",
+      "pos": "noun",
+      "theme": "days-time"
+    },
+    {
+      "fi": "aurinko",
+      "en": "sun",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "paistaa",
+      "en": "to shine",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "ei paista",
+      "theme": "weather"
+    },
+    {
+      "fi": "vaan",
+      "en": "but (rather)",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "tuulla",
+      "en": "to be windy, to blow",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "tuulee",
+      "theme": "weather"
+    },
+    {
+      "fi": "pikku",
+      "en": "little",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "kerätä",
+      "en": "to collect",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "kerää",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "lehti",
+      "en": "leaf (also: newspaper)",
+      "pos": "noun",
+      "form_seen": "lehtiä",
+      "theme": "nature",
+      "note": "ht → hd (lehdet)"
+    },
+    {
+      "fi": "isä",
+      "en": "father",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "pysähtyä",
+      "en": "to stop",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "pysähtyvät",
+      "theme": "common-verbs",
+      "note": "ht → hd"
+    },
+    {
+      "fi": "monta kertaa",
+      "en": "many times",
+      "pos": "phrase",
+      "theme": "days-time"
+    },
+    {
+      "fi": "nähdä",
+      "en": "to see",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "näkee",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "hieno",
+      "en": "fine, nice-looking",
+      "pos": "adj",
+      "form_seen": "hienoja",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "poimia",
+      "en": "to pick (up)",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "poimii",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "maa",
+      "en": "ground; country",
+      "pos": "noun",
+      "form_seen": "maasta",
+      "theme": "nature"
+    },
+    {
+      "fi": "iso",
+      "en": "big",
+      "pos": "adj",
+      "form_seen": "ison",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "keltainen",
+      "en": "yellow",
+      "pos": "adj",
+      "form_seen": "keltaisen",
+      "theme": "colours"
+    },
+    {
+      "fi": "vaahtera",
+      "en": "maple tree",
+      "pos": "noun",
+      "form_seen": "vaahteranlehden",
+      "theme": "nature"
+    },
+    {
+      "fi": "vaahteranlehti",
+      "en": "maple leaf",
+      "pos": "noun",
+      "form_seen": "vaahteranlehden",
+      "theme": "nature"
+    },
+    {
+      "fi": "näyttää",
+      "en": "to show",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "tt → t"
+    },
+    {
+      "fi": "pikkuveli",
+      "en": "little brother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "nukkua",
+      "en": "to sleep",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "nukkuu",
+      "theme": "daily-routine",
+      "note": "kk → k"
+    },
+    {
+      "fi": "lastenvaunut",
+      "en": "pram",
+      "pos": "noun",
+      "form_seen": "lastenvaunussa",
+      "theme": "household"
+    },
+    {
+      "fi": "herätä",
+      "en": "to wake up",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "ei herää",
+      "theme": "daily-routine"
+    },
+    {
+      "fi": "äiti",
+      "en": "mother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "työntää",
+      "en": "to push",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "nt → nn"
+    },
+    {
+      "fi": "kävellä",
+      "en": "to walk",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "kävelee",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "reippaasti",
+      "en": "briskly",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "haluta",
+      "en": "to want",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "ei halua",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "koska",
+      "en": "because",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "olla nälkä",
+      "en": "to be hungry",
+      "pos": "phrase",
+      "form_seen": "hänellä on nälkä",
+      "theme": "feelings"
+    },
+    {
+      "fi": "syödä",
+      "en": "to eat",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "ei syö",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "koskaan",
+      "en": "ever (never with negative)",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "aamu",
+      "en": "morning",
+      "pos": "noun",
+      "form_seen": "aamulla",
+      "theme": "days-time"
+    },
+    {
+      "fi": "juoda",
+      "en": "to drink",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "juo",
+      "theme": "drinks"
+    },
+    {
+      "fi": "vain",
+      "en": "only",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "pari",
+      "en": "a couple (of)",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kuppi",
+      "en": "cup",
+      "pos": "noun",
+      "form_seen": "kuppia",
+      "theme": "tableware",
+      "note": "pp → p"
+    },
+    {
+      "fi": "musta",
+      "en": "black",
+      "pos": "adj",
+      "form_seen": "mustaa",
+      "theme": "colours"
+    },
+    {
+      "fi": "kahvi",
+      "en": "coffee",
+      "pos": "noun",
+      "form_seen": "kahvia",
+      "theme": "drinks"
+    },
+    {
+      "fi": "nyt",
+      "en": "now",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "kello",
+      "en": "clock; o'clock",
+      "pos": "noun",
+      "theme": "clock"
+    },
+    {
+      "fi": "jaksaa",
+      "en": "to have the energy to",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "ei jaksa",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "enää",
+      "en": "anymore",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "tulla",
+      "en": "to come",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "tuletteko",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "huutaa",
+      "en": "to shout",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "t → d (huudan)"
+    },
+    {
+      "fi": "mennä",
+      "en": "to go",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "menen",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kahvila",
+      "en": "café",
+      "pos": "noun",
+      "form_seen": "kahvilaan",
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "muistaa",
+      "en": "to remember",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "muistatko",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "missä",
+      "en": "where",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "kysyä",
+      "en": "to ask",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "kysyy",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "vastata",
+      "en": "to answer, to reply",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "vastaa",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "yhdessä",
+      "en": "together",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "sinne",
+      "en": "(to) there",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "jatkaa",
+      "en": "to continue",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "jotain syötävää",
+      "en": "something to eat",
+      "pos": "phrase",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "raha",
+      "en": "money",
+      "pos": "noun",
+      "form_seen": "rahaa",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "mukana",
+      "en": "with (one), along",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "pankkikortti",
+      "en": "bank card",
+      "pos": "noun",
+      "theme": "shopping-money",
+      "note": "tt → t"
+    },
+    {
+      "fi": "ottaa",
+      "en": "to take",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "ottavat",
+      "theme": "common-verbs",
+      "note": "tt → t"
+    },
+    {
+      "fi": "käteinen",
+      "en": "cash",
+      "pos": "noun",
+      "form_seen": "käteistä",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "sanoa",
+      "en": "to say",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "sanoo",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "lähteä",
+      "en": "to leave",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "ht → hd"
+    },
+    {
+      "fi": "vielä",
+      "en": "still, yet",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "täynnä",
+      "en": "full",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "jos",
+      "en": "if",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "edeltä",
+      "en": "ahead, before",
+      "pos": "adv",
+      "theme": "directions"
+    },
+    {
+      "fi": "tilata",
+      "en": "to order",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "tilaat",
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "voileipä",
+      "en": "sandwich",
+      "pos": "noun",
+      "form_seen": "voileipää",
+      "theme": "food-meals",
+      "note": "p → v"
+    },
+    {
+      "fi": "mehu",
+      "en": "juice",
+      "pos": "noun",
+      "form_seen": "mehua",
+      "theme": "drinks"
+    },
+    {
+      "fi": "seurata",
+      "en": "to follow",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "seuraamme",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "perässä",
+      "en": "after, behind",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "ehdottaa",
+      "en": "to suggest",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "tt → t"
+    },
+    {
+      "fi": "käydä",
+      "en": "to visit",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "eivät käy",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "usein",
+      "en": "often",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "googlata",
+      "en": "to google",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "googlaan",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "voida",
+      "en": "can",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "voimme",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "tavata",
+      "en": "to meet",
+      "pos": "verb",
+      "verb_type": 4,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "puolen tunnin kuluttua",
+      "en": "in half an hour",
+      "pos": "phrase",
+      "theme": "clock"
+    },
+    {
+      "fi": "juosta",
+      "en": "to run",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "juoksemme",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "sopii",
+      "en": "OK, suits me",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "avata",
+      "en": "to open",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "avaa",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "silmä",
+      "en": "eye",
+      "pos": "noun",
+      "form_seen": "silmät",
+      "theme": "body"
+    },
+    {
+      "fi": "katsoa",
+      "en": "to look",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "katsoo",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "taivas",
+      "en": "sky",
+      "pos": "noun",
+      "form_seen": "taivaalle",
+      "theme": "nature"
+    },
+    {
+      "fi": "pilvi",
+      "en": "cloud",
+      "pos": "noun",
+      "theme": "weather",
+      "note": "pilvi → pilve-"
+    },
+    {
+      "fi": "pian",
+      "en": "soon",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "alkaa",
+      "en": "to start",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "lk → l"
+    },
+    {
+      "fi": "sataa",
+      "en": "to rain",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "weather"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Jokisen perhe puistossa",
+        "en": "The Jokinen family in the park"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Jokisen perhe on kävelyllä puistossa.",
+          "en": "The Jokinen family is out for a walk in the park."
+        },
+        {
+          "fi": "Tänään on viileä päivä.",
+          "en": "Today is a cool day."
+        },
+        {
+          "fi": "Aurinko ei paista, vaan puistossa tuulee.",
+          "en": "The sun isn't shining; instead it's windy in the park."
+        },
+        {
+          "fi": "Pikku Marjaana kerää lehtiä.",
+          "en": "Little Marjaana is collecting leaves."
+        },
+        {
+          "fi": "Isä ja Marjaana pysähtyvät monta kertaa, kun Marjaana näkee hienoja lehtiä.",
+          "en": "Dad and Marjaana stop many times when Marjaana sees nice leaves."
+        },
+        {
+          "fi": "Hän poimii maasta ison, keltaisen vaahteranlehden ja näyttää sen isälle.",
+          "en": "She picks a big yellow maple leaf up from the ground and shows it to Dad."
+        },
+        {
+          "fi": "Marjaanan pikkuveli Marko nukkuu lastenvaunussa.",
+          "en": "Marjaana's little brother Marko is sleeping in the pram."
+        },
+        {
+          "fi": "Hän ei herää.",
+          "en": "He doesn't wake up."
+        },
+        {
+          "fi": "Äiti työntää lastenvaunua.",
+          "en": "Mum is pushing the pram."
+        },
+        {
+          "fi": "Hän kävelee reippaasti.",
+          "en": "She walks briskly."
+        },
+        {
+          "fi": "Hän ei halua pysähtyä, koska hänellä on nälkä.",
+          "en": "She doesn't want to stop because she is hungry."
+        },
+        {
+          "fi": "Hän ei syö koskaan aamulla.",
+          "en": "She never eats in the morning."
+        },
+        {
+          "fi": "Hän juo vain pari kuppia mustaa kahvia.",
+          "en": "She only drinks a couple of cups of black coffee."
+        },
+        {
+          "fi": "Mutta nyt kello on jo kymmenen ja hän ei jaksa kävellä enää.",
+          "en": "But now it's already ten o'clock and she has no energy to walk any more."
+        },
+        {
+          "fi": "- Tuletteko? hän huutaa isälle ja Marjaanalle. – Minä menen kahvilaan.",
+          "en": "\"Are you coming?\" she shouts to Dad and Marjaana. \"I'm going to the café.\""
+        },
+        {
+          "fi": "- Muistatko, missä se on? isä kysyy äidiltä.",
+          "en": "\"Do you remember where it is?\" Dad asks Mum."
+        },
+        {
+          "fi": "- En muista, äiti vastaa.",
+          "en": "\"No, I don't,\" Mum replies."
+        },
+        {
+          "fi": "- Menemmekö yhdessä sinne? isä jatkaa. - Haluatko kahvia?",
+          "en": "\"Shall we go there together?\" Dad continues. \"Do you want some coffee?\""
+        },
+        {
+          "fi": "– Joo, ja jotain syötävää. Onko sinulla rahaa mukana? Minulla on vain pankkikortti ja he ottavat vain käteistä.",
+          "en": "\"Yes, and something to eat. Do you have any money with you? I only have a bank card and they only take cash.\""
+        },
+        {
+          "fi": "– Joo, minulla on käteistä, isä sanoo.",
+          "en": "\"Yes, I have cash,\" Dad says."
+        },
+        {
+          "fi": "Mutta Marjaana ei halua lähteä vielä. Puisto on täynnä hienoja lehtiä!",
+          "en": "But Marjaana doesn't want to leave yet. The park is full of lovely leaves!"
+        },
+        {
+          "fi": "– Jos sinä menet edeltä ja tilaat meille pari voileipää, kahvia ja mehua, niin minä ja Marjaana keräämme vielä lehtiä. Me seuraamme sitten perässä, isä ehdottaa.",
+          "en": "\"If you go ahead and order us a couple of sandwiches, coffee and juice, Marjaana and I will collect a few more leaves. Then we'll follow after you,\" Dad suggests."
+        },
+        {
+          "fi": "– Missä se kahvila on? äiti kysyy. He eivät käy tässä puistossa usein.",
+          "en": "\"Where is the café?\" Mum asks. They don't come to this park often."
+        },
+        {
+          "fi": "– Minä googlaan, missä se on ja me voimme tavata siellä puolen tunnin kuluttua. Minä ja Marjaana juoksemme sinne. Mitä sinä sanot?",
+          "en": "\"I'll google where it is and we can meet there in half an hour. Marjaana and I will run there. What do you say?\""
+        },
+        {
+          "fi": "– Sopii, sanoo äiti. Marko avaa silmät. Hän herää.",
+          "en": "\"OK,\" says Mum. Marko opens his eyes. He is waking up."
+        },
+        {
+          "fi": "Äiti katsoo taivaalle. Siellä on iso, musta pilvi. Pian alkaa sataa.",
+          "en": "Mum looks up at the sky. There's a big black cloud. Soon it will start raining."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Täydennä verbit",
+      "instruction": "Täydennä verbit. Lause voi olla myös kysymys. (Fill in the verbs; the sentence can also be a question.)",
+      "topic": "verb-types",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Aurinko ____ , vaan puistossa tuulee.",
+          "base": "is not shining",
+          "answer": "ei paista",
+          "en": "The sun isn't shining; instead it's windy in the park."
+        },
+        {
+          "prompt": "Aurinko ei paista, vaan puistossa ____ .",
+          "base": "is windy",
+          "answer": "tuulee",
+          "en": "…it's windy in the park."
+        },
+        {
+          "prompt": "Pikku Marjaana ____ lehtiä.",
+          "base": "KERÄTÄ",
+          "answer": "kerää",
+          "en": "Little Marjaana is collecting leaves."
+        },
+        {
+          "prompt": "Isä ja Marjaana ____ monta kertaa…",
+          "base": "PYSÄHTYÄ",
+          "answer": "pysähtyvät",
+          "en": "Dad and Marjaana stop many times…"
+        },
+        {
+          "prompt": "…kun Marjaana ____ hienoja lehtiä.",
+          "base": "sees",
+          "answer": "näkee",
+          "en": "…when Marjaana sees nice leaves."
+        },
+        {
+          "prompt": "Hän ____ maasta ison, keltaisen vaahteranlehden…",
+          "base": "POIMIA",
+          "answer": "poimii",
+          "en": "She picks up a big yellow maple leaf from the ground…"
+        },
+        {
+          "prompt": "…ja ____ sen isälle.",
+          "base": "NÄYTTÄÄ",
+          "answer": "näyttää",
+          "en": "…and shows it to Dad."
+        },
+        {
+          "prompt": "Marjaanan pikkuveli Marko ____ lastenvaunussa.",
+          "base": "NUKKUA",
+          "answer": "nukkuu",
+          "en": "Marjaana's little brother Marko is sleeping in the pram."
+        },
+        {
+          "prompt": "Hän ____ .",
+          "base": "doesn't wake up",
+          "answer": "ei herää",
+          "en": "He doesn't wake up."
+        },
+        {
+          "prompt": "Äiti ____ lastenvaunua.",
+          "base": "TYÖNTÄÄ",
+          "answer": "työntää",
+          "en": "Mum is pushing the pram."
+        },
+        {
+          "prompt": "Hän ____ reippaasti.",
+          "base": "walks",
+          "answer": "kävelee",
+          "en": "She walks briskly."
+        },
+        {
+          "prompt": "Hän ____ pysähtyä…",
+          "base": "does not want to",
+          "answer": "ei halua",
+          "en": "She doesn't want to stop…"
+        },
+        {
+          "prompt": "…koska ____ .",
+          "base": "she is hungry",
+          "answer": "hänellä on nälkä",
+          "en": "…because she is hungry."
+        },
+        {
+          "prompt": "Hän ____ koskaan aamulla.",
+          "base": "doesn't eat",
+          "answer": "ei syö",
+          "en": "She never eats in the morning."
+        },
+        {
+          "prompt": "Hän ____ vain pari kuppia mustaa kahvia.",
+          "base": "drinks",
+          "answer": "juo",
+          "en": "She only drinks a couple of cups of black coffee."
+        },
+        {
+          "prompt": "Mutta nyt ____ …",
+          "base": "it is 10 o'clock already",
+          "answer": "kello on jo kymmenen",
+          "en": "But now it's already 10 o'clock…"
+        },
+        {
+          "prompt": "…ja hän ____ kävellä enää.",
+          "base": "JAKSAA",
+          "answer": "ei jaksa",
+          "en": "…and she doesn't have the energy to walk any more."
+        },
+        {
+          "prompt": "- ____ ? hän huutaa isälle ja Marjaanalle.",
+          "base": "Are you coming",
+          "answer": "Tuletteko",
+          "en": "Are you coming? she shouts to Dad and Marjaana."
+        },
+        {
+          "prompt": "hän ____ isälle ja Marjaanalle.",
+          "base": "HUUTAA",
+          "answer": "huutaa",
+          "en": "she shouts to Dad and Marjaana."
+        },
+        {
+          "prompt": "Minä ____ kahvilaan.",
+          "base": "am going",
+          "answer": "menen",
+          "en": "I'm going to the café."
+        },
+        {
+          "prompt": "- ____ , missä se on?",
+          "base": "Do you remember",
+          "answer": "Muistatko",
+          "en": "Do you remember where it is?"
+        },
+        {
+          "prompt": "isä ____ äidiltä.",
+          "base": "asks",
+          "answer": "kysyy",
+          "en": "Dad asks Mum."
+        },
+        {
+          "prompt": "- ____ , äiti vastaa.",
+          "base": "No, I don't",
+          "answer": "En muista",
+          "en": "No, I don't, Mum replies."
+        },
+        {
+          "prompt": "äiti ____ .",
+          "base": "replies",
+          "answer": "vastaa",
+          "en": "Mum replies."
+        },
+        {
+          "prompt": "- ____ yhdessä sinne?",
+          "base": "Shall we go",
+          "answer": "Menemmekö",
+          "en": "Shall we go there together?"
+        },
+        {
+          "prompt": "isä ____ .",
+          "base": "continues",
+          "answer": "jatkaa",
+          "en": "Dad continues."
+        },
+        {
+          "prompt": "- ____ ?",
+          "base": "Do you want some coffee",
+          "answer": "Haluatko kahvia",
+          "en": "Do you want some coffee?"
+        },
+        {
+          "prompt": "Joo, ja jotain syötävää. ____ mukana?",
+          "base": "Do you have any money",
+          "answer": "Onko sinulla rahaa",
+          "en": "Yes, and something to eat. Do you have any money with you?"
+        },
+        {
+          "prompt": "____ ja he ottavat vain käteistä.",
+          "base": "I only have a bank card",
+          "answer": "Minulla on vain pankkikortti",
+          "en": "I only have a bank card and they only take cash."
+        },
+        {
+          "prompt": "…ja he ____ vain käteistä.",
+          "base": "OTTAA",
+          "answer": "ottavat",
+          "en": "…and they only take cash."
+        },
+        {
+          "prompt": "Joo, ____ , isä sanoo.",
+          "base": "I have cash",
+          "answer": "minulla on käteistä",
+          "en": "Yes, I have cash, Dad says."
+        },
+        {
+          "prompt": "isä ____ .",
+          "base": "says",
+          "answer": "sanoo",
+          "en": "Dad says."
+        },
+        {
+          "prompt": "Mutta Marjaana ____ lähteä vielä.",
+          "base": "doesn't want to",
+          "answer": "ei halua",
+          "en": "But Marjaana doesn't want to leave yet."
+        },
+        {
+          "prompt": "Jos sinä ____ edeltä…",
+          "base": "go",
+          "answer": "menet",
+          "en": "If you go ahead…"
+        },
+        {
+          "prompt": "…ja ____ meille pari voileipää, kahvia ja mehua…",
+          "base": "order",
+          "answer": "tilaat",
+          "en": "…and order us a couple of sandwiches, coffee and juice…"
+        },
+        {
+          "prompt": "…niin minä ja Marjaana ____ vielä lehtiä.",
+          "base": "will collect",
+          "answer": "keräämme",
+          "en": "…then Marjaana and I will collect some more leaves."
+        },
+        {
+          "prompt": "Me ____ sitten perässä…",
+          "base": "SEURATA",
+          "answer": "seuraamme",
+          "en": "We'll follow on after…"
+        },
+        {
+          "prompt": "isä ____ .",
+          "base": "EHDOTTAA",
+          "answer": "ehdottaa",
+          "en": "Dad suggests."
+        },
+        {
+          "prompt": "Missä se kahvila ____ ?",
+          "base": "is",
+          "answer": "on",
+          "en": "Where is that café?"
+        },
+        {
+          "prompt": "äiti ____ .",
+          "base": "asks",
+          "answer": "kysyy",
+          "en": "Mum asks."
+        },
+        {
+          "prompt": "He ____ tässä puistossa usein.",
+          "base": "don't visit",
+          "answer": "eivät käy",
+          "en": "They don't visit this park often."
+        },
+        {
+          "prompt": "Minä ____ , missä se on…",
+          "base": "GOOGLATA",
+          "answer": "googlaan",
+          "en": "I'll google where it is…"
+        },
+        {
+          "prompt": "…ja me ____ tavata siellä puolen tunnin kuluttua.",
+          "base": "can",
+          "answer": "voimme",
+          "en": "…and we can meet there in half an hour."
+        },
+        {
+          "prompt": "Minä ja Marjaana ____ sinne.",
+          "base": "will run",
+          "answer": "juoksemme",
+          "en": "Marjaana and I will run there."
+        },
+        {
+          "prompt": "Mitä ____ ?",
+          "base": "do you say",
+          "answer": "sinä sanot",
+          "en": "What do you say?"
+        },
+        {
+          "prompt": "Sopii, ____ äiti.",
+          "base": "says",
+          "answer": "sanoo",
+          "en": "OK, says Mum."
+        },
+        {
+          "prompt": "Marko ____ silmät.",
+          "base": "opens",
+          "answer": "avaa",
+          "en": "Marko opens his eyes."
+        },
+        {
+          "prompt": "Hän ____ .",
+          "base": "is waking up",
+          "answer": "herää",
+          "en": "He is waking up."
+        },
+        {
+          "prompt": "Äiti ____ taivaalle.",
+          "base": "looks",
+          "answer": "katsoo",
+          "en": "Mum looks at the sky."
+        },
+        {
+          "prompt": "Siellä on iso, musta pilvi. Pian ____ .",
+          "base": "it will start raining",
+          "answer": "alkaa sataa",
+          "en": "There's a big black cloud. Soon it will start raining."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": []
+}

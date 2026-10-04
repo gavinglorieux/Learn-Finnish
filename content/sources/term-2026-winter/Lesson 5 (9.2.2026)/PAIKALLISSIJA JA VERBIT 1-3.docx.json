@@ -1,0 +1,1236 @@
+{
+  "source": "term-2026-winter/Lesson 5 (9.2.2026)/PAIKALLISSIJA JA VERBIT 1-3.docx",
+  "md5": "c8d0cfa44b31b5bf1afb466c98786bb3",
+  "also_in": [
+    "term-2026-winter/Lesson 6 (16.2.2026)/PAIKALLISSIJA JA VERBIT 1-3.docx"
+  ],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 5,
+    "date": "2026-02-09"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "PAIKALLISSIJA JA VERBIT 1-3",
+    "en": "Local cases and verb types 1–3"
+  },
+  "topics": [
+    "local-cases",
+    "inner-local-cases",
+    "outer-local-cases",
+    "illative",
+    "locative-verbs",
+    "verb-types",
+    "verb-type-1",
+    "verb-type-2",
+    "verb-type-3",
+    "negation"
+  ],
+  "summary": "Two-part gap fill: 13 places to put into the right local case (in / from / into, e.g. puistossa – puistosta, kouluun) and 19 sentences to complete with verb types 1–3 given in English, including negatives and questions.",
+  "transcript": "PAIKALLISSIJA:\n\n1.  PUISTO:\n\nÄiti istuu ____ . Isä tulee ____ .\n\n2.  UIMHALLI:\n\nOletteko te ____ ? Minä tulen ____ kotiin myöhään illalla.\n\n3.  KIRJASTO:\n\nMatti käy ____ . Hän tuo ____ minulle pari hyvää romaania.\n\n4.  HAMMASLÄÄKÄRI:\n\nEn tykkää käydä ____ . Kun tulen ____\n\nminun suu on aina tosi kipeä.\n\n5.  PAIKALLINEN RAVINTOLA:\n\nKuinka usein te menette ____ ? Me saamme\n\nherkullista ruokaa meidän ____ .\n\n6.  PIENI KAHVILA:\n\nMinä näen siskoni huomenna ____ Raatintiellä.\n\nJa ____ me jatkamme leffaan.\n\n7.  KOULU:\n\nMissä teidän lapset ovat ____ ? Mihin aikaan sinä viet lapset ………….\n\n____ ? Mihin aikaan he pääsevät ____ ?\n\n8.  VANKILA:\n\nMeidän naapurin mies istuu ____ . Milloin hän pääsee pois\n\n____ ?\n\n9.  ELÄINTARHA:\n\nMinä en tykkää ____ . En käy koskaan ____\n\n____ .\n\n10. SAIRAALA:\n\nMinä vien mummon huomenna ____ . Hänellä on paha flunssa.\n\nMutta hän pääsee ____ jo ylihuomenna.\n\n11. LENTOKONE:\n\nVirtaset matkustavat aina ____ lomalle. He nukkuvat\n\n____ .\n\n12. TAIDENÄYTTELY:\n\nMitä te teette ____ ? Onko sinun taulu ____\n\n____ ?\n\n13. PUUTARHA:\n\nIsä on usein monta tuntia ____ . Kun hän tulee ____\n\n____ hän on usein tosi väsynyt ja hänellä on kova nälkä.\n\nVERBI:\n\n14. Mitä sinä ____ (to buy) kaupasta?\n\n15. Mihin aikaan te ____ (to go) konserttiin?\n\n16. Me ____ (to watch) näytelmää teatterissa, en voi puhua nyt.\n\n17. Meidän naapurit ____ (to go NEG!) kirkkoon joka sunnuntai.\n\n18. ____ (to take) te lapset päiväkotiin joka aamu?\n\n19. Turistit ____(to walk) Senaatintorilla.\n\n20. ____ (to travel) sinä junalla vai bussilla Helsinkiin?\n\n21. He ____ (to sell NEG!) tupakkaa kioskilla.\n\n22. Äiti ____ (to stand) takapihalla ja ottaa aurinkoa.\n\n23. Vanha nainen ____ (to walk NEG!) suojatielle, koska auto tulee oikalta.\n\n24. Minä ____ (to buy NEG!) bensaa tänään, koska se on tänään tosi kallista.\n\n25. Sirpa ____ (to look at) kelloa ja miettii, milloin bussi ____\n\n____ (to come).\n\n26. Äiti ja isä ____ (to sit) sohvalla olohuoneessa ja ____\n\n____ (to watch) TV:tä.\n\n27. Mitä te ____ (to do) keittiössä? – Me ____\n\n____ (prepare) ruokaa ja ____ (discuss) meidän päivästä.\n\n28. Kuinka usein te ____ (pop in) leffassa? – Noin kerran kuukaudessa,\n\nmutta me ____ (to go NEG!) leffaan, jos elokuva on\n\nyli kaksi ja puoli tunti pitkä. Se on meille liian pitkä aika istua.\n\n29. Pappa ____ (to fish), kun hän on maalla. Hän ____\n\n____ (to bring) meille paljon kalaa ja sitten me ____\n\n(to make) lohikeittoa tai ____ (to fry) silakkaa.\n\n30. Mies ____ (to stand) käytävällä. Mitä hän ____\n\nmeidän talossa?\n\n31. Nyt hän ____ (to go) pihalle. Mistä hän ____\n\n(to come)?\n\n32. Milloin sinä ____ (to pop in) suihkussa? ____\n\n………… (to wash) sinä myös hiukset?",
+  "words": [
+    {
+      "fi": "paikallissija",
+      "en": "local case",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "puisto",
+      "en": "park",
+      "pos": "noun",
+      "theme": "places-town",
+      "form_seen": "puistossa"
+    },
+    {
+      "fi": "äiti",
+      "en": "mother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "istua",
+      "en": "to sit",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "isä",
+      "en": "father",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "tulla",
+      "en": "to come",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "uimahalli",
+      "en": "swimming hall",
+      "pos": "noun",
+      "theme": "hobbies-sport",
+      "form_seen": "uimahallissa"
+    },
+    {
+      "fi": "kotiin",
+      "en": "(to) home",
+      "pos": "adv",
+      "theme": "home"
+    },
+    {
+      "fi": "myöhään",
+      "en": "late",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "ilta",
+      "en": "evening",
+      "pos": "noun",
+      "theme": "days-time",
+      "form_seen": "illalla"
+    },
+    {
+      "fi": "kirjasto",
+      "en": "library",
+      "pos": "noun",
+      "theme": "places-town",
+      "form_seen": "kirjastossa"
+    },
+    {
+      "fi": "käydä",
+      "en": "to visit, to go (and come back)",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "tuoda",
+      "en": "to bring",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "pari",
+      "en": "a couple of",
+      "pos": "noun",
+      "theme": "numbers"
+    },
+    {
+      "fi": "hyvä",
+      "en": "good",
+      "pos": "adj",
+      "theme": "adjectives",
+      "form_seen": "hyvää"
+    },
+    {
+      "fi": "romaani",
+      "en": "novel",
+      "pos": "noun",
+      "theme": "hobbies-sport",
+      "form_seen": "romaania"
+    },
+    {
+      "fi": "hammaslääkäri",
+      "en": "dentist",
+      "pos": "noun",
+      "theme": "health",
+      "form_seen": "hammaslääkärissä"
+    },
+    {
+      "fi": "tykätä",
+      "en": "to like (+ -sta/-stä)",
+      "pos": "verb",
+      "verb_type": 4,
+      "theme": "likes-pitaa"
+    },
+    {
+      "fi": "suu",
+      "en": "mouth",
+      "pos": "noun",
+      "theme": "body"
+    },
+    {
+      "fi": "aina",
+      "en": "always",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "tosi",
+      "en": "really",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "kipeä",
+      "en": "sore, painful",
+      "pos": "adj",
+      "theme": "illness"
+    },
+    {
+      "fi": "paikallinen",
+      "en": "local",
+      "pos": "adj",
+      "theme": "places-town"
+    },
+    {
+      "fi": "ravintola",
+      "en": "restaurant",
+      "pos": "noun",
+      "theme": "places-town",
+      "form_seen": "ravintolaan"
+    },
+    {
+      "fi": "kuinka usein",
+      "en": "how often",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "mennä",
+      "en": "to go",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "saada",
+      "en": "to get",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "herkullinen",
+      "en": "delicious",
+      "pos": "adj",
+      "theme": "food-meals",
+      "form_seen": "herkullista"
+    },
+    {
+      "fi": "ruoka",
+      "en": "food",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "pieni",
+      "en": "small",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "kahvila",
+      "en": "café",
+      "pos": "noun",
+      "theme": "cafe-shop",
+      "form_seen": "kahvilassa"
+    },
+    {
+      "fi": "nähdä",
+      "en": "to see",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "sisko",
+      "en": "sister",
+      "pos": "noun",
+      "theme": "family",
+      "form_seen": "siskoni"
+    },
+    {
+      "fi": "huomenna",
+      "en": "tomorrow",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "jatkaa",
+      "en": "to continue",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "leffa",
+      "en": "film, cinema (colloquial)",
+      "pos": "noun",
+      "theme": "hobbies-sport",
+      "form_seen": "leffaan"
+    },
+    {
+      "fi": "koulu",
+      "en": "school",
+      "pos": "noun",
+      "theme": "school-work",
+      "form_seen": "koulussa"
+    },
+    {
+      "fi": "missä",
+      "en": "where",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "lapsi",
+      "en": "child",
+      "pos": "noun",
+      "theme": "family",
+      "form_seen": "lapset"
+    },
+    {
+      "fi": "mihin aikaan",
+      "en": "at what time",
+      "pos": "question",
+      "theme": "clock"
+    },
+    {
+      "fi": "viedä",
+      "en": "to take (somewhere)",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "päästä",
+      "en": "to get (out/off), to be let out",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "vankila",
+      "en": "prison",
+      "pos": "noun",
+      "theme": "places-town",
+      "form_seen": "vankilassa"
+    },
+    {
+      "fi": "naapuri",
+      "en": "neighbour",
+      "pos": "noun",
+      "theme": "people",
+      "form_seen": "naapurin"
+    },
+    {
+      "fi": "mies",
+      "en": "man",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "milloin",
+      "en": "when",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "pois",
+      "en": "away, out",
+      "pos": "adv",
+      "theme": "directions"
+    },
+    {
+      "fi": "eläintarha",
+      "en": "zoo",
+      "pos": "noun",
+      "theme": "places-town",
+      "form_seen": "eläintarhassa"
+    },
+    {
+      "fi": "koskaan",
+      "en": "ever; (+ neg.) never",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "sairaala",
+      "en": "hospital",
+      "pos": "noun",
+      "theme": "health",
+      "form_seen": "sairaalaan"
+    },
+    {
+      "fi": "mummo",
+      "en": "grandma",
+      "pos": "noun",
+      "theme": "family",
+      "form_seen": "mummon"
+    },
+    {
+      "fi": "paha",
+      "en": "bad",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "flunssa",
+      "en": "flu, cold",
+      "pos": "noun",
+      "theme": "illness"
+    },
+    {
+      "fi": "jo",
+      "en": "already",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "ylihuomenna",
+      "en": "the day after tomorrow",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "lentokone",
+      "en": "aeroplane",
+      "pos": "noun",
+      "theme": "transport",
+      "form_seen": "lentokoneella"
+    },
+    {
+      "fi": "matkustaa",
+      "en": "to travel",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "travel"
+    },
+    {
+      "fi": "loma",
+      "en": "holiday",
+      "pos": "noun",
+      "theme": "travel",
+      "form_seen": "lomalle"
+    },
+    {
+      "fi": "nukkua",
+      "en": "to sleep",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "daily-routine"
+    },
+    {
+      "fi": "taidenäyttely",
+      "en": "art exhibition",
+      "pos": "noun",
+      "theme": "hobbies-sport",
+      "form_seen": "taidenäyttelyssä"
+    },
+    {
+      "fi": "tehdä",
+      "en": "to do",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "taulu",
+      "en": "painting, picture",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "puutarha",
+      "en": "garden",
+      "pos": "noun",
+      "theme": "garden",
+      "form_seen": "puutarhassa"
+    },
+    {
+      "fi": "usein",
+      "en": "often",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "monta",
+      "en": "many",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "tunti",
+      "en": "hour",
+      "pos": "noun",
+      "theme": "clock",
+      "form_seen": "tuntia"
+    },
+    {
+      "fi": "väsynyt",
+      "en": "tired",
+      "pos": "adj",
+      "theme": "feelings"
+    },
+    {
+      "fi": "kova",
+      "en": "hard; (kova nälkä) very hungry",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "nälkä",
+      "en": "hunger",
+      "pos": "noun",
+      "theme": "feelings"
+    },
+    {
+      "fi": "ostaa",
+      "en": "to buy",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "kauppa",
+      "en": "shop",
+      "pos": "noun",
+      "theme": "places-town",
+      "form_seen": "kaupasta"
+    },
+    {
+      "fi": "konsertti",
+      "en": "concert",
+      "pos": "noun",
+      "theme": "hobbies-sport",
+      "form_seen": "konserttiin"
+    },
+    {
+      "fi": "katsoa",
+      "en": "to watch, to look at",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "näytelmä",
+      "en": "play",
+      "pos": "noun",
+      "theme": "hobbies-sport",
+      "form_seen": "näytelmää"
+    },
+    {
+      "fi": "teatteri",
+      "en": "theatre",
+      "pos": "noun",
+      "theme": "places-town",
+      "form_seen": "teatterissa"
+    },
+    {
+      "fi": "voida",
+      "en": "to be able to",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "puhua",
+      "en": "to speak",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "nyt",
+      "en": "now",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "kirkko",
+      "en": "church",
+      "pos": "noun",
+      "theme": "places-town",
+      "form_seen": "kirkkoon"
+    },
+    {
+      "fi": "sunnuntai",
+      "en": "Sunday",
+      "pos": "noun",
+      "theme": "days-time"
+    },
+    {
+      "fi": "päiväkoti",
+      "en": "nursery, kindergarten",
+      "pos": "noun",
+      "theme": "school-work",
+      "form_seen": "päiväkotiin"
+    },
+    {
+      "fi": "aamu",
+      "en": "morning",
+      "pos": "noun",
+      "theme": "days-time"
+    },
+    {
+      "fi": "turisti",
+      "en": "tourist",
+      "pos": "noun",
+      "theme": "travel"
+    },
+    {
+      "fi": "kävellä",
+      "en": "to walk",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "Senaatintori",
+      "en": "Senate Square",
+      "pos": "proper",
+      "theme": "place-names",
+      "form_seen": "Senaatintorilla"
+    },
+    {
+      "fi": "juna",
+      "en": "train",
+      "pos": "noun",
+      "theme": "transport",
+      "form_seen": "junalla"
+    },
+    {
+      "fi": "bussi",
+      "en": "bus",
+      "pos": "noun",
+      "theme": "transport",
+      "form_seen": "bussilla"
+    },
+    {
+      "fi": "Helsinki",
+      "en": "Helsinki",
+      "pos": "proper",
+      "theme": "place-names",
+      "form_seen": "Helsinkiin"
+    },
+    {
+      "fi": "myydä",
+      "en": "to sell",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "tupakka",
+      "en": "tobacco, cigarettes",
+      "pos": "noun",
+      "theme": "shopping-money",
+      "form_seen": "tupakkaa"
+    },
+    {
+      "fi": "kioski",
+      "en": "kiosk",
+      "pos": "noun",
+      "theme": "places-town",
+      "form_seen": "kioskilla"
+    },
+    {
+      "fi": "seistä",
+      "en": "to stand",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "takapiha",
+      "en": "back yard",
+      "pos": "noun",
+      "theme": "garden",
+      "form_seen": "takapihalla"
+    },
+    {
+      "fi": "ottaa aurinkoa",
+      "en": "to sunbathe",
+      "pos": "phrase",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "ottaa",
+      "en": "to take",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "vanha",
+      "en": "old",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "nainen",
+      "en": "woman",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "suojatie",
+      "en": "pedestrian crossing",
+      "pos": "noun",
+      "theme": "places-town",
+      "form_seen": "suojatielle"
+    },
+    {
+      "fi": "koska",
+      "en": "because",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "auto",
+      "en": "car",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "oikea",
+      "en": "right (direction)",
+      "pos": "adj",
+      "theme": "directions",
+      "form_seen": "oikealta"
+    },
+    {
+      "fi": "bensa",
+      "en": "petrol",
+      "pos": "noun",
+      "theme": "transport",
+      "form_seen": "bensaa"
+    },
+    {
+      "fi": "kallis",
+      "en": "expensive",
+      "pos": "adj",
+      "theme": "shopping-money",
+      "form_seen": "kallista"
+    },
+    {
+      "fi": "kello",
+      "en": "clock, watch",
+      "pos": "noun",
+      "theme": "clock",
+      "form_seen": "kelloa"
+    },
+    {
+      "fi": "miettiä",
+      "en": "to think, to wonder",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "sohva",
+      "en": "sofa",
+      "pos": "noun",
+      "theme": "furniture",
+      "form_seen": "sohvalla"
+    },
+    {
+      "fi": "olohuone",
+      "en": "living room",
+      "pos": "noun",
+      "theme": "home",
+      "form_seen": "olohuoneessa"
+    },
+    {
+      "fi": "keittiö",
+      "en": "kitchen",
+      "pos": "noun",
+      "theme": "home",
+      "form_seen": "keittiössä"
+    },
+    {
+      "fi": "valmistaa",
+      "en": "to prepare",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "household"
+    },
+    {
+      "fi": "keskustella",
+      "en": "to discuss",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "päivä",
+      "en": "day",
+      "pos": "noun",
+      "theme": "days-time",
+      "form_seen": "päivästä"
+    },
+    {
+      "fi": "kerran",
+      "en": "once",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "kuukausi",
+      "en": "month",
+      "pos": "noun",
+      "theme": "months-seasons",
+      "form_seen": "kuukaudessa"
+    },
+    {
+      "fi": "jos",
+      "en": "if",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "elokuva",
+      "en": "film",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "yli",
+      "en": "over",
+      "pos": "adv",
+      "theme": "numbers"
+    },
+    {
+      "fi": "puoli",
+      "en": "half",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "pitkä",
+      "en": "long",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "liian",
+      "en": "too",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "aika",
+      "en": "time",
+      "pos": "noun",
+      "theme": "days-time"
+    },
+    {
+      "fi": "pappa",
+      "en": "grandpa",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "kalastaa",
+      "en": "to fish",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "maalla",
+      "en": "in the countryside",
+      "pos": "adv",
+      "theme": "cottage"
+    },
+    {
+      "fi": "paljon",
+      "en": "a lot",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kala",
+      "en": "fish",
+      "pos": "noun",
+      "theme": "food-meals",
+      "form_seen": "kalaa"
+    },
+    {
+      "fi": "sitten",
+      "en": "then",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "lohikeitto",
+      "en": "salmon soup",
+      "pos": "noun",
+      "theme": "food-meals",
+      "form_seen": "lohikeittoa"
+    },
+    {
+      "fi": "paistaa",
+      "en": "to fry",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "household"
+    },
+    {
+      "fi": "silakka",
+      "en": "Baltic herring",
+      "pos": "noun",
+      "theme": "food-meals",
+      "form_seen": "silakkaa"
+    },
+    {
+      "fi": "käytävä",
+      "en": "corridor, hallway",
+      "pos": "noun",
+      "theme": "home",
+      "form_seen": "käytävällä"
+    },
+    {
+      "fi": "talo",
+      "en": "house, building",
+      "pos": "noun",
+      "theme": "home",
+      "form_seen": "talossa"
+    },
+    {
+      "fi": "piha",
+      "en": "yard",
+      "pos": "noun",
+      "theme": "garden",
+      "form_seen": "pihalle"
+    },
+    {
+      "fi": "mistä",
+      "en": "where from",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "suihku",
+      "en": "shower",
+      "pos": "noun",
+      "theme": "household",
+      "form_seen": "suihkussa"
+    },
+    {
+      "fi": "pestä",
+      "en": "to wash",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "daily-routine"
+    },
+    {
+      "fi": "hiukset",
+      "en": "hair",
+      "pos": "noun",
+      "theme": "appearance"
+    }
+  ],
+  "texts": [],
+  "exercises": [
+    {
+      "title": "Paikallissija",
+      "instruction": "Put the word in the correct local case (-ssa/-ssä, -sta/-stä, -an/-iin..., -lla/-llä).",
+      "topic": "local-cases",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "1. Puisto: Äiti istuu ____ .",
+          "base": "puisto",
+          "answer": "puistossa"
+        },
+        {
+          "prompt": "1. Puisto: Isä tulee ____ .",
+          "base": "puisto",
+          "answer": "puistosta"
+        },
+        {
+          "prompt": "2. Uimahalli: Oletteko te ____ ?",
+          "base": "uimahalli",
+          "answer": "uimahallissa"
+        },
+        {
+          "prompt": "2. Uimahalli: Minä tulen ____ kotiin myöhään illalla.",
+          "base": "uimahalli",
+          "answer": "uimahallista"
+        },
+        {
+          "prompt": "3. Kirjasto: Matti käy ____ .",
+          "base": "kirjasto",
+          "answer": "kirjastossa"
+        },
+        {
+          "prompt": "3. Kirjasto: Hän tuo ____ minulle pari hyvää romaania.",
+          "base": "kirjasto",
+          "answer": "kirjastosta"
+        },
+        {
+          "prompt": "4. Hammaslääkäri: En tykkää käydä ____ .",
+          "base": "hammaslääkäri",
+          "answer": "hammaslääkärissä"
+        },
+        {
+          "prompt": "4. Hammaslääkäri: Kun tulen ____ minun suu on aina tosi kipeä.",
+          "base": "hammaslääkäri",
+          "answer": "hammaslääkäristä"
+        },
+        {
+          "prompt": "5. Paikallinen ravintola: Kuinka usein te menette ____ ?",
+          "base": "paikallinen ravintola",
+          "answer": "paikalliseen ravintolaan"
+        },
+        {
+          "prompt": "5. Paikallinen ravintola: Me saamme herkullista ruokaa meidän ____ .",
+          "base": "paikallinen ravintola",
+          "answer": "paikallisesta ravintolasta"
+        },
+        {
+          "prompt": "6. Pieni kahvila: Minä näen siskoni huomenna ____ Raatintiellä.",
+          "base": "pieni kahvila",
+          "answer": "pienessä kahvilassa"
+        },
+        {
+          "prompt": "6. Pieni kahvila: Ja ____ me jatkamme leffaan.",
+          "base": "pieni kahvila",
+          "answer": "pienestä kahvilasta"
+        },
+        {
+          "prompt": "7. Koulu: Missä teidän lapset ovat ____ ?",
+          "base": "koulu",
+          "answer": "koulussa"
+        },
+        {
+          "prompt": "7. Koulu: Mihin aikaan sinä viet lapset ____ ?",
+          "base": "koulu",
+          "answer": "kouluun"
+        },
+        {
+          "prompt": "7. Koulu: Mihin aikaan he pääsevät ____ ?",
+          "base": "koulu",
+          "answer": "koulusta"
+        },
+        {
+          "prompt": "8. Vankila: Meidän naapurin mies istuu ____ .",
+          "base": "vankila",
+          "answer": "vankilassa"
+        },
+        {
+          "prompt": "8. Vankila: Milloin hän pääsee pois ____ ?",
+          "base": "vankila",
+          "answer": "vankilasta"
+        },
+        {
+          "prompt": "9. Eläintarha: Minä en tykkää ____ .",
+          "base": "eläintarha",
+          "answer": "eläintarhasta"
+        },
+        {
+          "prompt": "9. Eläintarha: En käy koskaan ____ .",
+          "base": "eläintarha",
+          "answer": "eläintarhassa"
+        },
+        {
+          "prompt": "10. Sairaala: Minä vien mummon huomenna ____ . Hänellä on paha flunssa.",
+          "base": "sairaala",
+          "answer": "sairaalaan"
+        },
+        {
+          "prompt": "10. Sairaala: Mutta hän pääsee ____ jo ylihuomenna.",
+          "base": "sairaala",
+          "answer": "sairaalasta"
+        },
+        {
+          "prompt": "11. Lentokone: Virtaset matkustavat aina ____ lomalle.",
+          "base": "lentokone",
+          "answer": "lentokoneella"
+        },
+        {
+          "prompt": "11. Lentokone: He nukkuvat ____ .",
+          "base": "lentokone",
+          "answer": "lentokoneessa"
+        },
+        {
+          "prompt": "12. Taidenäyttely: Mitä te teette ____ ?",
+          "base": "taidenäyttely",
+          "answer": "taidenäyttelyssä"
+        },
+        {
+          "prompt": "12. Taidenäyttely: Onko sinun taulu ____ ?",
+          "base": "taidenäyttely",
+          "answer": "taidenäyttelyssä"
+        },
+        {
+          "prompt": "13. Puutarha: Isä on usein monta tuntia ____ .",
+          "base": "puutarha",
+          "answer": "puutarhassa"
+        },
+        {
+          "prompt": "13. Puutarha: Kun hän tulee ____, hän on usein tosi väsynyt ja hänellä on kova nälkä.",
+          "base": "puutarha",
+          "answer": "puutarhasta"
+        }
+      ]
+    },
+    {
+      "title": "Verbi",
+      "instruction": "Write the verb in the correct form (verb types 1–3); NEG = negative.",
+      "topic": "verb-types",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "14. Mitä sinä ____ (to buy) kaupasta?",
+          "base": "ostaa",
+          "answer": "ostat"
+        },
+        {
+          "prompt": "15. Mihin aikaan te ____ (to go) konserttiin?",
+          "base": "mennä",
+          "answer": "menette"
+        },
+        {
+          "prompt": "16. Me ____ (to watch) näytelmää teatterissa, en voi puhua nyt.",
+          "base": "katsoa",
+          "answer": "katsomme"
+        },
+        {
+          "prompt": "17. Meidän naapurit ____ (to go NEG!) kirkkoon joka sunnuntai.",
+          "base": "mennä",
+          "answer": "eivät mene"
+        },
+        {
+          "prompt": "18. ____ (to take) te lapset päiväkotiin joka aamu?",
+          "base": "viedä",
+          "answer": "Viettekö"
+        },
+        {
+          "prompt": "19. Turistit ____ (to walk) Senaatintorilla.",
+          "base": "kävellä",
+          "answer": "kävelevät"
+        },
+        {
+          "prompt": "20. ____ (to travel) sinä junalla vai bussilla Helsinkiin?",
+          "base": "matkustaa",
+          "answer": "Matkustatko"
+        },
+        {
+          "prompt": "21. He ____ (to sell NEG!) tupakkaa kioskilla.",
+          "base": "myydä",
+          "answer": "eivät myy"
+        },
+        {
+          "prompt": "22. Äiti ____ (to stand) takapihalla ja ottaa aurinkoa.",
+          "base": "seistä / seisoa",
+          "answer": "seisoo"
+        },
+        {
+          "prompt": "23. Vanha nainen ____ (to walk NEG!) suojatielle, koska auto tulee oikealta.",
+          "base": "kävellä",
+          "answer": "ei kävele"
+        },
+        {
+          "prompt": "24. Minä ____ (to buy NEG!) bensaa tänään, koska se on tänään tosi kallista.",
+          "base": "ostaa",
+          "answer": "en osta"
+        },
+        {
+          "prompt": "25. Sirpa ____ (to look at) kelloa ...",
+          "base": "katsoa",
+          "answer": "katsoo"
+        },
+        {
+          "prompt": "25. ... ja miettii, milloin bussi ____ (to come).",
+          "base": "tulla",
+          "answer": "tulee"
+        },
+        {
+          "prompt": "26. Äiti ja isä ____ (to sit) sohvalla olohuoneessa ...",
+          "base": "istua",
+          "answer": "istuvat"
+        },
+        {
+          "prompt": "26. ... ja ____ (to watch) TV:tä.",
+          "base": "katsoa",
+          "answer": "katsovat"
+        },
+        {
+          "prompt": "27. Mitä te ____ (to do) keittiössä?",
+          "base": "tehdä",
+          "answer": "teette"
+        },
+        {
+          "prompt": "27. Me ____ (prepare) ruokaa ...",
+          "base": "valmistaa",
+          "answer": "valmistamme"
+        },
+        {
+          "prompt": "27. ... ja ____ (discuss) meidän päivästä.",
+          "base": "keskustella",
+          "answer": "keskustelemme"
+        },
+        {
+          "prompt": "28. Kuinka usein te ____ (pop in) leffassa? – Noin kerran kuukaudessa,",
+          "base": "käydä",
+          "answer": "käytte"
+        },
+        {
+          "prompt": "28. ... mutta me ____ (to go NEG!) leffaan, jos elokuva on yli kaksi ja puoli tuntia pitkä. Se on meille liian pitkä aika istua.",
+          "base": "mennä",
+          "answer": "emme mene"
+        },
+        {
+          "prompt": "29. Pappa ____ (to fish), kun hän on maalla.",
+          "base": "kalastaa",
+          "answer": "kalastaa"
+        },
+        {
+          "prompt": "29. Hän ____ (to bring) meille paljon kalaa ...",
+          "base": "tuoda",
+          "answer": "tuo"
+        },
+        {
+          "prompt": "29. ... ja sitten me ____ (to make) lohikeittoa ...",
+          "base": "tehdä",
+          "answer": "teemme"
+        },
+        {
+          "prompt": "29. ... tai ____ (to fry) silakkaa.",
+          "base": "paistaa",
+          "answer": "paistamme"
+        },
+        {
+          "prompt": "30. Mies ____ (to stand) käytävällä.",
+          "base": "seistä / seisoa",
+          "answer": "seisoo"
+        },
+        {
+          "prompt": "30. Mitä hän ____ meidän talossa?",
+          "base": "tehdä",
+          "answer": "tekee"
+        },
+        {
+          "prompt": "31. Nyt hän ____ (to go) pihalle.",
+          "base": "mennä",
+          "answer": "menee"
+        },
+        {
+          "prompt": "31. Mistä hän ____ (to come)?",
+          "base": "tulla",
+          "answer": "tulee"
+        },
+        {
+          "prompt": "32. Milloin sinä ____ (to pop in) suihkussa?",
+          "base": "käydä",
+          "answer": "käyt"
+        },
+        {
+          "prompt": "32. ____ (to wash) sinä myös hiukset?",
+          "base": "pestä",
+          "answer": "Pesetkö"
+        }
+      ]
+    }
+  ],
+  "grammar_notes": []
+}

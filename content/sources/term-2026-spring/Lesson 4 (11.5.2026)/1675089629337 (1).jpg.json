@@ -1,0 +1,275 @@
+{
+  "source": "term-2026-spring/Lesson 4 (11.5.2026)/1675089629337 (1).jpg",
+  "md5": "a7626fd63ff80481017ab01b59d75247",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 4,
+    "date": "2026-05-11"
+  },
+  "kind": "grammar",
+  "title": {
+    "fi": "Katso esimerkkejä. Mikä muuttuu?",
+    "en": "Look at the examples. What changes?"
+  },
+  "topics": [
+    "kpt-verbs",
+    "verb-type-1",
+    "negation"
+  ],
+  "summary": "Four conjugation charts (pukea, tietää, laittaa, antaa) with the gradating consonants bolded: weak grade in minä/sinä/me/te, strong in hän/he, plus negative forms with the weak stem (pue, tiedä, laita, anna).",
+  "transcript": "Katso esimerkkejä. Mikä muuttuu?\n\nPUKEA\npuen    en\npuet    et\nhän pukee    ei\npuemme    emme\npuette    ette\nhe pukevat    eivät\n  } pue\n\nTIETÄÄ\ntiedän    en\ntiedät    et\nhän tietää    ei\ntiedämme    emme\ntiedätte    ette\nhe tietävät    eivät\n  } tiedä\n\nLAITTAA\nlaitan    en\nlaitat    et\nhän laittaa    ei\nlaitamme    emme\nlaitatte    ette\nhe laittavat    eivät\n  } laita\n\nANTAA\nannan    en\nannat    et\nhän antaa    ei\nannamme    emme\nannatte    ette\nhe antavat    eivät\n  } anna",
+  "words": [
+    {
+      "fi": "pukea",
+      "en": "to dress (someone), to put on (clothes)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "clothes",
+      "forms": {
+        "minä": "puen",
+        "sinä": "puet",
+        "hän": "pukee",
+        "me": "puemme",
+        "te": "puette",
+        "he": "pukevat",
+        "NEG": "pue"
+      },
+      "note": "k → ∅"
+    },
+    {
+      "fi": "tietää",
+      "en": "to know",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "minä": "tiedän",
+        "sinä": "tiedät",
+        "hän": "tietää",
+        "me": "tiedämme",
+        "te": "tiedätte",
+        "he": "tietävät",
+        "NEG": "tiedä"
+      },
+      "note": "t → d"
+    },
+    {
+      "fi": "laittaa",
+      "en": "to put; to make (food)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "household",
+      "forms": {
+        "minä": "laitan",
+        "sinä": "laitat",
+        "hän": "laittaa",
+        "me": "laitamme",
+        "te": "laitatte",
+        "he": "laittavat",
+        "NEG": "laita"
+      },
+      "note": "tt → t"
+    },
+    {
+      "fi": "antaa",
+      "en": "to give",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "minä": "annan",
+        "sinä": "annat",
+        "hän": "antaa",
+        "me": "annamme",
+        "te": "annatte",
+        "he": "antavat",
+        "NEG": "anna"
+      },
+      "note": "nt → nn"
+    },
+    {
+      "fi": "katsoa",
+      "en": "to look (at)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "form_seen": "katso"
+    },
+    {
+      "fi": "esimerkki",
+      "en": "example",
+      "pos": "noun",
+      "theme": "classroom",
+      "form_seen": "esimerkkejä",
+      "note": "kk → k"
+    },
+    {
+      "fi": "mikä",
+      "en": "what, which",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "muuttua",
+      "en": "to change",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "form_seen": "muuttuu",
+      "note": "tt → t"
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "kpt-verbs",
+      "heading": "PUKEA",
+      "text": "k → ∅: strong grade in the infinitive and hän/he forms, weak grade in minä/sinä/me/te forms; negative form pue (weak).",
+      "table": [
+        [
+          "minä",
+          "puen",
+          "en pue"
+        ],
+        [
+          "sinä",
+          "puet",
+          "et pue"
+        ],
+        [
+          "hän",
+          "pukee",
+          "ei pue"
+        ],
+        [
+          "me",
+          "puemme",
+          "emme pue"
+        ],
+        [
+          "te",
+          "puette",
+          "ette pue"
+        ],
+        [
+          "he",
+          "pukevat",
+          "eivät pue"
+        ]
+      ]
+    },
+    {
+      "topic": "kpt-verbs",
+      "heading": "TIETÄÄ",
+      "text": "t → d: strong grade in the infinitive and hän/he forms, weak grade in minä/sinä/me/te forms; negative form tiedä (weak).",
+      "table": [
+        [
+          "minä",
+          "tiedän",
+          "en tiedä"
+        ],
+        [
+          "sinä",
+          "tiedät",
+          "et tiedä"
+        ],
+        [
+          "hän",
+          "tietää",
+          "ei tiedä"
+        ],
+        [
+          "me",
+          "tiedämme",
+          "emme tiedä"
+        ],
+        [
+          "te",
+          "tiedätte",
+          "ette tiedä"
+        ],
+        [
+          "he",
+          "tietävät",
+          "eivät tiedä"
+        ]
+      ]
+    },
+    {
+      "topic": "kpt-verbs",
+      "heading": "LAITTAA",
+      "text": "tt → t: strong grade in the infinitive and hän/he forms, weak grade in minä/sinä/me/te forms; negative form laita (weak).",
+      "table": [
+        [
+          "minä",
+          "laitan",
+          "en laita"
+        ],
+        [
+          "sinä",
+          "laitat",
+          "et laita"
+        ],
+        [
+          "hän",
+          "laittaa",
+          "ei laita"
+        ],
+        [
+          "me",
+          "laitamme",
+          "emme laita"
+        ],
+        [
+          "te",
+          "laitatte",
+          "ette laita"
+        ],
+        [
+          "he",
+          "laittavat",
+          "eivät laita"
+        ]
+      ]
+    },
+    {
+      "topic": "kpt-verbs",
+      "heading": "ANTAA",
+      "text": "nt → nn: strong grade in the infinitive and hän/he forms, weak grade in minä/sinä/me/te forms; negative form anna (weak).",
+      "table": [
+        [
+          "minä",
+          "annan",
+          "en anna"
+        ],
+        [
+          "sinä",
+          "annat",
+          "et anna"
+        ],
+        [
+          "hän",
+          "antaa",
+          "ei anna"
+        ],
+        [
+          "me",
+          "annamme",
+          "emme anna"
+        ],
+        [
+          "te",
+          "annatte",
+          "ette anna"
+        ],
+        [
+          "he",
+          "antavat",
+          "eivät anna"
+        ]
+      ]
+    }
+  ],
+  "texts": [],
+  "exercises": []
+}

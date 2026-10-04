@@ -1,0 +1,434 @@
+{
+  "source": "term-2025-autumn/Lesson 4 (22.9.2025)/GENETIIVI SÄÄNNÖT.docx",
+  "md5": "53bce8c501f611f34bbec5567e29f324",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 4,
+    "date": "2025-09-22"
+  },
+  "kind": "grammar",
+  "title": {
+    "fi": "GENETIIVI",
+    "en": "Genitive rules (ownership)"
+  },
+  "topics": [
+    "genitive",
+    "possessive",
+    "kpt-nouns"
+  ],
+  "summary": "Rules for the genitive: pronoun genitives with possessive suffixes, -n / -in for names and nouns, no 'of' construction, stem changes for family words, example sentences and a short 'how do you ask…' translation task.",
+  "transcript": "GENETIIVI= OWNERSHIP: MY, YOUR, TIINA’S, JOHN’S\nMINUN= MY + -NI SINUN= YOUR + -SI HÄNEN= HIS , HER + -NSA/ -NSÄ\nMEIDÄN= OUR + - MME TEIDÄN = YOUR + -NNE HEIDÄN= THEIR + - NSA/ -NSÄ\nSEN= ITS\nFOR NAMES / WORDS: ADD ”N” > TIINAN, ANNAN, PAULAN, KIMMON, KOIRAN, SISKON\nFOR NAMES ENDING IN A CONSONANT: ADD ”-IN” > JOHNIN, PETERIN, SUSANIN, JACKIN\nTHERE IS NO ”OF” GENITIVE IN FINNISH: QUEEN OF ENGLAND = ENGLANNIN KUNINGATAR, COLOUR OF THE CAR= AUTON VÄRI, CAPITAL OF SPAIN = ESPANJAN PÄÄKAUPUNKI, UNIVERSITY OF BRISTOL = BRISTOLIN YLIOPISTO\nMINUN NIMI / NIMENI ON PAULI.\nHÄNEN NIMI / NIMENSÄ ON ULLA.\nHEIDÄN NIMET / NIMENSÄ OVAT PAULI JA ULLA. = Their names are…\nMINUN SISKON /SISKONI NIMI ON EIJA.\nHÄNEN KOIRAN / KOIRANSA NIMI ON KIPA. = Her/ his dog’s name is Kipa\nMIKÄ SINUN NIMI / NIMESI ON? = What is your name?\nMIKÄ HÄNEN NIMI / NIMENSÄ ON?\nMINUN PUHELINNUMERO ON 050 3629570. (my phone number)\nHÄNEN OSOITE ON KÄRJENTIE 6 B 21, 03450 HYVINKÄÄ. (his / her address)\nMIKÄ SINUN SÄHKÖPOSTI(OSOITE) ON? = What is your email address?\nMIKÄ SINUN KOIRAN NIMI ON?= What is your dog’s name?\nMINUN MIEHEN NIMI (MIES) / MINUN VAIMON NIMI / VELJEN (VELI)/ ISÄN / ÄIDIN (ÄITI)/ POJAN (POIKA) / TYTTÄREN (TYTÄR) / MUMMUN (MUMMI, MUMMO) / VAARIN (PAPPA, UKKI)\nHow do you ask..? Kuinka sinä kysyt…?\n”What is your girlfriend’s / wife’s name?” ………………………………………………………………………………………………\n”What is your boyfriend’s / husband’s / partner’s name?” ………………………………………………………………………\n”What is your son’s / daughter’s name?” …………………………………………………………………………………………….\n”What is your address?” ………………………………………………………………………………………………………\n”What is your phone number?” ………………………………………………………………………………………………………….\n”My email address is Tiku@gmail.com” ……………………………………………………………………………………………….\n”Her email address is Pirkkis@hotmail.com” ………………………………………………………………………………………",
+  "words": [
+    {
+      "fi": "genetiivi",
+      "en": "genitive",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "minun",
+      "en": "my (+ -ni)",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "sinun",
+      "en": "your, sg (+ -si)",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "hänen",
+      "en": "his, her (+ -nsa/-nsä)",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "meidän",
+      "en": "our (+ -mme)",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "teidän",
+      "en": "your, pl (+ -nne)",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "heidän",
+      "en": "their (+ -nsa/-nsä)",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "sen",
+      "en": "its",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "koira",
+      "en": "dog",
+      "pos": "noun",
+      "form_seen": "koiran",
+      "theme": "animals"
+    },
+    {
+      "fi": "sisko",
+      "en": "sister",
+      "pos": "noun",
+      "form_seen": "siskon",
+      "theme": "family"
+    },
+    {
+      "fi": "kuningatar",
+      "en": "queen",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "auto",
+      "en": "car",
+      "pos": "noun",
+      "form_seen": "auton",
+      "theme": "transport"
+    },
+    {
+      "fi": "väri",
+      "en": "colour",
+      "pos": "noun",
+      "theme": "colours"
+    },
+    {
+      "fi": "Espanja",
+      "en": "Spain",
+      "pos": "proper",
+      "form_seen": "Espanjan",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "pääkaupunki",
+      "en": "capital city",
+      "pos": "noun",
+      "theme": "places-town"
+    },
+    {
+      "fi": "yliopisto",
+      "en": "university",
+      "pos": "noun",
+      "theme": "school-work"
+    },
+    {
+      "fi": "Englanti",
+      "en": "England",
+      "pos": "proper",
+      "form_seen": "Englannin",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "nimi",
+      "en": "name",
+      "pos": "noun",
+      "form_seen": "nimeni",
+      "theme": "people",
+      "note": "stem nime-: nimeni, nimesi, nimensä; pl nimet"
+    },
+    {
+      "fi": "mikä",
+      "en": "what",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "puhelinnumero",
+      "en": "phone number",
+      "pos": "noun",
+      "theme": "numbers"
+    },
+    {
+      "fi": "osoite",
+      "en": "address",
+      "pos": "noun",
+      "theme": "places-town",
+      "note": "stem osoittee-"
+    },
+    {
+      "fi": "sähköposti",
+      "en": "email",
+      "pos": "noun",
+      "theme": "school-work"
+    },
+    {
+      "fi": "sähköpostiosoite",
+      "en": "email address",
+      "pos": "noun",
+      "theme": "school-work"
+    },
+    {
+      "fi": "mies",
+      "en": "husband; man",
+      "pos": "noun",
+      "form_seen": "miehen",
+      "theme": "family",
+      "note": "stem miehe-"
+    },
+    {
+      "fi": "vaimo",
+      "en": "wife",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "veli",
+      "en": "brother",
+      "pos": "noun",
+      "form_seen": "veljen",
+      "theme": "family",
+      "note": "stem velje-"
+    },
+    {
+      "fi": "isä",
+      "en": "father",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "äiti",
+      "en": "mother",
+      "pos": "noun",
+      "form_seen": "äidin",
+      "theme": "family",
+      "note": "t → d"
+    },
+    {
+      "fi": "poika",
+      "en": "boy; son",
+      "pos": "noun",
+      "form_seen": "pojan",
+      "theme": "family",
+      "note": "k → j"
+    },
+    {
+      "fi": "tytär",
+      "en": "daughter",
+      "pos": "noun",
+      "form_seen": "tyttären",
+      "theme": "family"
+    },
+    {
+      "fi": "mummi",
+      "en": "grandma",
+      "pos": "noun",
+      "theme": "family",
+      "note": "also mummo; genitive mummun"
+    },
+    {
+      "fi": "mummo",
+      "en": "grandma",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "vaari",
+      "en": "grandpa",
+      "pos": "noun",
+      "form_seen": "vaarin",
+      "theme": "family"
+    },
+    {
+      "fi": "pappa",
+      "en": "grandpa",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "ukki",
+      "en": "grandpa",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "kuinka",
+      "en": "how",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "kysyä",
+      "en": "to ask",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "kysyt",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "tyttöystävä",
+      "en": "girlfriend",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "poikaystävä",
+      "en": "boyfriend",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "kumppani",
+      "en": "partner",
+      "pos": "noun",
+      "theme": "family"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Genetiivi – esimerkit",
+        "en": "Genitive – examples"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Minun nimi / nimeni on Pauli.",
+          "en": "My name is Pauli."
+        },
+        {
+          "fi": "Hänen nimi / nimensä on Ulla.",
+          "en": "His/her name is Ulla."
+        },
+        {
+          "fi": "Heidän nimet / nimensä ovat Pauli ja Ulla.",
+          "en": "Their names are Pauli and Ulla."
+        },
+        {
+          "fi": "Minun siskon / siskoni nimi on Eija.",
+          "en": "My sister's name is Eija."
+        },
+        {
+          "fi": "Hänen koiran / koiransa nimi on Kipa.",
+          "en": "Her/his dog's name is Kipa."
+        },
+        {
+          "fi": "Mikä sinun nimi / nimesi on?",
+          "en": "What is your name?"
+        },
+        {
+          "fi": "Mikä hänen nimi / nimensä on?",
+          "en": "What is his/her name?"
+        },
+        {
+          "fi": "Minun puhelinnumero on 050 3629570.",
+          "en": "My phone number is 050 3629570."
+        },
+        {
+          "fi": "Hänen osoite on Kärjentie 6 B 21, 03450 Hyvinkää.",
+          "en": "His/her address is Kärjentie 6 B 21, 03450 Hyvinkää."
+        },
+        {
+          "fi": "Mikä sinun sähköposti(osoite) on?",
+          "en": "What is your email address?"
+        },
+        {
+          "fi": "Mikä sinun koiran nimi on?",
+          "en": "What is your dog's name?"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "How do you ask..? Kuinka sinä kysyt…?",
+      "instruction": "Say in Finnish using the genitive.",
+      "topic": "genitive",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "\"What is your girlfriend's / wife's name?\"",
+          "answer": "Mikä sinun tyttöystäväsi / vaimosi nimi on?",
+          "note": "possessive suffix optional in speech (e.g. Mikä sinun vaimon nimi on?)"
+        },
+        {
+          "prompt": "\"What is your boyfriend's / husband's / partner's name?\"",
+          "answer": "Mikä sinun poikaystäväsi / miehesi / kumppanisi nimi on?",
+          "note": "possessive suffix optional in speech (e.g. Mikä sinun vaimon nimi on?)"
+        },
+        {
+          "prompt": "\"What is your son's / daughter's name?\"",
+          "answer": "Mikä sinun poikasi / tyttäresi nimi on?",
+          "note": "possessive suffix optional in speech (e.g. Mikä sinun vaimon nimi on?)"
+        },
+        {
+          "prompt": "\"What is your address?\"",
+          "answer": "Mikä sinun osoitteesi on?",
+          "note": "possessive suffix optional in speech (e.g. Mikä sinun vaimon nimi on?)"
+        },
+        {
+          "prompt": "\"What is your phone number?\"",
+          "answer": "Mikä sinun puhelinnumerosi on?",
+          "note": "possessive suffix optional in speech (e.g. Mikä sinun vaimon nimi on?)"
+        },
+        {
+          "prompt": "\"My email address is Tiku@gmail.com\"",
+          "answer": "Minun sähköpostiosoitteeni on Tiku@gmail.com.",
+          "note": "possessive suffix optional in speech (e.g. Mikä sinun vaimon nimi on?)"
+        },
+        {
+          "prompt": "\"Her email address is Pirkkis@hotmail.com\"",
+          "answer": "Hänen sähköpostiosoitteensa on Pirkkis@hotmail.com.",
+          "note": "possessive suffix optional in speech (e.g. Mikä sinun vaimon nimi on?)"
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "genitive",
+      "heading": "GENETIIVI = OWNERSHIP: MY, YOUR, TIINA'S, JOHN'S",
+      "text": "Personal pronoun genitives with matching possessive suffix. For names/words add -n (Tiinan, Annan, Paulan, Kimmon, koiran, siskon); for names ending in a consonant add -in (Johnin, Peterin, Susanin, Jackin). There is no 'of' genitive: Englannin kuningatar (queen of England), auton väri (colour of the car), Espanjan pääkaupunki (capital of Spain), Bristolin yliopisto (University of Bristol). Stem changes: mies → miehen, veli → veljen, äiti → äidin, poika → pojan, tytär → tyttären.",
+      "table": [
+        [
+          "minun",
+          "my",
+          "-ni"
+        ],
+        [
+          "sinun",
+          "your",
+          "-si"
+        ],
+        [
+          "hänen",
+          "his, her",
+          "-nsa/-nsä"
+        ],
+        [
+          "meidän",
+          "our",
+          "-mme"
+        ],
+        [
+          "teidän",
+          "your (pl)",
+          "-nne"
+        ],
+        [
+          "heidän",
+          "their",
+          "-nsa/-nsä"
+        ],
+        [
+          "sen",
+          "its",
+          ""
+        ]
+      ]
+    },
+    {
+      "topic": "possessive",
+      "heading": "Possessive suffix optional",
+      "text": "Both forms are used: minun nimi / nimeni, hänen koiran / koiransa, heidän nimet / nimensä."
+    }
+  ]
+}

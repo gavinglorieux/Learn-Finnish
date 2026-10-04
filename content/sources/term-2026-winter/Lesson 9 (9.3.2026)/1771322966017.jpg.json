@@ -1,0 +1,209 @@
+{
+  "source": "term-2026-winter/Lesson 9 (9.3.2026)/1771322966017.jpg",
+  "md5": "ca7060af1308f96ceac7fbecb7c22688",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 9,
+    "date": "2026-03-09"
+  },
+  "kind": "picture_vocab",
+  "title": {
+    "fi": "Sairaana",
+    "en": "Being ill"
+  },
+  "topics": [
+    "imperative"
+  ],
+  "summary": "Children's picture vocabulary page on illness, words split into syllables: symptoms (headache, fever, cough, sore throat, runny nose, stomach ache), health care words (doctor, nurse, patient, medicine, plaster, cast, vaccination), sairas/terve, and verbs sairastaa, parantua, yskiä, niistää, oksentaa; a fox says 'Parane pian!'.",
+  "transcript": "Sai-raa-na\npään-sär-ky  kuu-me  kuu-me-mit-ta-ri  ys-kä  kurk-ku-ki-pu\nnu-ha  ne-nä-lii-na  lää-kä-ri  sai-raan-hoi-ta-ja  po-ti-las\nlää-ke  vat-sa-ki-pu  haa-va  laas-ta-ri  kip-si\nro-ko-tus  kyl-mä-pus-si\n(puhekupla:) Pa-ra-ne pi-an!\nsai-ras  ter-ve\nsai-ras-taa  pa-ran-tu-a  ys-ki-ä  niis-tää  ok-sen-taa",
+  "texts": [
+    {
+      "title": {
+        "fi": "Puhekupla",
+        "en": "Speech bubble"
+      },
+      "kind": "dialogue",
+      "lines": [
+        {
+          "speaker": "Kettu",
+          "fi": "Parane pian!",
+          "en": "Get well soon!"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "fi": "sairaana",
+      "en": "(being) ill",
+      "pos": "adv",
+      "note": "essive of sairas: olla sairaana",
+      "theme": "illness"
+    },
+    {
+      "fi": "päänsärky",
+      "en": "headache",
+      "pos": "noun",
+      "theme": "illness"
+    },
+    {
+      "fi": "kuume",
+      "en": "fever",
+      "pos": "noun",
+      "theme": "illness"
+    },
+    {
+      "fi": "kuumemittari",
+      "en": "thermometer",
+      "pos": "noun",
+      "theme": "health"
+    },
+    {
+      "fi": "yskä",
+      "en": "cough",
+      "pos": "noun",
+      "theme": "illness"
+    },
+    {
+      "fi": "kurkkukipu",
+      "en": "sore throat",
+      "pos": "noun",
+      "theme": "illness"
+    },
+    {
+      "fi": "nuha",
+      "en": "runny nose, head cold",
+      "pos": "noun",
+      "theme": "illness"
+    },
+    {
+      "fi": "nenäliina",
+      "en": "handkerchief, tissue",
+      "pos": "noun",
+      "theme": "health"
+    },
+    {
+      "fi": "lääkäri",
+      "en": "doctor",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "sairaanhoitaja",
+      "en": "nurse",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "potilas",
+      "en": "patient",
+      "pos": "noun",
+      "theme": "health"
+    },
+    {
+      "fi": "lääke",
+      "en": "medicine",
+      "pos": "noun",
+      "theme": "health"
+    },
+    {
+      "fi": "vatsakipu",
+      "en": "stomach ache",
+      "pos": "noun",
+      "theme": "illness"
+    },
+    {
+      "fi": "haava",
+      "en": "wound, cut",
+      "pos": "noun",
+      "theme": "illness"
+    },
+    {
+      "fi": "laastari",
+      "en": "plaster, band-aid",
+      "pos": "noun",
+      "theme": "health"
+    },
+    {
+      "fi": "kipsi",
+      "en": "plaster cast",
+      "pos": "noun",
+      "theme": "health"
+    },
+    {
+      "fi": "rokotus",
+      "en": "vaccination",
+      "pos": "noun",
+      "theme": "health"
+    },
+    {
+      "fi": "kylmäpussi",
+      "en": "cold pack",
+      "pos": "noun",
+      "theme": "health"
+    },
+    {
+      "fi": "sairas",
+      "en": "ill, sick",
+      "pos": "adj",
+      "theme": "illness"
+    },
+    {
+      "fi": "terve",
+      "en": "healthy",
+      "pos": "adj",
+      "theme": "illness"
+    },
+    {
+      "fi": "sairastaa",
+      "en": "to be ill",
+      "pos": "verb",
+      "verb_type": 4,
+      "theme": "illness"
+    },
+    {
+      "fi": "parantua",
+      "en": "to get better, to recover",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "illness"
+    },
+    {
+      "fi": "yskiä",
+      "en": "to cough",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "illness"
+    },
+    {
+      "fi": "niistää",
+      "en": "to blow one's nose",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "illness"
+    },
+    {
+      "fi": "oksentaa",
+      "en": "to vomit",
+      "pos": "verb",
+      "verb_type": 1,
+      "note": "nt → nn: oksennan",
+      "theme": "illness"
+    },
+    {
+      "fi": "Parane pian!",
+      "en": "Get well soon!",
+      "pos": "phrase",
+      "theme": "illness"
+    },
+    {
+      "fi": "pian",
+      "en": "soon",
+      "pos": "adv",
+      "theme": "adverbs"
+    }
+  ],
+  "exercises": [],
+  "grammar_notes": []
+}

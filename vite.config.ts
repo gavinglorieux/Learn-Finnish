@@ -50,6 +50,8 @@ export default defineConfig(({ command }) => ({
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,svg,png,webp,woff2}'],
+        // The course content is bundled into JS; keep the whole app precached for offline use.
+        maximumFileSizeToCacheInBytes: 6 * 1024 * 1024,
         // When the SW can't match a route (e.g. deep link into the SPA),
         // fall back to the app shell so React Router can take over.
         navigateFallback: `${command === 'build' ? BASE : '/'}index.html`

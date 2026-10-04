@@ -1,0 +1,683 @@
+{
+  "source": "term-2025-autumn/Lesson 2 (8.9.2025)/OLLA plus miinus kysymys.docx",
+  "md5": "d4241d6fe18d22b8924998748c83d378",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 2,
+    "date": "2025-09-08"
+  },
+  "kind": "worksheet",
+  "title": {
+    "fi": "OLLA-verbi: kysymys ja negatiivinen lause",
+    "en": "The verb olla: questions and negative sentences"
+  },
+  "topics": [
+    "olla",
+    "negation",
+    "questions-ko",
+    "pronouns",
+    "nationalities"
+  ],
+  "summary": "Table of olla in positive and negative forms, -ko/-kö question forms with examples, a note on forming nationality adjectives, and gap-fills with verb forms and personal pronouns.",
+  "transcript": "OLLA-verbi: kysymys ja negatiivinen lause\nMINÄ OLEN - MINÄ EN OLE SINÄ OLET – SINÄ ET OLE HÄN ON - HÄN EI OLE\nME OLEMME - ME EMME OLE TE OLETTE - TE ETTE OLE HE OVAT - HE EIVÄT OLE\nOLENKO MINÄ? Olenko minä myöhässä? Am I late? OLETKO SINÄ? Oletko sinä englantilainen? Are you English? ONKO HÄN? Onko hän töissä tänään? Is he/she working today? OLEMMEKO ME? Olemmeko me myöhässä? Are we late? OLETTEKO TE? Oletteko te naimisissa? Are you married? OVATKO HE? Ovatko he kotona viikonloppuna? Are they at home at the weekend?\nNationality: name of the country + -LAINEN / -LÄINEN (if no A,U or O in the country name) EXCEPTIONS: suomalainen, ruotsalainen, venäläinen\nTäytä verbillä:\nMinä……………………………… töissä maanantaina. ………………………………… sinä töissä maanantaina myös?\nHe ………………………………… kotona. He ………………………………………… (NEG!) töissä tänään.\n……………………………………. te kihloissa? Me ……………………………………. (NEG!) kihloissa.\nTiina ………………………. poliisi, mutta hän ………………………………… (NEG!) töissä tänään.\n………………………………………. Harry ja Meghan naimisissa?\n………………………………………. Harry britti?\nMinä ……………………………………….. (NEG!) ole eläkkeellä, minä …………………………… yhä töissä.\nSinä ………………………………… aina väsynyt. ……………………………………. sinä kunnossa?\nMatti ………………………………….. (NEG!) kipeä, hän …………………….. töissä tänään.\nMe …………………………………… naimisissa. Matti ja Tero …………………………. naimisissa.\nRouva Smith …………………………… lomalla Suomessa. Herra Smith ……………………….. (NEG!) eläkkeellä.\nNeiti Jones ja rouva Ashton ……………………………………. (NEG!) töissä maanantaina.\n……………………………………….. me yksin? ……………………………………… sinä kipeä?\nTäytä persoonapronominilla:\n…………….................................. on saksalainen. Oletko ………………………….. suomalainen?\n…………………… olemme kotona joka viikonloppu. …………………….. eivät ole naimisissa.\nOletteko ……………………………… yhdessä? ……………………………. en ole töissä, ……………………olen työtön.\nOnko ………………………….. leski? ………………………. ovat nyt lomalla. Oletko ……………………. väsynyt?\n………………….. emme ole naimisissa. Onko ………………………. lääkäri? ………………. olette myöhässä taas.",
+  "words": [
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "forms": {
+        "minä": "olen",
+        "sinä": "olet",
+        "hän": "on",
+        "me": "olemme",
+        "te": "olette",
+        "he": "ovat",
+        "neg minä": "en ole",
+        "neg he": "eivät ole"
+      },
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kysymys",
+      "en": "question",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "negatiivinen",
+      "en": "negative",
+      "pos": "adj",
+      "theme": "classroom"
+    },
+    {
+      "fi": "lause",
+      "en": "sentence, clause",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "ei",
+      "en": "not; no (negative verb, 3rd person sg)",
+      "pos": "verb",
+      "theme": "little-words",
+      "note": "negative verb: en, et, ei, emme, ette, eivät"
+    },
+    {
+      "fi": "myöhässä",
+      "en": "late",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "englantilainen",
+      "en": "English",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "töissä",
+      "en": "at work",
+      "pos": "adv",
+      "theme": "school-work"
+    },
+    {
+      "fi": "tänään",
+      "en": "today",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "naimisissa",
+      "en": "married",
+      "pos": "adv",
+      "theme": "family"
+    },
+    {
+      "fi": "kotona",
+      "en": "at home",
+      "pos": "adv",
+      "theme": "home"
+    },
+    {
+      "fi": "viikonloppu",
+      "en": "weekend",
+      "pos": "noun",
+      "form_seen": "viikonloppuna",
+      "theme": "days-time"
+    },
+    {
+      "fi": "maa",
+      "en": "country; land",
+      "pos": "noun",
+      "theme": "places-town"
+    },
+    {
+      "fi": "suomalainen",
+      "en": "Finnish; a Finn",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "ruotsalainen",
+      "en": "Swedish; a Swede",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "venäläinen",
+      "en": "Russian",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "täyttää",
+      "en": "to fill (in)",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "täytä",
+      "theme": "classroom"
+    },
+    {
+      "fi": "verbi",
+      "en": "verb",
+      "pos": "noun",
+      "form_seen": "verbillä",
+      "theme": "classroom"
+    },
+    {
+      "fi": "maanantai",
+      "en": "Monday",
+      "pos": "noun",
+      "form_seen": "maanantaina",
+      "theme": "days-time"
+    },
+    {
+      "fi": "myös",
+      "en": "also",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kihloissa",
+      "en": "engaged",
+      "pos": "adv",
+      "theme": "family"
+    },
+    {
+      "fi": "poliisi",
+      "en": "police officer",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "mutta",
+      "en": "but",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "britti",
+      "en": "a Brit",
+      "pos": "noun",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "eläkkeellä",
+      "en": "retired",
+      "pos": "adv",
+      "theme": "professions"
+    },
+    {
+      "fi": "yhä",
+      "en": "still",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "aina",
+      "en": "always",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "väsynyt",
+      "en": "tired",
+      "pos": "adj",
+      "theme": "feelings"
+    },
+    {
+      "fi": "kunnossa",
+      "en": "OK, all right; in good shape",
+      "pos": "adv",
+      "theme": "health"
+    },
+    {
+      "fi": "kipeä",
+      "en": "sick, ill",
+      "pos": "adj",
+      "theme": "illness"
+    },
+    {
+      "fi": "rouva",
+      "en": "Mrs; madam",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "loma",
+      "en": "holiday",
+      "pos": "noun",
+      "form_seen": "lomalla",
+      "theme": "travel"
+    },
+    {
+      "fi": "lomalla",
+      "en": "on holiday",
+      "pos": "adv",
+      "theme": "travel"
+    },
+    {
+      "fi": "Suomi",
+      "en": "Finland",
+      "pos": "proper",
+      "form_seen": "Suomessa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "herra",
+      "en": "Mr; gentleman",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "neiti",
+      "en": "Miss",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "yksin",
+      "en": "alone",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "persoonapronomini",
+      "en": "personal pronoun",
+      "pos": "noun",
+      "form_seen": "persoonapronominilla",
+      "theme": "classroom"
+    },
+    {
+      "fi": "saksalainen",
+      "en": "German",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "joka",
+      "en": "every",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "yhdessä",
+      "en": "together",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "työtön",
+      "en": "unemployed",
+      "pos": "adj",
+      "theme": "professions"
+    },
+    {
+      "fi": "leski",
+      "en": "widow, widower",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "nyt",
+      "en": "now",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "lääkäri",
+      "en": "doctor",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "taas",
+      "en": "again",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "minä",
+      "en": "I",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "sinä",
+      "en": "you (sg)",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "hän",
+      "en": "he, she",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "me",
+      "en": "we",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "te",
+      "en": "you (pl)",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "he",
+      "en": "they",
+      "pos": "pron",
+      "theme": "people"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Kysymyksiä OLLA-verbillä",
+        "en": "Example questions with olla"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Olenko minä myöhässä?",
+          "en": "Am I late?"
+        },
+        {
+          "fi": "Oletko sinä englantilainen?",
+          "en": "Are you English?"
+        },
+        {
+          "fi": "Onko hän töissä tänään?",
+          "en": "Is he/she working today?"
+        },
+        {
+          "fi": "Olemmeko me myöhässä?",
+          "en": "Are we late?"
+        },
+        {
+          "fi": "Oletteko te naimisissa?",
+          "en": "Are you married?"
+        },
+        {
+          "fi": "Ovatko he kotona viikonloppuna?",
+          "en": "Are they at home at the weekend?"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Täytä verbillä",
+      "instruction": "Fill in the verb olla (positive, negative where marked NEG!, or question).",
+      "topic": "olla",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Minä ____ töissä maanantaina.",
+          "base": "olla",
+          "answer": "olen",
+          "en": "I am at work on Monday."
+        },
+        {
+          "prompt": "____ sinä töissä maanantaina myös?",
+          "base": "olla",
+          "answer": "Oletko",
+          "en": "Are you at work on Monday too?"
+        },
+        {
+          "prompt": "He ____ kotona.",
+          "base": "olla",
+          "answer": "ovat",
+          "en": "They are at home."
+        },
+        {
+          "prompt": "He ____ töissä tänään.",
+          "base": "olla (NEG!)",
+          "answer": "eivät ole",
+          "en": "They are not at work today."
+        },
+        {
+          "prompt": "____ te kihloissa?",
+          "base": "olla",
+          "answer": "Oletteko",
+          "en": "Are you engaged?"
+        },
+        {
+          "prompt": "Me ____ kihloissa.",
+          "base": "olla (NEG!)",
+          "answer": "emme ole",
+          "en": "We are not engaged."
+        },
+        {
+          "prompt": "Tiina ____ poliisi,",
+          "base": "olla",
+          "answer": "on",
+          "en": "Tiina is a police officer,"
+        },
+        {
+          "prompt": "mutta hän ____ töissä tänään.",
+          "base": "olla (NEG!)",
+          "answer": "ei ole",
+          "en": "but she is not at work today."
+        },
+        {
+          "prompt": "____ Harry ja Meghan naimisissa?",
+          "base": "olla",
+          "answer": "Ovatko",
+          "en": "Are Harry and Meghan married?"
+        },
+        {
+          "prompt": "____ Harry britti?",
+          "base": "olla",
+          "answer": "Onko",
+          "en": "Is Harry a Brit?"
+        },
+        {
+          "prompt": "Minä ____ ole eläkkeellä,",
+          "base": "olla (NEG!)",
+          "answer": "en",
+          "en": "I am not retired,"
+        },
+        {
+          "prompt": "minä ____ yhä töissä.",
+          "base": "olla",
+          "answer": "olen",
+          "en": "I am still working."
+        },
+        {
+          "prompt": "Sinä ____ aina väsynyt.",
+          "base": "olla",
+          "answer": "olet",
+          "en": "You are always tired."
+        },
+        {
+          "prompt": "____ sinä kunnossa?",
+          "base": "olla",
+          "answer": "Oletko",
+          "en": "Are you OK?"
+        },
+        {
+          "prompt": "Matti ____ kipeä,",
+          "base": "olla (NEG!)",
+          "answer": "ei ole",
+          "en": "Matti is not sick,"
+        },
+        {
+          "prompt": "hän ____ töissä tänään.",
+          "base": "olla",
+          "answer": "on",
+          "en": "he is at work today."
+        },
+        {
+          "prompt": "Me ____ naimisissa.",
+          "base": "olla",
+          "answer": "olemme",
+          "en": "We are married."
+        },
+        {
+          "prompt": "Matti ja Tero ____ naimisissa.",
+          "base": "olla",
+          "answer": "ovat",
+          "en": "Matti and Tero are married."
+        },
+        {
+          "prompt": "Rouva Smith ____ lomalla Suomessa.",
+          "base": "olla",
+          "answer": "on",
+          "en": "Mrs Smith is on holiday in Finland."
+        },
+        {
+          "prompt": "Herra Smith ____ eläkkeellä.",
+          "base": "olla (NEG!)",
+          "answer": "ei ole",
+          "en": "Mr Smith is not retired."
+        },
+        {
+          "prompt": "Neiti Jones ja rouva Ashton ____ töissä maanantaina.",
+          "base": "olla (NEG!)",
+          "answer": "eivät ole",
+          "en": "Miss Jones and Mrs Ashton are not at work on Monday."
+        },
+        {
+          "prompt": "____ me yksin?",
+          "base": "olla",
+          "answer": "Olemmeko",
+          "en": "Are we alone?"
+        },
+        {
+          "prompt": "____ sinä kipeä?",
+          "base": "olla",
+          "answer": "Oletko",
+          "en": "Are you sick?"
+        }
+      ]
+    },
+    {
+      "title": "Täytä persoonapronominilla",
+      "instruction": "Fill in the personal pronoun.",
+      "topic": "pronouns",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "____ on saksalainen.",
+          "answer": "Hän",
+          "en": "He/she is German."
+        },
+        {
+          "prompt": "Oletko ____ suomalainen?",
+          "answer": "sinä",
+          "en": "Are you Finnish?"
+        },
+        {
+          "prompt": "____ olemme kotona joka viikonloppu.",
+          "answer": "Me",
+          "en": "We are at home every weekend."
+        },
+        {
+          "prompt": "____ eivät ole naimisissa.",
+          "answer": "He",
+          "en": "They are not married."
+        },
+        {
+          "prompt": "Oletteko ____ yhdessä?",
+          "answer": "te",
+          "en": "Are you together?"
+        },
+        {
+          "prompt": "____ en ole töissä,",
+          "answer": "Minä",
+          "en": "I am not working,"
+        },
+        {
+          "prompt": "____ olen työtön.",
+          "answer": "minä",
+          "en": "I am unemployed."
+        },
+        {
+          "prompt": "Onko ____ leski?",
+          "answer": "hän",
+          "en": "Is he/she a widow(er)?"
+        },
+        {
+          "prompt": "____ ovat nyt lomalla.",
+          "answer": "He",
+          "en": "They are on holiday now."
+        },
+        {
+          "prompt": "Oletko ____ väsynyt?",
+          "answer": "sinä",
+          "en": "Are you tired?"
+        },
+        {
+          "prompt": "____ emme ole naimisissa.",
+          "answer": "Me",
+          "en": "We are not married."
+        },
+        {
+          "prompt": "Onko ____ lääkäri?",
+          "answer": "hän",
+          "en": "Is he/she a doctor?"
+        },
+        {
+          "prompt": "____ olette myöhässä taas.",
+          "answer": "Te",
+          "en": "You are late again."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "negation",
+      "heading": "OLLA: positive – negative",
+      "text": "Negative = negative verb (en, et, ei, emme, ette, eivät) + ole.",
+      "table": [
+        [
+          "minä olen",
+          "minä en ole"
+        ],
+        [
+          "sinä olet",
+          "sinä et ole"
+        ],
+        [
+          "hän on",
+          "hän ei ole"
+        ],
+        [
+          "me olemme",
+          "me emme ole"
+        ],
+        [
+          "te olette",
+          "te ette ole"
+        ],
+        [
+          "he ovat",
+          "he eivät ole"
+        ]
+      ]
+    },
+    {
+      "topic": "questions-ko",
+      "heading": "OLLA: question",
+      "text": "Question = verb + -ko/-kö first, then the subject.",
+      "table": [
+        [
+          "olenko minä?",
+          "Olenko minä myöhässä?"
+        ],
+        [
+          "oletko sinä?",
+          "Oletko sinä englantilainen?"
+        ],
+        [
+          "onko hän?",
+          "Onko hän töissä tänään?"
+        ],
+        [
+          "olemmeko me?",
+          "Olemmeko me myöhässä?"
+        ],
+        [
+          "oletteko te?",
+          "Oletteko te naimisissa?"
+        ],
+        [
+          "ovatko he?",
+          "Ovatko he kotona viikonloppuna?"
+        ]
+      ]
+    },
+    {
+      "topic": "nationalities",
+      "heading": "Nationality",
+      "text": "Name of the country + -LAINEN / -LÄINEN (-läinen if no A, U or O in the country name). Exceptions: suomalainen, ruotsalainen, venäläinen."
+    }
+  ]
+}

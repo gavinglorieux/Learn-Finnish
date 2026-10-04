@@ -1,0 +1,998 @@
+{
+  "source": "term-2026-winter/Lesson 10 (16.3.2026)/KPT MISSÄ TE ASUTTE teksti.docx",
+  "md5": "da138d25a5f899ec958e7e5785dbc5dc",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 10,
+    "date": "2026-03-16"
+  },
+  "kind": "text",
+  "title": {
+    "fi": "Missä te asutte?",
+    "en": "Where do you live?"
+  },
+  "topics": [
+    "kpt-nouns",
+    "kpt-verbs",
+    "place-names",
+    "inner-local-cases",
+    "outer-local-cases",
+    "have-adessive"
+  ],
+  "summary": "Reading text: four people (Riitta in Turku, Eeropekka in Helsinki, Johanna in Lahti, Eemeli in Seinäjoki) describe where and how they live; bold words are glossed in English. Practises KPT in place names and nouns (Turussa, Lahdessa, Helsingissä, joen rannalla).",
+  "transcript": "MISSÄ TE ASUTTE?\n\nRIITTA, TURKU: Me asumme Turussa. Turku on kiva opiskelijakaupunki. Joen rannalla on monta viihtyisää kahvilaa. Aurakadulla on minun lempikirppis. Sen nimi on Aurakirppis. Käyn siellä yleensä kerran viikossa. Seuraavaksi haluan ostaa kesäkengät ja Muumi-sukat. joki= river ranta= bank, beach viihtyisä= cosy kirppis= kirpputori= flea market\n\nEEROPEKKA, HELSINKI: Minä asun yksin Helsingissä. Minun asunto on Viikissä. Asunnossa on kaksi huonetta ja keittiö ja kylpyhuone. Meillä on myös yhteinen piha. Pihalla on kaksi penkkiä. Aamulla menen ulos penkille kahvikupin kanssa. Istun siellä yksin ja katselen, kuinka linnut rakentavat pesää keväällä. Ne laulavat kauniisti ja niillä on kamala kiire. On ihana olla yksin ja nauttia hiljaisesta aamusta. Jos aurinko paistaa, istun auringossa. Se on huhtikuussa jo tosi lämmin. yhteinen= shared penkki= bench lintu= bird rakentaa= to build pesä= nest kauniisti= beautifully niillä= ne + -LLÄ = they have kamala= terrible nauttia= to enjoy hiljainen= quiet\n\nJOHANNA, LAHTI: Minä ja mieheni asumme Lahdessa, Kaivurinkadulla. Se on aivan keskustassa. Asunto ei ole hiljainen, koska Kaivurinkatu on vilkas katu. Me molemmat teemme tällä hetkellä etätöitä. Meillä on omat työpöydät: minun työpöytäni on olohuoneessa ja mieheni työpöytä on vierashuoneessa. Me tykkäämme tehdä etätöitä, koska meillä on kaksi isoa koiraa. Me viemme ne puistoon joka aamu. Jos ilma on kaunis, me teemme voileivät ja syömme ne puistossa, kun koirat leikkivät. Me tykkäämme Lahdesta. Se on hyvä paikka asua. Ei liian iso eikä liian pieni. Juuri sopiva. aivan= smack bang, completely keskusta= city centre vilkas= busy (traffic-wise) molemmat= both tällä hetkellä= at the moment oma= of one´s own vierashuone= guest room leikkiä= to play liian= too ei – eikä= neither – nor juuri= just sopiva= perfect size, good fit\n\nEEMELI, SEINÄJOKI: Minä olen opiskelija, joten minulla ei ole ylimääräistä rahaa. Sen takia asun veljeni yksiössä Seinäjoen keskustassa. Minun vanhemmat ovat eronneet: isä asuu Tampereella ja äiti Porvoossa. Matkustan usein viikonloppuna Porvooseen. Käyn myös silloin tällöin isän luona Tampereella. Opiskelen kieliä. Toivon, että minusta tulee tulkki. joten= therefore ylimääräinen= extra, surplus sen takia= that´s why yksiö= one- room flat silloin tällöin= every once in a while kieli= language toivoa= to hope tulkki= interpreter",
+  "words": [
+    {
+      "fi": "missä",
+      "en": "where",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "asua",
+      "en": "to live",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "asutte",
+      "theme": "home"
+    },
+    {
+      "fi": "Turku",
+      "en": "Turku (city)",
+      "pos": "proper",
+      "form_seen": "Turussa",
+      "theme": "places-town",
+      "note": "rk → r"
+    },
+    {
+      "fi": "kiva",
+      "en": "nice",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "opiskelijakaupunki",
+      "en": "student city",
+      "pos": "noun",
+      "theme": "places-town",
+      "note": "nk → ng (kaupungissa)"
+    },
+    {
+      "fi": "joki",
+      "en": "river",
+      "pos": "noun",
+      "form_seen": "joen",
+      "theme": "nature",
+      "note": "k → ∅ (joen)"
+    },
+    {
+      "fi": "ranta",
+      "en": "bank, shore, beach",
+      "pos": "noun",
+      "form_seen": "rannalla",
+      "theme": "nature",
+      "note": "nt → nn"
+    },
+    {
+      "fi": "monta",
+      "en": "many",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "viihtyisä",
+      "en": "cosy",
+      "pos": "adj",
+      "form_seen": "viihtyisää",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "kahvila",
+      "en": "café",
+      "pos": "noun",
+      "form_seen": "kahvilaa",
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "katu",
+      "en": "street",
+      "pos": "noun",
+      "form_seen": "Aurakadulla",
+      "theme": "places-town",
+      "note": "t → d"
+    },
+    {
+      "fi": "lempikirppis",
+      "en": "favourite flea market",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "kirpputori",
+      "en": "flea market (colloquial: kirppis)",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "nimi",
+      "en": "name",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "käydä",
+      "en": "to visit, to go",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "käyn",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "siellä",
+      "en": "there",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "yleensä",
+      "en": "usually",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "kerran viikossa",
+      "en": "once a week",
+      "pos": "phrase",
+      "theme": "days-time"
+    },
+    {
+      "fi": "seuraavaksi",
+      "en": "next",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "haluta",
+      "en": "to want",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "haluan",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "ostaa",
+      "en": "to buy",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "kesäkengät",
+      "en": "summer shoes",
+      "pos": "noun",
+      "theme": "clothes",
+      "note": "kenkä → kengät (nk → ng)"
+    },
+    {
+      "fi": "sukka",
+      "en": "sock",
+      "pos": "noun",
+      "form_seen": "Muumi-sukat",
+      "theme": "clothes",
+      "note": "kk → k"
+    },
+    {
+      "fi": "yksin",
+      "en": "alone",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "Helsinki",
+      "en": "Helsinki",
+      "pos": "proper",
+      "form_seen": "Helsingissä",
+      "theme": "places-town",
+      "note": "nk → ng"
+    },
+    {
+      "fi": "asunto",
+      "en": "flat, apartment",
+      "pos": "noun",
+      "form_seen": "asunnossa",
+      "theme": "home",
+      "note": "nt → nn"
+    },
+    {
+      "fi": "huone",
+      "en": "room",
+      "pos": "noun",
+      "form_seen": "huonetta",
+      "theme": "home"
+    },
+    {
+      "fi": "keittiö",
+      "en": "kitchen",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "kylpyhuone",
+      "en": "bathroom",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "yhteinen",
+      "en": "shared, common",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "piha",
+      "en": "yard",
+      "pos": "noun",
+      "form_seen": "pihalla",
+      "theme": "home"
+    },
+    {
+      "fi": "penkki",
+      "en": "bench",
+      "pos": "noun",
+      "form_seen": "penkkiä",
+      "theme": "garden",
+      "note": "kk → k (penkille)"
+    },
+    {
+      "fi": "aamu",
+      "en": "morning",
+      "pos": "noun",
+      "form_seen": "aamulla",
+      "theme": "days-time"
+    },
+    {
+      "fi": "mennä",
+      "en": "to go",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "menen",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "ulos",
+      "en": "out",
+      "pos": "adv",
+      "theme": "directions"
+    },
+    {
+      "fi": "kahvikuppi",
+      "en": "coffee cup",
+      "pos": "noun",
+      "form_seen": "kahvikupin",
+      "theme": "tableware",
+      "note": "pp → p"
+    },
+    {
+      "fi": "kanssa",
+      "en": "with",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "istua",
+      "en": "to sit",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "istun",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "katsella",
+      "en": "to watch",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "katselen",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kuinka",
+      "en": "how",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "lintu",
+      "en": "bird",
+      "pos": "noun",
+      "form_seen": "linnut",
+      "theme": "animals",
+      "note": "nt → nn"
+    },
+    {
+      "fi": "rakentaa",
+      "en": "to build",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "rakentavat",
+      "theme": "common-verbs",
+      "note": "nt → nn"
+    },
+    {
+      "fi": "pesä",
+      "en": "nest",
+      "pos": "noun",
+      "form_seen": "pesää",
+      "theme": "animals"
+    },
+    {
+      "fi": "kevät",
+      "en": "spring",
+      "pos": "noun",
+      "form_seen": "keväällä",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "laulaa",
+      "en": "to sing",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "laulavat",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kauniisti",
+      "en": "beautifully",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "niillä on",
+      "en": "they have (ne + -llä)",
+      "pos": "phrase",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kamala",
+      "en": "terrible, awful",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "olla kiire",
+      "en": "to be in a hurry/busy",
+      "pos": "phrase",
+      "theme": "feelings"
+    },
+    {
+      "fi": "ihana",
+      "en": "wonderful, lovely",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "nauttia",
+      "en": "to enjoy (+ -sta)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "tt → t"
+    },
+    {
+      "fi": "hiljainen",
+      "en": "quiet",
+      "pos": "adj",
+      "form_seen": "hiljaisesta",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "aurinko",
+      "en": "sun",
+      "pos": "noun",
+      "form_seen": "auringossa",
+      "theme": "weather",
+      "note": "nk → ng"
+    },
+    {
+      "fi": "paistaa",
+      "en": "to shine",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "weather"
+    },
+    {
+      "fi": "huhtikuu",
+      "en": "April",
+      "pos": "noun",
+      "form_seen": "huhtikuussa",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "jo",
+      "en": "already",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "tosi",
+      "en": "really",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "lämmin",
+      "en": "warm",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "mies",
+      "en": "man; husband",
+      "pos": "noun",
+      "form_seen": "mieheni",
+      "theme": "family"
+    },
+    {
+      "fi": "Lahti",
+      "en": "Lahti (city)",
+      "pos": "proper",
+      "form_seen": "Lahdessa",
+      "theme": "places-town",
+      "note": "ht → hd"
+    },
+    {
+      "fi": "aivan",
+      "en": "right, completely",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "keskusta",
+      "en": "city centre",
+      "pos": "noun",
+      "form_seen": "keskustassa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "vilkas",
+      "en": "busy (traffic-wise), lively",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "molemmat",
+      "en": "both",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "tehdä",
+      "en": "to do",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "teemme",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "tällä hetkellä",
+      "en": "at the moment",
+      "pos": "phrase",
+      "theme": "days-time"
+    },
+    {
+      "fi": "etätyö",
+      "en": "remote work",
+      "pos": "noun",
+      "form_seen": "etätöitä",
+      "theme": "school-work"
+    },
+    {
+      "fi": "oma",
+      "en": "own",
+      "pos": "adj",
+      "form_seen": "omat",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "työpöytä",
+      "en": "desk",
+      "pos": "noun",
+      "form_seen": "työpöydät",
+      "theme": "furniture",
+      "note": "t → d"
+    },
+    {
+      "fi": "olohuone",
+      "en": "living room",
+      "pos": "noun",
+      "form_seen": "olohuoneessa",
+      "theme": "home"
+    },
+    {
+      "fi": "vierashuone",
+      "en": "guest room",
+      "pos": "noun",
+      "form_seen": "vierashuoneessa",
+      "theme": "home"
+    },
+    {
+      "fi": "tykätä",
+      "en": "to like",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "tykkäämme",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "iso",
+      "en": "big",
+      "pos": "adj",
+      "form_seen": "isoa",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "koira",
+      "en": "dog",
+      "pos": "noun",
+      "form_seen": "koiraa",
+      "theme": "animals"
+    },
+    {
+      "fi": "viedä",
+      "en": "to take",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "viemme",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "puisto",
+      "en": "park",
+      "pos": "noun",
+      "form_seen": "puistoon",
+      "theme": "places-town"
+    },
+    {
+      "fi": "joka aamu",
+      "en": "every morning",
+      "pos": "phrase",
+      "theme": "days-time"
+    },
+    {
+      "fi": "ilma",
+      "en": "weather; air",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "kaunis",
+      "en": "beautiful",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "voileipä",
+      "en": "sandwich",
+      "pos": "noun",
+      "form_seen": "voileivät",
+      "theme": "food-meals",
+      "note": "p → v"
+    },
+    {
+      "fi": "syödä",
+      "en": "to eat",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "syömme",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "leikkiä",
+      "en": "to play",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "leikkivät",
+      "theme": "common-verbs",
+      "note": "kk → k"
+    },
+    {
+      "fi": "hyvä",
+      "en": "good",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "paikka",
+      "en": "place",
+      "pos": "noun",
+      "theme": "places-town",
+      "note": "kk → k"
+    },
+    {
+      "fi": "liian",
+      "en": "too",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "ei – eikä",
+      "en": "neither – nor",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "pieni",
+      "en": "small",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "juuri",
+      "en": "just, exactly",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "sopiva",
+      "en": "suitable, just right",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "opiskelija",
+      "en": "student",
+      "pos": "noun",
+      "theme": "school-work"
+    },
+    {
+      "fi": "joten",
+      "en": "so, therefore",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "ylimääräinen",
+      "en": "extra, surplus",
+      "pos": "adj",
+      "form_seen": "ylimääräistä",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "raha",
+      "en": "money",
+      "pos": "noun",
+      "form_seen": "rahaa",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "sen takia",
+      "en": "that's why",
+      "pos": "phrase",
+      "theme": "little-words"
+    },
+    {
+      "fi": "yksiö",
+      "en": "studio flat (one-room flat)",
+      "pos": "noun",
+      "form_seen": "yksiössä",
+      "theme": "home"
+    },
+    {
+      "fi": "veli",
+      "en": "brother",
+      "pos": "noun",
+      "form_seen": "veljeni",
+      "theme": "family"
+    },
+    {
+      "fi": "vanhemmat",
+      "en": "parents",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "erota",
+      "en": "to divorce, to separate",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "ovat eronneet",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "isä",
+      "en": "father",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "äiti",
+      "en": "mother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "Tampere",
+      "en": "Tampere (city)",
+      "pos": "proper",
+      "form_seen": "Tampereella",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Porvoo",
+      "en": "Porvoo (town)",
+      "pos": "proper",
+      "form_seen": "Porvoossa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "matkustaa",
+      "en": "to travel",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "matkustan",
+      "theme": "travel"
+    },
+    {
+      "fi": "usein",
+      "en": "often",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "viikonloppu",
+      "en": "weekend",
+      "pos": "noun",
+      "form_seen": "viikonloppuna",
+      "theme": "days-time",
+      "note": "pp → p"
+    },
+    {
+      "fi": "silloin tällöin",
+      "en": "every once in a while",
+      "pos": "phrase",
+      "theme": "days-time"
+    },
+    {
+      "fi": "luona",
+      "en": "at (someone's place)",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "opiskella",
+      "en": "to study",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "opiskelen",
+      "theme": "school-work"
+    },
+    {
+      "fi": "kieli",
+      "en": "language",
+      "pos": "noun",
+      "form_seen": "kieliä",
+      "theme": "school-work",
+      "note": "kieli → kiele-"
+    },
+    {
+      "fi": "toivoa",
+      "en": "to hope",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "toivon",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "tulkki",
+      "en": "interpreter",
+      "pos": "noun",
+      "theme": "professions",
+      "note": "kk → k"
+    },
+    {
+      "fi": "Seinäjoki",
+      "en": "Seinäjoki (town)",
+      "pos": "proper",
+      "form_seen": "Seinäjoen",
+      "theme": "places-town"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Missä te asutte?",
+        "en": "Where do you live?"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "speaker": "RIITTA, TURKU",
+          "fi": "Me asumme Turussa.",
+          "en": "We live in Turku."
+        },
+        {
+          "speaker": "RIITTA, TURKU",
+          "fi": "Turku on kiva opiskelijakaupunki.",
+          "en": "Turku is a nice student city."
+        },
+        {
+          "speaker": "RIITTA, TURKU",
+          "fi": "Joen rannalla on monta viihtyisää kahvilaa.",
+          "en": "On the riverbank there are many cosy cafés."
+        },
+        {
+          "speaker": "RIITTA, TURKU",
+          "fi": "Aurakadulla on minun lempikirppis.",
+          "en": "My favourite flea market is on Aurakatu."
+        },
+        {
+          "speaker": "RIITTA, TURKU",
+          "fi": "Sen nimi on Aurakirppis.",
+          "en": "It's called Aurakirppis."
+        },
+        {
+          "speaker": "RIITTA, TURKU",
+          "fi": "Käyn siellä yleensä kerran viikossa.",
+          "en": "I usually go there once a week."
+        },
+        {
+          "speaker": "RIITTA, TURKU",
+          "fi": "Seuraavaksi haluan ostaa kesäkengät ja Muumi-sukat.",
+          "en": "Next I want to buy summer shoes and Moomin socks."
+        },
+        {
+          "speaker": "EEROPEKKA, HELSINKI",
+          "fi": "Minä asun yksin Helsingissä.",
+          "en": "I live alone in Helsinki."
+        },
+        {
+          "speaker": "EEROPEKKA, HELSINKI",
+          "fi": "Minun asunto on Viikissä.",
+          "en": "My flat is in Viikki."
+        },
+        {
+          "speaker": "EEROPEKKA, HELSINKI",
+          "fi": "Asunnossa on kaksi huonetta ja keittiö ja kylpyhuone.",
+          "en": "The flat has two rooms, a kitchen and a bathroom."
+        },
+        {
+          "speaker": "EEROPEKKA, HELSINKI",
+          "fi": "Meillä on myös yhteinen piha.",
+          "en": "We also have a shared yard."
+        },
+        {
+          "speaker": "EEROPEKKA, HELSINKI",
+          "fi": "Pihalla on kaksi penkkiä.",
+          "en": "There are two benches in the yard."
+        },
+        {
+          "speaker": "EEROPEKKA, HELSINKI",
+          "fi": "Aamulla menen ulos penkille kahvikupin kanssa.",
+          "en": "In the morning I go out to the bench with a cup of coffee."
+        },
+        {
+          "speaker": "EEROPEKKA, HELSINKI",
+          "fi": "Istun siellä yksin ja katselen, kuinka linnut rakentavat pesää keväällä.",
+          "en": "I sit there alone and watch the birds building nests in spring."
+        },
+        {
+          "speaker": "EEROPEKKA, HELSINKI",
+          "fi": "Ne laulavat kauniisti ja niillä on kamala kiire.",
+          "en": "They sing beautifully and they're in a terrible hurry."
+        },
+        {
+          "speaker": "EEROPEKKA, HELSINKI",
+          "fi": "On ihana olla yksin ja nauttia hiljaisesta aamusta.",
+          "en": "It's lovely to be alone and enjoy the quiet morning."
+        },
+        {
+          "speaker": "EEROPEKKA, HELSINKI",
+          "fi": "Jos aurinko paistaa, istun auringossa.",
+          "en": "If the sun is shining, I sit in the sun."
+        },
+        {
+          "speaker": "EEROPEKKA, HELSINKI",
+          "fi": "Se on huhtikuussa jo tosi lämmin.",
+          "en": "In April it's already really warm."
+        },
+        {
+          "speaker": "JOHANNA, LAHTI",
+          "fi": "Minä ja mieheni asumme Lahdessa, Kaivurinkadulla.",
+          "en": "My husband and I live in Lahti, on Kaivurinkatu."
+        },
+        {
+          "speaker": "JOHANNA, LAHTI",
+          "fi": "Se on aivan keskustassa.",
+          "en": "It's right in the city centre."
+        },
+        {
+          "speaker": "JOHANNA, LAHTI",
+          "fi": "Asunto ei ole hiljainen, koska Kaivurinkatu on vilkas katu.",
+          "en": "The flat isn't quiet, because Kaivurinkatu is a busy street."
+        },
+        {
+          "speaker": "JOHANNA, LAHTI",
+          "fi": "Me molemmat teemme tällä hetkellä etätöitä.",
+          "en": "We are both working remotely at the moment."
+        },
+        {
+          "speaker": "JOHANNA, LAHTI",
+          "fi": "Meillä on omat työpöydät: minun työpöytäni on olohuoneessa ja mieheni työpöytä on vierashuoneessa.",
+          "en": "We have our own desks: my desk is in the living room and my husband's desk is in the guest room."
+        },
+        {
+          "speaker": "JOHANNA, LAHTI",
+          "fi": "Me tykkäämme tehdä etätöitä, koska meillä on kaksi isoa koiraa.",
+          "en": "We like working remotely because we have two big dogs."
+        },
+        {
+          "speaker": "JOHANNA, LAHTI",
+          "fi": "Me viemme ne puistoon joka aamu.",
+          "en": "We take them to the park every morning."
+        },
+        {
+          "speaker": "JOHANNA, LAHTI",
+          "fi": "Jos ilma on kaunis, me teemme voileivät ja syömme ne puistossa, kun koirat leikkivät.",
+          "en": "If the weather is nice, we make sandwiches and eat them in the park while the dogs play."
+        },
+        {
+          "speaker": "JOHANNA, LAHTI",
+          "fi": "Me tykkäämme Lahdesta.",
+          "en": "We like Lahti."
+        },
+        {
+          "speaker": "JOHANNA, LAHTI",
+          "fi": "Se on hyvä paikka asua.",
+          "en": "It's a good place to live."
+        },
+        {
+          "speaker": "JOHANNA, LAHTI",
+          "fi": "Ei liian iso eikä liian pieni.",
+          "en": "Neither too big nor too small."
+        },
+        {
+          "speaker": "JOHANNA, LAHTI",
+          "fi": "Juuri sopiva.",
+          "en": "Just right."
+        },
+        {
+          "speaker": "EEMELI, SEINÄJOKI",
+          "fi": "Minä olen opiskelija, joten minulla ei ole ylimääräistä rahaa.",
+          "en": "I'm a student, so I don't have any spare money."
+        },
+        {
+          "speaker": "EEMELI, SEINÄJOKI",
+          "fi": "Sen takia asun veljeni yksiössä Seinäjoen keskustassa.",
+          "en": "That's why I live in my brother's studio flat in the centre of Seinäjoki."
+        },
+        {
+          "speaker": "EEMELI, SEINÄJOKI",
+          "fi": "Minun vanhemmat ovat eronneet: isä asuu Tampereella ja äiti Porvoossa.",
+          "en": "My parents are divorced: Dad lives in Tampere and Mum in Porvoo."
+        },
+        {
+          "speaker": "EEMELI, SEINÄJOKI",
+          "fi": "Matkustan usein viikonloppuna Porvooseen.",
+          "en": "I often travel to Porvoo at the weekend."
+        },
+        {
+          "speaker": "EEMELI, SEINÄJOKI",
+          "fi": "Käyn myös silloin tällöin isän luona Tampereella.",
+          "en": "I also visit Dad in Tampere every now and then."
+        },
+        {
+          "speaker": "EEMELI, SEINÄJOKI",
+          "fi": "Opiskelen kieliä.",
+          "en": "I study languages."
+        },
+        {
+          "speaker": "EEMELI, SEINÄJOKI",
+          "fi": "Toivon, että minusta tulee tulkki.",
+          "en": "I hope I'll become an interpreter."
+        }
+      ]
+    }
+  ],
+  "exercises": [],
+  "grammar_notes": []
+}

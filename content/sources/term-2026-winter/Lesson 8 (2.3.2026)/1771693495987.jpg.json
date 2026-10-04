@@ -1,0 +1,231 @@
+{
+  "source": "term-2026-winter/Lesson 8 (2.3.2026)/1771693495987.jpg",
+  "md5": "5da247fa71ad9245677a0335f9db5c80",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 8,
+    "date": "2026-03-02"
+  },
+  "kind": "picture_vocab",
+  "title": {
+    "fi": "Mennään ulos!",
+    "en": "Let's go outside!"
+  },
+  "topics": [
+    "imperative"
+  ],
+  "summary": "Children's picture vocabulary page for winter outdoor play, words split into syllables: sleds, skis, skates, hockey gear, snow words, and the verbs hiihtää, luistella, lasketella, kaatua, rakentaa; a rabbit on a snow racer shouts 'Pois alta! Varokaa!'.",
+  "transcript": "Men-nään u-los!\npulk-ka  liu-ku-ri  rat-ti-kelk-ka  suk-set  sau-vat\nmo-not  luis-ti-met  ky-pä-rä  mai-la  kiek-ko\nlu-mi  lu-mi-ken-gät  lu-mi-pal-lo  lu-mi-uk-ko  lu-mi-lin-na\n(puhekupla:) Pois al-ta! Va-ro-kaa!\nlu-mi-hiu-ta-le  jää-puik-ko\nhiih-tää  luis-tel-la  las-ke-tel-la  kaa-tu-a  ra-ken-taa",
+  "texts": [
+    {
+      "title": {
+        "fi": "Puhekupla",
+        "en": "Speech bubble"
+      },
+      "kind": "dialogue",
+      "lines": [
+        {
+          "speaker": "Jänis",
+          "fi": "Pois alta! Varokaa!",
+          "en": "Out of the way! Watch out!"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "fi": "pulkka",
+      "en": "plastic sled, toboggan",
+      "pos": "noun",
+      "theme": "winter"
+    },
+    {
+      "fi": "liukuri",
+      "en": "bum sled (small slider)",
+      "pos": "noun",
+      "theme": "winter"
+    },
+    {
+      "fi": "rattikelkka",
+      "en": "steering sled, snow racer",
+      "pos": "noun",
+      "theme": "winter"
+    },
+    {
+      "fi": "sukset",
+      "en": "skis",
+      "pos": "noun",
+      "note": "plural of suksi",
+      "theme": "winter"
+    },
+    {
+      "fi": "sauvat",
+      "en": "ski poles",
+      "pos": "noun",
+      "note": "plural of sauva",
+      "theme": "winter"
+    },
+    {
+      "fi": "monot",
+      "en": "ski boots",
+      "pos": "noun",
+      "note": "plural of mono",
+      "theme": "winter"
+    },
+    {
+      "fi": "luistimet",
+      "en": "skates",
+      "pos": "noun",
+      "note": "plural of luistin",
+      "theme": "winter"
+    },
+    {
+      "fi": "kypärä",
+      "en": "helmet",
+      "pos": "noun",
+      "theme": "winter"
+    },
+    {
+      "fi": "maila",
+      "en": "(hockey) stick",
+      "pos": "noun",
+      "theme": "winter"
+    },
+    {
+      "fi": "kiekko",
+      "en": "puck",
+      "pos": "noun",
+      "theme": "winter"
+    },
+    {
+      "fi": "lumi",
+      "en": "snow",
+      "pos": "noun",
+      "theme": "winter"
+    },
+    {
+      "fi": "lumikengät",
+      "en": "snowshoes",
+      "pos": "noun",
+      "note": "plural of lumikenkä",
+      "theme": "winter"
+    },
+    {
+      "fi": "lumipallo",
+      "en": "snowball",
+      "pos": "noun",
+      "theme": "winter"
+    },
+    {
+      "fi": "lumiukko",
+      "en": "snowman",
+      "pos": "noun",
+      "theme": "winter"
+    },
+    {
+      "fi": "lumilinna",
+      "en": "snow castle",
+      "pos": "noun",
+      "theme": "winter"
+    },
+    {
+      "fi": "lumihiutale",
+      "en": "snowflake",
+      "pos": "noun",
+      "theme": "winter"
+    },
+    {
+      "fi": "jääpuikko",
+      "en": "icicle",
+      "pos": "noun",
+      "theme": "winter"
+    },
+    {
+      "fi": "hiihtää",
+      "en": "to ski (cross-country)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "winter"
+    },
+    {
+      "fi": "luistella",
+      "en": "to skate",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "winter"
+    },
+    {
+      "fi": "lasketella",
+      "en": "to ski downhill",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "winter"
+    },
+    {
+      "fi": "kaatua",
+      "en": "to fall over",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "winter"
+    },
+    {
+      "fi": "rakentaa",
+      "en": "to build",
+      "pos": "verb",
+      "verb_type": 1,
+      "note": "nt → nn: rakennan",
+      "theme": "winter"
+    },
+    {
+      "fi": "mennä",
+      "en": "to go",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "mennään",
+      "note": "passive used as 'let's': Mennään ulos!",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "ulos",
+      "en": "out, outside (motion)",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "pois",
+      "en": "away",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "alta",
+      "en": "from under (out of the way)",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "varoa",
+      "en": "to watch out, to be careful",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "varokaa",
+      "note": "imperative plural",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "Pois alta!",
+      "en": "Out of the way!",
+      "pos": "phrase",
+      "theme": "winter"
+    },
+    {
+      "fi": "Mennään ulos!",
+      "en": "Let's go outside!",
+      "pos": "phrase",
+      "theme": "winter"
+    }
+  ],
+  "exercises": [],
+  "grammar_notes": []
+}

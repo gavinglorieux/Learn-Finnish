@@ -1,0 +1,261 @@
+{
+  "source": "term-2025-autumn/Lesson 7 (13.10.2025)/1759759325853.jpg",
+  "md5": "3edd8d002387777407e81aba8e871753",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 7,
+    "date": "2025-10-13"
+  },
+  "kind": "text",
+  "title": {
+    "fi": "Minkänäköinen hän on?",
+    "en": "What does he/she look like?"
+  },
+  "topics": [
+    "have-adessive",
+    "adjectives",
+    "plural"
+  ],
+  "summary": "Illustrated page describing the appearance of three people (a woman, a bearded man, a baby) with \"Hänellä on ...\" and \"Hän on ...\" sentences.",
+  "transcript": "Minkänäköinen hän on?\nHänellä on pitkä vaalea suora tukka.\nHänellä on siniset silmät ja silmälasit.\nHän on kaunis / nätti / hyvännäköinen.\nHän on pitkä ja hoikka.\nHän on kalju.\nHänellä on vihreät silmät.\nHänellä on parta ja viikset.\nHän on komea / hyvännäköinen.\nHän on lyhyt ja tukeva.\nHänellä on lyhyt tumma kihara tukka.\nHänellä on ruskeat silmät.\nHän on söpö / suloinen.",
+  "words": [
+    {
+      "fi": "minkänäköinen",
+      "en": "what-looking, what (someone) looks like",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "hän",
+      "en": "he, she",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "on",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "pitkä",
+      "en": "long; tall",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "vaalea",
+      "en": "fair, blond, light",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "suora",
+      "en": "straight",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "tukka",
+      "en": "hair (on the head)",
+      "pos": "noun",
+      "theme": "body"
+    },
+    {
+      "fi": "sininen",
+      "en": "blue",
+      "pos": "adj",
+      "form_seen": "siniset",
+      "theme": "colours"
+    },
+    {
+      "fi": "silmä",
+      "en": "eye",
+      "pos": "noun",
+      "form_seen": "silmät",
+      "theme": "body"
+    },
+    {
+      "fi": "silmälasit",
+      "en": "glasses, spectacles",
+      "pos": "noun",
+      "note": "plural only",
+      "theme": "appearance"
+    },
+    {
+      "fi": "kaunis",
+      "en": "beautiful",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "nätti",
+      "en": "pretty",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "hyvännäköinen",
+      "en": "good-looking",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "hoikka",
+      "en": "slim",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "kalju",
+      "en": "bald",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "vihreä",
+      "en": "green",
+      "pos": "adj",
+      "form_seen": "vihreät",
+      "theme": "colours"
+    },
+    {
+      "fi": "parta",
+      "en": "beard",
+      "pos": "noun",
+      "theme": "body"
+    },
+    {
+      "fi": "viikset",
+      "en": "moustache",
+      "pos": "noun",
+      "note": "plural only",
+      "theme": "body"
+    },
+    {
+      "fi": "komea",
+      "en": "handsome",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "lyhyt",
+      "en": "short",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "tukeva",
+      "en": "stocky, sturdy",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "tumma",
+      "en": "dark",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "kihara",
+      "en": "curly",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "ruskea",
+      "en": "brown",
+      "pos": "adj",
+      "form_seen": "ruskeat",
+      "theme": "colours"
+    },
+    {
+      "fi": "söpö",
+      "en": "cute",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "suloinen",
+      "en": "sweet, cute, lovely",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "ja",
+      "en": "and",
+      "pos": "conj",
+      "theme": "little-words"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Minkänäköinen hän on?",
+        "en": "What does he/she look like?"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Hänellä on pitkä vaalea suora tukka.",
+          "en": "She has long, fair, straight hair."
+        },
+        {
+          "fi": "Hänellä on siniset silmät ja silmälasit.",
+          "en": "She has blue eyes and glasses."
+        },
+        {
+          "fi": "Hän on kaunis / nätti / hyvännäköinen.",
+          "en": "She is beautiful / pretty / good-looking."
+        },
+        {
+          "fi": "Hän on pitkä ja hoikka.",
+          "en": "She is tall and slim."
+        },
+        {
+          "fi": "Hän on kalju.",
+          "en": "He is bald."
+        },
+        {
+          "fi": "Hänellä on vihreät silmät.",
+          "en": "He has green eyes."
+        },
+        {
+          "fi": "Hänellä on parta ja viikset.",
+          "en": "He has a beard and a moustache."
+        },
+        {
+          "fi": "Hän on komea / hyvännäköinen.",
+          "en": "He is handsome / good-looking."
+        },
+        {
+          "fi": "Hän on lyhyt ja tukeva.",
+          "en": "He is short and stocky."
+        },
+        {
+          "fi": "Hänellä on lyhyt tumma kihara tukka.",
+          "en": "He has short, dark, curly hair."
+        },
+        {
+          "fi": "Hänellä on ruskeat silmät.",
+          "en": "He has brown eyes."
+        },
+        {
+          "fi": "Hän on söpö / suloinen.",
+          "en": "He is cute / sweet."
+        }
+      ]
+    }
+  ],
+  "exercises": [],
+  "grammar_notes": [
+    {
+      "topic": "have-adessive",
+      "heading": "Hänellä on ... / Hän on ...",
+      "text": "Features someone has use the adessive \"hänellä on\" (+ nominative; paired body parts in the plural: siniset silmät). Qualities someone is use \"hän on\" + adjective."
+    }
+  ]
+}

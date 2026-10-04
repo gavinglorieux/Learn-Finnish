@@ -1,0 +1,141 @@
+{
+  "source": "term-2025-autumn/Lesson 1 (1.9.2025)/1755623006387.jpg",
+  "md5": "c0265b074c3e76605188ac4d93133e20",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 1,
+    "date": "2025-09-01"
+  },
+  "kind": "grammar",
+  "title": {
+    "fi": "Persoonapronominit ja olla-verbi",
+    "en": "Personal pronouns and the verb olla"
+  },
+  "topics": [
+    "pronouns",
+    "olla"
+  ],
+  "summary": "Table of the personal pronouns with the present tense of olla (to be); personal endings in bold.",
+  "transcript": "Persoonapronominit ja olla-verbi\n\nolla\nminä olen\nsinä olet\nhän / se on\nme olemme\nte olette\nhe / ne ovat",
+  "words": [
+    {
+      "fi": "persoonapronomini",
+      "en": "personal pronoun",
+      "pos": "noun",
+      "form_seen": "persoonapronominit",
+      "theme": "other"
+    },
+    {
+      "fi": "ja",
+      "en": "and",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "verbi",
+      "en": "verb",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "forms": {
+        "minä": "olen",
+        "sinä": "olet",
+        "hän": "on",
+        "me": "olemme",
+        "te": "olette",
+        "he": "ovat"
+      },
+      "note": "irregular: hän on, he ovat",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "minä",
+      "en": "I",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "sinä",
+      "en": "you (singular)",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "hän",
+      "en": "he, she",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "se",
+      "en": "it",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "me",
+      "en": "we",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "te",
+      "en": "you (plural / formal)",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "he",
+      "en": "they (people)",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "ne",
+      "en": "they (things, animals)",
+      "pos": "pron",
+      "theme": "people"
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "olla",
+      "heading": "olla — present tense",
+      "text": "Personal endings: -n (minä), -t (sinä), — (hän/se: on), -mme (me), -tte (te), -vat (he/ne: ovat).",
+      "table": [
+        [
+          "minä",
+          "olen"
+        ],
+        [
+          "sinä",
+          "olet"
+        ],
+        [
+          "hän / se",
+          "on"
+        ],
+        [
+          "me",
+          "olemme"
+        ],
+        [
+          "te",
+          "olette"
+        ],
+        [
+          "he / ne",
+          "ovat"
+        ]
+      ]
+    }
+  ],
+  "texts": [],
+  "exercises": []
+}

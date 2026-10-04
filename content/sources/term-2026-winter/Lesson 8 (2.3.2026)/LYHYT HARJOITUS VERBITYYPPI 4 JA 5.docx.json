@@ -1,0 +1,610 @@
+{
+  "source": "term-2026-winter/Lesson 8 (2.3.2026)/LYHYT HARJOITUS VERBITYYPPI 4 JA 5.docx",
+  "md5": "326cf1fe4f7791584f9269857be0c3dd",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 8,
+    "date": "2026-03-02"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "Lyhyt verbityyppi 4 ja 5 -harjoitus",
+    "en": "Short exercise: verb types 4 and 5"
+  },
+  "topics": [
+    "verb-type-4",
+    "verb-type-5",
+    "negation",
+    "questions-ko",
+    "verb-infinitive-object"
+  ],
+  "summary": "Fill-in exercise of nine short mini-dialogues practising present-tense forms (affirmative, negative and -ko questions) of verb type 4 and 5 verbs such as siivota, osata, tarvita, lukita, maalata and kerätä.",
+  "transcript": "LYHYT VERBITYYPPI 4 JA 5- HARJOITUS:\n\nTäydennä verbi (fill in with the verb):\n\n1)  Milloin sinä ____ (siivota)?\n\n- Yleensä minä ____ (siivota) lauantaina, mutta tänä lauantaina menen teatteriin.\n\n2)  ____ (Osata) te soittaa pianoa?\n\n- ____ (No, we don´t), mutta me ____ (know how to) soittaa viulua ja huilua.\n\n3)  Mitä he ____ (tarvita) urheilutunnilla?\n\n- He ____ (don´t need) mitään. He eivät mene ulos tänään, koska ulkona on niin kova pakkanen.\n\n4)  Minä ____ (will lock) ovet. Onko sinulla avaimet?\n\n- On. Menemmekö autolla? Minä voin ajaa.\n\n5)  Mitä te ____ (haluta) tehdä illalla?\n\n- Me ____ (pelata) jalkapalloa illalla kello 7.30 Mikan ja Annikan kanssa. Te voitte tehdä, mitä haluatte.\n\n6)  Kuka ____ (valita) teidän talon värin?\n\n7)  ____ (maalata) sinä seinät?\n\n- ____ (No, I will not). Maalari tulee ja ____ (maalata) sen.\n\n8)  Jos me olemme syksyllä Suomessa, me ____ (kerätä) puutarhasta omenia. Mummon puutarhassa on myös kaksi luumupuuta.\n\n9)  Kun minulla on kesäloma, minä ____ (lainata) kirjastosta monta hyvää kirjaa. Menen kalliolle aurinkoon ja istun siellä kaikessa rauhassa.",
+  "words": [
+    {
+      "fi": "lyhyt",
+      "en": "short",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "harjoitus",
+      "en": "exercise",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "täydentää",
+      "en": "to fill in, to complete",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "täydennä",
+      "theme": "classroom",
+      "note": "nt → nn"
+    },
+    {
+      "fi": "milloin",
+      "en": "when",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "siivota",
+      "en": "to clean",
+      "pos": "verb",
+      "verb_type": 4,
+      "forms": {
+        "minä": "siivoan",
+        "sinä": "siivoat"
+      },
+      "theme": "household"
+    },
+    {
+      "fi": "yleensä",
+      "en": "usually",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "lauantai",
+      "en": "Saturday",
+      "pos": "noun",
+      "form_seen": "lauantaina",
+      "theme": "days-time"
+    },
+    {
+      "fi": "mutta",
+      "en": "but",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "tänä lauantaina",
+      "en": "this Saturday",
+      "pos": "phrase",
+      "theme": "days-time"
+    },
+    {
+      "fi": "mennä",
+      "en": "to go",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "menen",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "teatteri",
+      "en": "theatre",
+      "pos": "noun",
+      "form_seen": "teatteriin",
+      "theme": "places-town"
+    },
+    {
+      "fi": "osata",
+      "en": "to know how to, can",
+      "pos": "verb",
+      "verb_type": 4,
+      "forms": {
+        "me": "osaamme",
+        "te": "osaatte"
+      },
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "soittaa",
+      "en": "to play (an instrument)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "hobbies-sport",
+      "note": "tt → t"
+    },
+    {
+      "fi": "piano",
+      "en": "piano",
+      "pos": "noun",
+      "form_seen": "pianoa",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "viulu",
+      "en": "violin",
+      "pos": "noun",
+      "form_seen": "viulua",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "huilu",
+      "en": "flute",
+      "pos": "noun",
+      "form_seen": "huilua",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "tarvita",
+      "en": "to need",
+      "pos": "verb",
+      "verb_type": 5,
+      "forms": {
+        "he": "tarvitsevat"
+      },
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "urheilutunti",
+      "en": "sports class, PE lesson",
+      "pos": "noun",
+      "form_seen": "urheilutunnilla",
+      "theme": "hobbies-sport",
+      "note": "nt → nn"
+    },
+    {
+      "fi": "mitään",
+      "en": "anything (in negative sentences)",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "ulos",
+      "en": "out (to outside)",
+      "pos": "adv",
+      "theme": "directions"
+    },
+    {
+      "fi": "tänään",
+      "en": "today",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "koska",
+      "en": "because",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "ulkona",
+      "en": "outside",
+      "pos": "adv",
+      "theme": "directions"
+    },
+    {
+      "fi": "niin",
+      "en": "so",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kova",
+      "en": "hard; (of frost) severe",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "pakkanen",
+      "en": "frost, below-zero temperature",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "lukita",
+      "en": "to lock",
+      "pos": "verb",
+      "verb_type": 5,
+      "forms": {
+        "minä": "lukitsen"
+      },
+      "theme": "home"
+    },
+    {
+      "fi": "ovi",
+      "en": "door",
+      "pos": "noun",
+      "form_seen": "ovet",
+      "theme": "home",
+      "note": "ovi → ove-"
+    },
+    {
+      "fi": "avain",
+      "en": "key",
+      "pos": "noun",
+      "form_seen": "avaimet",
+      "theme": "home"
+    },
+    {
+      "fi": "auto",
+      "en": "car",
+      "pos": "noun",
+      "form_seen": "autolla",
+      "theme": "transport"
+    },
+    {
+      "fi": "voida",
+      "en": "can, to be able to",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "voin",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "ajaa",
+      "en": "to drive",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "transport"
+    },
+    {
+      "fi": "haluta",
+      "en": "to want",
+      "pos": "verb",
+      "verb_type": 4,
+      "forms": {
+        "te": "haluatte"
+      },
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "tehdä",
+      "en": "to do, to make",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "ilta",
+      "en": "evening",
+      "pos": "noun",
+      "form_seen": "illalla",
+      "theme": "days-time",
+      "note": "lt → ll"
+    },
+    {
+      "fi": "pelata",
+      "en": "to play (a game/sport)",
+      "pos": "verb",
+      "verb_type": 4,
+      "forms": {
+        "me": "pelaamme"
+      },
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "jalkapallo",
+      "en": "football",
+      "pos": "noun",
+      "form_seen": "jalkapalloa",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "kanssa",
+      "en": "with",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "valita",
+      "en": "to choose",
+      "pos": "verb",
+      "verb_type": 5,
+      "forms": {
+        "hän": "valitsee"
+      },
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "talo",
+      "en": "house",
+      "pos": "noun",
+      "form_seen": "talon",
+      "theme": "home"
+    },
+    {
+      "fi": "väri",
+      "en": "colour",
+      "pos": "noun",
+      "form_seen": "värin",
+      "theme": "colours"
+    },
+    {
+      "fi": "maalata",
+      "en": "to paint",
+      "pos": "verb",
+      "verb_type": 4,
+      "forms": {
+        "sinä": "maalaat",
+        "hän": "maalaa"
+      },
+      "theme": "home"
+    },
+    {
+      "fi": "seinä",
+      "en": "wall",
+      "pos": "noun",
+      "form_seen": "seinät",
+      "theme": "home"
+    },
+    {
+      "fi": "maalari",
+      "en": "painter",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "tulla",
+      "en": "to come",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "tulee",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "jos",
+      "en": "if",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "syksy",
+      "en": "autumn",
+      "pos": "noun",
+      "form_seen": "syksyllä",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "Suomi",
+      "en": "Finland",
+      "pos": "proper",
+      "form_seen": "Suomessa",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "kerätä",
+      "en": "to collect, to pick",
+      "pos": "verb",
+      "verb_type": 4,
+      "forms": {
+        "me": "keräämme"
+      },
+      "theme": "garden"
+    },
+    {
+      "fi": "puutarha",
+      "en": "garden",
+      "pos": "noun",
+      "form_seen": "puutarhasta",
+      "theme": "garden"
+    },
+    {
+      "fi": "omena",
+      "en": "apple",
+      "pos": "noun",
+      "form_seen": "omenia",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "mummo",
+      "en": "grandma",
+      "pos": "noun",
+      "form_seen": "mummon",
+      "theme": "family"
+    },
+    {
+      "fi": "luumupuu",
+      "en": "plum tree",
+      "pos": "noun",
+      "form_seen": "luumupuuta",
+      "theme": "garden"
+    },
+    {
+      "fi": "kun",
+      "en": "when",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kesäloma",
+      "en": "summer holiday",
+      "pos": "noun",
+      "theme": "travel"
+    },
+    {
+      "fi": "lainata",
+      "en": "to borrow, to lend",
+      "pos": "verb",
+      "verb_type": 4,
+      "forms": {
+        "minä": "lainaan"
+      },
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kirjasto",
+      "en": "library",
+      "pos": "noun",
+      "form_seen": "kirjastosta",
+      "theme": "places-town"
+    },
+    {
+      "fi": "monta",
+      "en": "many",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "hyvä",
+      "en": "good",
+      "pos": "adj",
+      "form_seen": "hyvää",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "kirja",
+      "en": "book",
+      "pos": "noun",
+      "form_seen": "kirjaa",
+      "theme": "school-work"
+    },
+    {
+      "fi": "kallio",
+      "en": "rock, cliff",
+      "pos": "noun",
+      "form_seen": "kalliolle",
+      "theme": "nature"
+    },
+    {
+      "fi": "aurinko",
+      "en": "sun",
+      "pos": "noun",
+      "form_seen": "aurinkoon",
+      "theme": "weather"
+    },
+    {
+      "fi": "istua",
+      "en": "to sit",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "istun",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kaikessa rauhassa",
+      "en": "in peace and quiet",
+      "pos": "phrase",
+      "theme": "feelings"
+    },
+    {
+      "fi": "siellä",
+      "en": "there",
+      "pos": "adv",
+      "theme": "little-words"
+    }
+  ],
+  "texts": [],
+  "exercises": [
+    {
+      "title": "Lyhyt verbityyppi 4 ja 5 -harjoitus",
+      "instruction": "Täydennä verbi (fill in with the verb).",
+      "topic": "verb-type-4",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Milloin sinä ____ ?",
+          "base": "siivota",
+          "answer": "siivoat",
+          "en": "When do you clean?"
+        },
+        {
+          "prompt": "Yleensä minä ____ lauantaina, mutta tänä lauantaina menen teatteriin.",
+          "base": "siivota",
+          "answer": "siivoan",
+          "en": "Usually I clean on Saturday, but this Saturday I'm going to the theatre."
+        },
+        {
+          "prompt": "____ te soittaa pianoa?",
+          "base": "osata",
+          "answer": "Osaatteko",
+          "en": "Can you play the piano?"
+        },
+        {
+          "prompt": "____ , mutta me osaamme soittaa viulua ja huilua.",
+          "base": "No, we don't",
+          "answer": "Emme osaa",
+          "en": "No, we can't, but we can play the violin and the flute."
+        },
+        {
+          "prompt": "Emme osaa, mutta me ____ soittaa viulua ja huilua.",
+          "base": "know how to",
+          "answer": "osaamme",
+          "en": "…but we know how to play the violin and the flute."
+        },
+        {
+          "prompt": "Mitä he ____ urheilutunnilla?",
+          "base": "tarvita",
+          "answer": "tarvitsevat",
+          "en": "What do they need in the PE class?"
+        },
+        {
+          "prompt": "He ____ mitään. He eivät mene ulos tänään, koska ulkona on niin kova pakkanen.",
+          "base": "don't need",
+          "answer": "eivät tarvitse",
+          "en": "They don't need anything. They aren't going out today because it's so freezing outside."
+        },
+        {
+          "prompt": "Minä ____ ovet. Onko sinulla avaimet?",
+          "base": "will lock",
+          "answer": "lukitsen",
+          "en": "I will lock the doors. Do you have the keys?"
+        },
+        {
+          "prompt": "Mitä te ____ tehdä illalla?",
+          "base": "haluta",
+          "answer": "haluatte",
+          "en": "What do you want to do in the evening?"
+        },
+        {
+          "prompt": "Me ____ jalkapalloa illalla kello 7.30 Mikan ja Annikan kanssa.",
+          "base": "pelata",
+          "answer": "pelaamme",
+          "en": "We'll play football in the evening at 7.30 with Mika and Annika."
+        },
+        {
+          "prompt": "Kuka ____ teidän talon värin?",
+          "base": "valita",
+          "answer": "valitsee",
+          "en": "Who will choose the colour of your house?"
+        },
+        {
+          "prompt": "____ sinä seinät?",
+          "base": "maalata",
+          "answer": "Maalaatko",
+          "en": "Will you paint the walls?"
+        },
+        {
+          "prompt": "____ . Maalari tulee ja maalaa sen.",
+          "base": "No, I will not",
+          "answer": "En maalaa",
+          "en": "No, I won't. A painter is coming and will paint it."
+        },
+        {
+          "prompt": "En maalaa. Maalari tulee ja ____ sen.",
+          "base": "maalata",
+          "answer": "maalaa",
+          "en": "A painter is coming and will paint it."
+        },
+        {
+          "prompt": "Jos me olemme syksyllä Suomessa, me ____ puutarhasta omenia.",
+          "base": "kerätä",
+          "answer": "keräämme",
+          "en": "If we are in Finland in the autumn, we'll pick apples from the garden."
+        },
+        {
+          "prompt": "Kun minulla on kesäloma, minä ____ kirjastosta monta hyvää kirjaa.",
+          "base": "lainata",
+          "answer": "lainaan",
+          "en": "When I have my summer holiday, I borrow lots of good books from the library."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": []
+}

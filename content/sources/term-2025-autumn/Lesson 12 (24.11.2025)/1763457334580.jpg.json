@@ -1,0 +1,183 @@
+{
+ "source": "term-2025-autumn/Lesson 12 (24.11.2025)/1763457334580.jpg",
+ "md5": "1eea60a697f5a65a7dafa9081d394dcf",
+ "also_in": [],
+ "lesson": {
+  "term": "term-2025-autumn",
+  "number": 12,
+  "date": "2025-11-24"
+ },
+ "kind": "other",
+ "title": {
+  "fi": "Suomi tänään klo 14",
+  "en": "Finland today at 2 p.m. (weather map)"
+ },
+ "topics": [
+  "weather",
+  "numbers",
+  "clock"
+ ],
+ "summary": "Newspaper weather map of Finland from the Finnish Meteorological Institute (Ilmatieteen laitos) with weather symbols, temperatures (−10 to +1 °C) and wind speeds (m/s); used as a prompt for describing the weather around the country.",
+ "transcript": "Suomi tänään klo 14\nILMATIETEEN LAITOS\n\n[Map of Finland with weather symbols, north to south:]\nFar north-west Lapland: cloud with snow\nNorth Lapland: -8, sun\nWest Lapland: sun\nEast Lapland: sun with small cloud\n-7\n-10, sun behind clouds (partly cloudy)\n-8\nWind 5 (west coast); cloud; cloud\n-9\n-5\nWind 3 (west coast); partly cloudy; -2\nsun; -5\n-4\ncloud (east)\nsun\n-3\n-4\nWind 4; partly cloudy (Åland); +1\npartly cloudy (south-west)\ncloud (south-east)\n-3\nsun (south coast)\nWind 4, 5, 8 (southern sea areas)",
+ "words": [
+  {
+   "fi": "Suomi",
+   "en": "Finland",
+   "pos": "proper",
+   "theme": "nationalities"
+  },
+  {
+   "fi": "tänään",
+   "en": "today",
+   "pos": "adv",
+   "theme": "days-time"
+  },
+  {
+   "fi": "kello",
+   "en": "o'clock; clock",
+   "pos": "noun",
+   "theme": "clock",
+   "form_seen": "klo",
+   "note": "klo = abbreviation of kello"
+  },
+  {
+   "fi": "ilmatieteen laitos",
+   "en": "(Finnish) Meteorological Institute",
+   "pos": "phrase",
+   "theme": "weather",
+   "note": "ilmatiede (meteorology) + laitos (institute)"
+  },
+  {
+   "fi": "sää",
+   "en": "weather",
+   "pos": "noun",
+   "theme": "weather",
+   "note": "not printed; topic of the map"
+  },
+  {
+   "fi": "aurinko",
+   "en": "sun",
+   "pos": "noun",
+   "theme": "weather",
+   "note": "shown as a symbol"
+  },
+  {
+   "fi": "paistaa",
+   "en": "to shine (of the sun)",
+   "pos": "verb",
+   "verb_type": 1,
+   "theme": "weather",
+   "forms": {
+    "se": "paistaa"
+   },
+   "note": "Aurinko paistaa. (describing the symbol)"
+  },
+  {
+   "fi": "pilvi",
+   "en": "cloud",
+   "pos": "noun",
+   "theme": "weather",
+   "note": "shown as a symbol"
+  },
+  {
+   "fi": "pilvinen",
+   "en": "cloudy",
+   "pos": "adj",
+   "theme": "weather",
+   "form_seen": "pilvistä",
+   "note": "On pilvistä. = It's cloudy."
+  },
+  {
+   "fi": "puolipilvinen",
+   "en": "partly cloudy",
+   "pos": "adj",
+   "theme": "weather",
+   "form_seen": "puolipilvistä"
+  },
+  {
+   "fi": "lumi",
+   "en": "snow",
+   "pos": "noun",
+   "theme": "weather",
+   "form_seen": "lunta",
+   "note": "Sataa lunta. = It's snowing."
+  },
+  {
+   "fi": "sataa",
+   "en": "to rain; to fall (precipitation)",
+   "pos": "verb",
+   "verb_type": 1,
+   "theme": "weather"
+  },
+  {
+   "fi": "tuuli",
+   "en": "wind",
+   "pos": "noun",
+   "theme": "weather",
+   "note": "wind speeds in m/s shown in circles"
+  },
+  {
+   "fi": "aste",
+   "en": "degree",
+   "pos": "noun",
+   "theme": "weather",
+   "note": "temperatures in degrees Celsius"
+  },
+  {
+   "fi": "pakkanen",
+   "en": "frost, below-zero temperature",
+   "pos": "noun",
+   "theme": "weather",
+   "note": "e.g. 8 astetta pakkasta = minus 8"
+  },
+  {
+   "fi": "lämmin",
+   "en": "warm",
+   "pos": "adj",
+   "theme": "weather",
+   "note": "e.g. 1 aste lämmintä = plus 1"
+  }
+ ],
+ "texts": [],
+ "exercises": [
+  {
+   "title": "Describe the weather on the map",
+   "instruction": "Say what the weather is like in each part of Finland (sample answers).",
+   "topic": "weather",
+   "answer_source": "derived",
+   "items": [
+    {
+     "prompt": "Lapissa (north-west, snow symbol): ____",
+     "answer": "On pilvistä ja sataa lunta.",
+     "en": "It's cloudy and snowing."
+    },
+    {
+     "prompt": "Pohjois-Lapissa (sun, −8): ____",
+     "answer": "Aurinko paistaa. On kahdeksan astetta pakkasta.",
+     "en": "The sun is shining. It's minus eight."
+    },
+    {
+     "prompt": "Keski-Lapissa (sun behind clouds, −10): ____",
+     "answer": "On puolipilvistä. On kymmenen astetta pakkasta.",
+     "en": "It's partly cloudy. It's minus ten."
+    },
+    {
+     "prompt": "Oulussa (cloud, wind 5): ____",
+     "answer": "On pilvistä ja tuulee viisi metriä sekunnissa.",
+     "en": "It's cloudy and the wind is 5 m/s."
+    },
+    {
+     "prompt": "Ahvenanmaalla (partly cloudy, +1): ____",
+     "answer": "On puolipilvistä. On yksi aste lämmintä.",
+     "en": "It's partly cloudy. It's plus one."
+    },
+    {
+     "prompt": "Helsingissä (sun, −3): ____",
+     "answer": "Aurinko paistaa. On kolme astetta pakkasta.",
+     "en": "The sun is shining. It's minus three."
+    }
+   ]
+  }
+ ],
+ "grammar_notes": []
+}

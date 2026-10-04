@@ -1,0 +1,861 @@
+{
+  "source": "term-2026-spring/Lesson 2 (27.4.2026)/PAIKALLISSIJAT.docx",
+  "md5": "48b7656698cba2dfcb577e56e0083c35",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 2,
+    "date": "2026-04-27"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "Paikallissijat",
+    "en": "Local cases"
+  },
+  "topics": [
+    "local-cases",
+    "inner-local-cases",
+    "outer-local-cases",
+    "illative",
+    "locative-verbs",
+    "place-names",
+    "kpt-nouns"
+  ],
+  "summary": "Short rule (closed space -ssa/-sta/-Vn vs open space/surface -lla/-lta/-lle) followed by 30 sentences about Mum's trip to London where English place words in brackets must be put into Finnish with the right local case.",
+  "transcript": "PAIKALLISSIJAT\n\nclosed space: ASUNNOSSA, ASUNNOSTA, ASUNTOON\n\nopen space/ at a place/ on surface: PELLOLLA, PELLOLTA, PELLOLLE ; ASEMALLA, ASEMALTA, ASEMALLE; PÖYDÄLLÄ, PÖYDÄLTÄ, PÖYDÄLLE\n\nTäydennä lause ja lisää oikea paikallispääte:\n\n1.  Minä käyn ____ (SHOP) aamulla.\n\n2.  Tuotko minulle maitoa ____ (SHOP)?\n\n3.  Mihin aikaan sinä menet ____ (SHOP)?\n\n4.  Mitä sinä ostat ____ (SHOP)?\n\n5.  Käytkö myös ____ (BANK)?\n\n6.  Vai käytkö ____ (CASHPOINT)?\n\n7.  Menen ____ (TUBE STATION).\n\n8.  Äiti matkustaa ____ (TURKU) tänne. (to here)\n\n9.  Hän asuu nykyisin ____ (TURKU). (nowadays)\n\n10. Viikonloppuna hän matkustaa ____ (LONTOO).\n\n11. Matkustaako hän ____ (AEROPLANE)?\n\n12. Vai matkustaako hän ____ (TRAIN) ____\n\n(STOCKHOLM) ja jatkaa sitten ____ (CAR) matkaa?\n\n13. Mitä hän tekee ____ (LONDON)?\n\n14. Meneekö hän ____ (OXFORD STREET)?\n\n15. Missä hän asuu siellä? Asuuko hän ____ (HOTEL)?\n\n16. Onko hotelli ____ (CITY CENTRE)?\n\n17. Bussipysäkki on ____ (STREET) hotellin edessä. (in front of)\n\n18. Hän istuu ____ (SMALL COFFEE SHOP) ____ (SOHO) ja katselee ihmisiä. (people)\n\n19. Voiko hän maksaa siellä ____\n\n(FINNISH BANK CARD)?\n\n20. Mitä hän panee ____ (SUITCASE)?\n\n21. Kuka vie äidin ____ (AIRPORT)?\n\n22. Hänen kännykkä on yhä ____ (TABLE).\n\n23. Ja hänen vaatteet ovat yhä ____ (WARDROBE).\n\n24. Minä vien hänen matkatavarat ____ (LIVING ROOM). Toivottavasti hän muistaa ne. (luggage)\n\n25. Kun menet ____ (SHOP), käytkö myös ____ (MUM´S PLACE)?\n\n26. Joo. Vien hänelle hänen matkatavarat ja katson, että ____\n\n(FRIDGE) ei ole ruokaa, joka pilaantuu nopeasti. (which goes bad quickly)\n\n27. Sano terveisiä ____ (HER). (to say ”HI!” to someone)\n\n28. Toivottavasti hänellä on kivaa ____ (LONDON).\n\n29. Joo, sanon. Vietkö sinä koirat ____ (PARK) illalla, jos minulla\n\nei ole aikaa?\n\n30. Tottakai. Ja sitten me voimme istua ____ (SOFA) illalla ja katsoa\n\nTV:tä. Osta myös karkkia ____ (SHOP)! Pidetään leffailta!\n\n(of course; let´s have!)",
+  "words": [
+    {
+      "fi": "paikallissija",
+      "en": "local case",
+      "pos": "noun",
+      "form_seen": "paikallissijat",
+      "theme": "classroom"
+    },
+    {
+      "fi": "asunto",
+      "en": "flat, apartment",
+      "pos": "noun",
+      "form_seen": "asunnossa",
+      "theme": "home",
+      "note": "nt → nn"
+    },
+    {
+      "fi": "pelto",
+      "en": "field",
+      "pos": "noun",
+      "form_seen": "pellolla",
+      "theme": "farm-animals",
+      "note": "lt → ll"
+    },
+    {
+      "fi": "asema",
+      "en": "station",
+      "pos": "noun",
+      "form_seen": "asemalla",
+      "theme": "transport"
+    },
+    {
+      "fi": "pöytä",
+      "en": "table",
+      "pos": "noun",
+      "form_seen": "pöydällä",
+      "theme": "furniture",
+      "note": "t → d"
+    },
+    {
+      "fi": "täydentää",
+      "en": "to complete",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "täydennä",
+      "theme": "classroom"
+    },
+    {
+      "fi": "lause",
+      "en": "sentence",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "lisätä",
+      "en": "to add",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "lisää",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "oikea",
+      "en": "correct, right",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "pääte",
+      "en": "ending",
+      "pos": "noun",
+      "form_seen": "paikallispääte",
+      "theme": "classroom"
+    },
+    {
+      "fi": "käydä",
+      "en": "to visit, to go",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "käyn",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kauppa",
+      "en": "shop",
+      "pos": "noun",
+      "form_seen": "kaupassa",
+      "theme": "cafe-shop",
+      "note": "pp → p"
+    },
+    {
+      "fi": "aamu",
+      "en": "morning",
+      "pos": "noun",
+      "form_seen": "aamulla",
+      "theme": "days-time"
+    },
+    {
+      "fi": "tuoda",
+      "en": "to bring",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "tuotko",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "maito",
+      "en": "milk",
+      "pos": "noun",
+      "form_seen": "maitoa",
+      "theme": "drinks"
+    },
+    {
+      "fi": "mihin aikaan",
+      "en": "at what time",
+      "pos": "phrase",
+      "theme": "clock"
+    },
+    {
+      "fi": "mennä",
+      "en": "to go",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "menet",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "ostaa",
+      "en": "to buy",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "ostat",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "pankki",
+      "en": "bank",
+      "pos": "noun",
+      "form_seen": "pankissa",
+      "theme": "places-town",
+      "note": "kk → k"
+    },
+    {
+      "fi": "pankkiautomaatti",
+      "en": "cashpoint, ATM",
+      "pos": "noun",
+      "form_seen": "pankkiautomaatilla",
+      "theme": "places-town"
+    },
+    {
+      "fi": "metroasema",
+      "en": "tube/metro station",
+      "pos": "noun",
+      "form_seen": "metroasemalle",
+      "theme": "transport"
+    },
+    {
+      "fi": "matkustaa",
+      "en": "to travel",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "travel"
+    },
+    {
+      "fi": "tänne",
+      "en": "(to) here",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "asua",
+      "en": "to live",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "asuu",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "nykyisin",
+      "en": "nowadays",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "Turku",
+      "en": "Turku",
+      "pos": "proper",
+      "form_seen": "Turusta",
+      "theme": "places-town",
+      "note": "rk → r"
+    },
+    {
+      "fi": "viikonloppu",
+      "en": "weekend",
+      "pos": "noun",
+      "form_seen": "viikonloppuna",
+      "theme": "days-time"
+    },
+    {
+      "fi": "Lontoo",
+      "en": "London",
+      "pos": "proper",
+      "form_seen": "Lontooseen",
+      "theme": "places-town"
+    },
+    {
+      "fi": "lentokone",
+      "en": "aeroplane",
+      "pos": "noun",
+      "form_seen": "lentokoneella",
+      "theme": "transport"
+    },
+    {
+      "fi": "juna",
+      "en": "train",
+      "pos": "noun",
+      "form_seen": "junalla",
+      "theme": "transport"
+    },
+    {
+      "fi": "Tukholma",
+      "en": "Stockholm",
+      "pos": "proper",
+      "form_seen": "Tukholmaan",
+      "theme": "places-town"
+    },
+    {
+      "fi": "jatkaa",
+      "en": "to continue",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "auto",
+      "en": "car",
+      "pos": "noun",
+      "form_seen": "autolla",
+      "theme": "transport"
+    },
+    {
+      "fi": "matka",
+      "en": "journey, trip",
+      "pos": "noun",
+      "form_seen": "matkaa",
+      "theme": "travel"
+    },
+    {
+      "fi": "tehdä",
+      "en": "to do",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "tekee",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "hotelli",
+      "en": "hotel",
+      "pos": "noun",
+      "form_seen": "hotellissa",
+      "theme": "travel"
+    },
+    {
+      "fi": "keskusta",
+      "en": "city centre",
+      "pos": "noun",
+      "form_seen": "keskustassa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "bussipysäkki",
+      "en": "bus stop",
+      "pos": "noun",
+      "theme": "transport",
+      "note": "kk → k"
+    },
+    {
+      "fi": "katu",
+      "en": "street",
+      "pos": "noun",
+      "form_seen": "kadulla",
+      "theme": "places-town",
+      "note": "t → d"
+    },
+    {
+      "fi": "edessä",
+      "en": "in front of",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "istua",
+      "en": "to sit",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "istuu",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "pieni",
+      "en": "small",
+      "pos": "adj",
+      "form_seen": "pienessä",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "kahvila",
+      "en": "café, coffee shop",
+      "pos": "noun",
+      "form_seen": "kahvilassa",
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "katsella",
+      "en": "to watch",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "katselee",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "ihminen",
+      "en": "person",
+      "pos": "noun",
+      "form_seen": "ihmisiä",
+      "theme": "people"
+    },
+    {
+      "fi": "voida",
+      "en": "can",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "voiko",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "maksaa",
+      "en": "to pay",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "suomalainen",
+      "en": "Finnish",
+      "pos": "adj",
+      "form_seen": "suomalaisella",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "pankkikortti",
+      "en": "bank card",
+      "pos": "noun",
+      "form_seen": "pankkikortilla",
+      "theme": "shopping-money",
+      "note": "tt → t"
+    },
+    {
+      "fi": "panna",
+      "en": "to put",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "panee",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "matkalaukku",
+      "en": "suitcase",
+      "pos": "noun",
+      "form_seen": "matkalaukkuun",
+      "theme": "travel",
+      "note": "kk → k"
+    },
+    {
+      "fi": "kuka",
+      "en": "who",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "viedä",
+      "en": "to take",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "vie",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "lentokenttä",
+      "en": "airport",
+      "pos": "noun",
+      "form_seen": "lentokentälle",
+      "theme": "transport",
+      "note": "tt → t"
+    },
+    {
+      "fi": "kännykkä",
+      "en": "mobile phone",
+      "pos": "noun",
+      "theme": "household",
+      "note": "kk → k"
+    },
+    {
+      "fi": "yhä",
+      "en": "still",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "vaate",
+      "en": "item of clothing",
+      "pos": "noun",
+      "form_seen": "vaatteet",
+      "theme": "clothes"
+    },
+    {
+      "fi": "vaatekaappi",
+      "en": "wardrobe",
+      "pos": "noun",
+      "form_seen": "vaatekaapissa",
+      "theme": "furniture",
+      "note": "pp → p"
+    },
+    {
+      "fi": "matkatavarat",
+      "en": "luggage",
+      "pos": "noun",
+      "theme": "travel"
+    },
+    {
+      "fi": "olohuone",
+      "en": "living room",
+      "pos": "noun",
+      "form_seen": "olohuoneeseen",
+      "theme": "home"
+    },
+    {
+      "fi": "toivottavasti",
+      "en": "hopefully",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "muistaa",
+      "en": "to remember",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "luona",
+      "en": "at (someone's place)",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "katsoa",
+      "en": "to check, to look",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "katson",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "jääkaappi",
+      "en": "fridge",
+      "pos": "noun",
+      "form_seen": "jääkaapissa",
+      "theme": "household",
+      "note": "pp → p"
+    },
+    {
+      "fi": "ruoka",
+      "en": "food",
+      "pos": "noun",
+      "form_seen": "ruokaa",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "pilaantua",
+      "en": "to go bad, to spoil",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "pilaantuu",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "nopeasti",
+      "en": "quickly",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "sanoa terveisiä",
+      "en": "to say hi (to someone), to send regards",
+      "pos": "phrase",
+      "form_seen": "sano terveisiä",
+      "theme": "greetings"
+    },
+    {
+      "fi": "olla kivaa",
+      "en": "to have a nice time",
+      "pos": "phrase",
+      "form_seen": "hänellä on kivaa",
+      "theme": "feelings"
+    },
+    {
+      "fi": "koira",
+      "en": "dog",
+      "pos": "noun",
+      "form_seen": "koirat",
+      "theme": "animals"
+    },
+    {
+      "fi": "puisto",
+      "en": "park",
+      "pos": "noun",
+      "form_seen": "puistoon",
+      "theme": "places-town"
+    },
+    {
+      "fi": "ilta",
+      "en": "evening",
+      "pos": "noun",
+      "form_seen": "illalla",
+      "theme": "days-time"
+    },
+    {
+      "fi": "aika",
+      "en": "time",
+      "pos": "noun",
+      "form_seen": "aikaa",
+      "theme": "days-time",
+      "note": "k → ∅ (ajan)"
+    },
+    {
+      "fi": "tottakai",
+      "en": "of course",
+      "pos": "interj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "sohva",
+      "en": "sofa",
+      "pos": "noun",
+      "form_seen": "sohvalla",
+      "theme": "furniture"
+    },
+    {
+      "fi": "karkki",
+      "en": "sweets",
+      "pos": "noun",
+      "form_seen": "karkkia",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "pidetään",
+      "en": "let's have (a…)",
+      "pos": "phrase",
+      "theme": "little-words"
+    },
+    {
+      "fi": "leffailta",
+      "en": "movie night",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "äiti",
+      "en": "mother",
+      "pos": "noun",
+      "form_seen": "äidin",
+      "theme": "family"
+    }
+  ],
+  "texts": [],
+  "exercises": [
+    {
+      "title": "Paikallissijat",
+      "instruction": "Täydennä lause ja lisää oikea paikallispääte. (Complete the sentence and add the correct local-case ending.)",
+      "topic": "local-cases",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Minä käyn ____ aamulla.",
+          "base": "SHOP",
+          "answer": "kaupassa",
+          "en": "I go to the shop in the morning."
+        },
+        {
+          "prompt": "Tuotko minulle maitoa ____ ?",
+          "base": "SHOP",
+          "answer": "kaupasta",
+          "en": "Will you bring me milk from the shop?"
+        },
+        {
+          "prompt": "Mihin aikaan sinä menet ____ ?",
+          "base": "SHOP",
+          "answer": "kauppaan",
+          "en": "What time are you going to the shop?"
+        },
+        {
+          "prompt": "Mitä sinä ostat ____ ?",
+          "base": "SHOP",
+          "answer": "kaupasta",
+          "en": "What are you buying from the shop?"
+        },
+        {
+          "prompt": "Käytkö myös ____ ?",
+          "base": "BANK",
+          "answer": "pankissa",
+          "en": "Are you also going to the bank?"
+        },
+        {
+          "prompt": "Vai käytkö ____ ?",
+          "base": "CASHPOINT",
+          "answer": "pankkiautomaatilla",
+          "en": "Or are you going to the cashpoint?"
+        },
+        {
+          "prompt": "Menen ____ .",
+          "base": "TUBE STATION",
+          "answer": "metroasemalle",
+          "en": "I'm going to the tube station."
+        },
+        {
+          "prompt": "Äiti matkustaa ____ tänne.",
+          "base": "TURKU",
+          "answer": "Turusta",
+          "en": "Mum is travelling here from Turku."
+        },
+        {
+          "prompt": "Hän asuu nykyisin ____ .",
+          "base": "TURKU",
+          "answer": "Turussa",
+          "en": "She lives in Turku nowadays."
+        },
+        {
+          "prompt": "Viikonloppuna hän matkustaa ____ .",
+          "base": "LONTOO",
+          "answer": "Lontooseen",
+          "en": "At the weekend she travels to London."
+        },
+        {
+          "prompt": "Matkustaako hän ____ ?",
+          "base": "AEROPLANE",
+          "answer": "lentokoneella",
+          "en": "Is she travelling by plane?"
+        },
+        {
+          "prompt": "Vai matkustaako hän ____ Tukholmaan…",
+          "base": "TRAIN",
+          "answer": "junalla",
+          "en": "Or is she going by train to Stockholm…"
+        },
+        {
+          "prompt": "Vai matkustaako hän junalla ____ …",
+          "base": "STOCKHOLM",
+          "answer": "Tukholmaan",
+          "en": "…to Stockholm…"
+        },
+        {
+          "prompt": "…ja jatkaa sitten ____ matkaa?",
+          "base": "CAR",
+          "answer": "autolla",
+          "en": "…and then continue the journey by car?"
+        },
+        {
+          "prompt": "Mitä hän tekee ____ ?",
+          "base": "LONDON",
+          "answer": "Lontoossa",
+          "en": "What is she doing in London?"
+        },
+        {
+          "prompt": "Meneekö hän ____ ?",
+          "base": "OXFORD STREET",
+          "answer": "Oxford Streetille",
+          "en": "Is she going to Oxford Street?"
+        },
+        {
+          "prompt": "Missä hän asuu siellä? Asuuko hän ____ ?",
+          "base": "HOTEL",
+          "answer": "hotellissa",
+          "en": "Where is she staying there? In a hotel?"
+        },
+        {
+          "prompt": "Onko hotelli ____ ?",
+          "base": "CITY CENTRE",
+          "answer": "keskustassa",
+          "en": "Is the hotel in the city centre?"
+        },
+        {
+          "prompt": "Bussipysäkki on ____ hotellin edessä.",
+          "base": "STREET",
+          "answer": "kadulla",
+          "en": "The bus stop is on the street in front of the hotel."
+        },
+        {
+          "prompt": "Hän istuu ____ Sohossa ja katselee ihmisiä.",
+          "base": "SMALL COFFEE SHOP",
+          "answer": "pienessä kahvilassa",
+          "en": "She sits in a small coffee shop in Soho watching people."
+        },
+        {
+          "prompt": "Hän istuu pienessä kahvilassa ____ ja katselee ihmisiä.",
+          "base": "SOHO",
+          "answer": "Sohossa",
+          "en": "…in Soho…"
+        },
+        {
+          "prompt": "Voiko hän maksaa siellä ____ ?",
+          "base": "FINNISH BANK CARD",
+          "answer": "suomalaisella pankkikortilla",
+          "en": "Can she pay there with a Finnish bank card?"
+        },
+        {
+          "prompt": "Mitä hän panee ____ ?",
+          "base": "SUITCASE",
+          "answer": "matkalaukkuun",
+          "en": "What is she putting in the suitcase?"
+        },
+        {
+          "prompt": "Kuka vie äidin ____ ?",
+          "base": "AIRPORT",
+          "answer": "lentokentälle",
+          "en": "Who is taking Mum to the airport?"
+        },
+        {
+          "prompt": "Hänen kännykkä on yhä ____ .",
+          "base": "TABLE",
+          "answer": "pöydällä",
+          "en": "Her mobile is still on the table."
+        },
+        {
+          "prompt": "Ja hänen vaatteet ovat yhä ____ .",
+          "base": "WARDROBE",
+          "answer": "vaatekaapissa",
+          "en": "And her clothes are still in the wardrobe."
+        },
+        {
+          "prompt": "Minä vien hänen matkatavarat ____ .",
+          "base": "LIVING ROOM",
+          "answer": "olohuoneeseen",
+          "en": "I'll take her luggage to the living room."
+        },
+        {
+          "prompt": "Kun menet ____ , käytkö myös äidin luona?",
+          "base": "SHOP",
+          "answer": "kauppaan",
+          "en": "When you go to the shop, will you also drop by Mum's?"
+        },
+        {
+          "prompt": "Kun menet kauppaan, käytkö myös ____ ?",
+          "base": "MUM'S PLACE",
+          "answer": "äidin luona",
+          "en": "…will you also drop by Mum's place?"
+        },
+        {
+          "prompt": "…ja katson, että ____ ei ole ruokaa, joka pilaantuu nopeasti.",
+          "base": "FRIDGE",
+          "answer": "jääkaapissa",
+          "en": "…and check there's no food in the fridge that goes bad quickly."
+        },
+        {
+          "prompt": "Sano terveisiä ____ .",
+          "base": "HER",
+          "answer": "hänelle",
+          "en": "Say hi to her."
+        },
+        {
+          "prompt": "Toivottavasti hänellä on kivaa ____ .",
+          "base": "LONDON",
+          "answer": "Lontoossa",
+          "en": "Hopefully she has a nice time in London."
+        },
+        {
+          "prompt": "Vietkö sinä koirat ____ illalla…",
+          "base": "PARK",
+          "answer": "puistoon",
+          "en": "Will you take the dogs to the park in the evening…"
+        },
+        {
+          "prompt": "Ja sitten me voimme istua ____ illalla ja katsoa TV:tä.",
+          "base": "SOFA",
+          "answer": "sohvalla",
+          "en": "And then we can sit on the sofa in the evening and watch TV."
+        },
+        {
+          "prompt": "Osta myös karkkia ____ !",
+          "base": "SHOP",
+          "answer": "kaupasta",
+          "en": "Buy some sweets from the shop too!"
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "local-cases",
+      "heading": "Paikallissijat",
+      "text": "Closed space: -ssa/-ssä, -sta/-stä, illative (asunnossa, asunnosta, asuntoon).\nOpen space / at a place / on a surface: -lla/-llä, -lta/-ltä, -lle (pellolla, pellolta, pellolle; asemalla, asemalta, asemalle; pöydällä, pöydältä, pöydälle).",
+      "table": [
+        [
+          "",
+          "missä?",
+          "mistä?",
+          "mihin?"
+        ],
+        [
+          "closed space",
+          "asunnossa",
+          "asunnosta",
+          "asuntoon"
+        ],
+        [
+          "open space",
+          "pellolla",
+          "pellolta",
+          "pellolle"
+        ],
+        [
+          "at a place",
+          "asemalla",
+          "asemalta",
+          "asemalle"
+        ],
+        [
+          "on a surface",
+          "pöydällä",
+          "pöydältä",
+          "pöydälle"
+        ]
+      ]
+    }
+  ]
+}

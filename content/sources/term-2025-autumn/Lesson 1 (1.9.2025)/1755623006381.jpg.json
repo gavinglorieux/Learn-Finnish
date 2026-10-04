@@ -1,0 +1,280 @@
+{
+  "source": "term-2025-autumn/Lesson 1 (1.9.2025)/1755623006381.jpg",
+  "md5": "adac9a3b3a2fdc92d8275214a409fefd",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 1,
+    "date": "2025-09-01"
+  },
+  "kind": "vocab_list",
+  "title": {
+    "fi": "Viikonpäivät",
+    "en": "Days of the week"
+  },
+  "topics": [
+    "days-dates",
+    "greetings"
+  ],
+  "summary": "Days of the week with abbreviations, the 'Milloin?' (when?) form with the -na ending, a timeline from the day before yesterday to the day after tomorrow, and the greeting 'Hauskaa viikonloppua!'.",
+  "transcript": "Viikonpäivät\nMikä päivä tänään on?    Milloin?\nmaanantai (ma)    maanantaina\ntiistai (ti)    tiistaina\nkeskiviikko (ke)    keskiviikkona\ntorstai (to)    torstaina\nperjantai (pe)    perjantaina\nlauantai (la)    lauantaina\nsunnuntai (su)    sunnuntaina\nviikonloppu (la ja su)    viikonloppuna\n\ntoissapäivänä — eilen — TÄNÄÄN — huomenna — ylihuomenna\n\n(speech bubble) Hauskaa viikonloppua!",
+  "words": [
+    {
+      "fi": "viikonpäivä",
+      "en": "day of the week",
+      "pos": "noun",
+      "form_seen": "viikonpäivät",
+      "theme": "days-time"
+    },
+    {
+      "fi": "maanantai",
+      "en": "Monday",
+      "pos": "noun",
+      "forms": {
+        "abbreviation": "ma",
+        "milloin? (essive)": "maanantaina"
+      },
+      "note": "on Monday: maanantaina",
+      "theme": "days-time"
+    },
+    {
+      "fi": "tiistai",
+      "en": "Tuesday",
+      "pos": "noun",
+      "forms": {
+        "abbreviation": "ti",
+        "milloin? (essive)": "tiistaina"
+      },
+      "note": "on Tuesday: tiistaina",
+      "theme": "days-time"
+    },
+    {
+      "fi": "keskiviikko",
+      "en": "Wednesday",
+      "pos": "noun",
+      "forms": {
+        "abbreviation": "ke",
+        "milloin? (essive)": "keskiviikkona"
+      },
+      "note": "on Wednesday: keskiviikkona",
+      "theme": "days-time"
+    },
+    {
+      "fi": "torstai",
+      "en": "Thursday",
+      "pos": "noun",
+      "forms": {
+        "abbreviation": "to",
+        "milloin? (essive)": "torstaina"
+      },
+      "note": "on Thursday: torstaina",
+      "theme": "days-time"
+    },
+    {
+      "fi": "perjantai",
+      "en": "Friday",
+      "pos": "noun",
+      "forms": {
+        "abbreviation": "pe",
+        "milloin? (essive)": "perjantaina"
+      },
+      "note": "on Friday: perjantaina",
+      "theme": "days-time"
+    },
+    {
+      "fi": "lauantai",
+      "en": "Saturday",
+      "pos": "noun",
+      "forms": {
+        "abbreviation": "la",
+        "milloin? (essive)": "lauantaina"
+      },
+      "note": "on Saturday: lauantaina",
+      "theme": "days-time"
+    },
+    {
+      "fi": "sunnuntai",
+      "en": "Sunday",
+      "pos": "noun",
+      "forms": {
+        "abbreviation": "su",
+        "milloin? (essive)": "sunnuntaina"
+      },
+      "note": "on Sunday: sunnuntaina",
+      "theme": "days-time"
+    },
+    {
+      "fi": "viikonloppu",
+      "en": "weekend",
+      "pos": "noun",
+      "forms": {
+        "abbreviation": "la ja su",
+        "milloin? (essive)": "viikonloppuna"
+      },
+      "note": "at the weekend: viikonloppuna",
+      "theme": "days-time"
+    },
+    {
+      "fi": "mikä",
+      "en": "what, which",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "päivä",
+      "en": "day",
+      "pos": "noun",
+      "theme": "days-time"
+    },
+    {
+      "fi": "tänään",
+      "en": "today",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "on",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "milloin",
+      "en": "when",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "ja",
+      "en": "and",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "toissapäivänä",
+      "en": "the day before yesterday",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "eilen",
+      "en": "yesterday",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "huomenna",
+      "en": "tomorrow",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "ylihuomenna",
+      "en": "the day after tomorrow",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "hauska",
+      "en": "nice, fun",
+      "pos": "adj",
+      "form_seen": "hauskaa",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "Hauskaa viikonloppua!",
+      "en": "Have a nice weekend!",
+      "pos": "phrase",
+      "theme": "greetings"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Viikonpäivät",
+        "en": "Days of the week"
+      },
+      "kind": "dialogue",
+      "lines": [
+        {
+          "fi": "Mikä päivä tänään on?",
+          "en": "What day is it today?"
+        },
+        {
+          "fi": "Milloin?",
+          "en": "When?"
+        },
+        {
+          "fi": "Hauskaa viikonloppua!",
+          "en": "Have a nice weekend!"
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "days-dates",
+      "heading": "Milloin? — on which day",
+      "text": "To say 'on Monday' etc., add -na to the day: maanantai → maanantaina, keskiviikko → keskiviikkona, viikonloppu → viikonloppuna.",
+      "table": [
+        [
+          "maanantai",
+          "ma",
+          "maanantaina"
+        ],
+        [
+          "tiistai",
+          "ti",
+          "tiistaina"
+        ],
+        [
+          "keskiviikko",
+          "ke",
+          "keskiviikkona"
+        ],
+        [
+          "torstai",
+          "to",
+          "torstaina"
+        ],
+        [
+          "perjantai",
+          "pe",
+          "perjantaina"
+        ],
+        [
+          "lauantai",
+          "la",
+          "lauantaina"
+        ],
+        [
+          "sunnuntai",
+          "su",
+          "sunnuntaina"
+        ],
+        [
+          "viikonloppu",
+          "la ja su",
+          "viikonloppuna"
+        ]
+      ]
+    },
+    {
+      "topic": "days-dates",
+      "heading": "Timeline",
+      "text": "toissapäivänä (day before yesterday) – eilen (yesterday) – tänään (today) – huomenna (tomorrow) – ylihuomenna (day after tomorrow)",
+      "table": [
+        [
+          "toissapäivänä",
+          "eilen",
+          "tänään",
+          "huomenna",
+          "ylihuomenna"
+        ]
+      ]
+    }
+  ],
+  "exercises": []
+}

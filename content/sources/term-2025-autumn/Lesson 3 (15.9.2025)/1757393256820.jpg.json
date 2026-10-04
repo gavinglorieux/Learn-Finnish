@@ -1,0 +1,700 @@
+{
+  "source": "term-2025-autumn/Lesson 3 (15.9.2025)/1757393256820.jpg",
+  "md5": "d3749e0a759e9c0c1cc1949ac4735f27",
+  "also_in": [
+    "term-2025-autumn/Lesson 4 (22.9.2025)/1758112227950.jpg"
+  ],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 3,
+    "date": "2025-09-15"
+  },
+  "kind": "worksheet",
+  "title": {
+    "fi": "-lainen / -läinen",
+    "en": "Nationalities with -lainen / -läinen"
+  },
+  "topics": [
+    "nationalities",
+    "genitive",
+    "place-names",
+    "question-words"
+  ],
+  "summary": "Map of Europe with Finnish country, capital and sea names; nine people with ages are linked by arrows to their countries to practise nationality words (-lainen/-läinen), plus questions 'Minkä maan pääkaupunki on …?' answered with the genitive.",
+  "transcript": "-LAINEN/ -LÄINEN\n(portraits with arrows to countries) ROY, 49 → Irlanti; AL, 55 → Iso-Britannia; ERIK, 35 → Ruotsi; PIIA, 43 → Suomi; OLGA, 60 → Venäjä; PIERRE, 75 → Ranska; Juan, 31 (POWERGYM) → Espanja; ROBERTO, 57 → Italia; NIKOLA, 42 → Puola\n(map labels) POHJOINEN JÄÄMERI, ISLANTI Reykjavik, NORJAN MERI, ATLANTIN VALTAMERI, NORJA Oslo, RUOTSI Tukholma, SUOMI Helsinki, VIRO Tallinna, LATVIA Riika, LIETTUA Vilna, VALKO-VENÄJÄ Minsk, VENÄJÄ Moskova, IRLANTI Dublin, ISO-BRITANNIA Lontoo, POHJANMERI, TANSKA Kööpenhamina, ITÄMERI, ALANKOMAAT Amsterdam, Englannin kanaali, BELGIA Bryssel, LUXEMBURG, SAKSA Berliini, Rein, PUOLA Varsova, UKRAINA Kiova, MOLDOVA Kisinjov, RANSKA Pariisi, Seine, Biskajan lahti, TSEKKI Praha, SLOVAKIA Bratislava, UNKARI Budapest, SVEITSI, ITÄVALTA, SLOVENIA, KROATIA, BOSNIA-HERTSEGOVINA Sarajevo, SERBIA, ROMANIA Bukarest, Tonava, BULGARIA Sofia, ALBANIA Tirana, MAKEDONIA Skopje, KREIKKA Ateena, Kreeta, ITALIA Rooma, Adrian meri, PORTUGALI Lissabon, ESPANJA Madrid, VÄLIMERI, TURKKI, KYPROS, MUSTAMERI, KASPIANMERI, Volga, GEORGIA Tbilisi, AZERBAIDZAN Baku, ARMENIA\nMinkä maan pääkaupunki on Pariisi?\nBudapest?\nVarsova?\n............n pääkaupunki.\n29",
+  "words": [
+    {
+      "fi": "-lainen",
+      "en": "suffix for nationality / origin",
+      "pos": "other",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "-läinen",
+      "en": "suffix for nationality / origin (front vowels)",
+      "pos": "other",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Islanti",
+      "en": "Iceland",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Norja",
+      "en": "Norway",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Ruotsi",
+      "en": "Sweden",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Suomi",
+      "en": "Finland",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Viro",
+      "en": "Estonia",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Latvia",
+      "en": "Latvia",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Liettua",
+      "en": "Lithuania",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Valko-Venäjä",
+      "en": "Belarus",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Venäjä",
+      "en": "Russia",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Irlanti",
+      "en": "Ireland",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Iso-Britannia",
+      "en": "Great Britain",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Tanska",
+      "en": "Denmark",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Alankomaat",
+      "en": "the Netherlands",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Belgia",
+      "en": "Belgium",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Luxemburg",
+      "en": "Luxembourg",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Saksa",
+      "en": "Germany",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Puola",
+      "en": "Poland",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Ukraina",
+      "en": "Ukraine",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Moldova",
+      "en": "Moldova",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Ranska",
+      "en": "France",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Tšekki",
+      "en": "Czechia",
+      "pos": "proper",
+      "note": "spelt TSEKKI on the map",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Slovakia",
+      "en": "Slovakia",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Unkari",
+      "en": "Hungary",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Sveitsi",
+      "en": "Switzerland",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Itävalta",
+      "en": "Austria",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Slovenia",
+      "en": "Slovenia",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Kroatia",
+      "en": "Croatia",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Bosnia-Hertsegovina",
+      "en": "Bosnia and Herzegovina",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Serbia",
+      "en": "Serbia",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Romania",
+      "en": "Romania",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Bulgaria",
+      "en": "Bulgaria",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Albania",
+      "en": "Albania",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Makedonia",
+      "en": "(North) Macedonia",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Kreikka",
+      "en": "Greece",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Italia",
+      "en": "Italy",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Portugali",
+      "en": "Portugal",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Espanja",
+      "en": "Spain",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Turkki",
+      "en": "Turkey",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Kypros",
+      "en": "Cyprus",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Georgia",
+      "en": "Georgia",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Azerbaidžan",
+      "en": "Azerbaijan",
+      "pos": "proper",
+      "note": "spelt AZERBAIDZAN on the map",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Armenia",
+      "en": "Armenia",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Tukholma",
+      "en": "Stockholm",
+      "pos": "proper",
+      "note": "capital of Sweden",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Tallinna",
+      "en": "Tallinn",
+      "pos": "proper",
+      "note": "capital of Estonia",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Riika",
+      "en": "Riga",
+      "pos": "proper",
+      "note": "capital of Latvia",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Vilna",
+      "en": "Vilnius",
+      "pos": "proper",
+      "note": "capital of Lithuania",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Moskova",
+      "en": "Moscow",
+      "pos": "proper",
+      "note": "capital of Russia",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Lontoo",
+      "en": "London",
+      "pos": "proper",
+      "note": "capital of Great Britain",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Kööpenhamina",
+      "en": "Copenhagen",
+      "pos": "proper",
+      "note": "capital of Denmark",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Bryssel",
+      "en": "Brussels",
+      "pos": "proper",
+      "note": "capital of Belgium",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Berliini",
+      "en": "Berlin",
+      "pos": "proper",
+      "note": "capital of Germany",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Varsova",
+      "en": "Warsaw",
+      "pos": "proper",
+      "note": "capital of Poland",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Kiova",
+      "en": "Kyiv",
+      "pos": "proper",
+      "note": "capital of Ukraine",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Pariisi",
+      "en": "Paris",
+      "pos": "proper",
+      "note": "capital of France",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Praha",
+      "en": "Prague",
+      "pos": "proper",
+      "note": "capital of Czechia",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Bukarest",
+      "en": "Bucharest",
+      "pos": "proper",
+      "note": "capital of Romania",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Ateena",
+      "en": "Athens",
+      "pos": "proper",
+      "note": "capital of Greece",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Rooma",
+      "en": "Rome",
+      "pos": "proper",
+      "note": "capital of Italy",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Lissabon",
+      "en": "Lisbon",
+      "pos": "proper",
+      "note": "capital of Portugal",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Helsinki",
+      "en": "Helsinki",
+      "pos": "proper",
+      "theme": "places-town"
+    },
+    {
+      "fi": "Itämeri",
+      "en": "the Baltic Sea",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Pohjanmeri",
+      "en": "the North Sea",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Välimeri",
+      "en": "the Mediterranean Sea",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Mustameri",
+      "en": "the Black Sea",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Atlantin valtameri",
+      "en": "the Atlantic Ocean",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Pohjoinen jäämeri",
+      "en": "the Arctic Ocean",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Kaspianmeri",
+      "en": "the Caspian Sea",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Pohjanlahti",
+      "en": "the Gulf of Bothnia",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Englannin kanaali",
+      "en": "the English Channel",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Biskajanlahti",
+      "en": "the Bay of Biscay",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Adrianmeri",
+      "en": "the Adriatic Sea",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Norjan meri",
+      "en": "the Norwegian Sea",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "Kreeta",
+      "en": "Crete",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "meri",
+      "en": "sea",
+      "pos": "noun",
+      "theme": "nature"
+    },
+    {
+      "fi": "valtameri",
+      "en": "ocean",
+      "pos": "noun",
+      "theme": "nature"
+    },
+    {
+      "fi": "mikä",
+      "en": "what, which",
+      "pos": "question",
+      "form_seen": "minkä",
+      "theme": "question-words"
+    },
+    {
+      "fi": "maa",
+      "en": "country",
+      "pos": "noun",
+      "form_seen": "maan",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "pääkaupunki",
+      "en": "capital city",
+      "pos": "noun",
+      "theme": "places-town"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "on",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "irlantilainen",
+      "en": "Irish (person)",
+      "pos": "noun",
+      "note": "-lainen/-läinen; derived answer to the exercise",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "ruotsalainen",
+      "en": "Swedish (person), Swede",
+      "pos": "noun",
+      "note": "-lainen/-läinen; derived answer to the exercise",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "suomalainen",
+      "en": "Finnish (person), Finn",
+      "pos": "noun",
+      "note": "-lainen/-läinen; derived answer to the exercise",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "venäläinen",
+      "en": "Russian (person)",
+      "pos": "noun",
+      "note": "-lainen/-läinen; derived answer to the exercise",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "ranskalainen",
+      "en": "French (person)",
+      "pos": "noun",
+      "note": "-lainen/-läinen; derived answer to the exercise",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "espanjalainen",
+      "en": "Spanish (person), Spaniard",
+      "pos": "noun",
+      "note": "-lainen/-läinen; derived answer to the exercise",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "italialainen",
+      "en": "Italian (person)",
+      "pos": "noun",
+      "note": "-lainen/-läinen; derived answer to the exercise",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "puolalainen",
+      "en": "Polish (person), Pole",
+      "pos": "noun",
+      "note": "-lainen/-läinen; derived answer to the exercise",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Tonava",
+      "en": "the Danube",
+      "pos": "proper",
+      "theme": "nature"
+    },
+    {
+      "fi": "britti",
+      "en": "British (person), Briton",
+      "pos": "noun",
+      "note": "derived answer (Al); englantilainen = English",
+      "theme": "nationalities"
+    }
+  ],
+  "exercises": [
+    {
+      "title": "-lainen / -läinen — who is from where?",
+      "instruction": "Say the nationality of each person (e.g. Roy on irlantilainen).",
+      "topic": "nationalities",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Roy on ____.",
+          "base": "Irlanti",
+          "answer": "irlantilainen",
+          "en": "Roy is from Ireland."
+        },
+        {
+          "prompt": "Al on ____.",
+          "base": "Iso-Britannia",
+          "answer": "britti / englantilainen",
+          "en": "Al is from Great Britain."
+        },
+        {
+          "prompt": "Erik on ____.",
+          "base": "Ruotsi",
+          "answer": "ruotsalainen",
+          "en": "Erik is from Sweden."
+        },
+        {
+          "prompt": "Piia on ____.",
+          "base": "Suomi",
+          "answer": "suomalainen",
+          "en": "Piia is from Finland."
+        },
+        {
+          "prompt": "Olga on ____.",
+          "base": "Venäjä",
+          "answer": "venäläinen",
+          "en": "Olga is from Russia."
+        },
+        {
+          "prompt": "Pierre on ____.",
+          "base": "Ranska",
+          "answer": "ranskalainen",
+          "en": "Pierre is from France."
+        },
+        {
+          "prompt": "Juan on ____.",
+          "base": "Espanja",
+          "answer": "espanjalainen",
+          "en": "Juan is from Spain."
+        },
+        {
+          "prompt": "Roberto on ____.",
+          "base": "Italia",
+          "answer": "italialainen",
+          "en": "Roberto is from Italy."
+        },
+        {
+          "prompt": "Nikola on ____.",
+          "base": "Puola",
+          "answer": "puolalainen",
+          "en": "Nikola is from Poland."
+        }
+      ]
+    },
+    {
+      "title": "Minkä maan pääkaupunki?",
+      "instruction": "Answer: ____n pääkaupunki.",
+      "topic": "genitive",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Minkä maan pääkaupunki on Pariisi? ____ pääkaupunki.",
+          "answer": "Ranskan",
+          "en": "Paris is the capital of France."
+        },
+        {
+          "prompt": "Minkä maan pääkaupunki on Budapest? ____ pääkaupunki.",
+          "answer": "Unkarin",
+          "en": "Budapest is the capital of Hungary."
+        },
+        {
+          "prompt": "Minkä maan pääkaupunki on Varsova? ____ pääkaupunki.",
+          "answer": "Puolan",
+          "en": "Warsaw is the capital of Poland."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "nationalities",
+      "heading": "-lainen / -läinen",
+      "text": "Nationality/origin words are formed with -lainen (back vowels) or -läinen (front vowels): Ruotsi → ruotsalainen, Venäjä → venäläinen."
+    }
+  ],
+  "texts": []
+}

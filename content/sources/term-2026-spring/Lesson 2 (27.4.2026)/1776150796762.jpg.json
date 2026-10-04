@@ -1,0 +1,299 @@
+{
+  "source": "term-2026-spring/Lesson 2 (27.4.2026)/1776150796762.jpg",
+  "md5": "a56b3764879897d39b7b6f91bb7d7001",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 2,
+    "date": "2026-04-27"
+  },
+  "kind": "grammar",
+  "title": {
+    "fi": "k-p-t-vaihtelu: verbityyppi 1",
+    "en": "K-p-t gradation: verb type 1"
+  },
+  "topics": [
+    "kpt-verbs",
+    "verb-type-1",
+    "negation",
+    "kpt-nouns"
+  ],
+  "summary": "Grammar box: nukkua conjugated showing strong grade (vahva) in hän/he forms and weak grade elsewhere, the negative forms (en nuku …), a list of type-1 gradation verbs, and the full k-p-t strong–weak table.",
+  "transcript": "k-p-t-vaihtelu: verbityyppi 1\n\nnukkua\nminä nukun\nsinä nukut\nhän nukkuu   — vahva\nme nukumme\nte nukutte\nhe nukkuvat  — vahva\n(nukkua, hän nukkuu, he nukkuvat point to \"vahva\")\n\nNEG.\nen nuku\net nuku\nei nuku\nemme nuku\nette nuku\neivät nuku\n\nVerbit:\nantaa, kirjoittaa, kääntää, lentää, lukea, onkia, ottaa, pukea, tietää, ymmärtää...\n\nk-p-t\nkk – k\npp – p\ntt – t\nk – -\np – v\nt – d\nnk – ng\nmp – mm\nnt – nn\nlt – ll\nrt – rr",
+  "words": [
+    {
+      "fi": "nukkua",
+      "en": "to sleep",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "daily-routine",
+      "forms": {
+        "minä": "nukun",
+        "sinä": "nukut",
+        "hän": "nukkuu",
+        "me": "nukumme",
+        "te": "nukutte",
+        "he": "nukkuvat",
+        "NEG": "nuku"
+      },
+      "note": "kk → k"
+    },
+    {
+      "fi": "antaa",
+      "en": "to give",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "minä": "annan"
+      },
+      "note": "nt → nn"
+    },
+    {
+      "fi": "kirjoittaa",
+      "en": "to write",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "school-work",
+      "forms": {
+        "minä": "kirjoitan"
+      },
+      "note": "tt → t"
+    },
+    {
+      "fi": "kääntää",
+      "en": "to turn; to translate",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "minä": "käännän"
+      },
+      "note": "nt → nn"
+    },
+    {
+      "fi": "lentää",
+      "en": "to fly",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "travel",
+      "forms": {
+        "minä": "lennän"
+      },
+      "note": "nt → nn"
+    },
+    {
+      "fi": "lukea",
+      "en": "to read",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "school-work",
+      "forms": {
+        "minä": "luen"
+      },
+      "note": "k → ∅"
+    },
+    {
+      "fi": "onkia",
+      "en": "to fish (with a rod)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "hobbies-sport",
+      "forms": {
+        "minä": "ongin"
+      },
+      "note": "nk → ng"
+    },
+    {
+      "fi": "ottaa",
+      "en": "to take",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "minä": "otan"
+      },
+      "note": "tt → t"
+    },
+    {
+      "fi": "pukea",
+      "en": "to dress (someone), to put on (clothes)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "clothes",
+      "forms": {
+        "minä": "puen"
+      },
+      "note": "k → ∅"
+    },
+    {
+      "fi": "tietää",
+      "en": "to know",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "minä": "tiedän"
+      },
+      "note": "t → d"
+    },
+    {
+      "fi": "ymmärtää",
+      "en": "to understand",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "school-work",
+      "forms": {
+        "minä": "ymmärrän"
+      },
+      "note": "rt → rr"
+    },
+    {
+      "fi": "vahva",
+      "en": "strong (grade)",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "verbityyppi",
+      "en": "verb type",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "verbi",
+      "en": "verb",
+      "pos": "noun",
+      "theme": "classroom",
+      "form_seen": "verbit"
+    },
+    {
+      "fi": "k-p-t-vaihtelu",
+      "en": "k-p-t (consonant) gradation",
+      "pos": "noun",
+      "theme": "classroom"
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "kpt-verbs",
+      "heading": "k-p-t-vaihtelu: verbityyppi 1 — nukkua",
+      "text": "Verb type 1 with consonant gradation: the infinitive, hän and he forms have the strong grade (vahva: kk); minä, sinä, me, te forms have the weak grade (k).",
+      "table": [
+        [
+          "minä",
+          "nukun"
+        ],
+        [
+          "sinä",
+          "nukut"
+        ],
+        [
+          "hän",
+          "nukkuu (vahva)"
+        ],
+        [
+          "me",
+          "nukumme"
+        ],
+        [
+          "te",
+          "nukutte"
+        ],
+        [
+          "he",
+          "nukkuvat (vahva)"
+        ]
+      ]
+    },
+    {
+      "topic": "negation",
+      "heading": "NEG.",
+      "text": "Negative forms all use the weak grade: negative verb + nuku.",
+      "table": [
+        [
+          "minä",
+          "en nuku"
+        ],
+        [
+          "sinä",
+          "et nuku"
+        ],
+        [
+          "hän",
+          "ei nuku"
+        ],
+        [
+          "me",
+          "emme nuku"
+        ],
+        [
+          "te",
+          "ette nuku"
+        ],
+        [
+          "he",
+          "eivät nuku"
+        ]
+      ]
+    },
+    {
+      "topic": "kpt-verbs",
+      "heading": "Verbit",
+      "text": "Other type-1 verbs with gradation: antaa, kirjoittaa, kääntää, lentää, lukea, onkia, ottaa, pukea, tietää, ymmärtää..."
+    },
+    {
+      "topic": "kpt-nouns",
+      "heading": "k-p-t (strong – weak)",
+      "text": "Consonant gradation pairs, strong – weak.",
+      "table": [
+        [
+          "kk",
+          "k"
+        ],
+        [
+          "pp",
+          "p"
+        ],
+        [
+          "tt",
+          "t"
+        ],
+        [
+          "k",
+          "-"
+        ],
+        [
+          "p",
+          "v"
+        ],
+        [
+          "t",
+          "d"
+        ],
+        [
+          "nk",
+          "ng"
+        ],
+        [
+          "mp",
+          "mm"
+        ],
+        [
+          "nt",
+          "nn"
+        ],
+        [
+          "lt",
+          "ll"
+        ],
+        [
+          "rt",
+          "rr"
+        ]
+      ]
+    }
+  ],
+  "texts": [],
+  "exercises": []
+}

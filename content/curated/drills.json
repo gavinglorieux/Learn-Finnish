@@ -1,0 +1,968 @@
+[
+  {
+    "id": "drill-local-cases",
+    "title": "Local cases: Missä? Mistä? Mihin?",
+    "instruction": "Put the word in brackets into the right local case.",
+    "topic": "local-cases",
+    "items": [
+      {
+        "prompt": "Asun ____.",
+        "base": "Lontoo",
+        "answer": "Lontoossa",
+        "en": "I live in London."
+      },
+      {
+        "prompt": "Menen ____.",
+        "base": "kauppa",
+        "answer": "kauppaan",
+        "en": "I'm going to the shop."
+      },
+      {
+        "prompt": "Tulen ____.",
+        "base": "kauppa",
+        "answer": "kaupasta",
+        "en": "I'm coming from the shop."
+      },
+      {
+        "prompt": "Olen ____.",
+        "base": "kauppa",
+        "answer": "kaupassa",
+        "en": "I'm in the shop."
+      },
+      {
+        "prompt": "Kirja on ____.",
+        "base": "pöytä",
+        "answer": "pöydällä",
+        "en": "The book is on the table."
+      },
+      {
+        "prompt": "Laitan kirjan ____.",
+        "base": "pöytä",
+        "answer": "pöydälle",
+        "en": "I put the book on the table."
+      },
+      {
+        "prompt": "Otan kirjan ____.",
+        "base": "pöytä",
+        "answer": "pöydältä",
+        "en": "I take the book off the table."
+      },
+      {
+        "prompt": "Lapset leikkivät ____.",
+        "base": "piha",
+        "answer": "pihalla",
+        "en": "The children play in the yard."
+      },
+      {
+        "prompt": "Matkustan ____.",
+        "base": "Suomi",
+        "answer": "Suomeen",
+        "en": "I'm travelling to Finland."
+      },
+      {
+        "prompt": "Hän on kotoisin ____.",
+        "base": "Englanti",
+        "answer": "Englannista",
+        "en": "He/she is from England."
+      },
+      {
+        "prompt": "Asumme ____.",
+        "base": "Helsinki",
+        "answer": "Helsingissä",
+        "en": "We live in Helsinki."
+      },
+      {
+        "prompt": "Juna lähtee ____.",
+        "base": "asema",
+        "answer": "asemalta",
+        "en": "The train leaves from the station."
+      },
+      {
+        "prompt": "Menen ____ kello kahdeksan.",
+        "base": "koulu",
+        "answer": "kouluun",
+        "en": "I go to school at eight."
+      },
+      {
+        "prompt": "Maito on ____.",
+        "base": "jääkaappi",
+        "answer": "jääkaapissa",
+        "en": "The milk is in the fridge."
+      },
+      {
+        "prompt": "Menemme kesällä ____.",
+        "base": "mökki",
+        "answer": "mökille",
+        "en": "In summer we go to the cottage."
+      },
+      {
+        "prompt": "Hän työskentelee ____.",
+        "base": "sairaala",
+        "answer": "sairaalassa",
+        "en": "He/she works in a hospital."
+      },
+      {
+        "prompt": "Matkustan töihin ____.",
+        "base": "bussi",
+        "answer": "bussilla",
+        "en": "I travel to work by bus."
+      },
+      {
+        "prompt": "Ostan vihanneksia ____.",
+        "base": "tori",
+        "answer": "torilta",
+        "en": "I buy vegetables from the market."
+      },
+      {
+        "prompt": "Menen illalla ____.",
+        "base": "sauna",
+        "answer": "saunaan",
+        "en": "I'm going to the sauna in the evening."
+      },
+      {
+        "prompt": "Asun ____.",
+        "base": "Tampere",
+        "answer": "Tampereella",
+        "en": "I live in Tampere."
+      }
+    ]
+  },
+  {
+    "id": "drill-illative",
+    "title": "Illative: into / to (Mihin?)",
+    "instruction": "Write the illative (Mihin?) form.",
+    "topic": "illative",
+    "items": [
+      {
+        "prompt": "Menen ____.",
+        "base": "talo",
+        "answer": "taloon"
+      },
+      {
+        "prompt": "Menen ____.",
+        "base": "koulu",
+        "answer": "kouluun"
+      },
+      {
+        "prompt": "Menen ____.",
+        "base": "pankki",
+        "answer": "pankkiin"
+      },
+      {
+        "prompt": "Menen ____.",
+        "base": "kirjasto",
+        "answer": "kirjastoon"
+      },
+      {
+        "prompt": "Menen ____.",
+        "base": "keittiö",
+        "answer": "keittiöön"
+      },
+      {
+        "prompt": "Menen ____.",
+        "base": "huone",
+        "answer": "huoneeseen"
+      },
+      {
+        "prompt": "Matkustan ____.",
+        "base": "Ruotsi",
+        "answer": "Ruotsiin"
+      },
+      {
+        "prompt": "Matkustan ____.",
+        "base": "Helsinki",
+        "answer": "Helsinkiin"
+      },
+      {
+        "prompt": "Matkustan ____.",
+        "base": "Turku",
+        "answer": "Turkuun"
+      },
+      {
+        "prompt": "Muutan ____.",
+        "base": "Lontoo",
+        "answer": "Lontooseen"
+      },
+      {
+        "prompt": "Muutan toiseen ____.",
+        "base": "maa",
+        "answer": "maahan",
+        "en": "I'm moving to another country."
+      },
+      {
+        "prompt": "Menen ____.",
+        "base": "ravintola",
+        "answer": "ravintolaan"
+      },
+      {
+        "prompt": "Menen ____.",
+        "base": "kauppa",
+        "answer": "kauppaan"
+      },
+      {
+        "prompt": "Menen ____.",
+        "base": "koti",
+        "answer": "kotiin",
+        "en": "I'm going home."
+      },
+      {
+        "prompt": "Menen ____.",
+        "base": "työ (pl.)",
+        "answer": "töihin",
+        "en": "I'm going to work."
+      },
+      {
+        "prompt": "Laitan maidon ____.",
+        "base": "jääkaappi",
+        "answer": "jääkaappiin"
+      }
+    ]
+  },
+  {
+    "id": "drill-genitive",
+    "title": "Genitive -n (whose? of)",
+    "instruction": "Write the genitive form.",
+    "topic": "genitive",
+    "items": [
+      {
+        "prompt": "Tämä on ____ auto.",
+        "base": "Pekka",
+        "answer": "Pekan",
+        "en": "This is Pekka's car."
+      },
+      {
+        "prompt": "____ nimi on Liisa.",
+        "base": "äiti (minun)",
+        "answer": "Äidin",
+        "accept": [
+          "äidin"
+        ],
+        "en": "Mother's name is Liisa."
+      },
+      {
+        "prompt": "____ pääkaupunki on Helsinki.",
+        "base": "Suomi",
+        "answer": "Suomen",
+        "en": "The capital of Finland is Helsinki."
+      },
+      {
+        "prompt": "Tämä on ____ kirja.",
+        "base": "opettaja",
+        "answer": "opettajan"
+      },
+      {
+        "prompt": "Se on ____ laukku.",
+        "base": "tyttö",
+        "answer": "tytön"
+      },
+      {
+        "prompt": "____ katu on kaunis.",
+        "base": "Helsinki",
+        "answer": "Helsingin"
+      },
+      {
+        "prompt": "Asun ____ vieressä.",
+        "base": "kauppa",
+        "answer": "kaupan"
+      },
+      {
+        "prompt": "Tämä on ____ laukku.",
+        "base": "nainen",
+        "answer": "naisen"
+      },
+      {
+        "prompt": "____ kieli on vaikea.",
+        "base": "Unkari",
+        "answer": "Unkarin"
+      },
+      {
+        "prompt": "____ ikkuna on auki.",
+        "base": "huone",
+        "answer": "Huoneen",
+        "accept": [
+          "huoneen"
+        ]
+      },
+      {
+        "prompt": "____ äiti on opettaja.",
+        "base": "minä",
+        "answer": "Minun",
+        "accept": [
+          "minun"
+        ]
+      },
+      {
+        "prompt": "Onko tämä ____ puhelin?",
+        "base": "sinä",
+        "answer": "sinun"
+      },
+      {
+        "prompt": "____ talo on iso.",
+        "base": "me",
+        "answer": "Meidän",
+        "accept": [
+          "meidän"
+        ]
+      },
+      {
+        "prompt": "____ lapset ovat koulussa.",
+        "base": "he",
+        "answer": "Heidän",
+        "accept": [
+          "heidän"
+        ]
+      },
+      {
+        "prompt": "Kissa on ____ alla.",
+        "base": "pöytä",
+        "answer": "pöydän"
+      },
+      {
+        "prompt": "Auto on ____ edessä.",
+        "base": "talo",
+        "answer": "talon"
+      }
+    ]
+  },
+  {
+    "id": "drill-partitive",
+    "title": "Partitive singular",
+    "instruction": "Write the partitive form.",
+    "topic": "partitive",
+    "items": [
+      {
+        "prompt": "Juon ____.",
+        "base": "kahvi",
+        "answer": "kahvia"
+      },
+      {
+        "prompt": "Ostan ____ ja leipää.",
+        "base": "maito",
+        "answer": "maitoa"
+      },
+      {
+        "prompt": "Minulla on kaksi ____.",
+        "base": "kissa",
+        "answer": "kissaa"
+      },
+      {
+        "prompt": "Minulla ei ole ____.",
+        "base": "auto",
+        "answer": "autoa"
+      },
+      {
+        "prompt": "Puhun ____.",
+        "base": "suomi",
+        "answer": "suomea"
+      },
+      {
+        "prompt": "Syön ____.",
+        "base": "leipä",
+        "answer": "leipää"
+      },
+      {
+        "prompt": "Juon ____.",
+        "base": "tee",
+        "answer": "teetä"
+      },
+      {
+        "prompt": "Kolme ____.",
+        "base": "huone",
+        "answer": "huonetta"
+      },
+      {
+        "prompt": "Kaksi ____.",
+        "base": "nainen",
+        "answer": "naista"
+      },
+      {
+        "prompt": "Ulkona on paljon ____.",
+        "base": "lumi",
+        "answer": "lunta"
+      },
+      {
+        "prompt": "Juon ____.",
+        "base": "vesi",
+        "answer": "vettä"
+      },
+      {
+        "prompt": "Viisi ____.",
+        "base": "euro",
+        "answer": "euroa"
+      },
+      {
+        "prompt": "Kaksikymmentä ____.",
+        "base": "aste",
+        "answer": "astetta"
+      },
+      {
+        "prompt": "Minulla on kaksi ____.",
+        "base": "lapsi",
+        "answer": "lasta"
+      },
+      {
+        "prompt": "En syö ____.",
+        "base": "liha",
+        "answer": "lihaa"
+      },
+      {
+        "prompt": "Hyvää ____!",
+        "base": "päivä",
+        "answer": "päivää"
+      },
+      {
+        "prompt": "Onko sinulla ____?",
+        "base": "puhelin",
+        "answer": "puhelinta"
+      },
+      {
+        "prompt": "Kaksi ____, kiitos.",
+        "base": "kuppi kahvia",
+        "answer": "kuppia",
+        "en": "Two cups (of coffee), please."
+      }
+    ]
+  },
+  {
+    "id": "drill-plural",
+    "title": "Plural -t (with K-P-T)",
+    "instruction": "Write the nominative plural.",
+    "topic": "plural",
+    "items": [
+      {
+        "prompt": "talo → ____",
+        "answer": "talot"
+      },
+      {
+        "prompt": "kauppa → ____",
+        "answer": "kaupat"
+      },
+      {
+        "prompt": "katu → ____",
+        "answer": "kadut"
+      },
+      {
+        "prompt": "kenkä → ____",
+        "answer": "kengät"
+      },
+      {
+        "prompt": "huone → ____",
+        "answer": "huoneet"
+      },
+      {
+        "prompt": "kieli → ____",
+        "answer": "kielet"
+      },
+      {
+        "prompt": "nainen → ____",
+        "answer": "naiset"
+      },
+      {
+        "prompt": "lapsi → ____",
+        "answer": "lapset"
+      },
+      {
+        "prompt": "tyttö → ____",
+        "answer": "tytöt"
+      },
+      {
+        "prompt": "pöytä → ____",
+        "answer": "pöydät"
+      },
+      {
+        "prompt": "leipä → ____",
+        "answer": "leivät"
+      },
+      {
+        "prompt": "tomaatti → ____",
+        "answer": "tomaatit"
+      },
+      {
+        "prompt": "lammas → ____",
+        "answer": "lampaat"
+      },
+      {
+        "prompt": "omena → ____",
+        "answer": "omenat"
+      }
+    ]
+  },
+  {
+    "id": "drill-kpt-nouns",
+    "title": "K-P-T in nouns",
+    "instruction": "Write the form asked for — watch the consonant!",
+    "topic": "kpt-nouns",
+    "items": [
+      {
+        "prompt": "Olen ____.",
+        "base": "kauppa → Missä?",
+        "answer": "kaupassa"
+      },
+      {
+        "prompt": "Auto on ____.",
+        "base": "katu → Missä? (-lla)",
+        "answer": "kadulla"
+      },
+      {
+        "prompt": "Asun ____.",
+        "base": "Helsinki → Missä?",
+        "answer": "Helsingissä"
+      },
+      {
+        "prompt": "Rahat ovat ____.",
+        "base": "pankki → Missä?",
+        "answer": "pankissa"
+      },
+      {
+        "prompt": "Istun ____.",
+        "base": "ranta → Missä? (-lla)",
+        "answer": "rannalla"
+      },
+      {
+        "prompt": "Hän asuu ____.",
+        "base": "Englanti → Missä?",
+        "answer": "Englannissa"
+      },
+      {
+        "prompt": "Ostan ____ (genitive) ja maitoa.",
+        "base": "leipä",
+        "answer": "leivän"
+      },
+      {
+        "prompt": "Mikä on ____ nimi?",
+        "base": "äiti (genitive)",
+        "answer": "äidin"
+      },
+      {
+        "prompt": "Kenkä, kaksi ____ (plural).",
+        "base": "kenkä",
+        "answer": "kengät"
+      },
+      {
+        "prompt": "Menen ____ (illative — strong!).",
+        "base": "kauppa",
+        "answer": "kauppaan"
+      },
+      {
+        "prompt": "Pihalla on kolme ____ (partitive — strong!).",
+        "base": "pukki",
+        "answer": "pukkia"
+      },
+      {
+        "prompt": "Asun ____.",
+        "base": "Turku → Missä?",
+        "answer": "Turussa"
+      },
+      {
+        "prompt": "Kissa nukkuu ____.",
+        "base": "matto → Missä? (-lla)",
+        "answer": "matolla"
+      },
+      {
+        "prompt": "Hän on ____.",
+        "base": "silta → Missä? (-lla)",
+        "answer": "sillalla"
+      },
+      {
+        "prompt": "Talossa on monta ____ (monta + partitive sg.).",
+        "base": "huone",
+        "answer": "huonetta"
+      },
+      {
+        "prompt": "Pellolla on kaksi ____ (partitive).",
+        "base": "lammas (reverse: mm→mp)",
+        "answer": "lammasta"
+      }
+    ]
+  },
+  {
+    "id": "drill-postpositions",
+    "title": "Postpositions",
+    "instruction": "Complete with genitive + postposition.",
+    "topic": "postpositions",
+    "items": [
+      {
+        "prompt": "Kissa on pöydän ____.",
+        "base": "under",
+        "answer": "alla"
+      },
+      {
+        "prompt": "Lamppu on pöydän ____.",
+        "base": "on top of",
+        "answer": "päällä"
+      },
+      {
+        "prompt": "Auto on talon ____.",
+        "base": "in front of",
+        "answer": "edessä"
+      },
+      {
+        "prompt": "Puutarha on talon ____.",
+        "base": "behind",
+        "answer": "takana"
+      },
+      {
+        "prompt": "Kauppa on pankin ____.",
+        "base": "next to",
+        "answer": "vieressä"
+      },
+      {
+        "prompt": "Istun Annan ja Pekan ____.",
+        "base": "between",
+        "answer": "välissä"
+      },
+      {
+        "prompt": "Kissa hyppää pöydän ____.",
+        "base": "onto",
+        "answer": "päälle"
+      },
+      {
+        "prompt": "Otan kengät sängyn ____.",
+        "base": "from under",
+        "answer": "alta"
+      },
+      {
+        "prompt": "Menen ystävän ____.",
+        "base": "to someone's place",
+        "answer": "luo",
+        "accept": [
+          "luokse"
+        ]
+      },
+      {
+        "prompt": "Asun keskustan ____.",
+        "base": "near",
+        "answer": "lähellä"
+      },
+      {
+        "prompt": "Pysäkki on koulun ____.",
+        "base": "opposite",
+        "answer": "vastapäätä"
+      },
+      {
+        "prompt": "Pöydän ____ on kuusi tuolia.",
+        "base": "around",
+        "answer": "ympärillä"
+      },
+      {
+        "prompt": "Auto ajaa talon ____.",
+        "base": "in front of (to)",
+        "answer": "eteen"
+      },
+      {
+        "prompt": "Juon kahvia ____ sokeria.",
+        "base": "without (preposition)",
+        "answer": "ilman"
+      }
+    ]
+  },
+  {
+    "id": "drill-have",
+    "title": "Minulla on — to have",
+    "instruction": "Complete the 'to have' sentence.",
+    "topic": "have-adessive",
+    "items": [
+      {
+        "prompt": "____ on koira.",
+        "base": "minä",
+        "answer": "Minulla",
+        "accept": [
+          "minulla"
+        ]
+      },
+      {
+        "prompt": "____ on kaksi lasta.",
+        "base": "me",
+        "answer": "Meillä",
+        "accept": [
+          "meillä"
+        ]
+      },
+      {
+        "prompt": "Onko ____ auto?",
+        "base": "sinä",
+        "answer": "sinulla"
+      },
+      {
+        "prompt": "____ on siniset silmät.",
+        "base": "hän",
+        "answer": "Hänellä",
+        "accept": [
+          "hänellä"
+        ]
+      },
+      {
+        "prompt": "____ on iso talo.",
+        "base": "he",
+        "answer": "Heillä",
+        "accept": [
+          "heillä"
+        ]
+      },
+      {
+        "prompt": "____ on kissa.",
+        "base": "Pekka",
+        "answer": "Pekalla",
+        "accept": [
+          "pekalla"
+        ]
+      },
+      {
+        "prompt": "____ on uusi puhelin.",
+        "base": "äiti",
+        "answer": "Äidillä",
+        "accept": [
+          "äidillä"
+        ]
+      },
+      {
+        "prompt": "Minulla ____ autoa.",
+        "base": "negative",
+        "answer": "ei ole"
+      },
+      {
+        "prompt": "Minulla ei ole ____.",
+        "base": "koira",
+        "answer": "koiraa"
+      },
+      {
+        "prompt": "Onko teillä ____?",
+        "base": "lapsi (pl. partitive)",
+        "answer": "lapsia"
+      },
+      {
+        "prompt": "Minulla on ____.",
+        "base": "nälkä",
+        "answer": "nälkä",
+        "en": "I'm hungry."
+      },
+      {
+        "prompt": "____ on flunssa.",
+        "base": "opettaja",
+        "answer": "Opettajalla",
+        "accept": [
+          "opettajalla"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "drill-question-words",
+    "title": "Question words",
+    "instruction": "Which question word fits the answer?",
+    "topic": "question-words",
+    "items": [
+      {
+        "prompt": "____ sinä asut? — Asun Lontoossa.",
+        "answer": "Missä"
+      },
+      {
+        "prompt": "____ sinä olet kotoisin? — Englannista.",
+        "answer": "Mistä"
+      },
+      {
+        "prompt": "____ sinä menet? — Kauppaan.",
+        "answer": "Mihin",
+        "accept": [
+          "Minne"
+        ]
+      },
+      {
+        "prompt": "____ hän on? — Hän on minun siskoni.",
+        "answer": "Kuka"
+      },
+      {
+        "prompt": "____ tämä on? — Se on kirja.",
+        "answer": "Mikä"
+      },
+      {
+        "prompt": "____ sinä teet? — Luen.",
+        "answer": "Mitä"
+      },
+      {
+        "prompt": "____ kirja tämä on? — Pekan.",
+        "answer": "Kenen"
+      },
+      {
+        "prompt": "____ kurssi alkaa? — Maanantaina.",
+        "answer": "Milloin"
+      },
+      {
+        "prompt": "____ tämä maksaa? — Kolme euroa.",
+        "answer": "Paljonko",
+        "accept": [
+          "Kuinka paljon"
+        ]
+      },
+      {
+        "prompt": "____ sinä opiskelet suomea? — Koska vaimoni on suomalainen.",
+        "answer": "Miksi"
+      },
+      {
+        "prompt": "____ sää on? — Aurinkoinen.",
+        "answer": "Millainen"
+      },
+      {
+        "prompt": "____ sinä matkustat? — Junalla.",
+        "answer": "Millä"
+      },
+      {
+        "prompt": "____ menee? — Hyvin, kiitos.",
+        "answer": "Miten",
+        "accept": [
+          "Kuinka"
+        ]
+      },
+      {
+        "prompt": "____ vanha sinä olet? — Neljäkymmentä.",
+        "answer": "Kuinka"
+      }
+    ]
+  },
+  {
+    "id": "drill-clock",
+    "title": "What time is it?",
+    "instruction": "Write the time in Finnish (Kello on …).",
+    "topic": "clock",
+    "items": [
+      {
+        "prompt": "3.00 → Kello on ____.",
+        "answer": "kolme"
+      },
+      {
+        "prompt": "7.30 → Kello on ____.",
+        "answer": "puoli kahdeksan"
+      },
+      {
+        "prompt": "1.30 → Kello on ____.",
+        "answer": "puoli kaksi"
+      },
+      {
+        "prompt": "5.15 → Kello on ____.",
+        "answer": "varttia yli viisi"
+      },
+      {
+        "prompt": "8.45 → Kello on ____.",
+        "answer": "varttia vaille yhdeksän"
+      },
+      {
+        "prompt": "10.10 → Kello on ____.",
+        "answer": "kymmenen yli kymmenen"
+      },
+      {
+        "prompt": "6.50 → Kello on ____.",
+        "answer": "kymmenen vaille seitsemän"
+      },
+      {
+        "prompt": "11.30 → Kello on ____.",
+        "answer": "puoli kaksitoista"
+      },
+      {
+        "prompt": "12.00 → Kello on ____.",
+        "answer": "kaksitoista"
+      },
+      {
+        "prompt": "4.20 → Kello on ____.",
+        "answer": "kaksikymmentä yli neljä"
+      },
+      {
+        "prompt": "9.55 → Kello on ____.",
+        "answer": "viisi vaille kymmenen"
+      },
+      {
+        "prompt": "2.05 → Kello on ____.",
+        "answer": "viisi yli kaksi"
+      }
+    ]
+  },
+  {
+    "id": "drill-when",
+    "title": "When? Days, months & seasons",
+    "instruction": "Answer Milloin? with the right form.",
+    "topic": "months-seasons",
+    "items": [
+      {
+        "prompt": "Kurssi on ____.",
+        "base": "maanantai",
+        "answer": "maanantaina"
+      },
+      {
+        "prompt": "Menen saunaan ____.",
+        "base": "lauantai",
+        "answer": "lauantaina"
+      },
+      {
+        "prompt": "Syntymäpäiväni on ____.",
+        "base": "toukokuu",
+        "answer": "toukokuussa"
+      },
+      {
+        "prompt": "Joulu on ____.",
+        "base": "joulukuu",
+        "answer": "joulukuussa"
+      },
+      {
+        "prompt": "Menemme lomalle ____.",
+        "base": "heinäkuu",
+        "answer": "heinäkuussa"
+      },
+      {
+        "prompt": "____ on kylmä.",
+        "base": "talvi",
+        "answer": "Talvella",
+        "accept": [
+          "talvella"
+        ]
+      },
+      {
+        "prompt": "____ aurinko paistaa paljon.",
+        "base": "kesä",
+        "answer": "Kesällä",
+        "accept": [
+          "kesällä"
+        ]
+      },
+      {
+        "prompt": "____ lehdet putoavat.",
+        "base": "syksy",
+        "answer": "Syksyllä",
+        "accept": [
+          "syksyllä"
+        ]
+      },
+      {
+        "prompt": "____ lumi sulaa.",
+        "base": "kevät",
+        "answer": "Keväällä",
+        "accept": [
+          "keväällä"
+        ]
+      },
+      {
+        "prompt": "Juon kahvia ____.",
+        "base": "aamu",
+        "answer": "aamulla"
+      },
+      {
+        "prompt": "Katson televisiota ____.",
+        "base": "ilta",
+        "answer": "illalla"
+      },
+      {
+        "prompt": "Tulen ____.",
+        "base": "huominen → 'tomorrow'",
+        "answer": "huomenna"
+      },
+      {
+        "prompt": "Uin ____ (every Tuesday).",
+        "base": "tiistai",
+        "answer": "tiistaisin"
+      },
+      {
+        "prompt": "Tänään on neljäs ____.",
+        "base": "lokakuu (date)",
+        "answer": "lokakuuta"
+      }
+    ]
+  }
+]

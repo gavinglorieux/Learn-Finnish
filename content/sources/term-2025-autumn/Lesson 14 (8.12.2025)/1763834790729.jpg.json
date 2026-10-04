@@ -1,0 +1,179 @@
+{
+ "source": "term-2025-autumn/Lesson 14 (8.12.2025)/1763834790729.jpg",
+ "md5": "9cf3e897b08b263b770aed063d12fa1d",
+ "also_in": [],
+ "lesson": {
+  "term": "term-2025-autumn",
+  "number": 14,
+  "date": "2025-12-08"
+ },
+ "kind": "exercise",
+ "title": {
+  "fi": "Harjoitus 5. Kysy parilta. Mitä kello on?",
+  "en": "Exercise 5. Ask your partner: what time is it?"
+ },
+ "topics": [
+  "clock",
+  "numbers"
+ ],
+ "summary": "Pair exercise (Kappale 5): twelve analogue clock faces; students ask each other 'Mitä kello on?' and tell the time. Below is the heading of Exercise 6 'Mihin aikaan?' (content not shown).",
+ "transcript": "Kappale 5\n\nHarjoitus 5. Kysy parilta. Mitä kello on?\n[12 clock faces numbered 1.–12.]\n\nHarjoitus 6. Mihin aikaan?",
+ "words": [
+  {
+   "fi": "kappale",
+   "en": "chapter, unit",
+   "pos": "noun",
+   "theme": "classroom"
+  },
+  {
+   "fi": "harjoitus",
+   "en": "exercise",
+   "pos": "noun",
+   "theme": "classroom"
+  },
+  {
+   "fi": "kysyä",
+   "en": "to ask",
+   "pos": "verb",
+   "verb_type": 1,
+   "theme": "classroom",
+   "form_seen": "kysy",
+   "note": "imperative: kysy!"
+  },
+  {
+   "fi": "pari",
+   "en": "partner, pair",
+   "pos": "noun",
+   "theme": "classroom",
+   "form_seen": "parilta"
+  },
+  {
+   "fi": "mikä",
+   "en": "what",
+   "pos": "question",
+   "theme": "question-words",
+   "form_seen": "mitä / mihin"
+  },
+  {
+   "fi": "kello",
+   "en": "clock; o'clock; watch",
+   "pos": "noun",
+   "theme": "clock"
+  },
+  {
+   "fi": "olla",
+   "en": "to be",
+   "pos": "verb",
+   "verb_type": 3,
+   "theme": "common-verbs",
+   "form_seen": "on"
+  },
+  {
+   "fi": "aika",
+   "en": "time",
+   "pos": "noun",
+   "theme": "clock",
+   "form_seen": "aikaan",
+   "note": "Mihin aikaan? = At what time?"
+  },
+  {
+   "fi": "yli",
+   "en": "past (… minutes past)",
+   "pos": "adv",
+   "theme": "clock"
+  },
+  {
+   "fi": "vailla",
+   "en": "to (… minutes to)",
+   "pos": "adv",
+   "theme": "clock",
+   "form_seen": "vaille"
+  },
+  {
+   "fi": "puoli",
+   "en": "half (puoli viisi = 4.30)",
+   "pos": "num",
+   "theme": "clock"
+  },
+  {
+   "fi": "vartti",
+   "en": "quarter of an hour",
+   "pos": "noun",
+   "theme": "clock",
+   "form_seen": "varttia"
+  }
+ ],
+ "texts": [],
+ "exercises": [
+  {
+   "title": "Harjoitus 5. Kysy parilta. Mitä kello on?",
+   "instruction": "Ask your partner what time each clock shows and answer.",
+   "topic": "clock",
+   "answer_source": "derived",
+   "items": [
+    {
+     "prompt": "1. Mitä kello on? (4.00)",
+     "answer": "Kello on neljä.",
+     "en": "It's four o'clock."
+    },
+    {
+     "prompt": "2. Mitä kello on? (8.30)",
+     "answer": "Kello on puoli yhdeksän.",
+     "en": "It's half past eight."
+    },
+    {
+     "prompt": "3. Mitä kello on? (1.20)",
+     "answer": "Kello on kaksikymmentä yli yksi.",
+     "en": "It's twenty past one."
+    },
+    {
+     "prompt": "4. Mitä kello on? (7.00)",
+     "answer": "Kello on seitsemän.",
+     "en": "It's seven o'clock."
+    },
+    {
+     "prompt": "5. Mitä kello on? (4.50)",
+     "answer": "Kello on kymmentä vaille viisi.",
+     "en": "It's ten to five."
+    },
+    {
+     "prompt": "6. Mitä kello on? (10.30)",
+     "answer": "Kello on puoli yksitoista.",
+     "en": "It's half past ten."
+    },
+    {
+     "prompt": "7. Mitä kello on? (11.45)",
+     "answer": "Kello on varttia vaille kaksitoista.",
+     "en": "It's quarter to twelve."
+    },
+    {
+     "prompt": "8. Mitä kello on? (8.15)",
+     "answer": "Kello on varttia yli kahdeksan.",
+     "en": "It's quarter past eight."
+    },
+    {
+     "prompt": "9. Mitä kello on? (12.05)",
+     "answer": "Kello on viisi yli kaksitoista.",
+     "en": "It's five past twelve."
+    },
+    {
+     "prompt": "10. Mitä kello on? (2.30)",
+     "answer": "Kello on puoli kolme.",
+     "en": "It's half past two."
+    },
+    {
+     "prompt": "11. Mitä kello on? (10.00)",
+     "answer": "Kello on kymmenen.",
+     "en": "It's ten o'clock."
+    },
+    {
+     "prompt": "12. Mitä kello on? (2.35)",
+     "answer": "Kello on kaksikymmentäviisi vaille kolme.",
+     "en": "It's twenty-five to three.",
+     "uncertain": true
+    }
+   ]
+  }
+ ],
+ "grammar_notes": []
+}

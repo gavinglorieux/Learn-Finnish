@@ -1,0 +1,1096 @@
+{
+  "source": "term-2026-spring/Lesson 8 (8.6.2026)/LOMASUUNNITELMIA verbiharjoitus.docx",
+  "md5": "e7b5d9c523cca600e5ad321a83002c6a",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 8,
+    "date": "2026-06-08"
+  },
+  "kind": "dialogue",
+  "title": {
+    "fi": "Lomasuunnitelmia",
+    "en": "Holiday plans"
+  },
+  "topics": [
+    "verb-types",
+    "kpt-verbs",
+    "negation",
+    "questions-ko",
+    "verb-infinitive-object",
+    "have-adessive"
+  ],
+  "summary": "Gap-fill dialogue between Anne and Juha about their summer holiday plans (camper van to Lapland, the cottage in Porvoo, an old dog, a dance pavilion): fill in present-tense verbs from English cues, many with KPT; bold words glossed at the end.",
+  "transcript": "LOMASUUNNITELMIA (holiday plans)\n\nANNE: - Moikka Juha, mitä kuuluu?\n\nJUHA: - Kiitos hyvää, koska meidän loma ____ (starts) maanantaina.\n\nA:- Okei! Mitä te ____ (are going to do)?\n\nJ: - Me ____ (leave for= go) Pohjois-Suomeen. Me ____\n\n(visit) siellä joka kesä. Yleensä me ____ (fly) sinne, mutta tänä vuonna\n\nme ____ (hire= vuokrata) asuntoauton. Meidän lapset ………\n\n____ (are not going to come) mukaan. Susanna ____ (leaves for) Saksaan ja Pauli ____ (is working) isossa\n\npuutarhassa koko kesän.\n\nA: - Mitä hän ____ (does) siellä?\n\nJ: - Kaikkea: hän ____ (sells) ja ____ (tends to= hoitaa) kukkia.\n\nA: - Hän on onnenpekka. Meidän Katriina ____ (doesn´t find=\n\nlöytää) töitä, vaikka hän ____ (searches for= etsiä) työpaikkaa joka\n\npäivä internetistä. Minä ____ (try= yrittää) auttaa häntä.\n\nJ: - Joo. Monet nuoret jäävät tänä kesänä ilman työpaikkaa. Mutta entä teidän kesäloma?\n\nMitä te ____ (do)?\n\nA: - Me ____ (drive) taas mökille Porvooseen. Olemme siellä\n\nkoko heinäkuun. Mutta tänä vuonna me ____ (don´t take)\n\nmeidän koiraa mukaan. Se on jo vanha. Se ____ (wakes up) monta\n\nkertaa yössä pissalle ja me ____ (don´t sleep) hyvin.\n\nJ: - Kuinka vanha Piku on?\n\nA: - Se on jo 14-vuotias. Minä ____ (think, assume, ”have a feeling”),\n\nettä kesän lopussa me ____ (take) sen eläinlääkärille. Piku ____ (is sick repeatedly= sairastella) jatkuvasti.\n\nJ: - ____ (Do you have a lot of work) mökillä?\n\nA:- Onneksi ei! Mökki on nyt hyvässä kunnossa, joten me ____ (fish and do the sauna= saunoa) joka päivä ja lauantaisin me ____ (row= soutaa) läheiselle tanssilavalle. Siellä on aina joku hyvä tanssiorkesteri.\n\nHe ____ (don´t play= soittaa) uutta musiikkia, rokkia ja poppia,\n\nvaan he ____ (play) hienoa, vanhaa tanssimusiikkia. Me ____ (go and get= fetch) meidän naapurimökin pariskunnan mukaan. He\n\n____ (like to) tanssia myös.\n\nJ: - Kuulostaa hyvältä. Me ____ (spend the night= yöpyä) joko\n\nasuntoautossa tai teltassa, jos yöllä ____ (doesn´t rain). Me\n\n____ (take) kaksi telttaa mukaan: toinen on iso ja toinen on pieni,\n\nmutta se on ihan uusi. Me ____ (barbecue= grill) makkaraa ja\n\n____ (watch) yötöntä yötä. Ja ____\n\n(kill= tappaa) hyttysiä…\n\nPohjois-= Northern asuntoauto= camper kaikki= all, everything onnenpekk= lucky one monet nuoret= many young people jäädä ilman= to be left without koko= all, entire kerta= time, occasion pissa=pee, wee loppu= end jatkuvasti= constantly onneksi= thankfully, fortunately, luckily hyvässä kunnossa= in a good condition lauantaisin= on Saturdays läheinen= nearby tanssilava= outdoor dancing floor joku= some, someone pariskunta= couple kuulostaa= to sound (like) joko – tai= either – or teltta= tent toinen – toinen= one – the other ihan= completely yötön yö= ”nightless night” (when the sun does not go down at all) hyttynen= mosquito",
+  "words": [
+    {
+      "fi": "lomasuunnitelma",
+      "en": "holiday plan",
+      "pos": "noun",
+      "form_seen": "lomasuunnitelmia",
+      "theme": "travel"
+    },
+    {
+      "fi": "moikka",
+      "en": "hi",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "mitä kuuluu?",
+      "en": "how are you?",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "kiitos hyvää",
+      "en": "fine, thanks",
+      "pos": "phrase",
+      "theme": "greetings"
+    },
+    {
+      "fi": "loma",
+      "en": "holiday",
+      "pos": "noun",
+      "theme": "travel"
+    },
+    {
+      "fi": "alkaa",
+      "en": "to start",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "lk → l"
+    },
+    {
+      "fi": "maanantai",
+      "en": "Monday",
+      "pos": "noun",
+      "form_seen": "maanantaina",
+      "theme": "days-time"
+    },
+    {
+      "fi": "aikoa",
+      "en": "to be going to, to intend",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "aiotte",
+      "theme": "common-verbs",
+      "note": "k → ∅ (aion)"
+    },
+    {
+      "fi": "tehdä",
+      "en": "to do",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "teette",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "lähteä",
+      "en": "to leave for, to go",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "lähdemme",
+      "theme": "common-verbs",
+      "note": "ht → hd"
+    },
+    {
+      "fi": "Pohjois-Suomi",
+      "en": "Northern Finland",
+      "pos": "proper",
+      "form_seen": "Pohjois-Suomeen",
+      "theme": "travel"
+    },
+    {
+      "fi": "käydä",
+      "en": "to visit",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "käymme",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kesä",
+      "en": "summer",
+      "pos": "noun",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "joka kesä",
+      "en": "every summer",
+      "pos": "phrase",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "yleensä",
+      "en": "usually",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "lentää",
+      "en": "to fly",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "lennämme",
+      "theme": "travel",
+      "note": "nt → nn"
+    },
+    {
+      "fi": "tänä vuonna",
+      "en": "this year",
+      "pos": "phrase",
+      "theme": "days-time"
+    },
+    {
+      "fi": "vuokrata",
+      "en": "to hire, to rent",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "vuokraamme",
+      "theme": "travel"
+    },
+    {
+      "fi": "asuntoauto",
+      "en": "camper van, motorhome",
+      "pos": "noun",
+      "form_seen": "asuntoauton",
+      "theme": "transport"
+    },
+    {
+      "fi": "lapsi",
+      "en": "child",
+      "pos": "noun",
+      "form_seen": "lapset",
+      "theme": "family"
+    },
+    {
+      "fi": "tulla",
+      "en": "to come",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "eivät tule",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "mukaan",
+      "en": "along",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "Saksa",
+      "en": "Germany",
+      "pos": "proper",
+      "form_seen": "Saksaan",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "olla töissä",
+      "en": "to be working",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "on töissä",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "iso",
+      "en": "big",
+      "pos": "adj",
+      "form_seen": "isossa",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "puutarha",
+      "en": "garden; garden centre/nursery",
+      "pos": "noun",
+      "form_seen": "puutarhassa",
+      "theme": "garden"
+    },
+    {
+      "fi": "koko kesän",
+      "en": "all summer",
+      "pos": "phrase",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "kaikki",
+      "en": "all, everything",
+      "pos": "pron",
+      "form_seen": "kaikkea",
+      "theme": "little-words"
+    },
+    {
+      "fi": "myydä",
+      "en": "to sell",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "myy",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "hoitaa",
+      "en": "to tend, to take care of",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "garden",
+      "note": "t → d (hoidan)"
+    },
+    {
+      "fi": "kukka",
+      "en": "flower",
+      "pos": "noun",
+      "form_seen": "kukkia",
+      "theme": "garden",
+      "note": "kk → k"
+    },
+    {
+      "fi": "onnenpekka",
+      "en": "lucky one",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "löytää",
+      "en": "to find",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "ei löydä",
+      "theme": "common-verbs",
+      "note": "t → d"
+    },
+    {
+      "fi": "työ",
+      "en": "work",
+      "pos": "noun",
+      "form_seen": "töitä",
+      "theme": "school-work"
+    },
+    {
+      "fi": "vaikka",
+      "en": "although",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "etsiä",
+      "en": "to search for, to look for",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "etsii",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "työpaikka",
+      "en": "job",
+      "pos": "noun",
+      "form_seen": "työpaikkaa",
+      "theme": "school-work",
+      "note": "kk → k"
+    },
+    {
+      "fi": "joka päivä",
+      "en": "every day",
+      "pos": "phrase",
+      "theme": "days-time"
+    },
+    {
+      "fi": "internet",
+      "en": "internet",
+      "pos": "noun",
+      "form_seen": "internetistä",
+      "theme": "school-work"
+    },
+    {
+      "fi": "yrittää",
+      "en": "to try",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "yritän",
+      "theme": "common-verbs",
+      "note": "tt → t"
+    },
+    {
+      "fi": "auttaa",
+      "en": "to help",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "note": "tt → t (autan)"
+    },
+    {
+      "fi": "monet",
+      "en": "many",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "nuori",
+      "en": "young; young person",
+      "pos": "adj",
+      "form_seen": "nuoret",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "jäädä ilman",
+      "en": "to be left without",
+      "pos": "phrase",
+      "form_seen": "jäävät ilman",
+      "theme": "school-work"
+    },
+    {
+      "fi": "entä",
+      "en": "what about",
+      "pos": "conj",
+      "theme": "question-words"
+    },
+    {
+      "fi": "kesäloma",
+      "en": "summer holiday",
+      "pos": "noun",
+      "theme": "travel"
+    },
+    {
+      "fi": "ajaa",
+      "en": "to drive",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "ajamme",
+      "theme": "transport"
+    },
+    {
+      "fi": "taas",
+      "en": "again",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "mökki",
+      "en": "cottage",
+      "pos": "noun",
+      "form_seen": "mökille",
+      "theme": "cottage",
+      "note": "kk → k"
+    },
+    {
+      "fi": "Porvoo",
+      "en": "Porvoo",
+      "pos": "proper",
+      "form_seen": "Porvooseen",
+      "theme": "places-town"
+    },
+    {
+      "fi": "koko",
+      "en": "whole, entire",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "heinäkuu",
+      "en": "July",
+      "pos": "noun",
+      "form_seen": "heinäkuun",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "ottaa",
+      "en": "to take",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "emme ota",
+      "theme": "common-verbs",
+      "note": "tt → t"
+    },
+    {
+      "fi": "koira",
+      "en": "dog",
+      "pos": "noun",
+      "form_seen": "koiraa",
+      "theme": "animals"
+    },
+    {
+      "fi": "vanha",
+      "en": "old",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "herätä",
+      "en": "to wake up",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "herää",
+      "theme": "daily-routine"
+    },
+    {
+      "fi": "kerta",
+      "en": "time, occasion",
+      "pos": "noun",
+      "form_seen": "kertaa",
+      "theme": "days-time",
+      "note": "rt → rr"
+    },
+    {
+      "fi": "yö",
+      "en": "night",
+      "pos": "noun",
+      "form_seen": "yössä",
+      "theme": "days-time"
+    },
+    {
+      "fi": "pissa",
+      "en": "pee, wee",
+      "pos": "noun",
+      "form_seen": "pissalle",
+      "theme": "body"
+    },
+    {
+      "fi": "nukkua",
+      "en": "to sleep",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "emme nuku",
+      "theme": "daily-routine",
+      "note": "kk → k"
+    },
+    {
+      "fi": "kuinka vanha",
+      "en": "how old",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "14-vuotias",
+      "en": "14 years old",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "luulla",
+      "en": "to think, to assume",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "luulen",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "loppu",
+      "en": "end",
+      "pos": "noun",
+      "form_seen": "lopussa",
+      "theme": "days-time",
+      "note": "pp → p"
+    },
+    {
+      "fi": "viedä",
+      "en": "to take",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "viemme",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "eläinlääkäri",
+      "en": "vet",
+      "pos": "noun",
+      "form_seen": "eläinlääkärille",
+      "theme": "professions"
+    },
+    {
+      "fi": "sairastella",
+      "en": "to be ill repeatedly",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "sairastelee",
+      "theme": "illness"
+    },
+    {
+      "fi": "jatkuvasti",
+      "en": "constantly",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "onneksi",
+      "en": "thankfully, fortunately",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "hyvässä kunnossa",
+      "en": "in good condition",
+      "pos": "phrase",
+      "theme": "home"
+    },
+    {
+      "fi": "joten",
+      "en": "so",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kalastaa",
+      "en": "to fish",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "kalastamme",
+      "theme": "cottage"
+    },
+    {
+      "fi": "saunoa",
+      "en": "to have a sauna",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "saunomme",
+      "theme": "cottage"
+    },
+    {
+      "fi": "lauantaisin",
+      "en": "on Saturdays",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "soutaa",
+      "en": "to row",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "soudamme",
+      "theme": "cottage",
+      "note": "t → d"
+    },
+    {
+      "fi": "läheinen",
+      "en": "nearby",
+      "pos": "adj",
+      "form_seen": "läheiselle",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "tanssilava",
+      "en": "outdoor dance pavilion",
+      "pos": "noun",
+      "form_seen": "tanssilavalle",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "joku",
+      "en": "some, someone",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "hyvä",
+      "en": "good",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "tanssiorkesteri",
+      "en": "dance band",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "soittaa",
+      "en": "to play (music)",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "eivät soita",
+      "theme": "common-verbs",
+      "note": "tt → t"
+    },
+    {
+      "fi": "uusi",
+      "en": "new",
+      "pos": "adj",
+      "form_seen": "uutta",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "musiikki",
+      "en": "music",
+      "pos": "noun",
+      "form_seen": "musiikkia",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "rokki",
+      "en": "rock (music)",
+      "pos": "noun",
+      "form_seen": "rokkia",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "poppi",
+      "en": "pop (music)",
+      "pos": "noun",
+      "form_seen": "poppia",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "hieno",
+      "en": "fine, great",
+      "pos": "adj",
+      "form_seen": "hienoa",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "tanssimusiikki",
+      "en": "dance music",
+      "pos": "noun",
+      "form_seen": "tanssimusiikkia",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "hakea",
+      "en": "to fetch, to go and get",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "haemme",
+      "theme": "common-verbs",
+      "note": "k → ∅"
+    },
+    {
+      "fi": "naapurimökki",
+      "en": "neighbouring cottage",
+      "pos": "noun",
+      "form_seen": "naapurimökin",
+      "theme": "cottage"
+    },
+    {
+      "fi": "pariskunta",
+      "en": "couple",
+      "pos": "noun",
+      "form_seen": "pariskunnan",
+      "theme": "people",
+      "note": "nt → nn"
+    },
+    {
+      "fi": "tykätä",
+      "en": "to like",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "tykkäävät",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "tanssia",
+      "en": "to dance",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kuulostaa hyvältä",
+      "en": "sounds good",
+      "pos": "phrase",
+      "theme": "feelings"
+    },
+    {
+      "fi": "yöpyä",
+      "en": "to spend the night, to stay overnight",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "yövymme",
+      "theme": "travel",
+      "note": "p → v"
+    },
+    {
+      "fi": "joko – tai",
+      "en": "either – or",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "teltta",
+      "en": "tent",
+      "pos": "noun",
+      "form_seen": "teltassa",
+      "theme": "travel",
+      "note": "tt → t"
+    },
+    {
+      "fi": "sataa",
+      "en": "to rain",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "ei sada",
+      "theme": "weather",
+      "note": "t → d"
+    },
+    {
+      "fi": "toinen – toinen",
+      "en": "one – the other",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "pieni",
+      "en": "small",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "ihan",
+      "en": "completely, quite",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "grillata",
+      "en": "to barbecue, to grill",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "grillaamme",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "makkara",
+      "en": "sausage",
+      "pos": "noun",
+      "form_seen": "makkaraa",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "katsella",
+      "en": "to watch",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "katselemme",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "yötön yö",
+      "en": "nightless night (midnight sun)",
+      "pos": "noun",
+      "form_seen": "yötöntä yötä",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "tappaa",
+      "en": "to kill",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "tapamme",
+      "theme": "common-verbs",
+      "note": "pp → p"
+    },
+    {
+      "fi": "hyttynen",
+      "en": "mosquito",
+      "pos": "noun",
+      "form_seen": "hyttysiä",
+      "theme": "animals"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Lomasuunnitelmia",
+        "en": "Holiday plans"
+      },
+      "kind": "dialogue",
+      "lines": [
+        {
+          "speaker": "ANNE",
+          "fi": "Moikka Juha, mitä kuuluu?",
+          "en": "Hi Juha, how are you?"
+        },
+        {
+          "speaker": "JUHA",
+          "fi": "Kiitos hyvää, koska meidän loma alkaa maanantaina.",
+          "en": "Fine thanks, because our holiday starts on Monday."
+        },
+        {
+          "speaker": "ANNE",
+          "fi": "Okei! Mitä te aiotte tehdä?",
+          "en": "OK! What are you going to do?"
+        },
+        {
+          "speaker": "JUHA",
+          "fi": "Me lähdemme Pohjois-Suomeen. Me käymme siellä joka kesä. Yleensä me lennämme sinne, mutta tänä vuonna me vuokraamme asuntoauton. Meidän lapset eivät tule mukaan. Susanna lähtee Saksaan ja Pauli on töissä isossa puutarhassa koko kesän.",
+          "en": "We're going to Northern Finland. We go there every summer. Usually we fly, but this year we're hiring a camper van. Our children aren't coming. Susanna is going to Germany and Pauli is working at a big garden nursery all summer."
+        },
+        {
+          "speaker": "ANNE",
+          "fi": "Mitä hän tekee siellä?",
+          "en": "What does he do there?"
+        },
+        {
+          "speaker": "JUHA",
+          "fi": "Kaikkea: hän myy ja hoitaa kukkia.",
+          "en": "Everything: he sells and looks after flowers."
+        },
+        {
+          "speaker": "ANNE",
+          "fi": "Hän on onnenpekka. Meidän Katriina ei löydä töitä, vaikka hän etsii työpaikkaa joka päivä internetistä. Minä yritän auttaa häntä.",
+          "en": "He's a lucky one. Our Katriina can't find work, although she looks for a job on the internet every day. I'm trying to help her."
+        },
+        {
+          "speaker": "JUHA",
+          "fi": "Joo. Monet nuoret jäävät tänä kesänä ilman työpaikkaa. Mutta entä teidän kesäloma? Mitä te teette?",
+          "en": "Yes. Many young people are left without a job this summer. But what about your summer holiday? What are you doing?"
+        },
+        {
+          "speaker": "ANNE",
+          "fi": "Me ajamme taas mökille Porvooseen. Olemme siellä koko heinäkuun. Mutta tänä vuonna me emme ota meidän koiraa mukaan. Se on jo vanha. Se herää monta kertaa yössä pissalle ja me emme nuku hyvin.",
+          "en": "We're driving to the cottage in Porvoo again. We'll be there all of July. But this year we're not taking our dog. It's already old. It wakes up many times a night to pee and we don't sleep well."
+        },
+        {
+          "speaker": "JUHA",
+          "fi": "Kuinka vanha Piku on?",
+          "en": "How old is Piku?"
+        },
+        {
+          "speaker": "ANNE",
+          "fi": "Se on jo 14-vuotias. Minä luulen, että kesän lopussa me viemme sen eläinlääkärille. Piku sairastelee jatkuvasti.",
+          "en": "It's already 14. I think that at the end of the summer we'll take it to the vet. Piku is ill all the time."
+        },
+        {
+          "speaker": "JUHA",
+          "fi": "Onko teillä paljon töitä mökillä?",
+          "en": "Do you have a lot of work at the cottage?"
+        },
+        {
+          "speaker": "ANNE",
+          "fi": "Onneksi ei! Mökki on nyt hyvässä kunnossa, joten me kalastamme ja saunomme joka päivä ja lauantaisin me soudamme läheiselle tanssilavalle. Siellä on aina joku hyvä tanssiorkesteri. He eivät soita uutta musiikkia, rokkia ja poppia, vaan he soittavat hienoa, vanhaa tanssimusiikkia. Me haemme meidän naapurimökin pariskunnan mukaan. He tykkäävät tanssia myös.",
+          "en": "Luckily not! The cottage is in good condition now, so we fish and have a sauna every day, and on Saturdays we row to the nearby dance pavilion. There's always some good dance band there. They don't play new music, rock and pop, but fine old dance music. We pick up the couple from the neighbouring cottage to come along. They like dancing too."
+        },
+        {
+          "speaker": "JUHA",
+          "fi": "Kuulostaa hyvältä. Me yövymme joko asuntoautossa tai teltassa, jos yöllä ei sada. Me otamme kaksi telttaa mukaan: toinen on iso ja toinen on pieni, mutta se on ihan uusi. Me grillaamme makkaraa ja katselemme yötöntä yötä. Ja tapamme hyttysiä…",
+          "en": "Sounds good. We'll sleep either in the camper or in a tent, if it doesn't rain at night. We're taking two tents: one is big and the other is small, but it's brand new. We'll grill sausages and watch the nightless night. And kill mosquitoes…"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Lomasuunnitelmia — verbiharjoitus",
+      "instruction": "Fill in the verbs (present tense) from the English cues.",
+      "topic": "verb-types",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Kiitos hyvää, koska meidän loma ____ maanantaina.",
+          "base": "starts",
+          "answer": "alkaa",
+          "en": "Fine thanks, because our holiday starts on Monday."
+        },
+        {
+          "prompt": "Okei! Mitä te ____ ?",
+          "base": "are going to do",
+          "answer": "aiotte tehdä",
+          "en": "OK! What are you going to do?"
+        },
+        {
+          "prompt": "Me ____ Pohjois-Suomeen.",
+          "base": "leave for = go",
+          "answer": "lähdemme",
+          "en": "We're going to Northern Finland."
+        },
+        {
+          "prompt": "Me ____ siellä joka kesä.",
+          "base": "visit",
+          "answer": "käymme",
+          "en": "We visit there every summer."
+        },
+        {
+          "prompt": "Yleensä me ____ sinne…",
+          "base": "fly",
+          "answer": "lennämme",
+          "en": "Usually we fly there…"
+        },
+        {
+          "prompt": "…mutta tänä vuonna me ____ asuntoauton.",
+          "base": "hire = vuokrata",
+          "answer": "vuokraamme",
+          "en": "…but this year we're hiring a camper van."
+        },
+        {
+          "prompt": "Meidän lapset ____ mukaan.",
+          "base": "are not going to come",
+          "answer": "eivät tule",
+          "en": "Our children aren't coming along."
+        },
+        {
+          "prompt": "Susanna ____ Saksaan…",
+          "base": "leaves for",
+          "answer": "lähtee",
+          "en": "Susanna is going to Germany…"
+        },
+        {
+          "prompt": "…ja Pauli ____ isossa puutarhassa koko kesän.",
+          "base": "is working",
+          "answer": "on töissä",
+          "en": "…and Pauli is working in a big garden nursery all summer."
+        },
+        {
+          "prompt": "Mitä hän ____ siellä?",
+          "base": "does",
+          "answer": "tekee",
+          "en": "What does he do there?"
+        },
+        {
+          "prompt": "Kaikkea: hän ____ …",
+          "base": "sells",
+          "answer": "myy",
+          "en": "Everything: he sells…"
+        },
+        {
+          "prompt": "…ja ____ kukkia.",
+          "base": "tends to = hoitaa",
+          "answer": "hoitaa",
+          "en": "…and tends the flowers."
+        },
+        {
+          "prompt": "Meidän Katriina ____ töitä…",
+          "base": "doesn't find = löytää",
+          "answer": "ei löydä",
+          "en": "Our Katriina can't find work…"
+        },
+        {
+          "prompt": "…vaikka hän ____ työpaikkaa joka päivä internetistä.",
+          "base": "searches for = etsiä",
+          "answer": "etsii",
+          "en": "…although she looks for a job on the internet every day."
+        },
+        {
+          "prompt": "Minä ____ auttaa häntä.",
+          "base": "try = yrittää",
+          "answer": "yritän",
+          "en": "I try to help her."
+        },
+        {
+          "prompt": "Mutta entä teidän kesäloma? Mitä te ____ ?",
+          "base": "do",
+          "answer": "teette",
+          "en": "But what about your summer holiday? What are you doing?"
+        },
+        {
+          "prompt": "Me ____ taas mökille Porvooseen.",
+          "base": "drive",
+          "answer": "ajamme",
+          "en": "We're driving to the cottage in Porvoo again."
+        },
+        {
+          "prompt": "Mutta tänä vuonna me ____ meidän koiraa mukaan.",
+          "base": "don't take",
+          "answer": "emme ota",
+          "en": "But this year we're not taking our dog with us."
+        },
+        {
+          "prompt": "Se ____ monta kertaa yössä pissalle…",
+          "base": "wakes up",
+          "answer": "herää",
+          "en": "It wakes up many times a night to pee…"
+        },
+        {
+          "prompt": "…ja me ____ hyvin.",
+          "base": "don't sleep",
+          "answer": "emme nuku",
+          "en": "…and we don't sleep well."
+        },
+        {
+          "prompt": "Minä ____ , että kesän lopussa…",
+          "base": "think, assume",
+          "answer": "luulen",
+          "en": "I think that at the end of the summer…"
+        },
+        {
+          "prompt": "…me ____ sen eläinlääkärille.",
+          "base": "take",
+          "answer": "viemme",
+          "en": "…we'll take it to the vet."
+        },
+        {
+          "prompt": "Piku ____ jatkuvasti.",
+          "base": "is sick repeatedly = sairastella",
+          "answer": "sairastelee",
+          "en": "Piku is constantly ill."
+        },
+        {
+          "prompt": "____ mökillä?",
+          "base": "Do you have a lot of work",
+          "answer": "Onko teillä paljon töitä",
+          "en": "Do you have a lot of work at the cottage?"
+        },
+        {
+          "prompt": "…joten me ____ joka päivä…",
+          "base": "fish and do the sauna = saunoa",
+          "answer": "kalastamme ja saunomme",
+          "en": "…so we fish and have a sauna every day…"
+        },
+        {
+          "prompt": "…ja lauantaisin me ____ läheiselle tanssilavalle.",
+          "base": "row = soutaa",
+          "answer": "soudamme",
+          "en": "…and on Saturdays we row to the nearby dance pavilion."
+        },
+        {
+          "prompt": "He ____ uutta musiikkia, rokkia ja poppia…",
+          "base": "don't play = soittaa",
+          "answer": "eivät soita",
+          "en": "They don't play new music, rock and pop…"
+        },
+        {
+          "prompt": "…vaan he ____ hienoa, vanhaa tanssimusiikkia.",
+          "base": "play",
+          "answer": "soittavat",
+          "en": "…but they play fine old dance music."
+        },
+        {
+          "prompt": "Me ____ meidän naapurimökin pariskunnan mukaan.",
+          "base": "go and get = fetch",
+          "answer": "haemme",
+          "en": "We go and get the couple from the neighbouring cottage to come along."
+        },
+        {
+          "prompt": "He ____ tanssia myös.",
+          "base": "like to",
+          "answer": "tykkäävät",
+          "en": "They like to dance too."
+        },
+        {
+          "prompt": "Me ____ joko asuntoautossa tai teltassa…",
+          "base": "spend the night = yöpyä",
+          "answer": "yövymme",
+          "en": "We'll spend the night either in the camper or in a tent…"
+        },
+        {
+          "prompt": "…jos yöllä ____ .",
+          "base": "doesn't rain",
+          "answer": "ei sada",
+          "en": "…if it doesn't rain at night."
+        },
+        {
+          "prompt": "Me ____ kaksi telttaa mukaan…",
+          "base": "take",
+          "answer": "otamme",
+          "en": "We're taking two tents with us…"
+        },
+        {
+          "prompt": "Me ____ makkaraa…",
+          "base": "barbecue = grill",
+          "answer": "grillaamme",
+          "en": "We'll grill sausages…"
+        },
+        {
+          "prompt": "…ja ____ yötöntä yötä.",
+          "base": "watch",
+          "answer": "katselemme",
+          "en": "…and watch the nightless night."
+        },
+        {
+          "prompt": "Ja ____ hyttysiä…",
+          "base": "kill = tappaa",
+          "answer": "tapamme",
+          "en": "And kill mosquitoes…"
+        }
+      ]
+    }
+  ],
+  "grammar_notes": []
+}

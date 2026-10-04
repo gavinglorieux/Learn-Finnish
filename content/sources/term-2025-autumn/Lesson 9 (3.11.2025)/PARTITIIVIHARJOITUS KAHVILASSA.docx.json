@@ -1,0 +1,609 @@
+{
+  "source": "term-2025-autumn/Lesson 9 (3.11.2025)/PARTITIIVIHARJOITUS KAHVILASSA.docx",
+  "md5": "52228f612f7888f80a992a113470ce6a",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 9,
+    "date": "2025-11-03"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "Kahvilassa / Baarissa / Ravintolassa",
+    "en": "In a café / in a bar / in a restaurant"
+  },
+  "topics": [
+    "partitive",
+    "numbers"
+  ],
+  "summary": "Translation exercise: 28 café/bar orders in English to say in Finnish using the partitive after numbers and for quantities, with vocabulary given in brackets.",
+  "transcript": "KAHVILASSA (IN A CAFE) / BAARISSA (IN A BAR) / RAVINTOLASSA (IN A RESTAURANT)\n\nKUINKA SINÄ SANOT SUOMEKSI (HOW DO YOU SAY IN FINNISH):\n\n1. ONE COFFEE, PLEASE?\n\n2. ONE BLACK COFFEE, PLEASE? (BLACK= MUSTA)\n\n3. TWO COFFEES, PLEASE?\n\n4. TWO LARGE COFFEES, PLEASE? (LARGE= ISO)\n\n5. THREE LARGE BLACK COFFEES, PLEASE?\n\n6. A GLASS OF WATER, PLEASE?\n\n7. TWO GLASSES OF WATER, PLEASE?\n\n8. A LARGE GLASS OF BEER, PLEASE?\n\n9. TWO LARGE GLASSES OF BEER, PLEASE?\n\n10. FOUR COLD CIDERS, PLEASE? (COLD= KYLMÄ)\n\n11. THREE PINTS OF BEER, PLEASE? (PINT= TUOPPI)\n\n12. THREE BOTTLES OF OLVI, PLEASE? (”OLVI” IS A FINNISH BRAND OF BEER)\n\n13. A PIECE OF CHOCOLATE CAKE, PLEASE? (PIECE= PALA, CHOC CAKE= SUKLAAKAKKU)\n\n14. A SMALL COFFEE AND TWO TEAS, PLEASE?\n\n15. TWO FRESH CINNAMON BUNS AND TWO APPLE JUICES, PLEASE? (FRESH= TUORE, CINNAMON BUN= KORVAPUUSTI, APPLE JUICE= OMENAMEHU)\n\n16. THREE WARM KARELIAN PIES AND TWO GLASSES OF WATER, PLEASE? (WARM= LÄMMIN, KARELIAN PIE= KARJALANPIIRAKKA / RIISIPIIRAKKA)\n\n17. ONE CHEESE SANDWICH, TWO HAM SANDWICHES, ONE LARGE COFFEE, ONE SMALL GLASS OF MILK AND A BEER, PLEASE? (CHEESE SANDWICH= JUUSTOVOILEIPÄ, HAM= KINKKU)\n\n18. TWO SAUSAGE BREADROLLS, THREE WARM MEAT PIES, SOME MUSTARD AND SOME KETCHUP PLEASE? (SAUSAGE BREADROLL= MAKKARASÄMPYLÄ, MEAT PIE= LIHAPIIRAKKA)\n\n19. TWO EGG SANDWICHES AND A PIECE OF LEMON CAKE, PLEASE? (LEMON CAKE= SITRUUNAKAKKU)\n\n20. TWO LARGE TEAS AND SOME MILK AND SOME SUGAR, PLEASE?\n\n21. THREE CUPS OF HERBAL TEA AND TWO HOT CHOCOLATES, PLEASE? (HERBAL TEA= YRTTITEE)\n\n22. TWO SMALL CHOCOLATE ICE CREAMS AND ONE LARGE ICE CREAM, PLEASE? (CHOC ICE CREAM= SUKLAAJÄÄTELÖ, VANILLA= VANILJA)\n\n23. TWO GLASSES OF RED WINE, TWO GLASSES OF COKE AND A GLASS OF SCOTTISH WHISKY, PLEASE? (RED WINE= PUNAVIINI, SCOTTISH= SKOTLANTILAINEN, WHISKY= VISKI)\n\n24. 300 GRAMS OF FINNISH SALMON, PLEASE, AND 150 GRAMS OF EDAM-CHEESE, PLEASE? (GRAMMA)\n\n25. THREE LARGE GLASSES OF WHITE WINE, TWO JALLU- SHOTS AND A GLASS OF ORANGE JUICE, PLEASE? (WHITE WINE= VALKOVIINI, JALLU SHOT= JALLUPAUKKU, ORANGE JUICE= APPELSIINIMEHU)\n\n26. TWO FRESH LOAVES OF BREAD, TWO LITRES OF FAT-FREE MILK AND FOUR SUGAR-FREE, GLUTEN-FREE STRAWBERRY DANISHES, PLEASE? (FRESH= TUORE, LITRE= LITRA, FAT-FREE= RASVATON, SUGAR-FREE= SOKERITON, GLUTEN-FREE= GLUTEENITON, STRAWBERRY DANISH= MANSIKKAVIINERI)\n\n27. TWO TEAS, ONE LARGE BLACK COFFEE, TWO BUTTER EYE BUNS AND TWO BLUEBERRY DOUGHNUTS, PLEASE? (”BUTTER EYE BUN”= VOISILMÄPULLA, BLUEBERRY DOUGHNUT= MUSTIKKAMUNKKI)\n\n28. FIVE HOT SAUSAGES, SOME MUSTARD, A JUG OF COLD WATER AND FIVE LARGE GLASSES, PLEASE? (HOT= KUUMA, JUG= KANNU)",
+  "words": [
+    {
+      "fi": "kahvila",
+      "en": "café",
+      "pos": "noun",
+      "form_seen": "kahvilassa",
+      "theme": "cafe-shop"
+    },
+    {
+      "fi": "baari",
+      "en": "bar",
+      "pos": "noun",
+      "form_seen": "baarissa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "ravintola",
+      "en": "restaurant",
+      "pos": "noun",
+      "form_seen": "ravintolassa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "suomeksi",
+      "en": "in Finnish",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "sanoa",
+      "en": "to say",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "sanot",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kuinka",
+      "en": "how",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "kahvi",
+      "en": "coffee",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "kiitos",
+      "en": "please; thank you",
+      "pos": "interj",
+      "theme": "greetings"
+    },
+    {
+      "fi": "musta",
+      "en": "black",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "iso",
+      "en": "large, big",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "pieni",
+      "en": "small",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "lasi",
+      "en": "glass",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "vesi",
+      "en": "water",
+      "pos": "noun",
+      "form_seen": "vettä",
+      "theme": "drinks",
+      "note": "partitive vettä"
+    },
+    {
+      "fi": "olut",
+      "en": "beer",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "kylmä",
+      "en": "cold",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "siideri",
+      "en": "cider",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "tuoppi",
+      "en": "pint (glass of beer)",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "pullo",
+      "en": "bottle",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "pala",
+      "en": "piece",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "suklaakakku",
+      "en": "chocolate cake",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "tee",
+      "en": "tea",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "tuore",
+      "en": "fresh",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "korvapuusti",
+      "en": "cinnamon bun",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "omenamehu",
+      "en": "apple juice",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "lämmin",
+      "en": "warm",
+      "pos": "adj",
+      "theme": "adjectives",
+      "note": "partitive lämmintä"
+    },
+    {
+      "fi": "karjalanpiirakka",
+      "en": "Karelian pie",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "riisipiirakka",
+      "en": "rice pie (Karelian pie)",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "juustovoileipä",
+      "en": "cheese sandwich",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kinkku",
+      "en": "ham",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kinkkuvoileipä",
+      "en": "ham sandwich",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "maito",
+      "en": "milk",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "makkarasämpylä",
+      "en": "sausage bread roll",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "lihapiirakka",
+      "en": "meat pie",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "sinappi",
+      "en": "mustard",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "ketsuppi",
+      "en": "ketchup",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "munavoileipä",
+      "en": "egg sandwich",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "sitruunakakku",
+      "en": "lemon cake",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "sokeri",
+      "en": "sugar",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kuppi",
+      "en": "cup",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "yrttitee",
+      "en": "herbal tea",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "kaakao",
+      "en": "hot chocolate, cocoa",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "suklaajäätelö",
+      "en": "chocolate ice cream",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "jäätelö",
+      "en": "ice cream",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "vanilja",
+      "en": "vanilla",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "punaviini",
+      "en": "red wine",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "kokis",
+      "en": "Coke (colloquial)",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "skotlantilainen",
+      "en": "Scottish",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "viski",
+      "en": "whisky",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "gramma",
+      "en": "gram",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "lohi",
+      "en": "salmon",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "edam-juusto",
+      "en": "Edam cheese",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "suomalainen",
+      "en": "Finnish",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "valkoviini",
+      "en": "white wine",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "jallupaukku",
+      "en": "shot of Jaloviina (Finnish brandy)",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "appelsiinimehu",
+      "en": "orange juice",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "leipä",
+      "en": "bread, loaf",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "litra",
+      "en": "litre",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "rasvaton",
+      "en": "fat-free",
+      "pos": "adj",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "sokeriton",
+      "en": "sugar-free",
+      "pos": "adj",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "gluteeniton",
+      "en": "gluten-free",
+      "pos": "adj",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "mansikkaviineri",
+      "en": "strawberry Danish pastry",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "voisilmäpulla",
+      "en": "butter-eye bun",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "mustikkamunkki",
+      "en": "blueberry doughnut",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kuuma",
+      "en": "hot",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "makkara",
+      "en": "sausage",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kannu",
+      "en": "jug",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "yksi",
+      "en": "one",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kaksi",
+      "en": "two",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kolme",
+      "en": "three",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "neljä",
+      "en": "four",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "viisi",
+      "en": "five",
+      "pos": "num",
+      "theme": "numbers"
+    }
+  ],
+  "texts": [],
+  "exercises": [
+    {
+      "title": "Kuinka sinä sanot suomeksi? (How do you say in Finnish?)",
+      "instruction": "Translate the order into Finnish (partitive after numbers 2+ and for quantities/mass nouns).",
+      "topic": "partitive",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "1. ONE COFFEE, PLEASE?",
+          "answer": "Yksi kahvi, kiitos.",
+          "en": "One coffee, please."
+        },
+        {
+          "prompt": "2. ONE BLACK COFFEE, PLEASE?",
+          "answer": "Yksi musta kahvi, kiitos.",
+          "en": "One black coffee, please."
+        },
+        {
+          "prompt": "3. TWO COFFEES, PLEASE?",
+          "answer": "Kaksi kahvia, kiitos.",
+          "en": "Two coffees, please."
+        },
+        {
+          "prompt": "4. TWO LARGE COFFEES, PLEASE?",
+          "answer": "Kaksi isoa kahvia, kiitos.",
+          "en": "Two large coffees, please."
+        },
+        {
+          "prompt": "5. THREE LARGE BLACK COFFEES, PLEASE?",
+          "answer": "Kolme isoa mustaa kahvia, kiitos.",
+          "en": "Three large black coffees, please."
+        },
+        {
+          "prompt": "6. A GLASS OF WATER, PLEASE?",
+          "answer": "Lasi vettä, kiitos.",
+          "en": "A glass of water, please."
+        },
+        {
+          "prompt": "7. TWO GLASSES OF WATER, PLEASE?",
+          "answer": "Kaksi lasia vettä, kiitos.",
+          "en": "Two glasses of water, please."
+        },
+        {
+          "prompt": "8. A LARGE GLASS OF BEER, PLEASE?",
+          "answer": "Iso lasi olutta, kiitos.",
+          "en": "A large glass of beer, please."
+        },
+        {
+          "prompt": "9. TWO LARGE GLASSES OF BEER, PLEASE?",
+          "answer": "Kaksi isoa lasia olutta, kiitos.",
+          "en": "Two large glasses of beer, please."
+        },
+        {
+          "prompt": "10. FOUR COLD CIDERS, PLEASE?",
+          "answer": "Neljä kylmää siideriä, kiitos.",
+          "en": "Four cold ciders, please."
+        },
+        {
+          "prompt": "11. THREE PINTS OF BEER, PLEASE?",
+          "answer": "Kolme tuoppia olutta, kiitos.",
+          "en": "Three pints of beer, please."
+        },
+        {
+          "prompt": "12. THREE BOTTLES OF OLVI, PLEASE?",
+          "answer": "Kolme pulloa Olvia, kiitos.",
+          "en": "Three bottles of olvi, please."
+        },
+        {
+          "prompt": "13. A PIECE OF CHOCOLATE CAKE, PLEASE?",
+          "answer": "Pala suklaakakkua, kiitos.",
+          "en": "A piece of chocolate cake, please."
+        },
+        {
+          "prompt": "14. A SMALL COFFEE AND TWO TEAS, PLEASE?",
+          "answer": "Pieni kahvi ja kaksi teetä, kiitos.",
+          "en": "A small coffee and two teas, please."
+        },
+        {
+          "prompt": "15. TWO FRESH CINNAMON BUNS AND TWO APPLE JUICES, PLEASE?",
+          "answer": "Kaksi tuoretta korvapuustia ja kaksi omenamehua, kiitos.",
+          "en": "Two fresh cinnamon buns and two apple juices, please."
+        },
+        {
+          "prompt": "16. THREE WARM KARELIAN PIES AND TWO GLASSES OF WATER, PLEASE?",
+          "answer": "Kolme lämmintä karjalanpiirakkaa ja kaksi lasia vettä, kiitos.",
+          "en": "Three warm karelian pies and two glasses of water, please."
+        },
+        {
+          "prompt": "17. ONE CHEESE SANDWICH, TWO HAM SANDWICHES, ONE LARGE COFFEE, ONE SMALL GLASS OF MILK AND A BEER, PLEASE?",
+          "answer": "Yksi juustovoileipä, kaksi kinkkuvoileipää, yksi iso kahvi, yksi pieni lasi maitoa ja yksi olut, kiitos.",
+          "en": "One cheese sandwich, two ham sandwiches, one large coffee, one small glass of milk and a beer, please."
+        },
+        {
+          "prompt": "18. TWO SAUSAGE BREADROLLS, THREE WARM MEAT PIES, SOME MUSTARD AND SOME KETCHUP PLEASE?",
+          "answer": "Kaksi makkarasämpylää, kolme lämmintä lihapiirakkaa, sinappia ja ketsuppia, kiitos.",
+          "en": "Two sausage breadrolls, three warm meat pies, some mustard and some ketchup please."
+        },
+        {
+          "prompt": "19. TWO EGG SANDWICHES AND A PIECE OF LEMON CAKE, PLEASE?",
+          "answer": "Kaksi munavoileipää ja pala sitruunakakkua, kiitos.",
+          "en": "Two egg sandwiches and a piece of lemon cake, please."
+        },
+        {
+          "prompt": "20. TWO LARGE TEAS AND SOME MILK AND SOME SUGAR, PLEASE?",
+          "answer": "Kaksi isoa teetä ja maitoa ja sokeria, kiitos.",
+          "en": "Two large teas and some milk and some sugar, please."
+        },
+        {
+          "prompt": "21. THREE CUPS OF HERBAL TEA AND TWO HOT CHOCOLATES, PLEASE?",
+          "answer": "Kolme kuppia yrttiteetä ja kaksi kaakaota, kiitos.",
+          "en": "Three cups of herbal tea and two hot chocolates, please."
+        },
+        {
+          "prompt": "22. TWO SMALL CHOCOLATE ICE CREAMS AND ONE LARGE ICE CREAM, PLEASE?",
+          "answer": "Kaksi pientä suklaajäätelöä ja yksi iso jäätelö, kiitos.",
+          "en": "Two small chocolate ice creams and one large ice cream, please."
+        },
+        {
+          "prompt": "23. TWO GLASSES OF RED WINE, TWO GLASSES OF COKE AND A GLASS OF SCOTTISH WHISKY, PLEASE?",
+          "answer": "Kaksi lasia punaviiniä, kaksi lasia kokista ja lasi skotlantilaista viskiä, kiitos.",
+          "en": "Two glasses of red wine, two glasses of coke and a glass of scottish whisky, please."
+        },
+        {
+          "prompt": "24. 300 GRAMS OF FINNISH SALMON, PLEASE, AND 150 GRAMS OF EDAM-CHEESE, PLEASE?",
+          "answer": "300 grammaa suomalaista lohta ja 150 grammaa edam-juustoa, kiitos.",
+          "en": "300 grams of finnish salmon, please, and 150 grams of edam-cheese, please."
+        },
+        {
+          "prompt": "25. THREE LARGE GLASSES OF WHITE WINE, TWO JALLU- SHOTS AND A GLASS OF ORANGE JUICE, PLEASE?",
+          "answer": "Kolme isoa lasia valkoviiniä, kaksi jallupaukkua ja lasi appelsiinimehua, kiitos.",
+          "en": "Three large glasses of white wine, two jallu- shots and a glass of orange juice, please."
+        },
+        {
+          "prompt": "26. TWO FRESH LOAVES OF BREAD, TWO LITRES OF FAT-FREE MILK AND FOUR SUGAR-FREE, GLUTEN-FREE STRAWBERRY DANISHES, PLEASE?",
+          "answer": "Kaksi tuoretta leipää, kaksi litraa rasvatonta maitoa ja neljä sokeritonta, gluteenitonta mansikkaviineriä, kiitos.",
+          "en": "Two fresh loaves of bread, two litres of fat-free milk and four sugar-free, gluten-free strawberry danishes, please."
+        },
+        {
+          "prompt": "27. TWO TEAS, ONE LARGE BLACK COFFEE, TWO BUTTER EYE BUNS AND TWO BLUEBERRY DOUGHNUTS, PLEASE?",
+          "answer": "Kaksi teetä, yksi iso musta kahvi, kaksi voisilmäpullaa ja kaksi mustikkamunkkia, kiitos.",
+          "en": "Two teas, one large black coffee, two butter eye buns and two blueberry doughnuts, please."
+        },
+        {
+          "prompt": "28. FIVE HOT SAUSAGES, SOME MUSTARD, A JUG OF COLD WATER AND FIVE LARGE GLASSES, PLEASE?",
+          "answer": "Viisi kuumaa makkaraa, sinappia, kannu kylmää vettä ja viisi isoa lasia, kiitos.",
+          "en": "Five hot sausages, some mustard, a jug of cold water and five large glasses, please."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": []
+}

@@ -1,0 +1,95 @@
+{
+  "source": "term-2026-winter/Lesson 9 (9.3.2026)/1772526804599.jpg",
+  "md5": "4cc5162877ed45a9be610cd194c743d5",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-winter",
+    "number": 9,
+    "date": "2026-03-09"
+  },
+  "kind": "picture_vocab",
+  "title": {
+    "fi": "Maatilalla",
+    "en": "On the farm"
+  },
+  "topics": [],
+  "summary": "Bilingual picture dictionary page 'maatilalla' (on the farm): a farm scene plus labelled sheep, lamb, cow, calf, duck, ducklings, milk containers, orchard and cockerel.",
+  "transcript": "maatilalla\nlammas – sheep\nkaritsa – lamb\nvasikka – calf\nlehmä – cow\nankanpoikia – ducklings\nankka, sorsa – duck\nmaitotonkkia – milk containers\nhedelmätarha – orchard\nkukko – cockerel",
+  "words": [
+    {
+      "fi": "lammas",
+      "en": "sheep",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "karitsa",
+      "en": "lamb",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "vasikka",
+      "en": "calf",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "lehmä",
+      "en": "cow",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "ankanpoika",
+      "en": "duckling",
+      "pos": "noun",
+      "form_seen": "ankanpoikia",
+      "note": "label is partitive plural 'ankanpoikia' (ducklings)",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "ankka",
+      "en": "duck",
+      "pos": "noun",
+      "note": "also: sorsa",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "sorsa",
+      "en": "duck (wild), mallard",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "maitotonkka",
+      "en": "milk churn, milk container",
+      "pos": "noun",
+      "form_seen": "maitotonkkia",
+      "note": "label is partitive plural 'maitotonkkia'",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "hedelmätarha",
+      "en": "orchard",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "kukko",
+      "en": "cockerel, rooster",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "maatila",
+      "en": "farm",
+      "pos": "noun",
+      "form_seen": "maatilalla",
+      "theme": "farm-animals"
+    }
+  ],
+  "texts": [],
+  "exercises": [],
+  "grammar_notes": []
+}

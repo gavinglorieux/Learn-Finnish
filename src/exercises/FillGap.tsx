@@ -12,25 +12,24 @@ type Props = {
   ctx: ShellCtx
 }
 
-const TOTAL = 8
+export const FILL_GAP_TOTAL = 8
 
 export default function FillGap({ onAnswer, onComplete, ctx }: Props) {
-  const questions = useMemo(() => shuffle(SENTENCES.filter((s) => s.gap)).slice(0, TOTAL), [])
+  const questions = useMemo(() => shuffle(SENTENCES.filter((s) => s.gap)).slice(0, FILL_GAP_TOTAL), [])
   const q = questions[ctx.index]
   const [picked, setPicked] = useState<string | null>(null)
 
   useEffect(() => { setPicked(null) }, [q])
 
-  if (!q || !q.gap) return null
-
+  // Hooks must run before any early return (rules of hooks).
   const options = useMemo(() => {
-    const ds = q.gap!.distractors
-    // Deduplicate (some entries may have repeats)
-    const uniq = Array.from(new Set([q.gap!.word, ...ds]))
-    // If too few, add a generic distractor
-    while (uniq.length < 4) uniq.push(`—`)
-    return shuffle(sampleN(uniq, 4))
+    if (!q?.gap) return []
+    // Deduplicate (some entries repeat a distractor); never pad with placeholder options.
+    const uniq = Array.from(new Set([q.gap.word, ...q.gap.distractors]))
+    return shuffle([q.gap.word, ...sampleN(uniq.slice(1), 3)])
   }, [q])
+
+  if (!q || !q.gap) return null
 
   const before = q.fi.split(q.gap.word)[0]
   const after = q.fi.substring(before.length + q.gap.word.length)
@@ -42,8 +41,8 @@ export default function FillGap({ onAnswer, onComplete, ctx }: Props) {
     onAnswer(`sentence-${q.id}`, correct)
     if (correct) { ctx.markCorrect(); hapticSuccess() } else { ctx.markWrong(); hapticError() }
     window.setTimeout(() => {
-      const isLast = ctx.index + 1 >= TOTAL
-      if (isLast) onComplete(ctx.correctCount + (correct ? 1 : 0), TOTAL)
+      const isLast = ctx.index + 1 >= questions.length
+      if (isLast) onComplete(ctx.correctCount + (correct ? 1 : 0), questions.length)
       else ctx.advance()
     }, correct ? 700 : 1500)
   }
@@ -66,7 +65,7 @@ export default function FillGap({ onAnswer, onComplete, ctx }: Props) {
           <span>{after}</span>
         </div>
         <div className="text-sm text-slate-500 mt-3">{q.en}</div>
-        <button onClick={() => speak(q.fi.replace(q.gap!.word, q.gap!.word))} className="mt-3 inline-flex items-center gap-1 text-finnish-500 text-sm font-medium">
+        <button onClick={() => speak(q.fi)} className="mt-3 inline-flex items-center gap-1 text-finnish-500 text-sm font-medium">
           <SpeakerIcon size={16} /> Hear full sentence
         </button>
       </div>

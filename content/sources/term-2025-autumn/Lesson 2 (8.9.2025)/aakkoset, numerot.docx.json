@@ -1,0 +1,1033 @@
+{
+  "source": "term-2025-autumn/Lesson 2 (8.9.2025)/aakkoset, numerot.docx",
+  "md5": "330346a84c6372b7a7bfa06031f5a5b5",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 2,
+    "date": "2025-09-08"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "VOKAALIT, TUPLAVOKAALIT JA KAKSOISKONSONANTIT",
+    "en": "Vowels, double vowels and double consonants (alphabet and numbers)"
+  },
+  "topics": [
+    "pronunciation",
+    "long-short",
+    "numbers"
+  ],
+  "summary": "Pronunciation minimal pairs (vowels, long vowels, double consonants), spelling names and reading Finnish addresses and phone numbers, and a list of numbers to say in Finnish.",
+  "transcript": "VOKAALIT, TUPLAVOKAALIT JA KAKSOISKONSONANTIT - vowels, double vowels and double consonants\n1. Kumpi sana? Which of the two words?\nSUU - SYY SYÖ - SUO TUO - TYÖ TÄKKI - TAKKI NÄKY - NAKU\nKÄNNY - KANNU KYY - KUU TUHMA - TYHMÄ SÄÄ - SAA ULOS - YLÖS\nSADE - SÄDE OLLA - ULLA YLLÄ - ULLA HYLLY - HULLU\nTAPAN - TAPAAN RAAJA - RAJA TUUMA - TUMMA SIIKA - SIKA SAATTO - SATO\nPAKO - PAKKO KATTO - KATO KISA - KISSA LOKKI - LOKI PALLO - PALO\nKUKA - KUKKA LAUTA - LAUTTA MATO - MATTO LAKI - LAKKI MUTA - MUTTA\nTAKKA - TAAKKA HALLI - HALI SUKKA - SUKA RAPPU - RAPU SUPPI - SUPI\nTYYLI - TYLLI TUULI - TULI TYYLI - TUULI TYLLI - TULLI\n2. Tavaa nimi, lue osoite ja puhelinnumero (spell the name, read the address and the telephone number)\nMauno Uusitalo, Kyykkäpolku 5 B 9, 00380 Joensuu puhelinnumero: 040 - 6870558\nRaimo Säynäväinen, Keppikuja 16, 98700 Hyvinkää puh. 050 – 1757480\nSylvi Kärkkäinen, Eteläpolku 6 C 22, 40680 Pöytyä puh. 040 – 9050729\nHilkka Joentörmä, Suomäentie 1078, 07630 Seinäjoki puh. 050 – 6179490\nYrjö Uutela, Leppäsenkatu 7 A 29, 05480 Lahti puh. 040 – 3690580\nTuija Kyykkälä, Pankkikatu 94, 05250 Virkkala puh. 050 - 4969580\nHarri Jakomäki, Laukkamäentie 98, 60980 Nakkila puh. 040 – 1270970\nIlkka Ojanen, Syövisentie 528, 04500 Lohja puh. 050 – 5060980\n3. Mikä numero? Which number? Sano numero suomeksi ja sitten kuuntele ja kirjoita. Say the number and then listen and write.\n5 6 10 11 17 20 31 48 56 65\n79 82 99 100 115 209 340 432 576 610\n911 1000 4000 6500 7480 10.000 12.000 29.000\n55.000 55.900 55.990 55. 995 100.000 500.000 1.000 000",
+  "words": [
+    {
+      "fi": "vokaali",
+      "en": "vowel",
+      "pos": "noun",
+      "form_seen": "vokaalit",
+      "theme": "classroom"
+    },
+    {
+      "fi": "tuplavokaali",
+      "en": "double vowel",
+      "pos": "noun",
+      "form_seen": "tuplavokaalit",
+      "theme": "classroom"
+    },
+    {
+      "fi": "kaksoiskonsonantti",
+      "en": "double consonant",
+      "pos": "noun",
+      "form_seen": "kaksoiskonsonantit",
+      "theme": "classroom"
+    },
+    {
+      "fi": "kumpi",
+      "en": "which (of two)",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "sana",
+      "en": "word",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "suu",
+      "en": "mouth",
+      "pos": "noun",
+      "theme": "body"
+    },
+    {
+      "fi": "syy",
+      "en": "reason; fault",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "syödä",
+      "en": "to eat",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "syö",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "suo",
+      "en": "swamp, bog",
+      "pos": "noun",
+      "theme": "nature"
+    },
+    {
+      "fi": "tuo",
+      "en": "that (over there)",
+      "pos": "pron",
+      "theme": "little-words",
+      "note": "also 'tuoda' to bring: hän tuo"
+    },
+    {
+      "fi": "työ",
+      "en": "work, job",
+      "pos": "noun",
+      "theme": "school-work"
+    },
+    {
+      "fi": "täkki",
+      "en": "duvet, quilt",
+      "pos": "noun",
+      "theme": "furniture"
+    },
+    {
+      "fi": "takki",
+      "en": "coat, jacket",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "näky",
+      "en": "sight, view; vision",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "naku",
+      "en": "naked (colloquial)",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "känny",
+      "en": "mobile phone (colloquial)",
+      "pos": "noun",
+      "theme": "other",
+      "note": "short for kännykkä"
+    },
+    {
+      "fi": "kannu",
+      "en": "jug, pot",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "kyy",
+      "en": "adder, viper",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "kuu",
+      "en": "moon; month",
+      "pos": "noun",
+      "theme": "nature"
+    },
+    {
+      "fi": "tuhma",
+      "en": "naughty",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "tyhmä",
+      "en": "stupid",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "sää",
+      "en": "weather",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "saada",
+      "en": "to get, to receive; may",
+      "pos": "verb",
+      "verb_type": 2,
+      "form_seen": "saa",
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "ulos",
+      "en": "out (motion outwards)",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "ylös",
+      "en": "up (motion upwards)",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "sade",
+      "en": "rain",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "säde",
+      "en": "ray; radius",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "yllä",
+      "en": "above; on (wearing)",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "hylly",
+      "en": "shelf",
+      "pos": "noun",
+      "theme": "furniture"
+    },
+    {
+      "fi": "hullu",
+      "en": "crazy, mad",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "tappaa",
+      "en": "to kill",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "tapan",
+      "theme": "common-verbs",
+      "note": "pp → p"
+    },
+    {
+      "fi": "tavata",
+      "en": "to meet; to spell",
+      "pos": "verb",
+      "verb_type": 4,
+      "form_seen": "tapaan",
+      "theme": "common-verbs",
+      "note": "minä tapaan (v → p); in task 2 'tavaa' = spell!"
+    },
+    {
+      "fi": "raaja",
+      "en": "limb",
+      "pos": "noun",
+      "theme": "body"
+    },
+    {
+      "fi": "raja",
+      "en": "border, limit",
+      "pos": "noun",
+      "theme": "travel"
+    },
+    {
+      "fi": "tuuma",
+      "en": "inch; idea, thought",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "tumma",
+      "en": "dark",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "siika",
+      "en": "whitefish",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "sika",
+      "en": "pig",
+      "pos": "noun",
+      "theme": "farm-animals"
+    },
+    {
+      "fi": "saatto",
+      "en": "escort; accompanying",
+      "pos": "noun",
+      "theme": "other",
+      "uncertain": true
+    },
+    {
+      "fi": "sato",
+      "en": "harvest, crop",
+      "pos": "noun",
+      "theme": "garden"
+    },
+    {
+      "fi": "pako",
+      "en": "escape",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "pakko",
+      "en": "necessity, compulsion (on pakko = must)",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "katto",
+      "en": "roof; ceiling",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "kato",
+      "en": "crop failure; loss",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "kisa",
+      "en": "competition, contest",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "kissa",
+      "en": "cat",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "lokki",
+      "en": "seagull",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "loki",
+      "en": "log (record)",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "pallo",
+      "en": "ball",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "palo",
+      "en": "fire, blaze",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "kuka",
+      "en": "who",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "kukka",
+      "en": "flower",
+      "pos": "noun",
+      "theme": "garden"
+    },
+    {
+      "fi": "lauta",
+      "en": "board, plank",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "lautta",
+      "en": "ferry",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "mato",
+      "en": "worm",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "matto",
+      "en": "rug, carpet",
+      "pos": "noun",
+      "theme": "furniture"
+    },
+    {
+      "fi": "laki",
+      "en": "law; summit",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "lakki",
+      "en": "cap, hat",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "muta",
+      "en": "mud",
+      "pos": "noun",
+      "theme": "nature"
+    },
+    {
+      "fi": "mutta",
+      "en": "but",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "takka",
+      "en": "fireplace",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "taakka",
+      "en": "burden",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "halli",
+      "en": "hall (large building)",
+      "pos": "noun",
+      "theme": "places-town"
+    },
+    {
+      "fi": "hali",
+      "en": "hug",
+      "pos": "noun",
+      "theme": "feelings"
+    },
+    {
+      "fi": "sukka",
+      "en": "sock",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "suka",
+      "en": "bristle brush; curry comb",
+      "pos": "noun",
+      "theme": "household"
+    },
+    {
+      "fi": "rappu",
+      "en": "stairwell; stairs",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "rapu",
+      "en": "crayfish, crab",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "tyyli",
+      "en": "style",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "tylli",
+      "en": "tulle",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "tuuli",
+      "en": "wind",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "tuli",
+      "en": "fire",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "tulli",
+      "en": "customs",
+      "pos": "noun",
+      "theme": "travel"
+    },
+    {
+      "fi": "nimi",
+      "en": "name",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "osoite",
+      "en": "address",
+      "pos": "noun",
+      "theme": "places-town"
+    },
+    {
+      "fi": "puhelinnumero",
+      "en": "telephone number",
+      "pos": "noun",
+      "theme": "numbers"
+    },
+    {
+      "fi": "lukea",
+      "en": "to read",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "lue",
+      "theme": "classroom"
+    },
+    {
+      "fi": "sanoa",
+      "en": "to say",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "sano",
+      "theme": "classroom"
+    },
+    {
+      "fi": "kuunnella",
+      "en": "to listen",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "kuuntele",
+      "theme": "classroom",
+      "note": "nn → nt"
+    },
+    {
+      "fi": "kirjoittaa",
+      "en": "to write",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "kirjoita",
+      "theme": "classroom",
+      "note": "tt → t"
+    },
+    {
+      "fi": "sitten",
+      "en": "then",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "suomeksi",
+      "en": "in Finnish",
+      "pos": "adv",
+      "theme": "classroom"
+    },
+    {
+      "fi": "numero",
+      "en": "number",
+      "pos": "noun",
+      "theme": "numbers"
+    },
+    {
+      "fi": "polku",
+      "en": "path",
+      "pos": "noun",
+      "theme": "places-town"
+    },
+    {
+      "fi": "kuja",
+      "en": "lane, alley",
+      "pos": "noun",
+      "theme": "places-town"
+    },
+    {
+      "fi": "tie",
+      "en": "road",
+      "pos": "noun",
+      "theme": "places-town"
+    },
+    {
+      "fi": "katu",
+      "en": "street",
+      "pos": "noun",
+      "theme": "places-town"
+    },
+    {
+      "fi": "nolla",
+      "en": "zero",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "yksi",
+      "en": "one",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kaksi",
+      "en": "two",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kolme",
+      "en": "three",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "neljä",
+      "en": "four",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "viisi",
+      "en": "five",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kuusi",
+      "en": "six",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "seitsemän",
+      "en": "seven",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kahdeksan",
+      "en": "eight",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "yhdeksän",
+      "en": "nine",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kymmenen",
+      "en": "ten",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "yksitoista",
+      "en": "eleven",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kaksikymmentä",
+      "en": "twenty",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "sata",
+      "en": "hundred",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "tuhat",
+      "en": "thousand",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "miljoona",
+      "en": "million",
+      "pos": "num",
+      "theme": "numbers"
+    }
+  ],
+  "texts": [],
+  "exercises": [
+    {
+      "title": "1. Kumpi sana? Which of the two words?",
+      "instruction": "Listen and choose which of the two words you hear (vowels, double vowels, double consonants).",
+      "topic": "long-short",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "SUU - SYY",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "SYÖ - SUO",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "TUO - TYÖ",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "TÄKKI - TAKKI",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "NÄKY - NAKU",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "KÄNNY - KANNU",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "KYY - KUU",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "TUHMA - TYHMÄ",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "SÄÄ - SAA",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "ULOS - YLÖS",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "SADE - SÄDE",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "OLLA - ULLA",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "YLLÄ - ULLA",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "HYLLY - HULLU",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "TAPAN - TAPAAN",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "RAAJA - RAJA",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "TUUMA - TUMMA",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "SIIKA - SIKA",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "SAATTO - SATO",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "PAKO - PAKKO",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "KATTO - KATO",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "KISA - KISSA",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "LOKKI - LOKI",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "PALLO - PALO",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "KUKA - KUKKA",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "LAUTA - LAUTTA",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "MATO - MATTO",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "LAKI - LAKKI",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "MUTA - MUTTA",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "TAKKA - TAAKKA",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "HALLI - HALI",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "SUKKA - SUKA",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "RAPPU - RAPU",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "SUPPI - SUPI",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "TYYLI - TYLLI",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "TUULI - TULI",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "TYYLI - TUULI",
+          "answer": "(listening — depends on the word the teacher says)"
+        },
+        {
+          "prompt": "TYLLI - TULLI",
+          "answer": "(listening — depends on the word the teacher says)"
+        }
+      ]
+    },
+    {
+      "title": "2. Tavaa nimi, lue osoite ja puhelinnumero",
+      "instruction": "Spell the name, read the address and the telephone number.",
+      "topic": "numbers",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "Mauno Uusitalo, Kyykkäpolku 5 B 9, 00380 Joensuu, puh. 040 - 6870558",
+          "answer": "puhelinnumero: nolla neljä nolla kuusi kahdeksan seitsemän nolla viisi viisi kahdeksan"
+        },
+        {
+          "prompt": "Raimo Säynäväinen, Keppikuja 16, 98700 Hyvinkää, puh. 050 – 1757480",
+          "answer": "puhelinnumero: nolla viisi nolla yksi seitsemän viisi seitsemän neljä kahdeksan nolla"
+        },
+        {
+          "prompt": "Sylvi Kärkkäinen, Eteläpolku 6 C 22, 40680 Pöytyä, puh. 040 – 9050729",
+          "answer": "puhelinnumero: nolla neljä nolla yhdeksän nolla viisi nolla seitsemän kaksi yhdeksän"
+        },
+        {
+          "prompt": "Hilkka Joentörmä, Suomäentie 1078, 07630 Seinäjoki, puh. 050 – 6179490",
+          "answer": "puhelinnumero: nolla viisi nolla kuusi yksi seitsemän yhdeksän neljä yhdeksän nolla"
+        },
+        {
+          "prompt": "Yrjö Uutela, Leppäsenkatu 7 A 29, 05480 Lahti, puh. 040 – 3690580",
+          "answer": "puhelinnumero: nolla neljä nolla kolme kuusi yhdeksän nolla viisi kahdeksan nolla"
+        },
+        {
+          "prompt": "Tuija Kyykkälä, Pankkikatu 94, 05250 Virkkala, puh. 050 - 4969580",
+          "answer": "puhelinnumero: nolla viisi nolla neljä yhdeksän kuusi yhdeksän viisi kahdeksan nolla"
+        },
+        {
+          "prompt": "Harri Jakomäki, Laukkamäentie 98, 60980 Nakkila, puh. 040 – 1270970",
+          "answer": "puhelinnumero: nolla neljä nolla yksi kaksi seitsemän nolla yhdeksän seitsemän nolla"
+        },
+        {
+          "prompt": "Ilkka Ojanen, Syövisentie 528, 04500 Lohja, puh. 050 – 5060980",
+          "answer": "puhelinnumero: nolla viisi nolla viisi nolla kuusi nolla yhdeksän kahdeksan nolla"
+        }
+      ]
+    },
+    {
+      "title": "3. Mikä numero? Which number?",
+      "instruction": "Sano numero suomeksi ja sitten kuuntele ja kirjoita. Say the number in Finnish, then listen and write.",
+      "topic": "numbers",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "5",
+          "answer": "viisi"
+        },
+        {
+          "prompt": "6",
+          "answer": "kuusi"
+        },
+        {
+          "prompt": "10",
+          "answer": "kymmenen"
+        },
+        {
+          "prompt": "11",
+          "answer": "yksitoista"
+        },
+        {
+          "prompt": "17",
+          "answer": "seitsemäntoista"
+        },
+        {
+          "prompt": "20",
+          "answer": "kaksikymmentä"
+        },
+        {
+          "prompt": "31",
+          "answer": "kolmekymmentäyksi"
+        },
+        {
+          "prompt": "48",
+          "answer": "neljäkymmentäkahdeksan"
+        },
+        {
+          "prompt": "56",
+          "answer": "viisikymmentäkuusi"
+        },
+        {
+          "prompt": "65",
+          "answer": "kuusikymmentäviisi"
+        },
+        {
+          "prompt": "79",
+          "answer": "seitsemänkymmentäyhdeksän"
+        },
+        {
+          "prompt": "82",
+          "answer": "kahdeksankymmentäkaksi"
+        },
+        {
+          "prompt": "99",
+          "answer": "yhdeksänkymmentäyhdeksän"
+        },
+        {
+          "prompt": "100",
+          "answer": "sata"
+        },
+        {
+          "prompt": "115",
+          "answer": "sataviisitoista"
+        },
+        {
+          "prompt": "209",
+          "answer": "kaksisataayhdeksän"
+        },
+        {
+          "prompt": "340",
+          "answer": "kolmesataaneljäkymmentä"
+        },
+        {
+          "prompt": "432",
+          "answer": "neljäsataakolmekymmentäkaksi"
+        },
+        {
+          "prompt": "576",
+          "answer": "viisisataaseitsemänkymmentäkuusi"
+        },
+        {
+          "prompt": "610",
+          "answer": "kuusisataakymmenen"
+        },
+        {
+          "prompt": "911",
+          "answer": "yhdeksänsataayksitoista"
+        },
+        {
+          "prompt": "1000",
+          "answer": "tuhat"
+        },
+        {
+          "prompt": "4000",
+          "answer": "neljätuhatta"
+        },
+        {
+          "prompt": "6500",
+          "answer": "kuusituhattaviisisataa"
+        },
+        {
+          "prompt": "7480",
+          "answer": "seitsemäntuhattaneljäsataakahdeksankymmentä"
+        },
+        {
+          "prompt": "10.000",
+          "answer": "kymmenentuhatta"
+        },
+        {
+          "prompt": "12.000",
+          "answer": "kaksitoistatuhatta"
+        },
+        {
+          "prompt": "29.000",
+          "answer": "kaksikymmentäyhdeksäntuhatta"
+        },
+        {
+          "prompt": "55.000",
+          "answer": "viisikymmentäviisituhatta"
+        },
+        {
+          "prompt": "55.900",
+          "answer": "viisikymmentäviisituhattayhdeksänsataa"
+        },
+        {
+          "prompt": "55.990",
+          "answer": "viisikymmentäviisituhattayhdeksänsataayhdeksänkymmentä"
+        },
+        {
+          "prompt": "55.995",
+          "answer": "viisikymmentäviisituhattayhdeksänsataayhdeksänkymmentäviisi"
+        },
+        {
+          "prompt": "100.000",
+          "answer": "satatuhatta"
+        },
+        {
+          "prompt": "500.000",
+          "answer": "viisisataatuhatta"
+        },
+        {
+          "prompt": "1.000.000",
+          "answer": "miljoona"
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "numbers",
+      "heading": "Numbers (derived reference)",
+      "text": "Numbers 11–19 = unit + -toista; tens = unit + -kymmentä; hundreds = sata / unit + -sataa; thousands = tuhat / number + -tuhatta; 1 000 000 = miljoona. Written as one word."
+    }
+  ]
+}

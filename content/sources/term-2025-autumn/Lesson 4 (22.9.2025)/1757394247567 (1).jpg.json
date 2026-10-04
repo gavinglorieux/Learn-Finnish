@@ -1,0 +1,629 @@
+{
+  "source": "term-2025-autumn/Lesson 4 (22.9.2025)/1757394247567 (1).jpg",
+  "md5": "36b78e51c448a2a317cf612e1ec99b6f",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 4,
+    "date": "2025-09-22"
+  },
+  "kind": "grammar",
+  "title": {
+    "fi": "Minulla on…",
+    "en": "I have…"
+  },
+  "topics": [
+    "have-adessive",
+    "negation",
+    "partitive",
+    "questions-ko",
+    "question-words"
+  ],
+  "summary": "Grammar box on possession: adessive (-lla/-llä) + on, and the negative adessive + ei ole + partitive, with pronouns and nouns (Kenellä?), a question/answer example, and the HUOM note that feelings like nälkä, jano, kiire, kuuma, kylmä do not take the partitive in the negative.",
+  "transcript": "Minulla on…\n\nlla/llä + on | lla/llä + ei ole + P\nMinulla on auto. | Minulla ei ole autoa.\nSinulla on koira. | Sinulla ei ole koiraa.\nHänellä on bussilippu. | Hänellä ei ole bussilippua.\nMeillä on sauna. | Meillä ei ole saunaa.\nTeillä on tytär. | Teillä ei ole tytärtä.\nHeillä on iso perhe. | Heillä ei ole isoa perhettä.\n\nKenellä? | Kenellä?\nPedrolla on televisio. | Pedrolla ei ole televisiota.\nOpettajalla on tietokone. | Opettajalla ei ole tietokonetta.\nIsolla koiralla on luu. | Isolla koiralla ei ole luuta.\nMialla ja Pialla on testi huomenna. | Mialla ja Pialla ei ole testiä huomenna.\n\nKysymys:\nOnko sinulla auto?    Joo, minulla on vanha auto. Se on Fiat.\nKenellä on auto?    Petrillä on auto.\n\nHUOM!\nMinulla on nälkä.    Minulla ei ole nälkä. (EI PARTITIIVIA!)\n...jano.    ...jano.\n...kiire.    ...kiire.\n...kuuma.    ...kuuma.\n...kylmä.    ...kylmä.",
+  "words": [
+    {
+      "fi": "minä",
+      "en": "I",
+      "pos": "pron",
+      "form_seen": "minulla",
+      "forms": {
+        "adessive": "minulla"
+      },
+      "theme": "people"
+    },
+    {
+      "fi": "sinä",
+      "en": "you (sg.)",
+      "pos": "pron",
+      "form_seen": "sinulla",
+      "forms": {
+        "adessive": "sinulla"
+      },
+      "theme": "people"
+    },
+    {
+      "fi": "hän",
+      "en": "he, she",
+      "pos": "pron",
+      "form_seen": "hänellä",
+      "forms": {
+        "adessive": "hänellä"
+      },
+      "theme": "people"
+    },
+    {
+      "fi": "me",
+      "en": "we",
+      "pos": "pron",
+      "form_seen": "meillä",
+      "forms": {
+        "adessive": "meillä"
+      },
+      "theme": "people"
+    },
+    {
+      "fi": "te",
+      "en": "you (pl.)",
+      "pos": "pron",
+      "form_seen": "teillä",
+      "forms": {
+        "adessive": "teillä"
+      },
+      "theme": "people"
+    },
+    {
+      "fi": "he",
+      "en": "they",
+      "pos": "pron",
+      "form_seen": "heillä",
+      "forms": {
+        "adessive": "heillä"
+      },
+      "theme": "people"
+    },
+    {
+      "fi": "olla",
+      "en": "to be; (with adessive) to have",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "on",
+      "forms": {
+        "hän": "on",
+        "negative": "ei ole"
+      },
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "ei",
+      "en": "not (negation verb)",
+      "pos": "verb",
+      "form_seen": "ei ole",
+      "theme": "little-words"
+    },
+    {
+      "fi": "auto",
+      "en": "car",
+      "pos": "noun",
+      "forms": {
+        "partitive": "autoa"
+      },
+      "theme": "transport"
+    },
+    {
+      "fi": "koira",
+      "en": "dog",
+      "pos": "noun",
+      "forms": {
+        "adessive": "koiralla",
+        "partitive": "koiraa"
+      },
+      "theme": "animals"
+    },
+    {
+      "fi": "bussilippu",
+      "en": "bus ticket",
+      "pos": "noun",
+      "forms": {
+        "partitive": "bussilippua"
+      },
+      "theme": "transport"
+    },
+    {
+      "fi": "sauna",
+      "en": "sauna",
+      "pos": "noun",
+      "forms": {
+        "partitive": "saunaa"
+      },
+      "theme": "home"
+    },
+    {
+      "fi": "tytär",
+      "en": "daughter",
+      "pos": "noun",
+      "forms": {
+        "partitive": "tytärtä"
+      },
+      "theme": "family"
+    },
+    {
+      "fi": "iso",
+      "en": "big",
+      "pos": "adj",
+      "forms": {
+        "adessive": "isolla",
+        "partitive": "isoa"
+      },
+      "theme": "adjectives"
+    },
+    {
+      "fi": "perhe",
+      "en": "family",
+      "pos": "noun",
+      "forms": {
+        "partitive": "perhettä"
+      },
+      "theme": "family"
+    },
+    {
+      "fi": "kuka",
+      "en": "who",
+      "pos": "question",
+      "form_seen": "kenellä",
+      "forms": {
+        "adessive": "kenellä"
+      },
+      "theme": "question-words"
+    },
+    {
+      "fi": "televisio",
+      "en": "television",
+      "pos": "noun",
+      "forms": {
+        "partitive": "televisiota"
+      },
+      "theme": "household"
+    },
+    {
+      "fi": "opettaja",
+      "en": "teacher",
+      "pos": "noun",
+      "forms": {
+        "adessive": "opettajalla"
+      },
+      "theme": "professions"
+    },
+    {
+      "fi": "tietokone",
+      "en": "computer",
+      "pos": "noun",
+      "forms": {
+        "partitive": "tietokonetta"
+      },
+      "theme": "school-work"
+    },
+    {
+      "fi": "luu",
+      "en": "bone",
+      "pos": "noun",
+      "forms": {
+        "partitive": "luuta"
+      },
+      "theme": "body"
+    },
+    {
+      "fi": "ja",
+      "en": "and",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "testi",
+      "en": "test",
+      "pos": "noun",
+      "forms": {
+        "partitive": "testiä"
+      },
+      "theme": "classroom"
+    },
+    {
+      "fi": "huomenna",
+      "en": "tomorrow",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "kysymys",
+      "en": "question",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "-ko",
+      "en": "question suffix",
+      "pos": "other",
+      "form_seen": "onko",
+      "theme": "question-words"
+    },
+    {
+      "fi": "joo",
+      "en": "yeah, yes (colloquial)",
+      "pos": "interj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "vanha",
+      "en": "old",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "se",
+      "en": "it",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "huom",
+      "en": "NB, note (abbr. of huomaa)",
+      "pos": "interj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "nälkä",
+      "en": "hunger",
+      "pos": "noun",
+      "note": "Minulla on nälkä = I am hungry",
+      "theme": "feelings"
+    },
+    {
+      "fi": "jano",
+      "en": "thirst",
+      "pos": "noun",
+      "note": "Minulla on jano = I am thirsty",
+      "theme": "feelings"
+    },
+    {
+      "fi": "kiire",
+      "en": "hurry",
+      "pos": "noun",
+      "note": "Minulla on kiire = I am in a hurry",
+      "theme": "feelings"
+    },
+    {
+      "fi": "kuuma",
+      "en": "hot",
+      "pos": "adj",
+      "note": "Minulla on kuuma = I feel hot",
+      "theme": "weather"
+    },
+    {
+      "fi": "kylmä",
+      "en": "cold",
+      "pos": "adj",
+      "note": "Minulla on kylmä = I feel cold",
+      "theme": "weather"
+    },
+    {
+      "fi": "partitiivi",
+      "en": "partitive",
+      "pos": "noun",
+      "form_seen": "partitiivia",
+      "theme": "other"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Minulla on… / Minulla ei ole…",
+        "en": "I have… / I don't have…"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Minulla on auto.",
+          "en": "I have a car."
+        },
+        {
+          "fi": "Minulla ei ole autoa.",
+          "en": "I don't have a car."
+        },
+        {
+          "fi": "Sinulla on koira.",
+          "en": "You have a dog."
+        },
+        {
+          "fi": "Sinulla ei ole koiraa.",
+          "en": "You don't have a dog."
+        },
+        {
+          "fi": "Hänellä on bussilippu.",
+          "en": "He/she has a bus ticket."
+        },
+        {
+          "fi": "Hänellä ei ole bussilippua.",
+          "en": "He/she doesn't have a bus ticket."
+        },
+        {
+          "fi": "Meillä on sauna.",
+          "en": "We have a sauna."
+        },
+        {
+          "fi": "Meillä ei ole saunaa.",
+          "en": "We don't have a sauna."
+        },
+        {
+          "fi": "Teillä on tytär.",
+          "en": "You (pl.) have a daughter."
+        },
+        {
+          "fi": "Teillä ei ole tytärtä.",
+          "en": "You (pl.) don't have a daughter."
+        },
+        {
+          "fi": "Heillä on iso perhe.",
+          "en": "They have a big family."
+        },
+        {
+          "fi": "Heillä ei ole isoa perhettä.",
+          "en": "They don't have a big family."
+        },
+        {
+          "fi": "Pedrolla on televisio.",
+          "en": "Pedro has a television."
+        },
+        {
+          "fi": "Pedrolla ei ole televisiota.",
+          "en": "Pedro doesn't have a television."
+        },
+        {
+          "fi": "Opettajalla on tietokone.",
+          "en": "The teacher has a computer."
+        },
+        {
+          "fi": "Opettajalla ei ole tietokonetta.",
+          "en": "The teacher doesn't have a computer."
+        },
+        {
+          "fi": "Isolla koiralla on luu.",
+          "en": "The big dog has a bone."
+        },
+        {
+          "fi": "Isolla koiralla ei ole luuta.",
+          "en": "The big dog doesn't have a bone."
+        },
+        {
+          "fi": "Mialla ja Pialla on testi huomenna.",
+          "en": "Mia and Pia have a test tomorrow."
+        },
+        {
+          "fi": "Mialla ja Pialla ei ole testiä huomenna.",
+          "en": "Mia and Pia don't have a test tomorrow."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fi": "Kysymys",
+        "en": "Question"
+      },
+      "kind": "dialogue",
+      "lines": [
+        {
+          "speaker": "A",
+          "fi": "Onko sinulla auto?",
+          "en": "Do you have a car?"
+        },
+        {
+          "speaker": "B",
+          "fi": "Joo, minulla on vanha auto. Se on Fiat.",
+          "en": "Yeah, I have an old car. It's a Fiat."
+        },
+        {
+          "speaker": "A",
+          "fi": "Kenellä on auto?",
+          "en": "Who has a car?"
+        },
+        {
+          "speaker": "B",
+          "fi": "Petrillä on auto.",
+          "en": "Petri has a car."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fi": "HUOM!",
+        "en": "Note!"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Minulla on nälkä.",
+          "en": "I am hungry."
+        },
+        {
+          "fi": "Minulla on jano.",
+          "en": "I am thirsty."
+        },
+        {
+          "fi": "Minulla on kiire.",
+          "en": "I am in a hurry."
+        },
+        {
+          "fi": "Minulla on kuuma.",
+          "en": "I am hot."
+        },
+        {
+          "fi": "Minulla on kylmä.",
+          "en": "I am cold."
+        },
+        {
+          "fi": "Minulla ei ole nälkä.",
+          "en": "I am not hungry."
+        },
+        {
+          "fi": "Minulla ei ole jano.",
+          "en": "I am not thirsty."
+        },
+        {
+          "fi": "Minulla ei ole kiire.",
+          "en": "I am not in a hurry."
+        },
+        {
+          "fi": "Minulla ei ole kuuma.",
+          "en": "I am not hot."
+        },
+        {
+          "fi": "Minulla ei ole kylmä.",
+          "en": "I am not cold."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "have-adessive",
+      "heading": "lla/llä + on",
+      "text": "Possession: owner in the adessive (-lla/-llä) + on + thing in the nominative. Adjectives agree: isolla koiralla. Question: Onko sinulla auto? / Kenellä on auto?",
+      "table": [
+        [
+          "Minulla",
+          "on",
+          "auto."
+        ],
+        [
+          "Sinulla",
+          "on",
+          "koira."
+        ],
+        [
+          "Hänellä",
+          "on",
+          "bussilippu."
+        ],
+        [
+          "Meillä",
+          "on",
+          "sauna."
+        ],
+        [
+          "Teillä",
+          "on",
+          "tytär."
+        ],
+        [
+          "Heillä",
+          "on",
+          "iso perhe."
+        ],
+        [
+          "Pedrolla",
+          "on",
+          "televisio."
+        ],
+        [
+          "Opettajalla",
+          "on",
+          "tietokone."
+        ],
+        [
+          "Isolla koiralla",
+          "on",
+          "luu."
+        ],
+        [
+          "Mialla ja Pialla",
+          "on",
+          "testi huomenna."
+        ]
+      ]
+    },
+    {
+      "topic": "negation",
+      "heading": "lla/llä + ei ole + P",
+      "text": "Negative possession: adessive + ei ole + partitive (autoa, koiraa, tytärtä, isoa perhettä, tietokonetta, luuta, testiä).",
+      "table": [
+        [
+          "Minulla",
+          "ei ole",
+          "autoa."
+        ],
+        [
+          "Sinulla",
+          "ei ole",
+          "koiraa."
+        ],
+        [
+          "Hänellä",
+          "ei ole",
+          "bussilippua."
+        ],
+        [
+          "Meillä",
+          "ei ole",
+          "saunaa."
+        ],
+        [
+          "Teillä",
+          "ei ole",
+          "tytärtä."
+        ],
+        [
+          "Heillä",
+          "ei ole",
+          "isoa perhettä."
+        ],
+        [
+          "Pedrolla",
+          "ei ole",
+          "televisiota."
+        ],
+        [
+          "Opettajalla",
+          "ei ole",
+          "tietokonetta."
+        ],
+        [
+          "Isolla koiralla",
+          "ei ole",
+          "luuta."
+        ],
+        [
+          "Mialla ja Pialla",
+          "ei ole",
+          "testiä huomenna."
+        ]
+      ]
+    },
+    {
+      "topic": "have-adessive",
+      "heading": "HUOM! Minulla on nälkä",
+      "text": "Physical states nälkä, jano, kiire, kuuma, kylmä stay in the nominative in the negative: Minulla ei ole nälkä. (EI PARTITIIVIA!)",
+      "table": [
+        [
+          "Minulla on nälkä.",
+          "Minulla ei ole nälkä."
+        ],
+        [
+          "Minulla on jano.",
+          "Minulla ei ole jano."
+        ],
+        [
+          "Minulla on kiire.",
+          "Minulla ei ole kiire."
+        ],
+        [
+          "Minulla on kuuma.",
+          "Minulla ei ole kuuma."
+        ],
+        [
+          "Minulla on kylmä.",
+          "Minulla ei ole kylmä."
+        ]
+      ]
+    }
+  ],
+  "exercises": []
+}

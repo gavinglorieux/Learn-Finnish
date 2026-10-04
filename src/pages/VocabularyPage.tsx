@@ -1,34 +1,36 @@
 import { useMemo, useState } from 'react'
-import { WORDS, CATEGORIES, wordsByCategory } from '@/data/vocabulary'
-type CategoryId = string
+import { WORDS, CATEGORIES, wordsByCategory, type CategoryId } from '@/data/vocabulary'
 import { speak } from '@/lib/tts'
 import { SearchIcon, SpeakerIcon, XIcon } from '@/components/Icons'
 import { useApp } from '@/state/AppState'
 import { masteryLevel } from '@/lib/srs'
 
+const PAGE = 150
+
 export default function VocabularyPage() {
   const { srs } = useApp()
   const [q, setQ] = useState('')
-  const [cat, setCat] = useState<CategoryId | 'all' | 'verbs'>('all')
+  const [cat, setCat] = useState<CategoryId | 'all'>('all')
+  // Rendering 2,000+ rows at once is slow on phones — show a page at a time.
+  const [limit, setLimit] = useState(PAGE)
 
-  // The category dropdown lists categories alphabetically by title.
-  // The synthetic "Verbs" entry is pinned so it's easy to find.
-  const sortedCategories = useMemo(() => {
-    const verbs = CATEGORIES.find((c) => c.id === 'verbs')
-    const rest = CATEGORIES.filter((c) => c.id !== 'verbs').slice().sort((a, b) => a.title.localeCompare(b.title))
-    return verbs ? [verbs, ...rest] : rest
-  }, [])
+  const sortedCategories = useMemo(() => CATEGORIES.slice().sort((a, b) => a.title.localeCompare(b.title)), [])
 
   const filtered = useMemo(() => {
     const s = q.trim().toLowerCase()
-    const pool = cat === 'verbs'
-      ? wordsByCategory('verbs')
-      : cat === 'all'
-        ? WORDS
-        : WORDS.filter((w) => w.category === cat)
-
+    const pool = (cat === 'all' ? WORDS : wordsByCategory(cat)).slice().sort((a, b) => a.fi.localeCompare(b.fi, 'fi'))
     if (!s) return pool
-    return pool.filter((w) => w.fi.toLowerCase().includes(s) || w.en.toLowerCase().includes(s))
+    // Finnish matches first (prefix before substring), then English.
+    const score = (w: (typeof pool)[number]) => {
+      const fi = w.fi.toLowerCase()
+      if (fi === s) return 0
+      if (fi.startsWith(s)) return 1
+      if (fi.includes(s)) return 2
+      return 3
+    }
+    return pool
+      .filter((w) => w.fi.toLowerCase().includes(s) || w.en.toLowerCase().includes(s))
+      .sort((a, b) => score(a) - score(b))
   }, [q, cat])
 
   return (
@@ -36,7 +38,7 @@ export default function VocabularyPage() {
       <div className="flex items-end justify-between gap-3">
         <div>
           <h1 className="text-2xl font-bold">Vocabulary</h1>
-          <p className="text-slate-500 dark:text-slate-400">{WORDS.length} words — tap the speaker to hear it.</p>
+          <p className="text-slate-500 dark:text-slate-400">{WORDS.length} words from the course — search in Finnish or English.</p>
         </div>
       </div>
 
@@ -47,7 +49,7 @@ export default function VocabularyPage() {
           <input
             type="text"
             value={q}
-            onChange={(e) => setQ(e.target.value)}
+            onChange={(e) => { setQ(e.target.value); setLimit(PAGE) }}
             placeholder="Search Finnish or English"
             autoComplete="off"
             spellCheck={false}
@@ -66,10 +68,10 @@ export default function VocabularyPage() {
         </label>
         <select
           value={cat}
-          onChange={(e) => setCat(e.target.value as CategoryId | 'all' | 'verbs')}
+          onChange={(e) => { setCat(e.target.value as CategoryId | 'all'); setLimit(PAGE) }}
           className="rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-finnish-400"
         >
-          <option value="all">All categories</option>
+          <option value="all">All groups</option>
           {sortedCategories.map((c) => (
             <option key={c.id} value={c.id}>{c.emoji} {c.title}</option>
           ))}
@@ -78,7 +80,7 @@ export default function VocabularyPage() {
 
       <div className="card divide-y divide-slate-100 dark:divide-slate-800">
         {filtered.length === 0 && <div className="p-6 text-center text-slate-500">No matches.</div>}
-        {filtered.map((w) => {
+        {filtered.slice(0, limit).map((w) => {
           const m = masteryLevel(srs[w.id])
           const c = CATEGORIES.find((x) => x.id === w.category)
           return (
@@ -93,6 +95,7 @@ export default function VocabularyPage() {
               <div className="min-w-0 flex-1">
                 <div className="font-semibold break-words">{w.fi}</div>
                 <div className="text-sm text-slate-500 dark:text-slate-400 break-words">{w.en}</div>
+                {w.notes && <div className="text-xs text-slate-400 break-words">{w.notes}</div>}
                 {c && (
                   <div className="mt-1 sm:hidden">
                     <span className="chip !text-[10px]">{c.emoji} {c.title}</span>
@@ -105,6 +108,11 @@ export default function VocabularyPage() {
           )
         })}
       </div>
+      {filtered.length > limit && (
+        <button onClick={() => setLimit((n) => n + PAGE)} className="btn-secondary w-full">
+          Show more ({filtered.length - limit} left)
+        </button>
+      )}
     </div>
   )
 }

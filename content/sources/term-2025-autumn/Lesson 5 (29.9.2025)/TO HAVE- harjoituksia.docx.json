@@ -1,0 +1,509 @@
+{
+  "source": "term-2025-autumn/Lesson 5 (29.9.2025)/TO HAVE- harjoituksia.docx",
+  "md5": "7c41d5b61ea5cd856861dfe8eba07c56",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 5,
+    "date": "2025-09-29"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "TO HAVE – harjoituksia",
+    "en": "To have – exercises"
+  },
+  "topics": [
+    "have-adessive",
+    "partitive",
+    "genitive",
+    "negation"
+  ],
+  "summary": "Translation exercise (28 sentences) on expressing possession with minulla on / minulla ei ole + partitive, family members, nationalities and being hungry/thirsty/hot/cold.",
+  "transcript": "TO HAVE: MINULLA ON ISOSISKO, MUTTA MINULLA EI OLE ISOVELJEÄ\nI have a big (older) sister, but I don’t have a big (older) brother\nKuinka sanot suomeksi:\n1. I have a little sister. (little sister= pikkusisko)\n2. Do you have a little sister?\n3. She has a big brother.\n4. My father has a big brother.\n5. But he doesn’t have a big sister.\n6. You have a young Mother. (young= nuori)\n7. How old is your Father?\n8. They have a lovely stepmother. (lovely= ihana, stepmother= äitipuoli)\n9. Their daughter is 5 years old.\n10. They have one daughter and one son.\n11. I don’t have a grandmother. She is deceased. (deceased= kuollut)\n12. My parents are retired. (parents= vanhemmat)\n13. They don’t have a good pension. (pension= eläke)\n14. Do they have an apartment of their own? (we say: ”own apartment”= oma asunto TAI omistusasunto)\n15. Susanna has a sister but she doesn’t have a brother.\n16. I don’t have an apartment of my own. But my boyfriend has his own apartment.\n17. I am hungry.\n18. Are you (plural ”you”) thirsty?\n19. We are hot. Are you hot?\n20. Is he cold? - Yes. He doesn’t have a thick coat with him. (thick= paksu, coat= takki, with him= mukana)\n21. Do they have an French Mother?\n22. No, they don’t. But my sister has a new husband. He is French. (new= uusi)\n23. Does her husband have any children? (any children= lapsia)\n24. They have a German father and an Estonian mother.\n25. My father is English and my mother is Scottish.\n26. Is your brother married? - Yes. He has a Russian wife.\n27. Do they have any children?\n27. No, they don’t. But they have a dog. The dog’s name is Panu and their dog has its own bed. (bed= peti)",
+  "words": [
+    {
+      "fi": "minulla on",
+      "en": "I have",
+      "pos": "phrase",
+      "theme": "family"
+    },
+    {
+      "fi": "minulla ei ole",
+      "en": "I don't have",
+      "pos": "phrase",
+      "theme": "family"
+    },
+    {
+      "fi": "isosisko",
+      "en": "big (older) sister",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "isoveli",
+      "en": "big (older) brother",
+      "pos": "noun",
+      "form_seen": "isoveljeä",
+      "theme": "family",
+      "note": "stem velje-"
+    },
+    {
+      "fi": "mutta",
+      "en": "but",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kuinka",
+      "en": "how",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "sanoa",
+      "en": "to say",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "sanot",
+      "theme": "classroom"
+    },
+    {
+      "fi": "suomeksi",
+      "en": "in Finnish",
+      "pos": "adv",
+      "theme": "classroom"
+    },
+    {
+      "fi": "pikkusisko",
+      "en": "little (younger) sister",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "pikkuveli",
+      "en": "little (younger) brother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "isä",
+      "en": "father",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "äiti",
+      "en": "mother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "nuori",
+      "en": "young",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "vanha",
+      "en": "old",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "ihana",
+      "en": "lovely, wonderful",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "äitipuoli",
+      "en": "stepmother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "tytär",
+      "en": "daughter",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "poika",
+      "en": "son; boy",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "vuosi",
+      "en": "year",
+      "pos": "noun",
+      "form_seen": "vuotta",
+      "theme": "days-time"
+    },
+    {
+      "fi": "yksi",
+      "en": "one",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "isoäiti",
+      "en": "grandmother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "kuollut",
+      "en": "deceased, dead",
+      "pos": "adj",
+      "theme": "family"
+    },
+    {
+      "fi": "vanhemmat",
+      "en": "parents",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "eläkkeellä",
+      "en": "retired",
+      "pos": "adv",
+      "theme": "professions"
+    },
+    {
+      "fi": "hyvä",
+      "en": "good",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "eläke",
+      "en": "pension",
+      "pos": "noun",
+      "theme": "shopping-money",
+      "note": "partitive eläkettä"
+    },
+    {
+      "fi": "oma",
+      "en": "own",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "asunto",
+      "en": "apartment, flat",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "omistusasunto",
+      "en": "owner-occupied apartment",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "tai",
+      "en": "or",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "sisko",
+      "en": "sister",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "veli",
+      "en": "brother",
+      "pos": "noun",
+      "theme": "family",
+      "note": "partitive veljeä"
+    },
+    {
+      "fi": "poikaystävä",
+      "en": "boyfriend",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "nälkä",
+      "en": "hunger (minulla on nälkä = I'm hungry)",
+      "pos": "noun",
+      "theme": "feelings"
+    },
+    {
+      "fi": "jano",
+      "en": "thirst (onko teillä jano = are you thirsty)",
+      "pos": "noun",
+      "theme": "feelings"
+    },
+    {
+      "fi": "kuuma",
+      "en": "hot",
+      "pos": "adj",
+      "theme": "weather"
+    },
+    {
+      "fi": "kylmä",
+      "en": "cold",
+      "pos": "adj",
+      "theme": "weather"
+    },
+    {
+      "fi": "paksu",
+      "en": "thick",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "takki",
+      "en": "coat, jacket",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "mukana",
+      "en": "with (one), along",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "ranskalainen",
+      "en": "French",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "uusi",
+      "en": "new",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "mies",
+      "en": "husband; man",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "lapsi",
+      "en": "child",
+      "pos": "noun",
+      "form_seen": "lapsia",
+      "theme": "family",
+      "note": "partitive pl lapsia = (any) children"
+    },
+    {
+      "fi": "saksalainen",
+      "en": "German",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "virolainen",
+      "en": "Estonian",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "englantilainen",
+      "en": "English",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "skotlantilainen",
+      "en": "Scottish",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "naimisissa",
+      "en": "married",
+      "pos": "adv",
+      "theme": "family"
+    },
+    {
+      "fi": "venäläinen",
+      "en": "Russian",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "vaimo",
+      "en": "wife",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "koira",
+      "en": "dog",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "nimi",
+      "en": "name",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "peti",
+      "en": "bed (colloquial)",
+      "pos": "noun",
+      "theme": "furniture"
+    },
+    {
+      "fi": "harjoitus",
+      "en": "exercise",
+      "pos": "noun",
+      "form_seen": "harjoituksia",
+      "theme": "classroom"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Minulla on isosisko, mutta minulla ei ole isoveljeä",
+        "en": "I have a big sister, but I don't have a big brother"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Minulla on isosisko, mutta minulla ei ole isoveljeä.",
+          "en": "I have a big (older) sister, but I don't have a big (older) brother."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Kuinka sanot suomeksi",
+      "instruction": "How do you say in Finnish (to have: minulla on / minulla ei ole + partitive).",
+      "topic": "have-adessive",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "I have a little sister.",
+          "answer": "Minulla on pikkusisko."
+        },
+        {
+          "prompt": "Do you have a little sister?",
+          "answer": "Onko sinulla pikkusiskoa?"
+        },
+        {
+          "prompt": "She has a big brother.",
+          "answer": "Hänellä on isoveli."
+        },
+        {
+          "prompt": "My father has a big brother.",
+          "answer": "Minun isälläni on isoveli."
+        },
+        {
+          "prompt": "But he doesn't have a big sister.",
+          "answer": "Mutta hänellä ei ole isosiskoa."
+        },
+        {
+          "prompt": "You have a young Mother.",
+          "answer": "Sinulla on nuori äiti."
+        },
+        {
+          "prompt": "How old is your Father?",
+          "answer": "Kuinka vanha sinun isäsi on?"
+        },
+        {
+          "prompt": "They have a lovely stepmother.",
+          "answer": "Heillä on ihana äitipuoli."
+        },
+        {
+          "prompt": "Their daughter is 5 years old.",
+          "answer": "Heidän tyttärensä on viisi vuotta vanha."
+        },
+        {
+          "prompt": "They have one daughter and one son.",
+          "answer": "Heillä on yksi tytär ja yksi poika."
+        },
+        {
+          "prompt": "I don't have a grandmother. She is deceased.",
+          "answer": "Minulla ei ole isoäitiä. Hän on kuollut."
+        },
+        {
+          "prompt": "My parents are retired.",
+          "answer": "Minun vanhempani ovat eläkkeellä."
+        },
+        {
+          "prompt": "They don't have a good pension.",
+          "answer": "Heillä ei ole hyvää eläkettä."
+        },
+        {
+          "prompt": "Do they have an apartment of their own?",
+          "answer": "Onko heillä oma asunto?"
+        },
+        {
+          "prompt": "Susanna has a sister but she doesn't have a brother.",
+          "answer": "Susannalla on sisko, mutta hänellä ei ole veljeä."
+        },
+        {
+          "prompt": "I don't have an apartment of my own. But my boyfriend has his own apartment.",
+          "answer": "Minulla ei ole omaa asuntoa. Mutta minun poikaystävälläni on oma asunto."
+        },
+        {
+          "prompt": "I am hungry.",
+          "answer": "Minulla on nälkä."
+        },
+        {
+          "prompt": "Are you (plural \"you\") thirsty?",
+          "answer": "Onko teillä jano?"
+        },
+        {
+          "prompt": "We are hot. Are you hot?",
+          "answer": "Meillä on kuuma. Onko sinulla kuuma?"
+        },
+        {
+          "prompt": "Is he cold? - Yes. He doesn't have a thick coat with him.",
+          "answer": "Onko hänellä kylmä? – Kyllä. Hänellä ei ole paksua takkia mukana."
+        },
+        {
+          "prompt": "Do they have an French Mother?",
+          "answer": "Onko heillä ranskalainen äiti?"
+        },
+        {
+          "prompt": "No, they don't. But my sister has a new husband. He is French.",
+          "answer": "Ei ole. Mutta minun siskollani on uusi mies. Hän on ranskalainen."
+        },
+        {
+          "prompt": "Does her husband have any children?",
+          "answer": "Onko hänen miehellään lapsia?"
+        },
+        {
+          "prompt": "They have a German father and an Estonian mother.",
+          "answer": "Heillä on saksalainen isä ja virolainen äiti."
+        },
+        {
+          "prompt": "My father is English and my mother is Scottish.",
+          "answer": "Minun isäni on englantilainen ja minun äitini on skotlantilainen."
+        },
+        {
+          "prompt": "Is your brother married? - Yes. He has a Russian wife.",
+          "answer": "Onko sinun veljesi naimisissa? – Kyllä. Hänellä on venäläinen vaimo."
+        },
+        {
+          "prompt": "Do they have any children?",
+          "answer": "Onko heillä lapsia?"
+        },
+        {
+          "prompt": "No, they don't. But they have a dog. The dog's name is Panu and their dog has its own bed.",
+          "answer": "Ei ole. Mutta heillä on koira. Koiran nimi on Panu ja heidän koirallaan on oma peti."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "have-adessive",
+      "heading": "TO HAVE",
+      "text": "Possession = owner in the adessive (-lla/-llä) + on: minulla on isosisko. Negative: minulla ei ole + partitive (isoveljeä). Feelings: minulla on nälkä / jano / kuuma / kylmä."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "source": "term-2025-autumn/Lesson 7 (13.10.2025)/1759643028454.jpg",
+  "md5": "6b02d4d008722b1160fda0df0c927a6a",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 7,
+    "date": "2025-10-13"
+  },
+  "kind": "vocab_list",
+  "title": {
+    "fi": "Värit — Minkävärinen?",
+    "en": "Colours — What colour?"
+  },
+  "topics": [
+    "colours-adjectives"
+  ],
+  "summary": "Textbook box listing ten basic colours with colour swatches, under the question \"Minkävärinen?\" (What colour?).",
+  "transcript": "Värit    Minkävärinen?\nvalkoinen    musta\npunainen    ruskea\nsininen    harmaa\nkeltainen    oranssi\nvihreä    liila",
+  "words": [
+    {
+      "fi": "väri",
+      "en": "colour",
+      "pos": "noun",
+      "form_seen": "värit",
+      "theme": "colours"
+    },
+    {
+      "fi": "minkävärinen",
+      "en": "what colour",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "valkoinen",
+      "en": "white",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "punainen",
+      "en": "red",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "sininen",
+      "en": "blue",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "keltainen",
+      "en": "yellow",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "vihreä",
+      "en": "green",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "musta",
+      "en": "black",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "ruskea",
+      "en": "brown",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "harmaa",
+      "en": "grey",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "oranssi",
+      "en": "orange",
+      "pos": "adj",
+      "theme": "colours"
+    },
+    {
+      "fi": "liila",
+      "en": "purple, lilac",
+      "pos": "adj",
+      "theme": "colours"
+    }
+  ],
+  "texts": [],
+  "exercises": [],
+  "grammar_notes": []
+}

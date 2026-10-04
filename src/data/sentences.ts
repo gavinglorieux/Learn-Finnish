@@ -51,7 +51,7 @@ export const SENTENCES: Sentence[] = [
     fi: 'Oletko sinä suomalainen?',
     en: 'Are you Finnish?',
     topic: 'questions',
-    gap: { word: 'Oletko', distractors: ['Onko', 'Olenko', 'Olenko'] }
+    gap: { word: 'Oletko', distractors: ['Onko', 'Olenko', 'Olemmeko'] }
   },
   {
     id: 'have-1',

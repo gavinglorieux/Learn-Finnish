@@ -1,0 +1,175 @@
+{
+ "source": "term-2025-autumn/Lesson 11 (17.11.2025)/1762854068192.jpg",
+ "md5": "02ab1ecb90379a84c8fd063480feb069",
+ "also_in": [],
+ "lesson": {
+  "term": "term-2025-autumn",
+  "number": 11,
+  "date": "2025-11-17"
+ },
+ "kind": "picture_vocab",
+ "title": {
+  "fi": "Paikat",
+  "en": "Places — match the pictures to the words"
+ },
+ "topics": [
+  "place-names",
+  "local-cases"
+ ],
+ "summary": "Picture-matching exercise: twelve numbered drawings of places (6 left, 6 right) to be labelled with the words from the central box (jäätelökioski, uimahalli, lentoasema …). 'sairaala' is pre-filled as the example and crossed out in the box.",
+ "transcript": "jäätelökioski\nuimahalli\nlentoasema\nterassi\nhuoltoasema\ntori\nkahvila\nkurssi\nposti\nsairaala (crossed out)\nsuihku\ntoimisto\n\nLeft:\n1. sairaala\n2. ____\n3. ____\n4. ____\n5. ____\n6. ____\n\nRight:\n1. ____\n2. ____\n3. ____\n4. ____\n5. ____\n6. ____",
+ "words": [
+  {
+   "fi": "jäätelökioski",
+   "en": "ice-cream kiosk",
+   "pos": "noun",
+   "theme": "places-town",
+   "note": "jäätelö + kioski"
+  },
+  {
+   "fi": "jäätelö",
+   "en": "ice cream",
+   "pos": "noun",
+   "theme": "food-meals",
+   "note": "part of the compound jäätelökioski"
+  },
+  {
+   "fi": "uimahalli",
+   "en": "indoor swimming pool",
+   "pos": "noun",
+   "theme": "places-town"
+  },
+  {
+   "fi": "lentoasema",
+   "en": "airport",
+   "pos": "noun",
+   "theme": "transport"
+  },
+  {
+   "fi": "terassi",
+   "en": "terrace (outdoor seating)",
+   "pos": "noun",
+   "theme": "places-town"
+  },
+  {
+   "fi": "huoltoasema",
+   "en": "petrol station, service station",
+   "pos": "noun",
+   "theme": "places-town"
+  },
+  {
+   "fi": "tori",
+   "en": "market square, marketplace",
+   "pos": "noun",
+   "theme": "places-town"
+  },
+  {
+   "fi": "kahvila",
+   "en": "café",
+   "pos": "noun",
+   "theme": "cafe-shop"
+  },
+  {
+   "fi": "kurssi",
+   "en": "course, class",
+   "pos": "noun",
+   "theme": "school-work"
+  },
+  {
+   "fi": "posti",
+   "en": "post office; post, mail",
+   "pos": "noun",
+   "theme": "places-town"
+  },
+  {
+   "fi": "sairaala",
+   "en": "hospital",
+   "pos": "noun",
+   "theme": "health"
+  },
+  {
+   "fi": "suihku",
+   "en": "shower",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "toimisto",
+   "en": "office",
+   "pos": "noun",
+   "theme": "school-work"
+  }
+ ],
+ "texts": [],
+ "exercises": [
+  {
+   "title": "Places — match the pictures and the words",
+   "instruction": "Write the correct word from the box under each picture.",
+   "topic": "place-names",
+   "answer_source": "derived",
+   "items": [
+    {
+     "prompt": "Left 1. (ambulance and hospital building) ____",
+     "answer": "sairaala",
+     "en": "hospital (example, pre-filled)"
+    },
+    {
+     "prompt": "Left 2. (shower head spraying water) ____",
+     "answer": "suihku",
+     "en": "shower"
+    },
+    {
+     "prompt": "Left 3. (control tower and aeroplane) ____",
+     "answer": "lentoasema",
+     "en": "airport"
+    },
+    {
+     "prompt": "Left 4. (market stalls with a parasol and price sign) ____",
+     "answer": "tori",
+     "en": "market square"
+    },
+    {
+     "prompt": "Left 5. (two people at a table on a terrace) ____",
+     "answer": "terassi",
+     "en": "terrace"
+    },
+    {
+     "prompt": "Left 6. (person at a desk with computer, files and clock) ____",
+     "answer": "toimisto",
+     "en": "office"
+    },
+    {
+     "prompt": "Right 1. (man filling a car at a pump) ____",
+     "answer": "huoltoasema",
+     "en": "petrol station"
+    },
+    {
+     "prompt": "Right 2. (cup of coffee and a pastry) ____",
+     "answer": "kahvila",
+     "en": "café"
+    },
+    {
+     "prompt": "Right 3. (people swimming in a pool) ____",
+     "answer": "uimahalli",
+     "en": "indoor swimming pool"
+    },
+    {
+     "prompt": "Right 4. (vendor handing over an ice-cream cone) ____",
+     "answer": "jäätelökioski",
+     "en": "ice-cream kiosk"
+    },
+    {
+     "prompt": "Right 5. (parcel, letter and pen) ____",
+     "answer": "posti",
+     "en": "post office"
+    },
+    {
+     "prompt": "Right 6. (students in a classroom with a teacher at the board) ____",
+     "answer": "kurssi",
+     "en": "course, class"
+    }
+   ]
+  }
+ ],
+ "grammar_notes": []
+}

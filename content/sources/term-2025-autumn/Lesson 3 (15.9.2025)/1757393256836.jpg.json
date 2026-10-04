@@ -1,0 +1,793 @@
+{
+  "source": "term-2025-autumn/Lesson 3 (15.9.2025)/1757393256836.jpg",
+  "md5": "56c5795248f1164f441a661480b58a5b",
+  "also_in": [
+    "term-2025-autumn/Lesson 4 (22.9.2025)/1758112227977.jpg"
+  ],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 3,
+    "date": "2025-09-15"
+  },
+  "kind": "text",
+  "title": {
+    "fi": "Perhe ja suku",
+    "en": "Family and relatives"
+  },
+  "topics": [
+    "genitive",
+    "olla",
+    "negation"
+  ],
+  "summary": "Reading text: nine members of one extended family introduce themselves (age, job, marital status and relationship to the others, using the genitive), followed by a list of 'Olen …/Hän on …' sentences with adjectives of mood and character.",
+  "transcript": "PERHE JA SUKU\n\nMinä olen Sami. Minä olen 26-vuotias. Minä olen ATK-ohjelmoija. Olen naimisissa. Minun vaimon nimi on Susanna.\n\nMinun nimi on Susanna. Minä olen Samin vaimo. Tämä on meidän poika, Hannu. Minä olen opettaja. Olen 25-vuotias. Hannu on 3-vuotias.\n\nMinä olen Pyry. Minä olen Susannan veli ja Samin lanko. Sami on minun siskon mies. Minä olen 31-vuotias. Minä en ole naimisissa. Olen rakennusmies.\n\nMinun nimi on Tuija-Mari. Minä olen Samin äiti ja Hannun isoäiti. Olen siis myös Susannan anoppi. Hän on minun miniä. Olen 48-vuotias. Olen naimisissa. Minun miehen nimi on Erkki. Hän on 52-vuotias. Minä olen kotirouva. Erkki on putkimies.\n\nMinä olen Olavi. Minä olen Susannan isä, Samin appiukko ja Hannun isoisä. Sami on minun vävy. Olen 49-vuotias metsuri. Minä olen eronnut.\n\nMinun nimi on Kielo. Olen Susannan äiti. Olavi on minun ex-mies. Minä olen naimisissa. Minun uusi mies on Jukka. Minä olen 48-vuotias. Olen kauppa-apulainen. Jukka on 60-vuotias. Hän on maanviljelijä. Hannu on minun lapsenlapsi.\n\nMinä olen Minna. Minä olen Susannan sisko ja Hannun täti. Olen 31-vuotias. Olen naimisissa. Olen poliisi. Hannu on minun siskon poika. Minun miehen nimi on Tuomas. Hän on 32-vuotias. Hän on lääkäri. Meidän tytär on 11-vuotias. Hänen nimi on Hannele. Hannele on Hannun serkku.\n\nMinä olen Jaakko. Olen 27-vuotias. Minä olen Samin veli ja Hannun setä. Olen kihloissa. Minun tyttöystävän nimi on Piia. Hän on myös 27-vuotias. Minä olen bussikuski ja Piia on parturi.\n\nMinun nimi on Orvokki. Olen 81-vuotias. Olen Kielon äiti. Minun mies Pertti on kuollut. Minä olen leski. Olen eläkkeellä. Olen Hannun isoisoäiti ja Susannan isoäiti.\n\nOlen väsynyt. Olen kiukkuinen. Olen onnellinen. Olen tyytyväinen. Olen surullinen. Olen valmis. Olen puolisuomalainen. Olen amerikkalainen. Hän on tyhmä. Hän on ilkeä. Hän on ärsyttävä. Hän on kiva. Hän on mukava.\n\n1",
+  "words": [
+    {
+      "fi": "perhe",
+      "en": "family",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "ja",
+      "en": "and",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "suku",
+      "en": "extended family, relatives",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "minä",
+      "en": "I",
+      "pos": "pron",
+      "form_seen": "minun",
+      "theme": "people"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "forms": {
+        "minä": "olen",
+        "hän": "on",
+        "negative minä": "en ole"
+      },
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "-vuotias",
+      "en": "… years old",
+      "pos": "adj",
+      "form_seen": "26-vuotias",
+      "note": "number + -vuotias",
+      "theme": "numbers"
+    },
+    {
+      "fi": "ATK-ohjelmoija",
+      "en": "computer programmer",
+      "pos": "noun",
+      "note": "ATK = automaattinen tietojenkäsittely",
+      "theme": "professions"
+    },
+    {
+      "fi": "naimisissa",
+      "en": "married",
+      "pos": "adv",
+      "theme": "family"
+    },
+    {
+      "fi": "vaimo",
+      "en": "wife",
+      "pos": "noun",
+      "form_seen": "vaimon",
+      "theme": "family"
+    },
+    {
+      "fi": "nimi",
+      "en": "name",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "tämä",
+      "en": "this",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "me",
+      "en": "we",
+      "pos": "pron",
+      "form_seen": "meidän",
+      "theme": "people"
+    },
+    {
+      "fi": "poika",
+      "en": "son; boy",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "opettaja",
+      "en": "teacher",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "veli",
+      "en": "brother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "lanko",
+      "en": "brother-in-law",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "sisko",
+      "en": "sister",
+      "pos": "noun",
+      "form_seen": "siskon",
+      "theme": "family"
+    },
+    {
+      "fi": "mies",
+      "en": "husband; man",
+      "pos": "noun",
+      "form_seen": "miehen",
+      "note": "genitive miehen",
+      "theme": "family"
+    },
+    {
+      "fi": "ei",
+      "en": "not (negation verb)",
+      "pos": "verb",
+      "form_seen": "en",
+      "note": "minä en ole",
+      "theme": "little-words"
+    },
+    {
+      "fi": "rakennusmies",
+      "en": "construction worker",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "äiti",
+      "en": "mother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "isoäiti",
+      "en": "grandmother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "siis",
+      "en": "so, therefore",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "myös",
+      "en": "also",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "anoppi",
+      "en": "mother-in-law",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "hän",
+      "en": "he, she",
+      "pos": "pron",
+      "form_seen": "hänen",
+      "theme": "people"
+    },
+    {
+      "fi": "miniä",
+      "en": "daughter-in-law",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "kotirouva",
+      "en": "housewife",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "putkimies",
+      "en": "plumber",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "isä",
+      "en": "father",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "appiukko",
+      "en": "father-in-law",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "isoisä",
+      "en": "grandfather",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "vävy",
+      "en": "son-in-law",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "metsuri",
+      "en": "forestry worker, lumberjack",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "eronnut",
+      "en": "divorced",
+      "pos": "adj",
+      "theme": "family"
+    },
+    {
+      "fi": "ex-mies",
+      "en": "ex-husband",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "uusi",
+      "en": "new",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "kauppa-apulainen",
+      "en": "shop assistant",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "maanviljelijä",
+      "en": "farmer",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "lapsenlapsi",
+      "en": "grandchild",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "täti",
+      "en": "aunt",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "poliisi",
+      "en": "police officer",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "lääkäri",
+      "en": "doctor",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "tytär",
+      "en": "daughter",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "serkku",
+      "en": "cousin",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "setä",
+      "en": "uncle (father's brother)",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "kihloissa",
+      "en": "engaged (to be married)",
+      "pos": "adv",
+      "theme": "family"
+    },
+    {
+      "fi": "tyttöystävä",
+      "en": "girlfriend",
+      "pos": "noun",
+      "form_seen": "tyttöystävän",
+      "theme": "family"
+    },
+    {
+      "fi": "bussikuski",
+      "en": "bus driver",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "parturi",
+      "en": "barber",
+      "pos": "noun",
+      "theme": "professions"
+    },
+    {
+      "fi": "kuollut",
+      "en": "dead, deceased",
+      "pos": "adj",
+      "theme": "family"
+    },
+    {
+      "fi": "leski",
+      "en": "widow, widower",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "eläkkeellä",
+      "en": "retired",
+      "pos": "adv",
+      "theme": "school-work"
+    },
+    {
+      "fi": "isoisoäiti",
+      "en": "great-grandmother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "väsynyt",
+      "en": "tired",
+      "pos": "adj",
+      "theme": "feelings"
+    },
+    {
+      "fi": "kiukkuinen",
+      "en": "cross, grumpy",
+      "pos": "adj",
+      "theme": "feelings"
+    },
+    {
+      "fi": "onnellinen",
+      "en": "happy",
+      "pos": "adj",
+      "theme": "feelings"
+    },
+    {
+      "fi": "tyytyväinen",
+      "en": "satisfied, content",
+      "pos": "adj",
+      "theme": "feelings"
+    },
+    {
+      "fi": "surullinen",
+      "en": "sad",
+      "pos": "adj",
+      "theme": "feelings"
+    },
+    {
+      "fi": "valmis",
+      "en": "ready",
+      "pos": "adj",
+      "theme": "feelings"
+    },
+    {
+      "fi": "puolisuomalainen",
+      "en": "half-Finnish",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "amerikkalainen",
+      "en": "American",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "tyhmä",
+      "en": "stupid",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "ilkeä",
+      "en": "mean, nasty",
+      "pos": "adj",
+      "theme": "appearance"
+    },
+    {
+      "fi": "ärsyttävä",
+      "en": "annoying",
+      "pos": "adj",
+      "theme": "feelings"
+    },
+    {
+      "fi": "kiva",
+      "en": "nice",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "mukava",
+      "en": "pleasant, nice, comfortable",
+      "pos": "adj",
+      "theme": "adjectives"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Perhe ja suku",
+        "en": "Family and relatives"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Minä olen Sami.",
+          "en": "I am Sami."
+        },
+        {
+          "fi": "Minä olen 26-vuotias.",
+          "en": "I am 26 years old."
+        },
+        {
+          "fi": "Minä olen ATK-ohjelmoija.",
+          "en": "I am a computer programmer."
+        },
+        {
+          "fi": "Olen naimisissa.",
+          "en": "I am married."
+        },
+        {
+          "fi": "Minun vaimon nimi on Susanna.",
+          "en": "My wife's name is Susanna."
+        },
+        {
+          "fi": "Minun nimi on Susanna.",
+          "en": "My name is Susanna."
+        },
+        {
+          "fi": "Minä olen Samin vaimo.",
+          "en": "I am Sami's wife."
+        },
+        {
+          "fi": "Tämä on meidän poika, Hannu.",
+          "en": "This is our son, Hannu."
+        },
+        {
+          "fi": "Minä olen opettaja.",
+          "en": "I am a teacher."
+        },
+        {
+          "fi": "Olen 25-vuotias.",
+          "en": "I am 25 years old."
+        },
+        {
+          "fi": "Hannu on 3-vuotias.",
+          "en": "Hannu is 3 years old."
+        },
+        {
+          "fi": "Minä olen Pyry.",
+          "en": "I am Pyry."
+        },
+        {
+          "fi": "Minä olen Susannan veli ja Samin lanko.",
+          "en": "I am Susanna's brother and Sami's brother-in-law."
+        },
+        {
+          "fi": "Sami on minun siskon mies.",
+          "en": "Sami is my sister's husband."
+        },
+        {
+          "fi": "Minä olen 31-vuotias.",
+          "en": "I am 31 years old."
+        },
+        {
+          "fi": "Minä en ole naimisissa.",
+          "en": "I am not married."
+        },
+        {
+          "fi": "Olen rakennusmies.",
+          "en": "I am a construction worker."
+        },
+        {
+          "fi": "Minun nimi on Tuija-Mari.",
+          "en": "My name is Tuija-Mari."
+        },
+        {
+          "fi": "Minä olen Samin äiti ja Hannun isoäiti.",
+          "en": "I am Sami's mother and Hannu's grandmother."
+        },
+        {
+          "fi": "Olen siis myös Susannan anoppi.",
+          "en": "So I am also Susanna's mother-in-law."
+        },
+        {
+          "fi": "Hän on minun miniä.",
+          "en": "She is my daughter-in-law."
+        },
+        {
+          "fi": "Olen 48-vuotias.",
+          "en": "I am 48 years old."
+        },
+        {
+          "fi": "Olen naimisissa.",
+          "en": "I am married."
+        },
+        {
+          "fi": "Minun miehen nimi on Erkki.",
+          "en": "My husband's name is Erkki."
+        },
+        {
+          "fi": "Hän on 52-vuotias.",
+          "en": "He is 52 years old."
+        },
+        {
+          "fi": "Minä olen kotirouva.",
+          "en": "I am a housewife."
+        },
+        {
+          "fi": "Erkki on putkimies.",
+          "en": "Erkki is a plumber."
+        },
+        {
+          "fi": "Minä olen Olavi.",
+          "en": "I am Olavi."
+        },
+        {
+          "fi": "Minä olen Susannan isä, Samin appiukko ja Hannun isoisä.",
+          "en": "I am Susanna's father, Sami's father-in-law and Hannu's grandfather."
+        },
+        {
+          "fi": "Sami on minun vävy.",
+          "en": "Sami is my son-in-law."
+        },
+        {
+          "fi": "Olen 49-vuotias metsuri.",
+          "en": "I am a 49-year-old forestry worker."
+        },
+        {
+          "fi": "Minä olen eronnut.",
+          "en": "I am divorced."
+        },
+        {
+          "fi": "Minun nimi on Kielo.",
+          "en": "My name is Kielo."
+        },
+        {
+          "fi": "Olen Susannan äiti.",
+          "en": "I am Susanna's mother."
+        },
+        {
+          "fi": "Olavi on minun ex-mies.",
+          "en": "Olavi is my ex-husband."
+        },
+        {
+          "fi": "Minä olen naimisissa.",
+          "en": "I am married."
+        },
+        {
+          "fi": "Minun uusi mies on Jukka.",
+          "en": "My new husband is Jukka."
+        },
+        {
+          "fi": "Minä olen 48-vuotias.",
+          "en": "I am 48 years old."
+        },
+        {
+          "fi": "Olen kauppa-apulainen.",
+          "en": "I am a shop assistant."
+        },
+        {
+          "fi": "Jukka on 60-vuotias.",
+          "en": "Jukka is 60 years old."
+        },
+        {
+          "fi": "Hän on maanviljelijä.",
+          "en": "He is a farmer."
+        },
+        {
+          "fi": "Hannu on minun lapsenlapsi.",
+          "en": "Hannu is my grandchild."
+        },
+        {
+          "fi": "Minä olen Minna.",
+          "en": "I am Minna."
+        },
+        {
+          "fi": "Minä olen Susannan sisko ja Hannun täti.",
+          "en": "I am Susanna's sister and Hannu's aunt."
+        },
+        {
+          "fi": "Olen 31-vuotias.",
+          "en": "I am 31 years old."
+        },
+        {
+          "fi": "Olen naimisissa.",
+          "en": "I am married."
+        },
+        {
+          "fi": "Olen poliisi.",
+          "en": "I am a police officer."
+        },
+        {
+          "fi": "Hannu on minun siskon poika.",
+          "en": "Hannu is my sister's son."
+        },
+        {
+          "fi": "Minun miehen nimi on Tuomas.",
+          "en": "My husband's name is Tuomas."
+        },
+        {
+          "fi": "Hän on 32-vuotias.",
+          "en": "He is 32 years old."
+        },
+        {
+          "fi": "Hän on lääkäri.",
+          "en": "He is a doctor."
+        },
+        {
+          "fi": "Meidän tytär on 11-vuotias.",
+          "en": "Our daughter is 11 years old."
+        },
+        {
+          "fi": "Hänen nimi on Hannele.",
+          "en": "Her name is Hannele."
+        },
+        {
+          "fi": "Hannele on Hannun serkku.",
+          "en": "Hannele is Hannu's cousin."
+        },
+        {
+          "fi": "Minä olen Jaakko.",
+          "en": "I am Jaakko."
+        },
+        {
+          "fi": "Olen 27-vuotias.",
+          "en": "I am 27 years old."
+        },
+        {
+          "fi": "Minä olen Samin veli ja Hannun setä.",
+          "en": "I am Sami's brother and Hannu's uncle."
+        },
+        {
+          "fi": "Olen kihloissa.",
+          "en": "I am engaged."
+        },
+        {
+          "fi": "Minun tyttöystävän nimi on Piia.",
+          "en": "My girlfriend's name is Piia."
+        },
+        {
+          "fi": "Hän on myös 27-vuotias.",
+          "en": "She is also 27 years old."
+        },
+        {
+          "fi": "Minä olen bussikuski ja Piia on parturi.",
+          "en": "I am a bus driver and Piia is a barber."
+        },
+        {
+          "fi": "Minun nimi on Orvokki.",
+          "en": "My name is Orvokki."
+        },
+        {
+          "fi": "Olen 81-vuotias.",
+          "en": "I am 81 years old."
+        },
+        {
+          "fi": "Olen Kielon äiti.",
+          "en": "I am Kielo's mother."
+        },
+        {
+          "fi": "Minun mies Pertti on kuollut.",
+          "en": "My husband Pertti has died."
+        },
+        {
+          "fi": "Minä olen leski.",
+          "en": "I am a widow."
+        },
+        {
+          "fi": "Olen eläkkeellä.",
+          "en": "I am retired."
+        },
+        {
+          "fi": "Olen Hannun isoisoäiti ja Susannan isoäiti.",
+          "en": "I am Hannu's great-grandmother and Susanna's grandmother."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fi": "Olen … / Hän on …",
+        "en": "I am … / He/she is …"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Olen väsynyt.",
+          "en": "I am tired."
+        },
+        {
+          "fi": "Olen kiukkuinen.",
+          "en": "I am cross / grumpy."
+        },
+        {
+          "fi": "Olen onnellinen.",
+          "en": "I am happy."
+        },
+        {
+          "fi": "Olen tyytyväinen.",
+          "en": "I am satisfied."
+        },
+        {
+          "fi": "Olen surullinen.",
+          "en": "I am sad."
+        },
+        {
+          "fi": "Olen valmis.",
+          "en": "I am ready."
+        },
+        {
+          "fi": "Olen puolisuomalainen.",
+          "en": "I am half-Finnish."
+        },
+        {
+          "fi": "Olen amerikkalainen.",
+          "en": "I am American."
+        },
+        {
+          "fi": "Hän on tyhmä.",
+          "en": "He/she is stupid."
+        },
+        {
+          "fi": "Hän on ilkeä.",
+          "en": "He/she is mean."
+        },
+        {
+          "fi": "Hän on ärsyttävä.",
+          "en": "He/she is annoying."
+        },
+        {
+          "fi": "Hän on kiva.",
+          "en": "He/she is nice."
+        },
+        {
+          "fi": "Hän on mukava.",
+          "en": "He/she is pleasant / nice."
+        }
+      ]
+    }
+  ],
+  "exercises": [],
+  "grammar_notes": []
+}

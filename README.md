@@ -8,32 +8,20 @@ Every push to `main` rebuilds and redeploys via the `.github/workflows/deploy.ym
 
 ## What's inside
 
-Content is normalised by `scripts/normalize.py` into four JSON files under `content/`:
+All content comes from Gavin's Monday Finnish course with **Teija Perttilä** (Finnish Institute, London): every worksheet, photo, text and dialogue handed out from autumn 2025 to autumn 2026, checked and filled out with web references (Wiktionary, uusikielemme.fi, Wikipedia's Finnish grammar).
 
-- `items.json` — 123 unique learning items (vocabulary tables, verb conjugations, grammar rules, exercises, phrase lists, notes, reference documents)
-- `lessons.json` — 26 lessons, each pointing to its items
-- `topics.json` — 163 topic slugs, each mapping to the items that touch that topic
-- `report.json` — summary of the last parser run
-
-The app in `src/` treats these as the **single source of truth** and builds everything from them.
-
-- **1,089 word pairs** extracted from the course, browsable and searchable
-- **35 vocabulary categories** derived from real course tables
-- **21 grammar topics** — a concise primer plus the course's own grammar rules
-- **26 lessons** you can browse chronologically
-- **4 real course exercises** (with answer keys) turned into interactive fill-the-blank rounds
-- **9 practice modes**, each exercising different skills:
-  - **Smart review** — spaced-repetition queue (Leitner boxes) that surfaces words right before you'd forget them
-  - **Flashcards** — classic flip cards with self-assessment
-  - **Multiple choice** — both directions, with category-based distractors
-  - **Typing** — active recall with ä/ö/å keyboard helpers
-  - **Match pairs** — memory-style Finnish↔English pair matching
-  - **Listen & match** — hear the Finnish (Web Speech fi-FI), pick the meaning
-  - **Verb conjugator** — Type 1 & Type 2 verbs (with consonant gradation), all 6 persons, negatives
-  - **Fill the gap** — complete sentences with the correct word or case form
-  - **Course exercises** — real fill-in-the-blank rounds straight from the course, with full answer keys
-- **Gamification** — XP, levels, streaks, daily goals, 11 achievements, confetti on milestones
-- **Full reference** — searchable vocabulary and grammar browsers
+- **2,333 words** in **54 groups** across 10 sections (basics, people, time, home, food, out & about, nature, health, free time, word types), each with English, word class, verb type and notes
+- **44 grammar lessons** in 6 parts, in learning order: sounds & spelling → first steps → nouns & cases → verbs (types 1–6, K-P-T, imperative) → places & movement (local cases, postpositions) → time & everyday life. Each has rules, full tables, course examples, exceptions, cross-links and practice links
+- **37 lessons** (every class across Autumn 2025, Spring 2026, Summer 2026 and Autumn 2026), each linking its grammar, vocabulary, texts, exercises and the full handout transcripts
+- **61 reading texts & dialogues** with line-by-line translations and tap-to-translate
+- **113 exercises (1,478 questions)**: 102 real course worksheets and 11 grammar drills
+- **Practice modes**:
+  - **Smart review**: spaced repetition (Leitner boxes)
+  - **Flashcards**, **Multiple choice**, **Typing**, **Match pairs**, **Listen & match**: by group or by lesson
+  - **Verb conjugator**: all ~255 course verbs, types 1–6, with K-P-T, negative and imperative modes
+  - **Fill the gap**
+  - **Course exercises & grammar drills**: local cases, illative, genitive, partitive, plural, K-P-T in nouns, postpositions, minulla on, question words, clock, days/months/seasons
+- **Gamification**: XP, levels, streaks, daily goals, achievements
 
 ## Get started
 
@@ -78,45 +66,53 @@ The in-app `/install` page has the same guide for end users.
 - **LocalStorage** for persistence (progress, SRS boxes, settings). Falls back to in-memory when unavailable (Safari private mode).
 - **Web Speech API** (`fi-FI`) for pronunciation — zero server round-trips. Gracefully no-ops when unavailable.
 - **Leitner box SRS** with 5 boxes and intervals of 10 min → 1d → 3d → 7d → 21d.
-- **Consonant gradation** is built into the Type 1 verb conjugator so forms like `nukkua → nukun` are correct.
+- **Conjugation engine** (`src/data/conjugate.ts`) covers verb types 1–6 with K-P-T in both directions (`nukkua → nukun`, `tavata → tapaan`), negatives and the imperative.
 
-## Extending the content
+## Content pipeline
 
-The app is designed for the course to keep growing. When new source material (PDFs, docx, JPEGs) becomes available:
+`content/` is the single source of truth. It has three layers:
 
-1. **Put the new files under `raw/`** (git-ignored).
-2. **Run the parsing pipeline**:
+| Layer | Files | Written by |
+|---|---|---|
+| Source transcriptions | `content/sources/<term>/<Lesson N (D.M.YYYY)>/<file>.json`, one per course file | vision/pandoc transcription, reviewed; shape in `scripts/EXTRACTION_SPEC.md` |
+| Curated | `content/grammar/NN-*.json` (grammar course), `content/curated/groups.json` (vocab sections), `content/curated/lessons.json` (per-class titles/topics), `content/curated/drills.json`, `content/curated/word-fixes.json` | by hand |
+| Generated | `content/vocab.json`, `grammar.json`, `texts.json`, `exercises.json`, `course.json`, `handouts.json`, `report.json` | `scripts/build-content.py` |
+
+To add new class material:
+
+1. **Get the files into `raw/`** (git-ignored), under `raw/<term>/Lesson N (D.M.YYYY)/`:
    ```bash
-   bash scripts/sync-from-drive.sh       # mirror source files from Google Drive (optional)
-   bash scripts/parse-docs.sh            # extract structured data into parsed/
-   python scripts/normalize.py           # merge, dedupe, emit content/*.json
+   bash scripts/sync-from-drive.sh   # mirrors the Drive folders in scripts/drive-sources.conf
    ```
-3. **Re-run the app** — `pnpm build` or `pnpm dev`. The UI automatically picks up the new items, lessons, topics, grammar rules, exercises and words. No code changes needed.
+   Teija also emails material (`from:taniperttila@gmail.com`). Anything that's only in Gmail has to be downloaded from the email and saved into the matching lesson folder; add a new term folder to `drive-sources.conf` once it's on Drive.
+2. **Extract text**: `bash scripts/parse-docs.sh` (docx/odt via pandoc, pdf via pdftotext → `parsed/`).
+3. **Transcribe** each new file into `content/sources/…/<file>.json` following `scripts/EXTRACTION_SPEC.md` (photos are read with Claude vision). Add or adjust the lesson in `content/curated/lessons.json`.
+4. **Build**: `python3 scripts/build-content.py`, then `pnpm test` (the content-shape tests catch broken links, unknown groups and verb-type mismatches).
 
-All UI views derive from `src/data/course.ts` which consumes the `content/*.json` files. The old hand-curated `grammar.ts` and `verbs.ts` remain as a beginner primer and a conjugation engine (for the interactive verb drill); they do not need to be edited when new lessons are added.
+Lesson pages list handouts that are still missing under "still to be added" (the `gmailOnly` field in `lessons.json`).
 
 ## Directory layout
 
 ```
-content/         normalised JSON from the parser (source of truth)
-scripts/         parsing + icon-generation scripts
+content/         course content (sources → curated → generated JSON)
+scripts/         Drive sync, doc parsing, content build, icon generation
 src/
-  data/          course adapter + grammar/verb primers
+  data/          content.ts (typed content), conjugate.ts (verb engine), vocabulary/verbs adapters
   lib/           storage, SRS, progress/XP, TTS, utils
   state/         settings & app context
   components/    shared UI (Layout, Toasts, Confetti, Icons)
   exercises/     one file per practice mode + shell + summary
-  pages/         routed pages (Home, Learn, Lessons, Practice, Grammar, Vocabulary, …)
+  pages/         routed pages (Home, Learn, Lessons, Reading, Practice, Grammar, Vocabulary, …)
 tests/           unit tests (verbs, SRS, progress, utils, course adapter)
 ```
 
 ## Tests
 
-- `tests/verbs.test.ts` — verb conjugation correctness including gradation and irregulars
+- `tests/conjugate.test.ts`: verb types 1–6, K-P-T both ways, irregulars, imperative
 - `tests/srs.test.ts` — Leitner box progression and due-queue logic
 - `tests/progress.test.ts` — XP → level curve
 - `tests/utils.test.ts` — answer-matching, shuffle, sampleN
-- `tests/course.test.ts` — content pipeline shape: item schema, lesson/topic cross-references
+- `tests/course.test.ts`: content shape and cross-references (words, grammar links, texts, exercises, lessons), plus every course verb checked against the conjugation engine
 
 Run `pnpm test`.
 
@@ -132,5 +128,5 @@ Outputs into `public/icons/`.
 
 ## Credits
 
-- Course content summarised from the in-person Finnish beginner course (Lessons 1–14) as processed by Claude from PDF/JPEG/Word source material.
+- Course material by Teija Perttilä (Finnish Institute, London), transcribed and organised by Claude from the Word, PDF and photo handouts.
 - Built with love for Gavin's journey into Finnish. Onnea matkaan! 🎉

@@ -1,0 +1,186 @@
+{
+ "source": "term-2025-autumn/Lesson 12 (24.11.2025)/1763834730072.jpg",
+ "md5": "69d33ee575079d56badf8e1e9d8c08e3",
+ "also_in": [],
+ "lesson": {
+  "term": "term-2025-autumn",
+  "number": 12,
+  "date": "2025-11-24"
+ },
+ "kind": "picture_vocab",
+ "title": {
+  "fi": "Kodin huoneet",
+  "en": "Rooms of the home"
+ },
+ "topics": [
+  "local-cases"
+ ],
+ "summary": "Picture vocabulary (with syllable dots) for rooms of a home, types of housing, upstairs/downstairs and the verbs asua and muuttaa; a speech bubble says 'Minä asun kerrostalossa.' (Screenshot of a phone photo.)",
+ "transcript": "Ko·din huo·neet\n\ne·tei·nen\nkeit·ti·ö\nma·kuu·huo·ne\nruo·ka·huo·ne\nves·sa\nkyl·py·huo·ne\nsau·na\no·lo·huo·ne\nau·to·tal·li\npi·ha\npar·ve·ke\no·ma·ko·ti·ta·lo\nker·ros·ta·lo\nri·vi·talo\nmök·ki\ny·lä·ker·ta\na·la·ker·ta\n★ a·su·a\n★ muut·taa\n\nMi·nä a·sun ker·ros·ta·los·sa.",
+ "words": [
+  {
+   "fi": "koti",
+   "en": "home",
+   "pos": "noun",
+   "theme": "home",
+   "form_seen": "kodin",
+   "note": "t → d"
+  },
+  {
+   "fi": "huone",
+   "en": "room",
+   "pos": "noun",
+   "theme": "home",
+   "form_seen": "huoneet"
+  },
+  {
+   "fi": "eteinen",
+   "en": "hall, entrance hall",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "keittiö",
+   "en": "kitchen",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "makuuhuone",
+   "en": "bedroom",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "ruokahuone",
+   "en": "dining room",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "vessa",
+   "en": "toilet, WC",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "kylpyhuone",
+   "en": "bathroom",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "sauna",
+   "en": "sauna",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "olohuone",
+   "en": "living room",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "autotalli",
+   "en": "garage",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "piha",
+   "en": "yard",
+   "pos": "noun",
+   "theme": "garden"
+  },
+  {
+   "fi": "parveke",
+   "en": "balcony",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "omakotitalo",
+   "en": "detached house",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "kerrostalo",
+   "en": "block of flats, apartment building",
+   "pos": "noun",
+   "theme": "home",
+   "form_seen": "kerrostalossa"
+  },
+  {
+   "fi": "rivitalo",
+   "en": "terraced house, row house",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "mökki",
+   "en": "cottage, cabin",
+   "pos": "noun",
+   "theme": "cottage"
+  },
+  {
+   "fi": "yläkerta",
+   "en": "upstairs, upper floor",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "alakerta",
+   "en": "downstairs, lower floor",
+   "pos": "noun",
+   "theme": "home"
+  },
+  {
+   "fi": "asua",
+   "en": "to live, to reside",
+   "pos": "verb",
+   "verb_type": 1,
+   "theme": "home",
+   "forms": {
+    "minä": "asun"
+   },
+   "form_seen": "asun"
+  },
+  {
+   "fi": "muuttaa",
+   "en": "to move (house); to change",
+   "pos": "verb",
+   "verb_type": 1,
+   "theme": "home",
+   "forms": {
+    "minä": "muutan"
+   },
+   "note": "tt → t"
+  },
+  {
+   "fi": "minä",
+   "en": "I",
+   "pos": "pron",
+   "theme": "little-words"
+  }
+ ],
+ "texts": [
+  {
+   "title": {
+    "fi": "Puhekupla",
+    "en": "Speech bubble"
+   },
+   "kind": "dialogue",
+   "lines": [
+    {
+     "speaker": "Rabbit",
+     "fi": "Minä asun kerrostalossa.",
+     "en": "I live in a block of flats."
+    }
+   ]
+  }
+ ],
+ "exercises": [],
+ "grammar_notes": []
+}

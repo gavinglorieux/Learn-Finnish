@@ -1,0 +1,335 @@
+{
+  "source": "term-2025-autumn/Lesson 1 (1.9.2025)/1755623006404.jpg",
+  "md5": "d28f0c425fbd39faf283567d4d37c7dc",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 1,
+    "date": "2025-09-01"
+  },
+  "kind": "picture_vocab",
+  "title": {
+    "fi": "Aakkoset",
+    "en": "The alphabet"
+  },
+  "topics": [
+    "pronunciation"
+  ],
+  "summary": "Picture alphabet chart: every letter of the Finnish alphabet (A–Ö incl. Å, Ä, Ö) with a picture and an example word; words beginning with a vowel are marked with a blue 'V' badge.",
+  "transcript": "Aakkoset\nA a — auto (V)\nB b — bussi\nC c — celsiusaste\nD d — deodorantti\nE e — essu (V)\nF f — farkut\nG g — gepardi\nH h — hiiri\nI i — isä (V)\nJ j — jalkapallo\nK k — kello\nL l — leipä\nM m — maito\nN n — nalle\nO o — omena (V)\nP p — pöytä\nQ q — qr-koodi\nR r — radio\nS s — sakset\nT t — televisio\nU u — uuni (V)\nV v — vauva\nW w — wc\nX x — xylitoli\nY y — yö (V)\nZ z — zoomi\nÅ å — Åbo (V)\nÄ ä — äiti (V)\nÖ ö — öljy (V)",
+  "words": [
+    {
+      "fi": "aakkoset",
+      "en": "the alphabet",
+      "pos": "noun",
+      "note": "plural only",
+      "theme": "classroom"
+    },
+    {
+      "fi": "auto",
+      "en": "car",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "bussi",
+      "en": "bus",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "celsiusaste",
+      "en": "degree Celsius",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "deodorantti",
+      "en": "deodorant",
+      "pos": "noun",
+      "theme": "household"
+    },
+    {
+      "fi": "essu",
+      "en": "apron",
+      "pos": "noun",
+      "note": "colloquial for esiliina",
+      "theme": "clothes"
+    },
+    {
+      "fi": "farkut",
+      "en": "jeans",
+      "pos": "noun",
+      "note": "plural only",
+      "theme": "clothes"
+    },
+    {
+      "fi": "gepardi",
+      "en": "cheetah",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "hiiri",
+      "en": "mouse",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "isä",
+      "en": "father",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "jalkapallo",
+      "en": "football",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "kello",
+      "en": "clock, watch",
+      "pos": "noun",
+      "theme": "clock"
+    },
+    {
+      "fi": "leipä",
+      "en": "bread",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "maito",
+      "en": "milk",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "nalle",
+      "en": "teddy bear",
+      "pos": "noun",
+      "theme": "household"
+    },
+    {
+      "fi": "omena",
+      "en": "apple",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "pöytä",
+      "en": "table",
+      "pos": "noun",
+      "theme": "furniture"
+    },
+    {
+      "fi": "qr-koodi",
+      "en": "QR code",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "radio",
+      "en": "radio",
+      "pos": "noun",
+      "theme": "household"
+    },
+    {
+      "fi": "sakset",
+      "en": "scissors",
+      "pos": "noun",
+      "note": "plural only",
+      "theme": "household"
+    },
+    {
+      "fi": "televisio",
+      "en": "television",
+      "pos": "noun",
+      "theme": "household"
+    },
+    {
+      "fi": "uuni",
+      "en": "oven, stove",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "vauva",
+      "en": "baby",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "wc",
+      "en": "toilet, WC",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "xylitoli",
+      "en": "xylitol (chewing gum)",
+      "pos": "noun",
+      "note": "pictured as xylitol chewing gum",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "yö",
+      "en": "night",
+      "pos": "noun",
+      "theme": "days-time"
+    },
+    {
+      "fi": "zoomi",
+      "en": "zoom lens (camera)",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "Åbo",
+      "en": "Åbo (Swedish name of Turku)",
+      "pos": "proper",
+      "note": "Turku in Swedish",
+      "theme": "other"
+    },
+    {
+      "fi": "äiti",
+      "en": "mother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "öljy",
+      "en": "oil",
+      "pos": "noun",
+      "theme": "food-meals"
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "pronunciation",
+      "heading": "Aakkoset",
+      "text": "The Finnish alphabet: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Å Ä Ö. The vowels (a, e, i, o, u, y, å, ä, ö) are marked with a 'V' badge on the chart. B, C, D, F, G, Q, W, X, Z and Å occur mainly in loanwords and names.",
+      "table": [
+        [
+          "A a",
+          "auto"
+        ],
+        [
+          "B b",
+          "bussi"
+        ],
+        [
+          "C c",
+          "celsiusaste"
+        ],
+        [
+          "D d",
+          "deodorantti"
+        ],
+        [
+          "E e",
+          "essu"
+        ],
+        [
+          "F f",
+          "farkut"
+        ],
+        [
+          "G g",
+          "gepardi"
+        ],
+        [
+          "H h",
+          "hiiri"
+        ],
+        [
+          "I i",
+          "isä"
+        ],
+        [
+          "J j",
+          "jalkapallo"
+        ],
+        [
+          "K k",
+          "kello"
+        ],
+        [
+          "L l",
+          "leipä"
+        ],
+        [
+          "M m",
+          "maito"
+        ],
+        [
+          "N n",
+          "nalle"
+        ],
+        [
+          "O o",
+          "omena"
+        ],
+        [
+          "P p",
+          "pöytä"
+        ],
+        [
+          "Q q",
+          "qr-koodi"
+        ],
+        [
+          "R r",
+          "radio"
+        ],
+        [
+          "S s",
+          "sakset"
+        ],
+        [
+          "T t",
+          "televisio"
+        ],
+        [
+          "U u",
+          "uuni"
+        ],
+        [
+          "V v",
+          "vauva"
+        ],
+        [
+          "W w",
+          "wc"
+        ],
+        [
+          "X x",
+          "xylitoli"
+        ],
+        [
+          "Y y",
+          "yö"
+        ],
+        [
+          "Z z",
+          "zoomi"
+        ],
+        [
+          "Å å",
+          "Åbo"
+        ],
+        [
+          "Ä ä",
+          "äiti"
+        ],
+        [
+          "Ö ö",
+          "öljy"
+        ]
+      ]
+    }
+  ],
+  "texts": [],
+  "exercises": []
+}

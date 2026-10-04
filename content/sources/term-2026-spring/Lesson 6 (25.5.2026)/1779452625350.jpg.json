@@ -1,0 +1,453 @@
+{
+  "source": "term-2026-spring/Lesson 6 (25.5.2026)/1779452625350.jpg",
+  "md5": "d2515e303c508438889dc8b259c2fe45",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 6,
+    "date": "2026-05-25"
+  },
+  "kind": "text",
+  "title": {
+    "fi": "Postpositiot",
+    "en": "Postpositions"
+  },
+  "topics": [
+    "postpositions",
+    "genitive"
+  ],
+  "summary": "Illustrated reading text about a party in a living room, with ten postpositions in bold (edessä, takana, ympärillä, ääressä, keskellä, päällä, välissä, oikealla/vasemmalla puolella, vieressä) each used after a genitive.",
+  "transcript": "Postpositiot\n(Picture: a party in a living room — bookshelf, plant, window, balcony door, cupboard, coffee table with candles, sofa, rug, small table with popcorn.)\n\nPedro istuu ikkunan edessä ja soittaa kitaraa. Oven takana parvekkeella pari vierasta on tupakalla. Pedron ympärillä seisovat Veijo, Jenni ja Sami. He kuuntelevat, kun Pedro soittaa.\n\nHanna ja Meri katsovat valokuvia pöydän ääressä. Pöydän keskellä on kolme isoa kynttilää, koska katossa ei ole vielä lamppua. Uusi lamppu odottaa laatikossa kaapin päällä.\n\nAlex istuu sohvalla kahden tytön välissä. Alexin oikealla puolella istuu Olga ja Alexin vasemmalla puolella on Janita. He syövät ja juttelevat. Pienellä pöydällä sohvan vieressä on popcornia. Olga haluaa lisää juotavaa – mutta missä hänen lasi on?\n\n(Postpositions printed in bold: edessä, takana, ympärillä, ääressä, keskellä, päällä, välissä, oikealla puolella, vasemmalla puolella, vieressä.)",
+  "words": [
+    {
+      "fi": "edessä",
+      "en": "in front of",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "takana",
+      "en": "behind",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "ympärillä",
+      "en": "around",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "ääressä",
+      "en": "at (a table)",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "keskellä",
+      "en": "in the middle of",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "päällä",
+      "en": "on top of",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "välissä",
+      "en": "between",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "oikealla puolella",
+      "en": "on the right side of",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "vasemmalla puolella",
+      "en": "on the left side of",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "vieressä",
+      "en": "next to",
+      "pos": "postp",
+      "theme": "postpositions"
+    },
+    {
+      "fi": "postpositio",
+      "en": "postposition",
+      "pos": "noun",
+      "theme": "classroom",
+      "form_seen": "Postpositiot"
+    },
+    {
+      "fi": "istua",
+      "en": "to sit",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "form_seen": "istuu"
+    },
+    {
+      "fi": "ikkuna",
+      "en": "window",
+      "pos": "noun",
+      "theme": "home",
+      "form_seen": "ikkunan"
+    },
+    {
+      "fi": "soittaa",
+      "en": "to play (an instrument)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "hobbies-sport",
+      "form_seen": "soittaa",
+      "note": "tt → t"
+    },
+    {
+      "fi": "kitara",
+      "en": "guitar",
+      "pos": "noun",
+      "theme": "hobbies-sport",
+      "form_seen": "kitaraa"
+    },
+    {
+      "fi": "ovi",
+      "en": "door",
+      "pos": "noun",
+      "theme": "home",
+      "form_seen": "oven"
+    },
+    {
+      "fi": "parveke",
+      "en": "balcony",
+      "pos": "noun",
+      "theme": "home",
+      "form_seen": "parvekkeella",
+      "note": "k → kk (parvekkeella)"
+    },
+    {
+      "fi": "pari",
+      "en": "a couple, a pair",
+      "pos": "noun",
+      "theme": "numbers"
+    },
+    {
+      "fi": "vieras",
+      "en": "guest",
+      "pos": "noun",
+      "theme": "celebrations",
+      "form_seen": "vierasta"
+    },
+    {
+      "fi": "olla tupakalla",
+      "en": "to be having a smoke",
+      "pos": "phrase",
+      "theme": "other",
+      "form_seen": "on tupakalla"
+    },
+    {
+      "fi": "seisoa",
+      "en": "to stand",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "form_seen": "seisovat"
+    },
+    {
+      "fi": "kuunnella",
+      "en": "to listen",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs",
+      "form_seen": "kuuntelevat",
+      "note": "nt → nn: kuunnella / kuuntelen"
+    },
+    {
+      "fi": "kun",
+      "en": "when, while",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "katsoa",
+      "en": "to look at",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "form_seen": "katsovat"
+    },
+    {
+      "fi": "valokuva",
+      "en": "photograph",
+      "pos": "noun",
+      "theme": "hobbies-sport",
+      "form_seen": "valokuvia"
+    },
+    {
+      "fi": "pöytä",
+      "en": "table",
+      "pos": "noun",
+      "theme": "furniture",
+      "form_seen": "pöydän / pöydällä",
+      "note": "t → d"
+    },
+    {
+      "fi": "kolme",
+      "en": "three",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "iso",
+      "en": "big",
+      "pos": "adj",
+      "theme": "adjectives",
+      "form_seen": "isoa"
+    },
+    {
+      "fi": "kynttilä",
+      "en": "candle",
+      "pos": "noun",
+      "theme": "household",
+      "form_seen": "kynttilää"
+    },
+    {
+      "fi": "koska",
+      "en": "because",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "katto",
+      "en": "ceiling; roof",
+      "pos": "noun",
+      "theme": "home",
+      "form_seen": "katossa",
+      "note": "tt → t"
+    },
+    {
+      "fi": "vielä",
+      "en": "yet, still",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "lamppu",
+      "en": "lamp",
+      "pos": "noun",
+      "theme": "furniture",
+      "form_seen": "lamppua",
+      "note": "pp → p"
+    },
+    {
+      "fi": "uusi",
+      "en": "new",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "odottaa",
+      "en": "to wait",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "form_seen": "odottaa"
+    },
+    {
+      "fi": "laatikko",
+      "en": "box; drawer",
+      "pos": "noun",
+      "theme": "household",
+      "form_seen": "laatikossa",
+      "note": "kk → k"
+    },
+    {
+      "fi": "kaappi",
+      "en": "cupboard",
+      "pos": "noun",
+      "theme": "furniture",
+      "form_seen": "kaapin",
+      "note": "pp → p"
+    },
+    {
+      "fi": "sohva",
+      "en": "sofa",
+      "pos": "noun",
+      "theme": "furniture",
+      "form_seen": "sohvalla / sohvan"
+    },
+    {
+      "fi": "kaksi",
+      "en": "two",
+      "pos": "num",
+      "theme": "numbers",
+      "form_seen": "kahden"
+    },
+    {
+      "fi": "tyttö",
+      "en": "girl",
+      "pos": "noun",
+      "theme": "people",
+      "form_seen": "tytön",
+      "note": "tt → t"
+    },
+    {
+      "fi": "syödä",
+      "en": "to eat",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "food-meals",
+      "form_seen": "syövät"
+    },
+    {
+      "fi": "jutella",
+      "en": "to chat",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs",
+      "form_seen": "juttelevat",
+      "note": "t → tt: jutella / juttelen"
+    },
+    {
+      "fi": "pieni",
+      "en": "small",
+      "pos": "adj",
+      "theme": "adjectives",
+      "form_seen": "pienellä"
+    },
+    {
+      "fi": "popcorn",
+      "en": "popcorn",
+      "pos": "noun",
+      "theme": "food-meals",
+      "form_seen": "popcornia"
+    },
+    {
+      "fi": "haluta",
+      "en": "to want",
+      "pos": "verb",
+      "verb_type": 4,
+      "theme": "common-verbs",
+      "form_seen": "haluaa"
+    },
+    {
+      "fi": "lisää",
+      "en": "more",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "juotava",
+      "en": "something to drink, drink",
+      "pos": "noun",
+      "theme": "drinks",
+      "form_seen": "juotavaa"
+    },
+    {
+      "fi": "mutta",
+      "en": "but",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "missä",
+      "en": "where",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "hänen",
+      "en": "his, her",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "lasi",
+      "en": "glass",
+      "pos": "noun",
+      "theme": "tableware"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs",
+      "form_seen": "on"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Postpositiot",
+        "en": "Postpositions (party scene)"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Pedro istuu ikkunan edessä ja soittaa kitaraa.",
+          "en": "Pedro is sitting in front of the window playing the guitar."
+        },
+        {
+          "fi": "Oven takana parvekkeella pari vierasta on tupakalla.",
+          "en": "Behind the door, on the balcony, a couple of guests are having a smoke."
+        },
+        {
+          "fi": "Pedron ympärillä seisovat Veijo, Jenni ja Sami.",
+          "en": "Veijo, Jenni and Sami are standing around Pedro."
+        },
+        {
+          "fi": "He kuuntelevat, kun Pedro soittaa.",
+          "en": "They listen while Pedro plays."
+        },
+        {
+          "fi": "Hanna ja Meri katsovat valokuvia pöydän ääressä.",
+          "en": "Hanna and Meri are looking at photos at the table."
+        },
+        {
+          "fi": "Pöydän keskellä on kolme isoa kynttilää, koska katossa ei ole vielä lamppua.",
+          "en": "In the middle of the table there are three big candles, because there is no lamp on the ceiling yet."
+        },
+        {
+          "fi": "Uusi lamppu odottaa laatikossa kaapin päällä.",
+          "en": "The new lamp is waiting in a box on top of the cupboard."
+        },
+        {
+          "fi": "Alex istuu sohvalla kahden tytön välissä.",
+          "en": "Alex is sitting on the sofa between two girls."
+        },
+        {
+          "fi": "Alexin oikealla puolella istuu Olga ja Alexin vasemmalla puolella on Janita.",
+          "en": "Olga is sitting on Alex's right and Janita is on Alex's left."
+        },
+        {
+          "fi": "He syövät ja juttelevat.",
+          "en": "They are eating and chatting."
+        },
+        {
+          "fi": "Pienellä pöydällä sohvan vieressä on popcornia.",
+          "en": "On the small table next to the sofa there is popcorn."
+        },
+        {
+          "fi": "Olga haluaa lisää juotavaa – mutta missä hänen lasi on?",
+          "en": "Olga wants more to drink – but where is her glass?"
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "postpositions",
+      "heading": "Postpositiot",
+      "text": "Postpositions follow a noun in the genitive: ikkunan edessä, oven takana, Pedron ympärillä, pöydän ääressä, pöydän keskellä, kaapin päällä, kahden tytön välissä, Alexin oikealla puolella, Alexin vasemmalla puolella, sohvan vieressä."
+    }
+  ],
+  "exercises": []
+}

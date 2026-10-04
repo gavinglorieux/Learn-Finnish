@@ -1,0 +1,620 @@
+{
+  "part": {
+    "id": "sounds",
+    "title": "Sounds & spelling",
+    "emoji": "🔤",
+    "description": "How Finnish is written and pronounced — the foundation for everything else."
+  },
+  "topics": [
+    {
+      "id": "pronunciation",
+      "title": "Alphabet & pronunciation",
+      "fi": "Aakkoset ja ääntäminen",
+      "emoji": "🔤",
+      "summary": "Finnish is written almost exactly as it is spoken: one letter = one sound, and every letter is pronounced.",
+      "sections": [
+        {
+          "heading": "The golden rule",
+          "body": "Each letter always stands for the same sound, and **every letter is pronounced** — there are no silent letters. If you can read a word aloud letter by letter, you can pronounce it. The reverse is also true: if you hear a word clearly, you can spell it.",
+          "examples": [
+            {
+              "fi": "talo",
+              "en": "house — t-a-l-o"
+            },
+            {
+              "fi": "kahvi",
+              "en": "coffee — the h is pronounced"
+            },
+            {
+              "fi": "keittiö",
+              "en": "kitchen — k-e-i-t-t-i-ö"
+            }
+          ]
+        },
+        {
+          "heading": "The alphabet (aakkoset)",
+          "body": "The Finnish alphabet has 29 letters. Native words use only 21 of them; b, c, f, g (except in ng), q, š, w, x, z and å appear in loanwords and names.",
+          "table": {
+            "headers": [
+              "Letter",
+              "Name",
+              "Example"
+            ],
+            "rows": [
+              [
+                "A a",
+                "aa",
+                "auto — car"
+              ],
+              [
+                "B b",
+                "bee",
+                "banaani — banana"
+              ],
+              [
+                "C c",
+                "see",
+                "cafe — café"
+              ],
+              [
+                "D d",
+                "dee",
+                "kadun — of the street"
+              ],
+              [
+                "E e",
+                "ee",
+                "elokuu — August"
+              ],
+              [
+                "F f",
+                "äf",
+                "farkut — jeans"
+              ],
+              [
+                "G g",
+                "gee",
+                "kenkä → kengät (ng)"
+              ],
+              [
+                "H h",
+                "hoo",
+                "huone — room"
+              ],
+              [
+                "I i",
+                "ii",
+                "isä — father"
+              ],
+              [
+                "J j",
+                "jii",
+                "joulu — Christmas"
+              ],
+              [
+                "K k",
+                "koo",
+                "kissa — cat"
+              ],
+              [
+                "L l",
+                "äl",
+                "lumi — snow"
+              ],
+              [
+                "M m",
+                "äm",
+                "maito — milk"
+              ],
+              [
+                "N n",
+                "än",
+                "nenä — nose"
+              ],
+              [
+                "O o",
+                "oo",
+                "omena — apple"
+              ],
+              [
+                "P p",
+                "pee",
+                "pöytä — table"
+              ],
+              [
+                "Q q",
+                "kuu",
+                "(loanwords only)"
+              ],
+              [
+                "R r",
+                "är",
+                "ruoka — food"
+              ],
+              [
+                "S s",
+                "äs",
+                "sauna — sauna"
+              ],
+              [
+                "T t",
+                "tee",
+                "tuoli — chair"
+              ],
+              [
+                "U u",
+                "uu",
+                "uni — sleep, dream"
+              ],
+              [
+                "V v",
+                "vee",
+                "vesi — water"
+              ],
+              [
+                "W w",
+                "kaksois-vee",
+                "(names, loanwords)"
+              ],
+              [
+                "X x",
+                "äks",
+                "taksi is spelt with ks"
+              ],
+              [
+                "Y y",
+                "yy",
+                "yö — night"
+              ],
+              [
+                "Z z",
+                "tset",
+                "(loanwords only)"
+              ],
+              [
+                "Å å",
+                "ruotsalainen oo",
+                "Åland names only"
+              ],
+              [
+                "Ä ä",
+                "ää",
+                "äiti — mother"
+              ],
+              [
+                "Ö ö",
+                "öö",
+                "työ — work"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Vowels",
+          "body": "Finnish has eight vowels. Keep them pure — don't glide them into diphthongs like English does.",
+          "table": {
+            "headers": [
+              "Vowel",
+              "Sounds like",
+              "Example"
+            ],
+            "rows": [
+              [
+                "a",
+                "a in 'father' (but short)",
+                "kala — fish"
+              ],
+              [
+                "e",
+                "e in 'pet'",
+                "mene — go"
+              ],
+              [
+                "i",
+                "i in 'machine' (short)",
+                "tie — road"
+              ],
+              [
+                "o",
+                "o in 'hot' with rounded lips",
+                "talo — house"
+              ],
+              [
+                "u",
+                "oo in 'book'",
+                "kuu — moon"
+              ],
+              [
+                "y",
+                "German ü / French u: say 'ee' with rounded lips",
+                "yksi — one"
+              ],
+              [
+                "ä",
+                "a in 'cat'",
+                "äiti — mother"
+              ],
+              [
+                "ö",
+                "German ö / 'ur' in 'fur' without the r",
+                "yö — night"
+              ]
+            ]
+          },
+          "tip": "ä and a are different letters, not accents: **sää** (weather) vs **saa** (gets), **pää** (head) vs **paa**. The same goes for ö/o and y/u."
+        },
+        {
+          "heading": "Consonants to watch",
+          "bullets": [
+            "**r** is always rolled (trilled), even at the end of a word: *kirja*, *tytär*.",
+            "**h** is always pronounced, also before a consonant: *kahvi*, *lähteä*, *tehdä*.",
+            "**j** sounds like English y: *joulu* ≈ 'youlu', *jäätelö*.",
+            "**k, p, t** are unaspirated — softer than in English, no puff of air.",
+            "**ng** is a long 'ng' as in 'singer' (never 'finger'): *kengät*, *Helsingissä*.",
+            "**nk** is pronounced ŋk as in 'bank': *Helsinki*, *pankki*.",
+            "**s** is always a sharp s (never z): *vesi*, *Suomi*."
+          ]
+        },
+        {
+          "heading": "Spelling letter by letter",
+          "body": "When you spell a name on the phone, say the letter names from the table above. Useful phrases: **Miten se kirjoitetaan?** (How is it written?) — **Voitko tavata sen?** (Can you spell it?).",
+          "examples": [
+            {
+              "fi": "Mikä sinun nimesi on? — Gavin. G-A-V-I-N.",
+              "en": "What's your name? — Gavin. gee-aa-vee-ii-än."
+            }
+          ]
+        }
+      ],
+      "related": [
+        "long-short",
+        "stress-diphthongs",
+        "vowel-harmony"
+      ],
+      "practice": [
+        {
+          "label": "Listen & match",
+          "to": "/practice/listen"
+        }
+      ]
+    },
+    {
+      "id": "long-short",
+      "title": "Long and short sounds",
+      "fi": "Pitkät ja lyhyet äänteet",
+      "emoji": "⏱️",
+      "summary": "A doubled letter is a longer sound — and length changes the meaning of the word.",
+      "requires": [
+        "pronunciation"
+      ],
+      "sections": [
+        {
+          "heading": "Length is meaning",
+          "body": "Every vowel and most consonants can be short (one letter) or long (two letters). A long sound is held roughly twice as long. Getting the length wrong gives you a different word, so practise hearing it.",
+          "table": {
+            "headers": [
+              "Short",
+              "Long vowel",
+              "Long consonant"
+            ],
+            "rows": [
+              [
+                "tuli — fire",
+                "tuuli — wind",
+                "tulli — customs"
+              ],
+              [
+                "muta — mud",
+                "muuta — other (partitive)",
+                "mutta — but"
+              ],
+              [
+                "kisa — contest",
+                "kiisu — kitty",
+                "kissa — cat"
+              ],
+              [
+                "sika — pig",
+                "siika — whitefish",
+                "—"
+              ],
+              [
+                "tapan — I kill",
+                "—",
+                "tappaa — he/she kills"
+              ],
+              [
+                "kansa — people",
+                "—",
+                "kanssa — with"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "How to pronounce long consonants",
+          "body": "A double consonant (**kk, pp, tt, ss, ll, mm, nn, rr**) is a real pause/hold in the middle of the word, belonging to both syllables: *kis-sa*, *mat-to*, *kauppa* (kaup-pa). Think of the gap in English 'black cat' or 'hot tea'."
+        },
+        {
+          "heading": "Minimal pairs from the course",
+          "examples": [
+            {
+              "fi": "tuli / tuuli / tulli",
+              "en": "fire / wind / customs"
+            },
+            {
+              "fi": "mutta / muuta",
+              "en": "but / other (partitive)"
+            },
+            {
+              "fi": "kuka / kukka",
+              "en": "who / flower"
+            },
+            {
+              "fi": "taka / takka",
+              "en": "back- / fireplace"
+            },
+            {
+              "fi": "pala / palaa / pallo",
+              "en": "piece / burns / ball"
+            },
+            {
+              "fi": "sää / saa",
+              "en": "weather / gets (vowel quality, not length)"
+            },
+            {
+              "fi": "tyyli / tyyni",
+              "en": "style / calm"
+            }
+          ]
+        },
+        {
+          "heading": "Why it matters for grammar",
+          "body": "Length is also how grammar works: the hän form of a type 1 verb lengthens the last vowel (*puhu-* → **puhuu**), the illative case lengthens the vowel (*talo* → **taloon**), and K-P-T gradation turns long consonants short (*kauppa* → *kaupassa*). See [[kpt-nouns|Consonant gradation in nouns]] and [[kpt-verbs|K-P-T in verbs]]."
+        }
+      ],
+      "related": [
+        "pronunciation",
+        "kpt-nouns"
+      ],
+      "practice": [
+        {
+          "label": "Listen & match",
+          "to": "/practice/listen"
+        }
+      ]
+    },
+    {
+      "id": "stress-diphthongs",
+      "title": "Stress & diphthongs",
+      "fi": "Paino ja diftongit",
+      "emoji": "🎵",
+      "summary": "Stress always falls on the first syllable. Two different vowels side by side often glide together into one syllable (a diphthong).",
+      "requires": [
+        "pronunciation"
+      ],
+      "sections": [
+        {
+          "heading": "Stress: always the first syllable",
+          "body": "The main stress is **always on the first syllable**, no matter how long the word is. In long words there is a lighter secondary stress on the 3rd or 5th syllable. Long vowels in later syllables are *not* stressed — they are just long.",
+          "examples": [
+            {
+              "fi": "SUO-mi",
+              "en": "Finland"
+            },
+            {
+              "fi": "HEL-sin-ki",
+              "en": "Helsinki"
+            },
+            {
+              "fi": "RA-vin-to-la",
+              "en": "restaurant"
+            },
+            {
+              "fi": "KAU-pas-sa",
+              "en": "in the shop"
+            },
+            {
+              "fi": "TA-loon",
+              "en": "into the house (long oo, stress still on ta-)"
+            }
+          ]
+        },
+        {
+          "heading": "Diphthongs",
+          "body": "A diphthong is two different vowels pronounced in one syllable, gliding from the first to the second. Pronounce both vowels clearly.",
+          "table": {
+            "headers": [
+              "Ending in",
+              "Diphthongs",
+              "Examples"
+            ],
+            "rows": [
+              [
+                "-i",
+                "ai, ei, oi, ui, yi, äi, öi",
+                "kaikki, hei, poika, uida, äiti, öisin"
+              ],
+              [
+                "-u / -y",
+                "au, eu, iu, ou / äy, öy",
+                "auto, Eurooppa, kiuas, Oulu / käydä, löytää"
+              ],
+              [
+                "opening (first syllable only)",
+                "ie, uo, yö",
+                "tie, Suomi, yö"
+              ]
+            ]
+          },
+          "note": "ie, uo and yö are only diphthongs in the first syllable; elsewhere the two vowels belong to separate syllables: *ra-di-o*, *tor-ni-en*."
+        },
+        {
+          "heading": "Practice words",
+          "examples": [
+            {
+              "fi": "yö — työ — Töölö",
+              "en": "night — work — (district of Helsinki)"
+            },
+            {
+              "fi": "tie — kieli — viedä",
+              "en": "road — language — to take"
+            },
+            {
+              "fi": "suo — Suomi — juoda",
+              "en": "swamp — Finland — to drink"
+            },
+            {
+              "fi": "äiti — käydä — pöytä",
+              "en": "mother — to visit — table"
+            }
+          ]
+        }
+      ],
+      "related": [
+        "pronunciation",
+        "long-short"
+      ]
+    },
+    {
+      "id": "vowel-harmony",
+      "title": "Vowel harmony",
+      "fi": "Vokaalisointu",
+      "emoji": "⚖️",
+      "summary": "Endings come in two flavours — -a/-o/-u for 'back' words and -ä/-ö/-y for 'front' words. The word itself decides which one you use.",
+      "requires": [
+        "pronunciation"
+      ],
+      "sections": [
+        {
+          "heading": "Three groups of vowels",
+          "table": {
+            "headers": [
+              "Group",
+              "Vowels",
+              "Takes endings with"
+            ],
+            "rows": [
+              [
+                "Back vowels",
+                "a, o, u",
+                "a, o, u  (-ssa, -lla, -ko, -vat)"
+              ],
+              [
+                "Front vowels",
+                "ä, ö, y",
+                "ä, ö, y  (-ssä, -llä, -kö, -vät)"
+              ],
+              [
+                "Neutral vowels",
+                "e, i",
+                "go with either; a word with only e/i takes front endings"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "The rule",
+          "body": "Look at the word: **if it contains a, o or u anywhere, use the back endings; otherwise use the front endings.** (In compound words, the last part decides: *jää|kaappi* → *jääkaapissa*.)",
+          "table": {
+            "headers": [
+              "Word",
+              "Back/front",
+              "Inessive",
+              "Question",
+              "Partitive"
+            ],
+            "rows": [
+              [
+                "talo",
+                "back (a, o)",
+                "talossa",
+                "talossako?",
+                "taloa"
+              ],
+              [
+                "koulu",
+                "back (o, u)",
+                "koulussa",
+                "koulussako?",
+                "koulua"
+              ],
+              [
+                "kylä",
+                "front (y, ä)",
+                "kylässä",
+                "kylässäkö?",
+                "kylää"
+              ],
+              [
+                "pöytä",
+                "front (ö, ä)",
+                "pöydässä",
+                "",
+                "pöytää"
+              ],
+              [
+                "kieli",
+                "neutral only (i, e)",
+                "kielessä",
+                "",
+                "kieltä"
+              ],
+              [
+                "Helsinki",
+                "neutral only (e, i)",
+                "Helsingissä",
+                "",
+                ""
+              ],
+              [
+                "Suomi",
+                "back (u, o)",
+                "Suomessa",
+                "",
+                "Suomea"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Where you meet it",
+          "bullets": [
+            "Case endings: -ssa/-ssä, -sta/-stä, -lla/-llä, -lta/-ltä, -a/-ä, -ta/-tä.",
+            "Question suffix: Onko? — Ei**kö**? — Puhut**ko**? — Syöt**kö**?",
+            "Verb endings: puhu**vat** — syö**vät**; the infinitive: puhu**a** — kysy**ä**.",
+            "Imperative plural: puhu**kaa** — syö**kää**."
+          ]
+        },
+        {
+          "heading": "Examples from the course",
+          "examples": [
+            {
+              "fi": "Asun Lontoossa. Työskentelen keittiössä.",
+              "en": "I live in London. I work in the kitchen."
+            },
+            {
+              "fi": "Puhutko suomea? — Syötkö kalaa?",
+              "en": "Do you speak Finnish? — Do you eat fish?"
+            },
+            {
+              "fi": "He puhuvat. — He kysyvät.",
+              "en": "They speak. — They ask."
+            }
+          ]
+        }
+      ],
+      "related": [
+        "partitive",
+        "local-cases",
+        "questions-ko"
+      ],
+      "practice": [
+        {
+          "label": "Local-case drill",
+          "to": "/practice/course/drill-local-cases"
+        }
+      ]
+    }
+  ]
+}

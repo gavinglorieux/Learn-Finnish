@@ -1,0 +1,286 @@
+{
+  "source": "term-2026-spring/Lesson 9 (15.6.2026)/1774538618305 (1).jpg",
+  "md5": "5969869a3f3bb0d2995d94809f1e9ad8",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 9,
+    "date": "2026-06-15"
+  },
+  "kind": "grammar",
+  "title": {
+    "fi": "Imperatiivi",
+    "en": "Imperative"
+  },
+  "topics": [
+    "imperative",
+    "negation"
+  ],
+  "summary": "Grammar explanation (in English) of the singular imperative: common commands, forming it from the sinä form by dropping the final -t, and the negative imperative with älä + stem.",
+  "transcript": "Imperative\n\nThe imperative mood is used to give orders, commands and requests. Often the imperative requires a fast reaction and has a sense of urgency. These singular forms are used when talking to one person.\n\nLopeta! ... Stop! / Quit it!\nVaro! ... Watch out!\nTule jo! ... Come on already!\nKäänny oikealle! ... Turn right!\nOdota meitä! ... Wait for us!\nMene mene! ... Go go!\n\nThe easiest way to determine the imperative form is to take the sinä form of the verb and then drop the final t.\n\n(sinä) katsot (final t crossed out in red) ... Katso minua! (Look at me!)\n(sinä) syöt (final t crossed out in red) ... Syö kaikki porkkanat! (Eat all the carrots!)\n(sinä) hymyilet (final t crossed out in red) ... Hymyile! (Smile!)\n(sinä) vastaat (final t crossed out in red) ... Vastaa jo! (Answer already!)\n\nWhen using the imperative, the tone of voice is extremely important. It may change the interpretation from an abrupt order requiring an immediate response to a friendly request. To make a negative imperative and to tell somebody what not to do, add älä in front of the verb.\n\nÄlä viitsi! ... Oh, come on! No way!\nÄlä lyö! ... Don't hit!\nÄlä tule! ... Don't come!\nÄlä häiritse minua! ... Don't disturb me!",
+  "words": [
+    {
+      "fi": "lopettaa",
+      "en": "to stop, to quit",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "imperative": "Lopeta!"
+      },
+      "note": "tt → t"
+    },
+    {
+      "fi": "varoa",
+      "en": "to watch out, to beware",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "imperative": "Varo!"
+      }
+    },
+    {
+      "fi": "tulla",
+      "en": "to come",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs",
+      "forms": {
+        "imperative": "Tule! / Älä tule!"
+      }
+    },
+    {
+      "fi": "kääntyä",
+      "en": "to turn",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "directions",
+      "forms": {
+        "imperative": "Käänny!"
+      },
+      "note": "nt → nn"
+    },
+    {
+      "fi": "odottaa",
+      "en": "to wait (for)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "imperative": "Odota!"
+      },
+      "note": "tt → t"
+    },
+    {
+      "fi": "mennä",
+      "en": "to go",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "common-verbs",
+      "forms": {
+        "imperative": "Mene!"
+      }
+    },
+    {
+      "fi": "katsoa",
+      "en": "to look (at)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "imperative": "Katso!"
+      }
+    },
+    {
+      "fi": "syödä",
+      "en": "to eat",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "food-meals",
+      "forms": {
+        "imperative": "Syö!"
+      }
+    },
+    {
+      "fi": "hymyillä",
+      "en": "to smile",
+      "pos": "verb",
+      "verb_type": 3,
+      "theme": "feelings",
+      "forms": {
+        "imperative": "Hymyile!"
+      }
+    },
+    {
+      "fi": "vastata",
+      "en": "to answer",
+      "pos": "verb",
+      "verb_type": 4,
+      "theme": "common-verbs",
+      "forms": {
+        "imperative": "Vastaa!"
+      }
+    },
+    {
+      "fi": "viitsiä",
+      "en": "to bother, to be bothered (to do)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs",
+      "forms": {
+        "imperative": "Älä viitsi!"
+      }
+    },
+    {
+      "fi": "lyödä",
+      "en": "to hit, to strike",
+      "pos": "verb",
+      "verb_type": 2,
+      "theme": "common-verbs",
+      "forms": {
+        "imperative": "Älä lyö!"
+      }
+    },
+    {
+      "fi": "häiritä",
+      "en": "to disturb",
+      "pos": "verb",
+      "verb_type": 5,
+      "theme": "common-verbs",
+      "forms": {
+        "imperative": "Älä häiritse!"
+      }
+    },
+    {
+      "fi": "jo",
+      "en": "already",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "oikealle",
+      "en": "to the right",
+      "pos": "adv",
+      "theme": "directions"
+    },
+    {
+      "fi": "me",
+      "en": "we",
+      "pos": "pron",
+      "theme": "people",
+      "form_seen": "meitä"
+    },
+    {
+      "fi": "minä",
+      "en": "I",
+      "pos": "pron",
+      "theme": "people",
+      "form_seen": "minua"
+    },
+    {
+      "fi": "kaikki",
+      "en": "all, everything",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "porkkana",
+      "en": "carrot",
+      "pos": "noun",
+      "theme": "food-fruit-veg",
+      "form_seen": "porkkanat"
+    },
+    {
+      "fi": "älä",
+      "en": "don't (negative imperative, sg.)",
+      "pos": "interj",
+      "theme": "little-words"
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "imperative",
+      "heading": "Imperative — use",
+      "text": "The imperative mood is used to give orders, commands and requests. Often the imperative requires a fast reaction and has a sense of urgency. These singular forms are used when talking to one person.",
+      "table": [
+        [
+          "Lopeta!",
+          "Stop! / Quit it!"
+        ],
+        [
+          "Varo!",
+          "Watch out!"
+        ],
+        [
+          "Tule jo!",
+          "Come on already!"
+        ],
+        [
+          "Käänny oikealle!",
+          "Turn right!"
+        ],
+        [
+          "Odota meitä!",
+          "Wait for us!"
+        ],
+        [
+          "Mene mene!",
+          "Go go!"
+        ]
+      ]
+    },
+    {
+      "topic": "imperative",
+      "heading": "Forming the imperative",
+      "text": "The easiest way to determine the imperative form is to take the sinä form of the verb and then drop the final t.",
+      "table": [
+        [
+          "(sinä) katsot",
+          "Katso minua!",
+          "Look at me!"
+        ],
+        [
+          "(sinä) syöt",
+          "Syö kaikki porkkanat!",
+          "Eat all the carrots!"
+        ],
+        [
+          "(sinä) hymyilet",
+          "Hymyile!",
+          "Smile!"
+        ],
+        [
+          "(sinä) vastaat",
+          "Vastaa jo!",
+          "Answer already!"
+        ]
+      ]
+    },
+    {
+      "topic": "imperative",
+      "heading": "Negative imperative: älä + verb",
+      "text": "When using the imperative, the tone of voice is extremely important. It may change the interpretation from an abrupt order requiring an immediate response to a friendly request. To make a negative imperative and to tell somebody what not to do, add älä in front of the verb.",
+      "table": [
+        [
+          "Älä viitsi!",
+          "Oh, come on! No way!"
+        ],
+        [
+          "Älä lyö!",
+          "Don't hit!"
+        ],
+        [
+          "Älä tule!",
+          "Don't come!"
+        ],
+        [
+          "Älä häiritse minua!",
+          "Don't disturb me!"
+        ]
+      ]
+    }
+  ],
+  "texts": [],
+  "exercises": []
+}

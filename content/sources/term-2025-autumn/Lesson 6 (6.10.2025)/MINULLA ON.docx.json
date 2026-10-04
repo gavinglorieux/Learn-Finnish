@@ -1,0 +1,345 @@
+{
+  "source": "term-2025-autumn/Lesson 6 (6.10.2025)/MINULLA ON.docx",
+  "md5": "13f491e98fb60c40d5a17ce423aa8b3b",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 6,
+    "date": "2025-10-06"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "MINULLA ON / MINULLA EI OLE + -A",
+    "en": "I have / I don't have + partitive"
+  },
+  "topics": [
+    "have-adessive",
+    "partitive",
+    "negation",
+    "genitive"
+  ],
+  "summary": "Twenty sentences about family (siblings, children, partners, cousins) and masks to translate into Finnish with minulla on / minulla ei ole and the partitive, plus a short vocabulary list.",
+  "transcript": "MINULLA ON / MINULLA EI OLE + -A\nKuinka sinä sanot suomeksi:\n1. I have two sisters.\n2. I don’t have a sister but I have a brother.\n3. I don’t have a brother.\n4. How many siblings do you have?\n5. I don’t have a big family.\n6. How many children do you (plural ”you”) have?\n7. We have three children: two girls and one boy.\n8. Do you have any children?\n9. No, but we have two dogs.\n10. Stuart has a Finnish boyfriend.\n11. I have a Finnish girlfriend.\n12. She doesn’t have a husband. She is not married.\n13. I have a Finnish mother.\n14. How many cousins does Teija have?\n15. Does your Father have a brother?\n16. Susanna has two brothers.\n17. Her sister has three children: one boy and two small girls.\n18. Susanna’s boyfriend has two daughters.\n19. Do you have a mask ”on” you?\n20. She has two dirty masks but not a clean mask.\nSANASTO: brother=veli (any ending added to ”velje-”) how many= kuinka monta (”monta” is like a number so followed by partitive) sibling=sisarus family=perhe any children= lapsia but= mutta husband=(avio)mies (endings added to ”miehe-” cousin= serkku small= pieni mask= maski ”on you”= mukana dirty= likainen clean= puhdas",
+  "words": [
+    {
+      "fi": "minulla on",
+      "en": "I have",
+      "pos": "phrase",
+      "theme": "family"
+    },
+    {
+      "fi": "minulla ei ole",
+      "en": "I don't have",
+      "pos": "phrase",
+      "theme": "family"
+    },
+    {
+      "fi": "kuinka",
+      "en": "how",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "sanoa",
+      "en": "to say",
+      "pos": "verb",
+      "verb_type": 1,
+      "form_seen": "sanot",
+      "theme": "classroom"
+    },
+    {
+      "fi": "suomeksi",
+      "en": "in Finnish",
+      "pos": "adv",
+      "theme": "classroom"
+    },
+    {
+      "fi": "sisko",
+      "en": "sister",
+      "pos": "noun",
+      "theme": "family",
+      "note": "partitive siskoa"
+    },
+    {
+      "fi": "veli",
+      "en": "brother",
+      "pos": "noun",
+      "theme": "family",
+      "note": "endings added to velje-: veljeä"
+    },
+    {
+      "fi": "kuinka monta",
+      "en": "how many",
+      "pos": "question",
+      "theme": "question-words",
+      "note": "followed by partitive, like a number"
+    },
+    {
+      "fi": "sisarus",
+      "en": "sibling",
+      "pos": "noun",
+      "theme": "family",
+      "note": "partitive sisarusta"
+    },
+    {
+      "fi": "iso",
+      "en": "big",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "perhe",
+      "en": "family",
+      "pos": "noun",
+      "theme": "family",
+      "note": "partitive perhettä"
+    },
+    {
+      "fi": "lapsi",
+      "en": "child",
+      "pos": "noun",
+      "theme": "family",
+      "note": "partitive sg lasta, pl lapsia (any children)"
+    },
+    {
+      "fi": "tyttö",
+      "en": "girl",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "poika",
+      "en": "boy",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "mutta",
+      "en": "but",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "koira",
+      "en": "dog",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "suomalainen",
+      "en": "Finnish",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "poikaystävä",
+      "en": "boyfriend",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "tyttöystävä",
+      "en": "girlfriend",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "mies",
+      "en": "husband; man",
+      "pos": "noun",
+      "theme": "family",
+      "note": "avio(mies); endings added to miehe-"
+    },
+    {
+      "fi": "aviomies",
+      "en": "husband",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "naimisissa",
+      "en": "married",
+      "pos": "adv",
+      "theme": "family"
+    },
+    {
+      "fi": "äiti",
+      "en": "mother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "serkku",
+      "en": "cousin",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "isä",
+      "en": "father",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "pieni",
+      "en": "small",
+      "pos": "adj",
+      "theme": "adjectives",
+      "note": "partitive pientä"
+    },
+    {
+      "fi": "tytär",
+      "en": "daughter",
+      "pos": "noun",
+      "theme": "family",
+      "note": "partitive tytärtä"
+    },
+    {
+      "fi": "maski",
+      "en": "mask",
+      "pos": "noun",
+      "theme": "health"
+    },
+    {
+      "fi": "mukana",
+      "en": "with (one), 'on you'",
+      "pos": "adv",
+      "theme": "little-words"
+    },
+    {
+      "fi": "likainen",
+      "en": "dirty",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "puhdas",
+      "en": "clean",
+      "pos": "adj",
+      "theme": "adjectives",
+      "note": "partitive puhdasta"
+    },
+    {
+      "fi": "sanasto",
+      "en": "vocabulary",
+      "pos": "noun",
+      "theme": "classroom"
+    },
+    {
+      "fi": "kaksi",
+      "en": "two",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "kolme",
+      "en": "three",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "yksi",
+      "en": "one",
+      "pos": "num",
+      "theme": "numbers"
+    }
+  ],
+  "texts": [],
+  "exercises": [
+    {
+      "title": "Kuinka sinä sanot suomeksi",
+      "instruction": "How do you say in Finnish (minulla on / minulla ei ole + partitive).",
+      "topic": "have-adessive",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "I have two sisters.",
+          "answer": "Minulla on kaksi siskoa."
+        },
+        {
+          "prompt": "I don't have a sister but I have a brother.",
+          "answer": "Minulla ei ole siskoa, mutta minulla on veli."
+        },
+        {
+          "prompt": "I don't have a brother.",
+          "answer": "Minulla ei ole veljeä."
+        },
+        {
+          "prompt": "How many siblings do you have?",
+          "answer": "Kuinka monta sisarusta sinulla on?"
+        },
+        {
+          "prompt": "I don't have a big family.",
+          "answer": "Minulla ei ole isoa perhettä."
+        },
+        {
+          "prompt": "How many children do you (plural \"you\") have?",
+          "answer": "Kuinka monta lasta teillä on?"
+        },
+        {
+          "prompt": "We have three children: two girls and one boy.",
+          "answer": "Meillä on kolme lasta: kaksi tyttöä ja yksi poika."
+        },
+        {
+          "prompt": "Do you have any children?",
+          "answer": "Onko sinulla lapsia?"
+        },
+        {
+          "prompt": "No, but we have two dogs.",
+          "answer": "Ei, mutta meillä on kaksi koiraa."
+        },
+        {
+          "prompt": "Stuart has a Finnish boyfriend.",
+          "answer": "Stuartilla on suomalainen poikaystävä."
+        },
+        {
+          "prompt": "I have a Finnish girlfriend.",
+          "answer": "Minulla on suomalainen tyttöystävä."
+        },
+        {
+          "prompt": "She doesn't have a husband. She is not married.",
+          "answer": "Hänellä ei ole miestä. Hän ei ole naimisissa."
+        },
+        {
+          "prompt": "I have a Finnish mother.",
+          "answer": "Minulla on suomalainen äiti."
+        },
+        {
+          "prompt": "How many cousins does Teija have?",
+          "answer": "Kuinka monta serkkua Teijalla on?"
+        },
+        {
+          "prompt": "Does your Father have a brother?",
+          "answer": "Onko sinun isälläsi veli?"
+        },
+        {
+          "prompt": "Susanna has two brothers.",
+          "answer": "Susannalla on kaksi veljeä."
+        },
+        {
+          "prompt": "Her sister has three children: one boy and two small girls.",
+          "answer": "Hänen siskollaan on kolme lasta: yksi poika ja kaksi pientä tyttöä."
+        },
+        {
+          "prompt": "Susanna's boyfriend has two daughters.",
+          "answer": "Susannan poikaystävällä on kaksi tytärtä."
+        },
+        {
+          "prompt": "Do you have a mask \"on\" you?",
+          "answer": "Onko sinulla maski mukana?"
+        },
+        {
+          "prompt": "She has two dirty masks but not a clean mask.",
+          "answer": "Hänellä on kaksi likaista maskia, mutta ei puhdasta maskia."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": [
+    {
+      "topic": "have-adessive",
+      "heading": "MINULLA ON / MINULLA EI OLE + -A",
+      "text": "Possession with adessive + on; in the negative (minulla ei ole) and after numbers / kuinka monta the noun takes the partitive (-a/-ä)."
+    }
+  ]
+}

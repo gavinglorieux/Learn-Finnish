@@ -1,0 +1,206 @@
+{
+ "source": "term-2025-autumn/Lesson 14 (8.12.2025)/1764956317844.jpg",
+ "md5": "b4d632eca30813495a0bd52fef7b6fab",
+ "also_in": [
+  "term-2026-winter/Lesson 1 (12.1.2026)/1764956317844.jpg"
+ ],
+ "lesson": {
+  "term": "term-2025-autumn",
+  "number": 14,
+  "date": "2025-12-08"
+ },
+ "kind": "other",
+ "title": {
+  "fi": "Hiihtosää ja sääkartta",
+  "en": "Skiing weather and weather map"
+ },
+ "topics": [
+  "weather",
+  "numbers",
+  "place-names"
+ ],
+ "summary": "Newspaper weather map of Finland with weather symbols, night/day temperatures and wind arrows; five areas are circled in red pen for describing the weather. Side columns list ski resorts with open slopes/lifts and snow depth in cities.",
+ "transcript": "[H]iihtosää\n[S]aariselkä\n- rinteitä auki 6\n- hissejä auki 3\n[L]evi\n- rinteitä auki 11\n- hissejä auki 11\nRuka\n- rinteitä auki 12\n- hissejä auki 7\nHimos\n- rinteitä auki -\n- hissejä auki -\nTahkovuori\n- rinteitä auki -\n- hissejä auki -\nVuokatti\n- rinteitä auki -\n- hissejä auki -\n\nHelsinki 0 cm\nTurku 0 cm\nTampere – cm\nJyväskylä 0 cm\nJoensuu 0 cm\nRovaniemi 21 cm\n\n[Map, circled areas in red pen:]\n(1) North Lapland: sun behind cloud, -7/-5\n(2) Central Lapland: cloud with snow, -4/-5\n(not circled) cloud (north-west); cloud with rain and snow, 0/-1; wind 6\n(3) West coast: cloud; wind 1\n(4) East / lake district: cloud with rain and snow, 1/1\n(5) South-west / south coast: cloud with rain, 4/3; wind 7\n(not circled) cloud 2/2; 3/2; rain; wind 9; wind 6",
+ "words": [
+  {
+   "fi": "hiihtosää",
+   "en": "skiing weather",
+   "pos": "noun",
+   "theme": "winter",
+   "uncertain": true,
+   "note": "heading partly cut off"
+  },
+  {
+   "fi": "rinne",
+   "en": "slope, ski slope",
+   "pos": "noun",
+   "theme": "winter",
+   "form_seen": "rinteitä",
+   "note": "partitive plural"
+  },
+  {
+   "fi": "hissi",
+   "en": "lift (ski lift)",
+   "pos": "noun",
+   "theme": "winter",
+   "form_seen": "hissejä",
+   "note": "partitive plural"
+  },
+  {
+   "fi": "auki",
+   "en": "open",
+   "pos": "adv",
+   "theme": "places-town"
+  },
+  {
+   "fi": "Helsinki",
+   "en": "Helsinki",
+   "pos": "proper",
+   "theme": "places-town"
+  },
+  {
+   "fi": "Turku",
+   "en": "Turku",
+   "pos": "proper",
+   "theme": "places-town"
+  },
+  {
+   "fi": "Tampere",
+   "en": "Tampere",
+   "pos": "proper",
+   "theme": "places-town"
+  },
+  {
+   "fi": "Jyväskylä",
+   "en": "Jyväskylä",
+   "pos": "proper",
+   "theme": "places-town"
+  },
+  {
+   "fi": "Joensuu",
+   "en": "Joensuu",
+   "pos": "proper",
+   "theme": "places-town"
+  },
+  {
+   "fi": "Rovaniemi",
+   "en": "Rovaniemi",
+   "pos": "proper",
+   "theme": "places-town"
+  },
+  {
+   "fi": "senttimetri",
+   "en": "centimetre",
+   "pos": "noun",
+   "theme": "numbers",
+   "form_seen": "cm",
+   "note": "snow depth"
+  },
+  {
+   "fi": "aurinko",
+   "en": "sun",
+   "pos": "noun",
+   "theme": "weather",
+   "note": "symbol"
+  },
+  {
+   "fi": "pilvi",
+   "en": "cloud",
+   "pos": "noun",
+   "theme": "weather",
+   "note": "symbol"
+  },
+  {
+   "fi": "pilvinen",
+   "en": "cloudy",
+   "pos": "adj",
+   "theme": "weather",
+   "form_seen": "pilvistä"
+  },
+  {
+   "fi": "puolipilvinen",
+   "en": "partly cloudy",
+   "pos": "adj",
+   "theme": "weather",
+   "form_seen": "puolipilvistä"
+  },
+  {
+   "fi": "sataa",
+   "en": "to rain; to fall (precipitation)",
+   "pos": "verb",
+   "verb_type": 1,
+   "theme": "weather"
+  },
+  {
+   "fi": "lumi",
+   "en": "snow",
+   "pos": "noun",
+   "theme": "weather",
+   "form_seen": "lunta"
+  },
+  {
+   "fi": "räntä",
+   "en": "sleet",
+   "pos": "noun",
+   "theme": "weather",
+   "form_seen": "räntää",
+   "note": "rain + snow symbol"
+  },
+  {
+   "fi": "tuuli",
+   "en": "wind",
+   "pos": "noun",
+   "theme": "weather",
+   "note": "arrows with m/s"
+  },
+  {
+   "fi": "pakkanen",
+   "en": "frost, sub-zero temperature",
+   "pos": "noun",
+   "theme": "weather"
+  },
+  {
+   "fi": "aste",
+   "en": "degree",
+   "pos": "noun",
+   "theme": "weather"
+  }
+ ],
+ "texts": [],
+ "exercises": [
+  {
+   "title": "Millainen sää on? (circled areas)",
+   "instruction": "Describe the weather in each circled area (sample answers).",
+   "topic": "weather",
+   "answer_source": "derived",
+   "items": [
+    {
+     "prompt": "Pohjois-Lappi (sun + cloud, -7/-5): ____",
+     "answer": "On puolipilvistä. On viisi–seitsemän astetta pakkasta.",
+     "en": "It's partly cloudy. It's minus five to minus seven."
+    },
+    {
+     "prompt": "Keski-Lappi (cloud + snow, -4/-5): ____",
+     "answer": "On pilvistä ja sataa lunta.",
+     "en": "It's cloudy and snowing."
+    },
+    {
+     "prompt": "Länsirannikko (cloud, wind 1): ____",
+     "answer": "On pilvistä. Tuulee vähän.",
+     "en": "It's cloudy. There's a light wind."
+    },
+    {
+     "prompt": "Itä-Suomi (rain + snow, 1/1): ____",
+     "answer": "Sataa räntää. On yksi aste lämmintä.",
+     "en": "It's sleeting. It's plus one."
+    },
+    {
+     "prompt": "Etelä-Suomi (rain, 4/3, wind 7): ____",
+     "answer": "Sataa vettä ja tuulee. On neljä astetta lämmintä.",
+     "en": "It's raining and windy. It's plus four."
+    }
+   ]
+  }
+ ],
+ "grammar_notes": []
+}

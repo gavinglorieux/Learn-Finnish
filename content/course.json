@@ -1,0 +1,2898 @@
+{
+ "terms": [
+  {
+   "id": "term-2025-autumn",
+   "title": "Autumn 2025",
+   "subtitle": "Absolute beginners · Sep–Dec 2025"
+  },
+  {
+   "id": "term-2026-winter",
+   "title": "Spring 2026",
+   "subtitle": "Jan–Mar 2026 (kevätlukukausi)"
+  },
+  {
+   "id": "term-2026-spring",
+   "title": "Summer 2026",
+   "subtitle": "Apr–Jun 2026 (kesälukukausi)"
+  },
+  {
+   "id": "term-2026-autumn",
+   "title": "Autumn 2026",
+   "subtitle": "Sep–Dec 2026 (syyslukukausi)"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "term-2025-autumn/lesson-01",
+   "term": "term-2025-autumn",
+   "number": 1,
+   "date": "2025-09-01",
+   "title": "Hello! Alphabet, numbers & olla",
+   "summary": "Greetings, the alphabet, numbers 0–10, days of the week, personal pronouns and the verb olla.",
+   "topics": [
+    "greetings",
+    "pronunciation",
+    "numbers",
+    "pronouns",
+    "olla",
+    "days-dates"
+   ],
+   "groups": [
+    "greetings",
+    "numbers",
+    "days-time",
+    "people",
+    "household",
+    "question-words",
+    "verbs",
+    "adjectives"
+   ],
+   "wordCount": 159,
+   "texts": [
+    "viikonpäivät-90ee8f"
+   ],
+   "exercises": [],
+   "materials": [
+    {
+     "title": {
+      "fi": "Viikonpäivät",
+      "en": "Days of the week"
+     },
+     "kind": "vocab_list",
+     "summary": "Days of the week with abbreviations, the 'Milloin?' (when?) form with the -na ending, a timeline from the day before yesterday to the day after tomorrow, and the greeting 'Hauskaa viikonloppua!'.",
+     "source": "term-2025-autumn/Lesson 1 (1.9.2025)/1755623006381.jpg"
+    },
+    {
+     "title": {
+      "fi": "Persoonapronominit ja olla-verbi",
+      "en": "Personal pronouns and the verb olla"
+     },
+     "kind": "grammar",
+     "summary": "Table of the personal pronouns with the present tense of olla (to be); personal endings in bold.",
+     "source": "term-2025-autumn/Lesson 1 (1.9.2025)/1755623006387.jpg"
+    },
+    {
+     "title": {
+      "fi": "Numerot",
+      "en": "Numbers"
+     },
+     "kind": "vocab_list",
+     "summary": "Textbook box listing Finnish cardinal numbers 0–22, the tens, hundreds, thousands and millions; the partitive endings (-tä, -a, -ta) after a multiplier are printed in bold.",
+     "source": "term-2025-autumn/Lesson 1 (1.9.2025)/1755623006396.jpg"
+    },
+    {
+     "title": {
+      "fi": "Aakkoset",
+      "en": "The alphabet"
+     },
+     "kind": "picture_vocab",
+     "summary": "Picture alphabet chart: every letter of the Finnish alphabet (A–Ö incl. Å, Ä, Ö) with a picture and an example word; words beginning with a vowel are marked with a blue 'V' badge.",
+     "source": "term-2025-autumn/Lesson 1 (1.9.2025)/1755623006404.jpg"
+    },
+    {
+     "title": {
+      "fi": "TERVEHDYKSET",
+      "en": "Greetings (and other phrases)"
+     },
+     "kind": "vocab_list",
+     "summary": "List of Finnish greetings, farewells and polite everyday phrases (how are you, thank you, sorry, congratulations) with English explanations.",
+     "source": "term-2025-autumn/Lesson 1 (1.9.2025)/TERVEHDYKSET.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2025-autumn/lesson-02",
+   "term": "term-2025-autumn",
+   "number": 2,
+   "date": "2025-09-08",
+   "title": "Olla: questions & negatives; professions",
+   "summary": "Olla in positive, negative and question form; long and short sounds; professions.",
+   "topics": [
+    "olla",
+    "negation",
+    "questions-ko",
+    "long-short",
+    "pronunciation"
+   ],
+   "groups": [
+    "professions",
+    "numbers",
+    "people",
+    "other",
+    "classroom",
+    "nationalities",
+    "adjectives",
+    "adverbs"
+   ],
+   "wordCount": 252,
+   "texts": [
+    "kysymyksiä-olla-verbillä-a7e775",
+    "kuka-sinä-olet-kuka-hän-on-100a4f"
+   ],
+   "exercises": [
+    "ex-a7e775647c",
+    "ex-368908a92d",
+    "ex-1b0268ee13",
+    "ex-100a4f9376",
+    "ex-cfc94caa82"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "Ammatit",
+      "en": "Professions (continued)"
+     },
+     "kind": "picture_vocab",
+     "summary": "Second page of the illustrated 'Ammatit' vocabulary: 24 more pictures of professions (office, service, care, education and other jobs) with their Finnish names.",
+     "source": "term-2025-autumn/Lesson 2 (8.9.2025)/Ammatit (professions)/1756896862253.jpg"
+    },
+    {
+     "title": {
+      "fi": "Ammatit",
+      "en": "Professions"
+     },
+     "kind": "picture_vocab",
+     "summary": "Illustrated textbook page 'Ammatit' (part 1): 24 pictures of professions with their Finnish names, including colloquial alternatives (bussikuski, putkimies, sähkömies); the entrepreneur says 'Minulla on oma yritys.'",
+     "source": "term-2025-autumn/Lesson 2 (8.9.2025)/Ammatit (professions)/1756896862258.jpg"
+    },
+    {
+     "title": {
+      "fi": "OLLA-verbi: kysymys ja negatiivinen lause",
+      "en": "The verb olla: questions and negative sentences"
+     },
+     "kind": "worksheet",
+     "summary": "Table of olla in positive and negative forms, -ko/-kö question forms with examples, a note on forming nationality adjectives, and gap-fills with verb forms and personal pronouns.",
+     "source": "term-2025-autumn/Lesson 2 (8.9.2025)/OLLA plus miinus kysymys.docx"
+    },
+    {
+     "title": {
+      "fi": "VOKAALIT, TUPLAVOKAALIT JA KAKSOISKONSONANTIT",
+      "en": "Vowels, double vowels and double consonants (alphabet and numbers)"
+     },
+     "kind": "exercise",
+     "summary": "Pronunciation minimal pairs (vowels, long vowels, double consonants), spelling names and reading Finnish addresses and phone numbers, and a list of numbers to say in Finnish.",
+     "source": "term-2025-autumn/Lesson 2 (8.9.2025)/aakkoset, numerot.docx"
+    },
+    {
+     "title": {
+      "fi": "Kuka sinä olet? Kuka hän on?",
+      "en": "Who are you? Who is he/she? (verb olla, first lesson)"
+     },
+     "kind": "worksheet",
+     "summary": "Short self-introductions (name, nationality, age, job, marital status) using olla, followed by two gap-fill exercises: the correct form of olla and the matching subject pronoun.",
+     "source": "term-2025-autumn/Lesson 2 (8.9.2025)/olla-verbi eka tunti.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2025-autumn/lesson-03",
+   "term": "term-2025-autumn",
+   "number": 3,
+   "date": "2025-09-15",
+   "title": "Family, nationalities & the genitive",
+   "summary": "Family tree, countries and -lainen nationalities, pronunciation practice and the genitive -n.",
+   "topics": [
+    "nationalities",
+    "genitive",
+    "pronunciation",
+    "stress-diphthongs",
+    "possessive",
+    "pronouns",
+    "kpt-nouns",
+    "question-words"
+   ],
+   "groups": [
+    "nationalities",
+    "family",
+    "professions",
+    "people",
+    "adjectives",
+    "feelings",
+    "little-words",
+    "animals"
+   ],
+   "wordCount": 217,
+   "texts": [
+    "perhe-ja-suku-a92267",
+    "olen-hän-on-f6d997"
+   ],
+   "exercises": [
+    "ex-fce29aea47",
+    "ex-4edcb3475d",
+    "ex-4527722fbd"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "-lainen / -läinen",
+      "en": "Nationalities with -lainen / -läinen"
+     },
+     "kind": "worksheet",
+     "summary": "Map of Europe with Finnish country, capital and sea names; nine people with ages are linked by arrows to their countries to practise nationality words (-lainen/-läinen), plus questions 'Minkä maan pääkaupunki on …?' answered with the genitive.",
+     "source": "term-2025-autumn/Lesson 3 (15.9.2025)/1757393256820.jpg"
+    },
+    {
+     "title": {
+      "fi": "Perhe ja sukulaiset",
+      "en": "Family and relatives"
+     },
+     "kind": "worksheet",
+     "summary": "Family-tree worksheet: English→Finnish list of family and in-law words (first five left blank to fill in) around a drawn family tree of people with ages and home towns.",
+     "source": "term-2025-autumn/Lesson 3 (15.9.2025)/1757393256828.jpg"
+    },
+    {
+     "title": {
+      "fi": "Perhe ja suku",
+      "en": "Family and relatives"
+     },
+     "kind": "text",
+     "summary": "Reading text: nine members of one extended family introduce themselves (age, job, marital status and relationship to the others, using the genitive), followed by a list of 'Olen …/Hän on …' sentences with adjectives of mood and character.",
+     "source": "term-2025-autumn/Lesson 3 (15.9.2025)/1757393256836.jpg"
+    },
+    {
+     "title": {
+      "fi": "Maa – Kansalaisuus – Kieli",
+      "en": "Country – Nationality – Language"
+     },
+     "kind": "vocab_list",
+     "summary": "Three-column table of seven countries with the matching nationality word (-lainen/-läinen) and the language spoken there; highlighted letters show how the nationality is formed from the country name.",
+     "source": "term-2025-autumn/Lesson 3 (15.9.2025)/1757393769595.jpg"
+    },
+    {
+     "title": {
+      "fi": "Genetiivi",
+      "en": "The genitive case"
+     },
+     "kind": "grammar",
+     "summary": "Grammar box on the genitive (-n): Kuka? → Kenen?, Mikä? → Minkä? with examples (incl. consonant gradation Helsinki → Helsingin), and the genitive of personal pronouns with possessive suffixes (-ni, -si, -nsa, -mme, -nne, -nsa).",
+     "source": "term-2025-autumn/Lesson 3 (15.9.2025)/1757394123615.jpg"
+    },
+    {
+     "title": {
+      "fi": "ÄÄNTÄMINEN",
+      "en": "Pronunciation"
+     },
+     "kind": "other",
+     "summary": "Pronunciation drill: word pairs contrasting A–Ä, O–U and U–Y, and word lists practising the diphthongs yö, öy, äy and eu. Some items (älli, äppi, uttu, uma, kyytti, hyyry) are nonsense/near-words used only for sound contrast.",
+     "source": "term-2025-autumn/Lesson 3 (15.9.2025)/ÄÄNTÄMINEN 2.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2025-autumn/lesson-04",
+   "term": "term-2025-autumn",
+   "number": 4,
+   "date": "2025-09-22",
+   "title": "Minulla on… & question words",
+   "summary": "Genitive rules and dialogues, question words, 'I have' (minulla on) and a first look at the partitive. Reading: Pertti Hyvärinen.",
+   "topics": [
+    "genitive",
+    "possessive",
+    "question-words",
+    "have-adessive",
+    "partitive",
+    "word-stems",
+    "negation",
+    "questions-ko",
+    "numbers",
+    "kpt-nouns"
+   ],
+   "groups": [
+    "nationalities",
+    "family",
+    "professions",
+    "little-words",
+    "people",
+    "question-words",
+    "school-work",
+    "adjectives"
+   ],
+   "wordCount": 354,
+   "texts": [
+    "perhe-ja-suku-a92267",
+    "olen-hän-on-f6d997",
+    "minulla-on-minulla-ei-ole-690e5e",
+    "kysymys-f18b24",
+    "huom-bd4edc",
+    "jukka-2e21f6",
+    "pertti-hyvärinen-f42772",
+    "kyllä-ei-vastaukset-456069",
+    "genetiivi-esimerkit-8472c9",
+    "mikä-sinun-nimi-on-9122cf",
+    "pyöräkaupassa-kenen-vuoro-e41507",
+    "kysymyssanat-esimerkit-a69c73",
+    "minun-siskoni-on-hammaslääkäri-89ae8c"
+   ],
+   "exercises": [
+    "ex-fce29aea47",
+    "ex-4edcb3475d",
+    "ex-4527722fbd",
+    "ex-2e21f6e6ac",
+    "ex-426b726f72",
+    "ex-8472c9321e",
+    "ex-89ae8c4055"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "-lainen / -läinen",
+      "en": "Nationalities with -lainen / -läinen"
+     },
+     "kind": "worksheet",
+     "summary": "Map of Europe with Finnish country, capital and sea names; nine people with ages are linked by arrows to their countries to practise nationality words (-lainen/-läinen), plus questions 'Minkä maan pääkaupunki on …?' answered with the genitive.",
+     "source": "term-2025-autumn/Lesson 3 (15.9.2025)/1757393256820.jpg"
+    },
+    {
+     "title": {
+      "fi": "Perhe ja sukulaiset",
+      "en": "Family and relatives"
+     },
+     "kind": "worksheet",
+     "summary": "Family-tree worksheet: English→Finnish list of family and in-law words (first five left blank to fill in) around a drawn family tree of people with ages and home towns.",
+     "source": "term-2025-autumn/Lesson 3 (15.9.2025)/1757393256828.jpg"
+    },
+    {
+     "title": {
+      "fi": "Perhe ja suku",
+      "en": "Family and relatives"
+     },
+     "kind": "text",
+     "summary": "Reading text: nine members of one extended family introduce themselves (age, job, marital status and relationship to the others, using the genitive), followed by a list of 'Olen …/Hän on …' sentences with adjectives of mood and character.",
+     "source": "term-2025-autumn/Lesson 3 (15.9.2025)/1757393256836.jpg"
+    },
+    {
+     "title": {
+      "fi": "Minulla on…",
+      "en": "I have…"
+     },
+     "kind": "grammar",
+     "summary": "Grammar box on possession: adessive (-lla/-llä) + on, and the negative adessive + ei ole + partitive, with pronouns and nouns (Kenellä?), a question/answer example, and the HUOM note that feelings like nälkä, jano, kiire, kuuma, kylmä do not take the partitive in the negative.",
+     "source": "term-2025-autumn/Lesson 4 (22.9.2025)/1757394247567 (1).jpg"
+    },
+    {
+     "title": {
+      "fi": "Partitiivi",
+      "en": "The partitive case"
+     },
+     "kind": "grammar",
+     "summary": "Grammar sheet 1.1 Partitiivi: table of partitive endings by word type (-a/-ä after a single vowel, -ta/-tä after a long vowel or consonant, -tta/-ttä for -e words, handwritten -sta/-stä for -nen words), and the first use: after numbers, monta, pari and puoli.",
+     "source": "term-2025-autumn/Lesson 4 (22.9.2025)/1757415950846.jpg"
+    },
+    {
+     "title": {
+      "fi": "Toinen tunti: olla-verbi, negatiivinen lause ja -ko/-kö-kysymys",
+      "en": "Second lesson: the verb olla, negative sentences and -ko/-kö questions"
+     },
+     "kind": "worksheet",
+     "summary": "Table of olla in affirmative, negative and -ko/-kö question form; a short reading text about Jukka Mäkinen; comprehension questions about him, personal questions for the student, and a prompt to write questions for Marja.",
+     "source": "term-2025-autumn/Lesson 4 (22.9.2025)/1758387550668.jpg"
+    },
+    {
+     "title": {
+      "fi": "Pertti Hyvärinen",
+      "en": "Pertti Hyvärinen"
+     },
+     "kind": "text",
+     "summary": "Short reading text in which Pertti Hyvärinen describes his partner, three sons and two dogs; followed by the negative forms of olla and -ko/-kö questions with short yes/no answers, and a 'Kysymyksiä' prompt.",
+     "source": "term-2025-autumn/Lesson 4 (22.9.2025)/1758387621533.jpg"
+    },
+    {
+     "title": {
+      "fi": "GENETIIVI",
+      "en": "Genitive rules (ownership)"
+     },
+     "kind": "grammar",
+     "summary": "Rules for the genitive: pronoun genitives with possessive suffixes, -n / -in for names and nouns, no 'of' construction, stem changes for family words, example sentences and a short 'how do you ask…' translation task.",
+     "source": "term-2025-autumn/Lesson 4 (22.9.2025)/GENETIIVI SÄÄNNÖT.docx"
+    },
+    {
+     "title": {
+      "fi": "GENETIIVIÄ",
+      "en": "Genitive – dialogues"
+     },
+     "kind": "dialogue",
+     "summary": "Two dialogues practising the genitive: Anna and Juan introduce themselves (names, nationality, professions), and customers ask a shop assistant about bike prices (kenen vuoro, tämän pyörän hinta).",
+     "source": "term-2025-autumn/Lesson 4 (22.9.2025)/GENETIIVIÄ TEKSTI.docx"
+    },
+    {
+     "title": {
+      "fi": "KYSYMYSSANAT",
+      "en": "Question words"
+     },
+     "kind": "grammar",
+     "summary": "Reference list of Finnish question words (mikä, mitä, kuka, kenen, kuinka/miten, miksi, millainen, milloin, missä, mistä, mihin…) with usage notes and example questions.",
+     "source": "term-2025-autumn/Lesson 4 (22.9.2025)/KYSYMYSSANAT.docx"
+    },
+    {
+     "title": {
+      "fi": "Genetiivi",
+      "en": "Genitive – translation exercise"
+     },
+     "kind": "exercise",
+     "summary": "Fifteen English sentences about family members and professions to translate into Finnish using genitive pronouns and nouns, with a vocabulary list.",
+     "source": "term-2025-autumn/Lesson 4 (22.9.2025)/genetiivi lauantaille.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2025-autumn/lesson-05",
+   "term": "term-2025-autumn",
+   "number": 5,
+   "date": "2025-09-29",
+   "title": "Partitive rules & 'to have'",
+   "summary": "The partitive endings and when to use them; 'to have' exercises.",
+   "topics": [
+    "partitive",
+    "have-adessive",
+    "negation",
+    "numbers",
+    "adjectives"
+   ],
+   "groups": [
+    "family",
+    "nationalities",
+    "people",
+    "numbers",
+    "adjectives",
+    "days-time",
+    "classroom",
+    "little-words"
+   ],
+   "wordCount": 151,
+   "texts": [
+    "jukka-2e21f6",
+    "pertti-hyvärinen-f42772",
+    "kyllä-ei-vastaukset-456069",
+    "partitiivi-esimerkit-6ea461"
+   ],
+   "exercises": [
+    "ex-2e21f6e6ac",
+    "ex-426b726f72",
+    "ex-1e97c9ad7d"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "Toinen tunti: olla-verbi, negatiivinen lause ja -ko/-kö-kysymys",
+      "en": "Second lesson: the verb olla, negative sentences and -ko/-kö questions"
+     },
+     "kind": "worksheet",
+     "summary": "Table of olla in affirmative, negative and -ko/-kö question form; a short reading text about Jukka Mäkinen; comprehension questions about him, personal questions for the student, and a prompt to write questions for Marja.",
+     "source": "term-2025-autumn/Lesson 4 (22.9.2025)/1758387550668.jpg"
+    },
+    {
+     "title": {
+      "fi": "Pertti Hyvärinen",
+      "en": "Pertti Hyvärinen"
+     },
+     "kind": "text",
+     "summary": "Short reading text in which Pertti Hyvärinen describes his partner, three sons and two dogs; followed by the negative forms of olla and -ko/-kö questions with short yes/no answers, and a 'Kysymyksiä' prompt.",
+     "source": "term-2025-autumn/Lesson 4 (22.9.2025)/1758387621533.jpg"
+    },
+    {
+     "title": {
+      "fi": "Partitiivi – säännöt",
+      "en": "Rules for the partitive ending"
+     },
+     "kind": "grammar",
+     "summary": "Rules for when to use the partitive (after numbers, indefinite amounts, measures, agreeing adjectives) and which ending to add by word type, with food/drink and shopping examples and irregular forms pientä, vettä, lohta.",
+     "source": "term-2025-autumn/Lesson 5 (29.9.2025)/PARTITIVE ENDING THE RULES.docx"
+    },
+    {
+     "title": {
+      "fi": "TO HAVE – harjoituksia",
+      "en": "To have – exercises"
+     },
+     "kind": "exercise",
+     "summary": "Translation exercise (28 sentences) on expressing possession with minulla on / minulla ei ole + partitive, family members, nationalities and being hungry/thirsty/hot/cold.",
+     "source": "term-2025-autumn/Lesson 5 (29.9.2025)/TO HAVE- harjoituksia.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2025-autumn/lesson-06",
+   "term": "term-2025-autumn",
+   "number": 6,
+   "date": "2025-10-06",
+   "title": "Food & drink",
+   "summary": "Food vocabulary for the partitive; 'Do you have children?' — minulla on / ei ole + partitive.",
+   "topics": [
+    "partitive",
+    "have-adessive"
+   ],
+   "groups": [
+    "food-meals",
+    "family",
+    "food-fruit-veg",
+    "tableware",
+    "drinks",
+    "little-words",
+    "adjectives",
+    "home"
+   ],
+   "wordCount": 228,
+   "texts": [
+    "onko-teillä-lapsia-aija-rautiainen-a69f47",
+    "georgios-payos-5d5ce4",
+    "sebastian-471ac6"
+   ],
+   "exercises": [
+    "ex-92c60725fb"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "Ruoka ja juoma",
+      "en": "Food and drink"
+     },
+     "kind": "picture_vocab",
+     "summary": "Illustrated textbook page labelling fruits (Hedelmät) and vegetables (Vihannekset/kasvikset).",
+     "source": "term-2025-autumn/Lesson 6 (6.10.2025)/1759158791580.jpg"
+    },
+    {
+     "title": {
+      "fi": "Marjat; liha, kala; ruoat",
+      "en": "Berries; meat and fish; dishes"
+     },
+     "kind": "picture_vocab",
+     "summary": "Illustrated textbook page labelling berries (Marjat), meat/fish/protein foods and common dishes.",
+     "source": "term-2025-autumn/Lesson 6 (6.10.2025)/1759158791587.jpg"
+    },
+    {
+     "title": {
+      "fi": "Jälkiruoat, mausteet, astiat",
+      "en": "Desserts, condiments, tableware"
+     },
+     "kind": "picture_vocab",
+     "summary": "Illustrated textbook page labelling desserts/sweets (Jälkiruoat), condiments (Mausteet) and tableware/kitchenware (Astiat).",
+     "source": "term-2025-autumn/Lesson 6 (6.10.2025)/1759158791596.jpg"
+    },
+    {
+     "title": {
+      "fi": "Juomat, aamiainen",
+      "en": "Drinks, breakfast"
+     },
+     "kind": "picture_vocab",
+     "summary": "Illustrated textbook page labelling drinks (Juomat) and breakfast foods (Aamiainen).",
+     "source": "term-2025-autumn/Lesson 6 (6.10.2025)/1759158791602.jpg"
+    },
+    {
+     "title": {
+      "fi": "ONKO TEILLÄ LAPSIA? – KYLLÄ, MEILLÄ ON KAKSI LASTA.",
+      "en": "Do you have children? – Yes, we have two children."
+     },
+     "kind": "text",
+     "summary": "Three reading texts in which people describe their families, homes and pets (Aija in Porvoo, Georgios the Greek engineer, 5-year-old Sebastian), practising minulla on / ei ole + partitive, with glossaries.",
+     "source": "term-2025-autumn/Lesson 6 (6.10.2025)/MINULLA ON- teksti.docx"
+    },
+    {
+     "title": {
+      "fi": "MINULLA ON / MINULLA EI OLE + -A",
+      "en": "I have / I don't have + partitive"
+     },
+     "kind": "exercise",
+     "summary": "Twenty sentences about family (siblings, children, partners, cousins) and masks to translate into Finnish with minulla on / minulla ei ole and the partitive, plus a short vocabulary list.",
+     "source": "term-2025-autumn/Lesson 6 (6.10.2025)/MINULLA ON.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2025-autumn/lesson-07",
+   "term": "term-2025-autumn",
+   "number": 7,
+   "date": "2025-10-13",
+   "title": "Clothes, colours & describing people",
+   "summary": "Clothes, colours, appearance and 'Millainen hän on?'.",
+   "topics": [
+    "adjectives",
+    "plural",
+    "have-adessive"
+   ],
+   "groups": [
+    "clothes",
+    "appearance",
+    "colours",
+    "family",
+    "professions",
+    "little-words",
+    "feelings",
+    "adjectives"
+   ],
+   "wordCount": 140,
+   "texts": [
+    "minkänäköinen-hän-on-a9917b",
+    "1-marko-peltonen-59-3864a8",
+    "2-tiina-mäkipelto-46-ja-rauha-vilenius-3-c922d4",
+    "3-ulla-maija-lieviö-31-2a2c09"
+   ],
+   "exercises": [],
+   "materials": [
+    {
+     "title": {
+      "fi": "Harjoitus 3. Kirjoita, minkänäköinen hän on.",
+      "en": "Exercise 3. Write what he/she looks like."
+     },
+     "kind": "exercise",
+     "summary": "Free-writing exercise: describe the appearance of four illustrated people. Item 1 has a printed model answer; items 2–4 are blank (model answers derived from the pictures).",
+     "source": "term-2025-autumn/Lesson 7 (13.10.2025)/1759642982431.jpg"
+    },
+    {
+     "title": {
+      "fi": "Värit — Minkävärinen?",
+      "en": "Colours — What colour?"
+     },
+     "kind": "vocab_list",
+     "summary": "Textbook box listing ten basic colours with colour swatches, under the question \"Minkävärinen?\" (What colour?).",
+     "source": "term-2025-autumn/Lesson 7 (13.10.2025)/1759643028454.jpg"
+    },
+    {
+     "title": {
+      "fi": "Vaatteet ja asusteet",
+      "en": "Clothes and accessories"
+     },
+     "kind": "picture_vocab",
+     "summary": "Bilingual picture dictionary page (p. 10) labelling clothes, footwear and accessories in Finnish and English.",
+     "source": "term-2025-autumn/Lesson 7 (13.10.2025)/1759643094748.jpg"
+    },
+    {
+     "title": {
+      "fi": "Vaatteet",
+      "en": "Clothes"
+     },
+     "kind": "picture_vocab",
+     "summary": "Bilingual picture dictionary page (p. 9) labelling clothes in Finnish and English.",
+     "source": "term-2025-autumn/Lesson 7 (13.10.2025)/1759643094760.jpg"
+    },
+    {
+     "title": {
+      "fi": "Vaatteet",
+      "en": "Clothes"
+     },
+     "kind": "picture_vocab",
+     "summary": "Bilingual picture dictionary page (p. 8) labelling clothes in Finnish and English.",
+     "source": "term-2025-autumn/Lesson 7 (13.10.2025)/1759643094767.jpg"
+    },
+    {
+     "title": {
+      "fi": "Minkänäköinen hän on?",
+      "en": "What does he/she look like?"
+     },
+     "kind": "text",
+     "summary": "Illustrated page describing the appearance of three people (a woman, a bearded man, a baby) with \"Hänellä on ...\" and \"Hän on ...\" sentences.",
+     "source": "term-2025-autumn/Lesson 7 (13.10.2025)/1759759325853.jpg"
+    },
+    {
+     "title": {
+      "fi": "KUVAILU",
+      "en": "Describing people"
+     },
+     "kind": "text",
+     "summary": "Three short texts describing people's appearance, personality, clothes and jobs (a musician, a married couple, a vet), with glossaries; practises hänellä on + colour adjectives and plural clothing words.",
+     "source": "term-2025-autumn/Lesson 7 (13.10.2025)/KUVAILU.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2025-autumn/lesson-09",
+   "term": "term-2025-autumn",
+   "number": 9,
+   "date": "2025-11-03",
+   "title": "Verb type 1 & the partitive in a café",
+   "summary": "Verb type 1, prices (Mitä tämä maksaa?), the partitive with nouns and in a café; being ill.",
+   "topics": [
+    "verb-types",
+    "verb-type-1",
+    "partitive",
+    "numbers",
+    "adjectives"
+   ],
+   "groups": [
+    "food-meals",
+    "drinks",
+    "shopping-money",
+    "little-words",
+    "clothes",
+    "illness",
+    "nationalities",
+    "hobbies-sport"
+   ],
+   "wordCount": 299,
+   "texts": [
+    "sairastaminen-fb2a9b",
+    "mitä-nämä-omenat-maksavat-dfd169"
+   ],
+   "exercises": [
+    "ex-4fe35f1467",
+    "ex-dff78f4f4d",
+    "ex-86027a8971",
+    "ex-26444ddb1b",
+    "ex-11a3e12c93",
+    "ex-dfd1690eb1"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "1.3. Sairastaminen",
+      "en": "1.3. Being ill"
+     },
+     "kind": "worksheet",
+     "summary": "Illustrated worksheet on illness and symptoms: \"Minulla on yskä / kurkku kipeä / kuumetta…\", pair questions to ask a neighbour, and a HUOMAA box on \"Minulla on / ei ole nälkä, jano, kuuma, kiire\". Also handed out in later lessons.",
+     "source": "term-2025-autumn/Lesson 9 (3.11.2025)/1760888994602 (1).jpg"
+    },
+    {
+     "title": {
+      "fi": "VERBITYYPPI 1: KUINKA PALJON TÄMÄ PAITA MAKSAA?",
+      "en": "Verb type 1: how much does this shirt cost?"
+     },
+     "kind": "worksheet",
+     "summary": "Verb type 1 explained with maksaa (to cost/pay), including negative and 'how much' questions, followed by 20 English prompts to ask prices of clothes and food in Finnish.",
+     "source": "term-2025-autumn/Lesson 9 (3.11.2025)/MITÄ TÄMÄ MAKSAA verbityyppi 1.docx"
+    },
+    {
+     "title": {
+      "fi": "PARTITIIVI ESIMERKKEJÄ: Ostoksilla / Kahvilassa / Baarissa",
+      "en": "Partitive examples: shopping / in a café / in a bar"
+     },
+     "kind": "exercise",
+     "summary": "English sentences to translate into Finnish when shopping for food, ordering in a café and in a bar, practising the partitive after numbers and measure words.",
+     "source": "term-2025-autumn/Lesson 9 (3.11.2025)/PARTITIIVI ESIMERKKEJÄ (1).pdf"
+    },
+    {
+     "title": {
+      "fi": "Kahvilassa / Baarissa / Ravintolassa",
+      "en": "In a café / in a bar / in a restaurant"
+     },
+     "kind": "exercise",
+     "summary": "Translation exercise: 28 café/bar orders in English to say in Finnish using the partitive after numbers and for quantities, with vocabulary given in brackets.",
+     "source": "term-2025-autumn/Lesson 9 (3.11.2025)/PARTITIIVIHARJOITUS KAHVILASSA.docx"
+    },
+    {
+     "title": {
+      "fi": "PARTITIVE ENDING AND NOUNS",
+      "en": "Partitive ending and nouns"
+     },
+     "kind": "grammar",
+     "summary": "Grammar sheet on forming the partitive singular of nouns after numbers (five rules by word ending), adjective agreement, and partitive after monta/pari/paljon.",
+     "source": "term-2025-autumn/Lesson 9 (3.11.2025)/PARTITIVE ENDING AND NOUNS.docx"
+    },
+    {
+     "title": {
+      "fi": "VERBIT SUOMENKIELESSÄ – VERBITYYPPI 1",
+      "en": "Finnish verbs – verb type 1"
+     },
+     "kind": "worksheet",
+     "summary": "Introduction to Finnish verb types and personal endings, negative and -ko/-kö question formation, verb type 1 rules with model conjugations, then exercises: conjugate 16 type-1 verbs, negative sentences and questions.",
+     "source": "term-2025-autumn/Lesson 9 (3.11.2025)/VERB TYPE   1.docx"
+    },
+    {
+     "title": {
+      "fi": "MITÄ / PALJONKO / KUINKA PALJON NÄMÄ OMENAT MAKSAVAT?",
+      "en": "Verb type 1 – how much do these apples cost?"
+     },
+     "kind": "exercise",
+     "summary": "Gap-fill/translation exercise with verb type 1 verbs (maksaa, istua, harrastaa, seisoa, asua, ostaa, katsoa, saunoa, kalastaa, metsästää, sienestää, marjastaa) in positive, negative and question forms; asking prices.",
+     "source": "term-2025-autumn/Lesson 9 (3.11.2025)/VERBITYYPPI 1 (3).docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2025-autumn/lesson-10",
+   "term": "term-2025-autumn",
+   "number": 10,
+   "date": "2025-11-10",
+   "title": "Local cases: -ssa and -lla",
+   "summary": "The six local cases, transport (millä?), weather, times of day, months and seasons.",
+   "topics": [
+    "local-cases",
+    "inner-local-cases",
+    "outer-local-cases",
+    "weather",
+    "months-seasons",
+    "illative",
+    "days-dates",
+    "adjectives"
+   ],
+   "groups": [
+    "weather",
+    "months-seasons",
+    "transport",
+    "colours",
+    "places-town",
+    "verbs",
+    "days-time",
+    "question-words"
+   ],
+   "wordCount": 165,
+   "texts": [
+    "paikallissijat-esimerkit-2f7868",
+    "sää-cd70fc",
+    "malli-36681d"
+   ],
+   "exercises": [
+    "ex-19ee29d700",
+    "ex-e6c563e01f"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "Kielioppi, Kappale 6: Paikallissijat",
+      "en": "Grammar, Chapter 6: Local cases"
+     },
+     "kind": "grammar",
+     "summary": "Grammar box showing the six Finnish local cases with question words, endings and an illustrated example sentence for each (talo / terassi).",
+     "source": "term-2025-autumn/Lesson 10 (10.11.2025)/1762631249764.jpg"
+    },
+    {
+     "title": {
+      "fi": "1.2. Millä sinä matkustat? — Harjoitus 3",
+      "en": "1.2. How do you travel? — Exercise 3"
+     },
+     "kind": "exercise",
+     "summary": "Picture of 15 numbered vehicles plus a fill-in exercise: put the vehicle in brackets into the adessive (\"by bus\" = bussilla).",
+     "source": "term-2025-autumn/Lesson 10 (10.11.2025)/1762631341951.jpg"
+    },
+    {
+     "title": {
+      "fi": "Sää",
+      "en": "Weather"
+     },
+     "kind": "vocab_list",
+     "summary": "Textbook page of weather expressions: asking about the weather and temperature, temperature words (kuuma, lämmin, viileä, kylmä, pakkasta) and weather-symbol phrases.",
+     "source": "term-2025-autumn/Lesson 10 (10.11.2025)/1762631378785.jpg"
+    },
+    {
+     "title": {
+      "fi": "Millainen sää ... on?",
+      "en": "What is the weather like in ...?"
+     },
+     "kind": "exercise",
+     "summary": "World map with weather symbols and temperatures for 15 cities; pair practice \"Millainen sää X:ssä on?\" following the model answer for Delhi.",
+     "source": "term-2025-autumn/Lesson 10 (10.11.2025)/1762631378798.jpg"
+    },
+    {
+     "title": {
+      "fi": "Vuorokausi, vuodenajat, kuukaudet, värit",
+      "en": "Times of day, seasons, months, colours"
+     },
+     "kind": "grammar",
+     "summary": "Reference page: times of day with the adessive (aamulla, illalla…), seasons with \"Milloin?\" (talvella, keväällä…), the twelve months with the inessive (tammikuussa…), and a box of ten colours.",
+     "source": "term-2025-autumn/Lesson 10 (10.11.2025)/1762631479365.jpg"
+    },
+    {
+     "title": {
+      "fi": "VERBITYYPPI 1: Mitä he tekevät ja missä?",
+      "en": "Verb type 1: what do they do and where?"
+     },
+     "kind": "exercise",
+     "summary": "15 'What do you do at/in ...?' questions with places in the inessive/adessive, answered with verb type 1 phrases from a word bank (valmistaa ruokaa, nostaa painoja, etc.).",
+     "source": "term-2025-autumn/Lesson 10 (10.11.2025)/verbityyppi 1 ine ja ade.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2025-autumn/lesson-11",
+   "term": "term-2025-autumn",
+   "number": 11,
+   "date": "2025-11-17",
+   "title": "-ssa or -lla? Places in town",
+   "summary": "Which places take -ssa and which -lla; places in town; verb type 1 with local cases.",
+   "topics": [
+    "place-names",
+    "local-cases",
+    "verb-type-1",
+    "inner-local-cases",
+    "outer-local-cases",
+    "illative",
+    "days-dates",
+    "months-seasons",
+    "adjectives"
+   ],
+   "groups": [
+    "weather",
+    "months-seasons",
+    "illness",
+    "shopping-money",
+    "places-town",
+    "clothes",
+    "colours",
+    "question-words"
+   ],
+   "wordCount": 230,
+   "texts": [
+    "paikallissijat-esimerkit-2f7868",
+    "sää-cd70fc",
+    "malli-36681d",
+    "paikallissijojen-käyttö-esimerkit-f36ee7",
+    "sairastaminen-fb2a9b"
+   ],
+   "exercises": [
+    "ex-e6c563e01f",
+    "ex-f6114f6972"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "Kielioppi, Kappale 6: Paikallissijat",
+      "en": "Grammar, Chapter 6: Local cases"
+     },
+     "kind": "grammar",
+     "summary": "Grammar box showing the six Finnish local cases with question words, endings and an illustrated example sentence for each (talo / terassi).",
+     "source": "term-2025-autumn/Lesson 10 (10.11.2025)/1762631249764.jpg"
+    },
+    {
+     "title": {
+      "fi": "Sää",
+      "en": "Weather"
+     },
+     "kind": "vocab_list",
+     "summary": "Textbook page of weather expressions: asking about the weather and temperature, temperature words (kuuma, lämmin, viileä, kylmä, pakkasta) and weather-symbol phrases.",
+     "source": "term-2025-autumn/Lesson 10 (10.11.2025)/1762631378785.jpg"
+    },
+    {
+     "title": {
+      "fi": "Millainen sää ... on?",
+      "en": "What is the weather like in ...?"
+     },
+     "kind": "exercise",
+     "summary": "World map with weather symbols and temperatures for 15 cities; pair practice \"Millainen sää X:ssä on?\" following the model answer for Delhi.",
+     "source": "term-2025-autumn/Lesson 10 (10.11.2025)/1762631378798.jpg"
+    },
+    {
+     "title": {
+      "fi": "Vuorokausi, vuodenajat, kuukaudet, värit",
+      "en": "Times of day, seasons, months, colours"
+     },
+     "kind": "grammar",
+     "summary": "Reference page: times of day with the adessive (aamulla, illalla…), seasons with \"Milloin?\" (talvella, keväällä…), the twelve months with the inessive (tammikuussa…), and a box of ten colours.",
+     "source": "term-2025-autumn/Lesson 10 (10.11.2025)/1762631479365.jpg"
+    },
+    {
+     "title": {
+      "fi": "VERBITYYPPI 1: Mitä he tekevät ja missä?",
+      "en": "Verb type 1: what do they do and where?"
+     },
+     "kind": "exercise",
+     "summary": "15 'What do you do at/in ...?' questions with places in the inessive/adessive, answered with verb type 1 phrases from a word bank (valmistaa ruokaa, nostaa painoja, etc.).",
+     "source": "term-2025-autumn/Lesson 10 (10.11.2025)/verbityyppi 1 ine ja ade.docx"
+    },
+    {
+     "title": {
+      "fi": "Paikallissijojen käyttö",
+      "en": "Using the locative cases"
+     },
+     "kind": "grammar",
+     "summary": "Illustrated contrast between the inessive -ssa/-ssä (inside) and the adessive -lla/-llä (on top of / near), with lists of cities taking each ending and words that take -lla/-llä.",
+     "source": "term-2025-autumn/Lesson 11 (17.11.2025)/1762854068187.jpg"
+    },
+    {
+     "title": {
+      "fi": "Paikat",
+      "en": "Places — match the pictures to the words"
+     },
+     "kind": "picture_vocab",
+     "summary": "Picture-matching exercise: twelve numbered drawings of places (6 left, 6 right) to be labelled with the words from the central box (jäätelökioski, uimahalli, lentoasema …). 'sairaala' is pre-filled as the example and crossed out in the box.",
+     "source": "term-2025-autumn/Lesson 11 (17.11.2025)/1762854068192.jpg"
+    },
+    {
+     "title": {
+      "fi": "1.3. Sairastaminen",
+      "en": "1.3. Being ill"
+     },
+     "kind": "worksheet",
+     "summary": "Illustrated worksheet on illness and symptoms: \"Minulla on yskä / kurkku kipeä / kuumetta…\", pair questions to ask a neighbour, and a HUOMAA box on \"Minulla on / ei ole nälkä, jano, kuuma, kiire\". Also handed out in later lessons.",
+     "source": "term-2025-autumn/Lesson 9 (3.11.2025)/1760888994602 (1).jpg"
+    },
+    {
+     "title": {
+      "fi": "VERBITYYPPI 1: KUINKA PALJON TÄMÄ PAITA MAKSAA?",
+      "en": "Verb type 1: how much does this shirt cost?"
+     },
+     "kind": "worksheet",
+     "summary": "Verb type 1 explained with maksaa (to cost/pay), including negative and 'how much' questions, followed by 20 English prompts to ask prices of clothes and food in Finnish.",
+     "source": "term-2025-autumn/Lesson 9 (3.11.2025)/MITÄ TÄMÄ MAKSAA verbityyppi 1.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2025-autumn/lesson-12",
+   "term": "term-2025-autumn",
+   "number": 12,
+   "date": "2025-11-24",
+   "title": "Home, furniture & weather",
+   "summary": "Rooms and furniture, the ASUNTO text, the Christmas-fair exercise and weather in Finland.",
+   "topics": [
+    "weather",
+    "have-adessive",
+    "partitive",
+    "inner-local-cases",
+    "days-dates",
+    "months-seasons",
+    "outer-local-cases",
+    "adjectives",
+    "place-names",
+    "numbers"
+   ],
+   "groups": [
+    "adjectives",
+    "home",
+    "furniture",
+    "household",
+    "weather",
+    "little-words",
+    "food-meals",
+    "months-seasons"
+   ],
+   "wordCount": 470,
+   "texts": [
+    "sää-cd70fc",
+    "malli-36681d",
+    "me-asumme-kerrostalossa-espoossa-b319ea",
+    "suomi-tänään-18-marraskuuta-kello-14-068ac2"
+   ],
+   "exercises": [
+    "ex-791624d869",
+    "ex-16b32ee780",
+    "ex-9d723ea5f3"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "Sää",
+      "en": "Weather"
+     },
+     "kind": "vocab_list",
+     "summary": "Textbook page of weather expressions: asking about the weather and temperature, temperature words (kuuma, lämmin, viileä, kylmä, pakkasta) and weather-symbol phrases.",
+     "source": "term-2025-autumn/Lesson 10 (10.11.2025)/1762631378785.jpg"
+    },
+    {
+     "title": {
+      "fi": "Millainen sää ... on?",
+      "en": "What is the weather like in ...?"
+     },
+     "kind": "exercise",
+     "summary": "World map with weather symbols and temperatures for 15 cities; pair practice \"Millainen sää X:ssä on?\" following the model answer for Delhi.",
+     "source": "term-2025-autumn/Lesson 10 (10.11.2025)/1762631378798.jpg"
+    },
+    {
+     "title": {
+      "fi": "Vuorokausi, vuodenajat, kuukaudet, värit",
+      "en": "Times of day, seasons, months, colours"
+     },
+     "kind": "grammar",
+     "summary": "Reference page: times of day with the adessive (aamulla, illalla…), seasons with \"Milloin?\" (talvella, keväällä…), the twelve months with the inessive (tammikuussa…), and a box of ten colours.",
+     "source": "term-2025-autumn/Lesson 10 (10.11.2025)/1762631479365.jpg"
+    },
+    {
+     "title": {
+      "fi": "Suomi tänään klo 14",
+      "en": "Finland today at 2 p.m. (weather map)"
+     },
+     "kind": "other",
+     "summary": "Newspaper weather map of Finland from the Finnish Meteorological Institute (Ilmatieteen laitos) with weather symbols, temperatures (−10 to +1 °C) and wind speeds (m/s); used as a prompt for describing the weather around the country.",
+     "source": "term-2025-autumn/Lesson 12 (24.11.2025)/1763457334580.jpg"
+    },
+    {
+     "title": {
+      "fi": "Kodin huoneet",
+      "en": "Rooms of the home"
+     },
+     "kind": "picture_vocab",
+     "summary": "Picture vocabulary (with syllable dots) for rooms of a home, types of housing, upstairs/downstairs and the verbs asua and muuttaa; a speech bubble says 'Minä asun kerrostalossa.' (Screenshot of a phone photo.)",
+     "source": "term-2025-autumn/Lesson 12 (24.11.2025)/1763834730072.jpg"
+    },
+    {
+     "title": {
+      "fi": "Huonekalut ja kodin tavarat",
+      "en": "Furniture and household items"
+     },
+     "kind": "picture_vocab",
+     "summary": "Photo vocabulary page of furniture and household items grouped by room: kitchen, living room, bedroom, hall and bathroom.",
+     "source": "term-2025-autumn/Lesson 12 (24.11.2025)/1763834848922.jpg"
+    },
+    {
+     "title": {
+      "fi": "ME ASUMME KERROSTALOSSA ESPOOSSA",
+      "en": "We live in a block of flats in Espoo"
+     },
+     "kind": "text",
+     "summary": "Long reading text in which Tuija describes her family's flat room by room (furniture, household items), with a vocabulary list, 13 discussion questions and grammar notes on inessive/adessive, asua and the partitive.",
+     "source": "term-2025-autumn/Lesson 12 (24.11.2025)/ASUNTO.pdf"
+    },
+    {
+     "title": {
+      "fi": "JOULUMYYJÄISET SUOMALAISELLA KIRKOLLA JA SUOMESSA",
+      "en": "Christmas fair at the Finnish church and in Finland"
+     },
+     "kind": "exercise",
+     "summary": "Translation exercise set at a Christmas fair: 37 English sentences (asking for the toilet, ordering food and drinks, paying, Christmas items) to say in Finnish, with key vocabulary given in brackets.",
+     "source": "term-2025-autumn/Lesson 12 (24.11.2025)/JOULUMYYJÄISET absot.docx"
+    },
+    {
+     "title": {
+      "fi": "JOULUMYYJÄISET SUOMALAISELLA KIRKOLLA JA SUOMESSA",
+      "en": "Christmas fair at the Finnish church and in Finland"
+     },
+     "kind": "exercise",
+     "summary": "Translation exercise set at a Christmas fair: 37 English sentences (asking for the toilet, ordering food and drinks, paying, Christmas items) to say in Finnish, with key vocabulary given in brackets.",
+     "source": "term-2025-autumn/Lesson 12 (24.11.2025)/JOULUMYYJÄISET absot.odt"
+    },
+    {
+     "title": {
+      "fi": "SÄÄ: Tänään on kaunis päivä",
+      "en": "Weather: today is a beautiful day"
+     },
+     "kind": "grammar",
+     "summary": "Explains how to talk about the weather in Finnish (no subject, partitive adjectives, degrees of frost/warmth, compass directions) and includes a weather report for Finnish towns on 18 November.",
+     "source": "term-2025-autumn/Lesson 12 (24.11.2025)/SÄÄ.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2025-autumn/lesson-13",
+   "term": "term-2025-autumn",
+   "number": 13,
+   "date": "2025-12-01",
+   "title": "Verb type 2",
+   "summary": "Verb type 2 (syödä, juoda, tehdä…) with picture sentences; 'I have a nice flat'.",
+   "topics": [
+    "verb-type-2",
+    "negation",
+    "questions-ko"
+   ],
+   "groups": [
+    "little-words",
+    "food-meals",
+    "adjectives",
+    "home",
+    "days-time",
+    "adverbs",
+    "shopping-money",
+    "verbs"
+   ],
+   "wordCount": 268,
+   "texts": [
+    "vietkö-roskat-ulos-e94612",
+    "kuka-käy-ostoksilla-fc4094",
+    "saanko-lohta-vai-syönkö-tänään-hernekeit-fe9dad",
+    "karkkipäivä-on-joka-päivä-63e19f",
+    "lauantaisauna-a7d269"
+   ],
+   "exercises": [
+    "ex-afbc5a3a9a",
+    "ex-e946121383",
+    "ex-fc4094f6c4",
+    "ex-fe9dadc860",
+    "ex-63e19fb37d",
+    "ex-9d1b04d187",
+    "ex-b8ecb523a7",
+    "ex-63fd77b806",
+    "ex-e228fb305b",
+    "ex-cfaf72f608",
+    "ex-184e97156c",
+    "ex-34ad86b28b",
+    "ex-18f0b0eb6d",
+    "ex-777e305bec",
+    "ex-07a702a6f8"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "MINULLA ON KIVA ASUNTO",
+      "en": "I have a nice flat"
+     },
+     "kind": "exercise",
+     "summary": "12 English sentences about one's home to translate into Finnish practising minulla on / minulla ei ole + partitive, with a vocabulary list.",
+     "source": "term-2025-autumn/Lesson 13 (1.12.2025)/MINULLA ON KIVA ASUNTO.pdf"
+    },
+    {
+     "title": {
+      "fi": "VERBITYYPPI 2",
+      "en": "Verb type 2"
+     },
+     "kind": "worksheet",
+     "summary": "Verb type 2 explanation (-da/-dä; tehdä/nähdä irregular), conjugation tables to fill, five short dialogues (rubbish, shopping, salmon, sweets day, Saturday sauna) and several gap-fill and translation exercises.",
+     "source": "term-2025-autumn/Lesson 13 (1.12.2025)/VERBITYYPPI  2.docx"
+    },
+    {
+     "title": {
+      "fi": "VERBITYYPPI 2: KUVAT",
+      "en": "Verb type 2: pictures"
+     },
+     "kind": "exercise",
+     "summary": "Gap-fill sentences (accompanying picture cards) for eleven verb type 2 verbs (syödä, juoda, uida, tupakoida, imuroida, tapetoida, kaakeloida, käydä, tehdä, nähdä, voida/saada), in positive, negative and question forms, with vocabulary glosses.",
+     "source": "term-2025-autumn/Lesson 13 (1.12.2025)/VERBITYYPPI 2 KUVAT JA LAUSEET.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2025-autumn/lesson-14",
+   "term": "term-2025-autumn",
+   "number": 14,
+   "date": "2025-12-08",
+   "title": "Telling the time; Who am I?",
+   "summary": "Kello — what time is it; things in a bag; skiing weather; the 'Kuka minä olen?' guessing game.",
+   "topics": [
+    "clock",
+    "numbers",
+    "weather",
+    "days-dates"
+   ],
+   "groups": [
+    "home",
+    "adjectives",
+    "family",
+    "numbers",
+    "weather",
+    "days-time",
+    "nationalities",
+    "little-words"
+   ],
+   "wordCount": 177,
+   "texts": [
+    "mitä-kello-on-fe026d",
+    "kellonajat-0b98d9",
+    "kuka-minä-olen-1-14988c",
+    "kuka-minä-olen-2-3de6bb",
+    "kuka-minä-olen-3-1d7966",
+    "kuka-minä-olen-4-d42bdb",
+    "kuka-minä-olen-5-f289db"
+   ],
+   "exercises": [
+    "ex-afbc5a3a9a",
+    "ex-00b83d4a3c",
+    "ex-0531ba9223"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "MINULLA ON KIVA ASUNTO",
+      "en": "I have a nice flat"
+     },
+     "kind": "exercise",
+     "summary": "12 English sentences about one's home to translate into Finnish practising minulla on / minulla ei ole + partitive, with a vocabulary list.",
+     "source": "term-2025-autumn/Lesson 13 (1.12.2025)/MINULLA ON KIVA ASUNTO.pdf"
+    },
+    {
+     "title": {
+      "fi": "Harjoitus 5. Kysy parilta. Mitä kello on?",
+      "en": "Exercise 5. Ask your partner: what time is it?"
+     },
+     "kind": "exercise",
+     "summary": "Pair exercise (Kappale 5): twelve analogue clock faces; students ask each other 'Mitä kello on?' and tell the time. Below is the heading of Exercise 6 'Mihin aikaan?' (content not shown).",
+     "source": "term-2025-autumn/Lesson 14 (8.12.2025)/1763834790729.jpg"
+    },
+    {
+     "title": {
+      "fi": "Mitä kello on?",
+      "en": "What time is it?"
+     },
+     "kind": "grammar",
+     "summary": "Telling the time (Kappale 5): a short dialogue, full hour / quarter past / half / quarter to examples, aamulla vs illalla for 8.00 and 20.00, and the parts of the day.",
+     "source": "term-2025-autumn/Lesson 14 (8.12.2025)/1763834790741.jpg"
+    },
+    {
+     "title": {
+      "fi": "Laukussa",
+      "en": "Things in a bag"
+     },
+     "kind": "vocab_list",
+     "summary": "Word list of everyday items you carry in a bag (phone, keys, wallet, cards, documents…) in three columns, with an illustration of things falling out of a handbag. A faint handwritten note at the bottom reads '… 15.02'.",
+     "source": "term-2025-autumn/Lesson 14 (8.12.2025)/1764955809441.jpg"
+    },
+    {
+     "title": {
+      "fi": "Hiihtosää ja sääkartta",
+      "en": "Skiing weather and weather map"
+     },
+     "kind": "other",
+     "summary": "Newspaper weather map of Finland with weather symbols, night/day temperatures and wind arrows; five areas are circled in red pen for describing the weather. Side columns list ski resorts with open slopes/lifts and snow depth in cities.",
+     "source": "term-2025-autumn/Lesson 14 (8.12.2025)/1764956317844.jpg"
+    },
+    {
+     "title": {
+      "fi": "KUKA MINÄ OLEN?",
+      "en": "Who am I?"
+     },
+     "kind": "text",
+     "summary": "Five 'Who am I?' riddles in which famous people describe themselves (age, nationality, family, appearance, hobbies); the learner guesses who each one is.",
+     "source": "term-2025-autumn/Lesson 14 (8.12.2025)/KUKA MINÄ OLEN.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2026-winter/lesson-01",
+   "term": "term-2026-winter",
+   "number": 1,
+   "date": "2026-01-12",
+   "title": "Revision & opening hours",
+   "summary": "Revision of the autumn: verb type 2, the home, bag contents, weather maps; when is the shop open?",
+   "topics": [
+    "clock",
+    "verb-type-2",
+    "days-dates"
+   ],
+   "groups": [
+    "little-words",
+    "food-meals",
+    "adjectives",
+    "days-time",
+    "home",
+    "adverbs",
+    "shopping-money",
+    "verbs"
+   ],
+   "wordCount": 386,
+   "texts": [
+    "vietkö-roskat-ulos-e94612",
+    "kuka-käy-ostoksilla-fc4094",
+    "saanko-lohta-vai-syönkö-tänään-hernekeit-fe9dad",
+    "karkkipäivä-on-joka-päivä-63e19f",
+    "lauantaisauna-a7d269",
+    "kuka-minä-olen-1-14988c",
+    "kuka-minä-olen-2-3de6bb",
+    "kuka-minä-olen-3-1d7966",
+    "kuka-minä-olen-4-d42bdb",
+    "kuka-minä-olen-5-f289db",
+    "kyltit-ja-mainokset-a9b6f6"
+   ],
+   "exercises": [
+    "ex-afbc5a3a9a",
+    "ex-e946121383",
+    "ex-fc4094f6c4",
+    "ex-fe9dadc860",
+    "ex-63e19fb37d",
+    "ex-9d1b04d187",
+    "ex-b8ecb523a7",
+    "ex-63fd77b806",
+    "ex-e228fb305b",
+    "ex-cfaf72f608",
+    "ex-184e97156c",
+    "ex-34ad86b28b",
+    "ex-18f0b0eb6d",
+    "ex-777e305bec",
+    "ex-07a702a6f8",
+    "ex-0531ba9223",
+    "ex-a9b6f6ad9f"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "MINULLA ON KIVA ASUNTO",
+      "en": "I have a nice flat"
+     },
+     "kind": "exercise",
+     "summary": "12 English sentences about one's home to translate into Finnish practising minulla on / minulla ei ole + partitive, with a vocabulary list.",
+     "source": "term-2025-autumn/Lesson 13 (1.12.2025)/MINULLA ON KIVA ASUNTO.pdf"
+    },
+    {
+     "title": {
+      "fi": "VERBITYYPPI 2",
+      "en": "Verb type 2"
+     },
+     "kind": "worksheet",
+     "summary": "Verb type 2 explanation (-da/-dä; tehdä/nähdä irregular), conjugation tables to fill, five short dialogues (rubbish, shopping, salmon, sweets day, Saturday sauna) and several gap-fill and translation exercises.",
+     "source": "term-2025-autumn/Lesson 13 (1.12.2025)/VERBITYYPPI  2.docx"
+    },
+    {
+     "title": {
+      "fi": "VERBITYYPPI 2: KUVAT",
+      "en": "Verb type 2: pictures"
+     },
+     "kind": "exercise",
+     "summary": "Gap-fill sentences (accompanying picture cards) for eleven verb type 2 verbs (syödä, juoda, uida, tupakoida, imuroida, tapetoida, kaakeloida, käydä, tehdä, nähdä, voida/saada), in positive, negative and question forms, with vocabulary glosses.",
+     "source": "term-2025-autumn/Lesson 13 (1.12.2025)/VERBITYYPPI 2 KUVAT JA LAUSEET.docx"
+    },
+    {
+     "title": {
+      "fi": "Laukussa",
+      "en": "Things in a bag"
+     },
+     "kind": "vocab_list",
+     "summary": "Word list of everyday items you carry in a bag (phone, keys, wallet, cards, documents…) in three columns, with an illustration of things falling out of a handbag. A faint handwritten note at the bottom reads '… 15.02'.",
+     "source": "term-2025-autumn/Lesson 14 (8.12.2025)/1764955809441.jpg"
+    },
+    {
+     "title": {
+      "fi": "Hiihtosää ja sääkartta",
+      "en": "Skiing weather and weather map"
+     },
+     "kind": "other",
+     "summary": "Newspaper weather map of Finland with weather symbols, night/day temperatures and wind arrows; five areas are circled in red pen for describing the weather. Side columns list ski resorts with open slopes/lifts and snow depth in cities.",
+     "source": "term-2025-autumn/Lesson 14 (8.12.2025)/1764956317844.jpg"
+    },
+    {
+     "title": {
+      "fi": "KUKA MINÄ OLEN?",
+      "en": "Who am I?"
+     },
+     "kind": "text",
+     "summary": "Five 'Who am I?' riddles in which famous people describe themselves (age, nationality, family, appearance, hobbies); the learner guesses who each one is.",
+     "source": "term-2025-autumn/Lesson 14 (8.12.2025)/KUKA MINÄ OLEN.docx"
+    },
+    {
+     "title": {
+      "fi": "Mihin aikaan kauppa on auki?",
+      "en": "When is the store open?"
+     },
+     "kind": "exercise",
+     "summary": "Exercise 8: an illustrated street with signs and ads (Mega-market, Pankki, Ravintola Kippis-baari, Pizzeria Salami, Kampaamo Uusi tyyli) showing opening hours and prices; ten questions a)–j) about them, plus a small Sanastoa box.",
+     "source": "term-2026-winter/Lesson 1 (12.1.2026)/1766847480449.jpg"
+    }
+   ]
+  },
+  {
+   "id": "term-2026-winter/lesson-02",
+   "term": "term-2026-winter",
+   "number": 2,
+   "date": "2026-01-19",
+   "title": "Teemu's birthday — verb type 1",
+   "summary": "Verb type 1 short exercise 'Teemun synttärit' and verb type 2 revision.",
+   "topics": [
+    "verb-type-1",
+    "kpt-verbs",
+    "verb-type-2"
+   ],
+   "groups": [
+    "food-meals",
+    "little-words",
+    "verbs",
+    "days-time",
+    "adverbs",
+    "celebrations",
+    "hobbies-sport",
+    "shopping-money"
+   ],
+   "wordCount": 310,
+   "texts": [
+    "vietkö-roskat-ulos-e94612",
+    "kuka-käy-ostoksilla-fc4094",
+    "saanko-lohta-vai-syönkö-tänään-hernekeit-fe9dad",
+    "karkkipäivä-on-joka-päivä-63e19f",
+    "lauantaisauna-a7d269",
+    "pikku-teemun-synttärit-72e98c"
+   ],
+   "exercises": [
+    "ex-e946121383",
+    "ex-fc4094f6c4",
+    "ex-fe9dadc860",
+    "ex-63e19fb37d",
+    "ex-9d1b04d187",
+    "ex-b8ecb523a7",
+    "ex-63fd77b806",
+    "ex-e228fb305b",
+    "ex-cfaf72f608",
+    "ex-184e97156c",
+    "ex-34ad86b28b",
+    "ex-18f0b0eb6d",
+    "ex-777e305bec",
+    "ex-07a702a6f8",
+    "ex-72e98cf886"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "VERBITYYPPI 2",
+      "en": "Verb type 2"
+     },
+     "kind": "worksheet",
+     "summary": "Verb type 2 explanation (-da/-dä; tehdä/nähdä irregular), conjugation tables to fill, five short dialogues (rubbish, shopping, salmon, sweets day, Saturday sauna) and several gap-fill and translation exercises.",
+     "source": "term-2025-autumn/Lesson 13 (1.12.2025)/VERBITYYPPI  2.docx"
+    },
+    {
+     "title": {
+      "fi": "VERBITYYPPI 2: KUVAT",
+      "en": "Verb type 2: pictures"
+     },
+     "kind": "exercise",
+     "summary": "Gap-fill sentences (accompanying picture cards) for eleven verb type 2 verbs (syödä, juoda, uida, tupakoida, imuroida, tapetoida, kaakeloida, käydä, tehdä, nähdä, voida/saada), in positive, negative and question forms, with vocabulary glosses.",
+     "source": "term-2025-autumn/Lesson 13 (1.12.2025)/VERBITYYPPI 2 KUVAT JA LAUSEET.docx"
+    },
+    {
+     "title": {
+      "fi": "Syntymäpäivät",
+      "en": "Birthday party (photo)"
+     },
+     "kind": "other",
+     "summary": "Photo with no printed text: a boy in a paper crown and bow tie blows out the candles on a kiwi-decorated cake at a coffee table set with cups, plates, napkins, pulla, a marble Bundt cake, tall candles and flowers. Used as a speaking prompt; the words below are picture vocabulary, not printed on the page.",
+     "source": "term-2026-winter/Lesson 2 (19.1.2026)/1768664027760.jpg"
+    },
+    {
+     "title": {
+      "fi": "PIKKU-TEEMUN SYNTTÄRIT",
+      "en": "Little Teemu's birthday party"
+     },
+     "kind": "exercise",
+     "summary": "Gap-fill story about little Teemu's 5th birthday party: conjugate verb type 1 verbs (täyttää, aikoa, kutsua, leipoa, soittaa, jaksaa...) given in English/Finnish, with a vocabulary list.",
+     "source": "term-2026-winter/Lesson 2 (19.1.2026)/verb 1 Teemun synttärit.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2026-winter/lesson-03",
+   "term": "term-2026-winter",
+   "number": 3,
+   "date": "2026-01-26",
+   "title": "Verb type 3; being ill",
+   "summary": "Verb type 3 with pictures; being ill (minulla on…).",
+   "topics": [
+    "verb-type-3",
+    "have-adessive"
+   ],
+   "groups": [
+    "little-words",
+    "food-meals",
+    "verbs",
+    "days-time",
+    "adverbs",
+    "illness",
+    "shopping-money",
+    "adjectives"
+   ],
+   "wordCount": 329,
+   "texts": [
+    "vietkö-roskat-ulos-e94612",
+    "kuka-käy-ostoksilla-fc4094",
+    "saanko-lohta-vai-syönkö-tänään-hernekeit-fe9dad",
+    "karkkipäivä-on-joka-päivä-63e19f",
+    "lauantaisauna-a7d269",
+    "sairastaminen-fb2a9b",
+    "verb-type-3-dialogi-6b4e1c"
+   ],
+   "exercises": [
+    "ex-e946121383",
+    "ex-fc4094f6c4",
+    "ex-fe9dadc860",
+    "ex-63e19fb37d",
+    "ex-9d1b04d187",
+    "ex-b8ecb523a7",
+    "ex-63fd77b806",
+    "ex-e228fb305b",
+    "ex-cfaf72f608",
+    "ex-184e97156c",
+    "ex-34ad86b28b",
+    "ex-18f0b0eb6d",
+    "ex-777e305bec",
+    "ex-07a702a6f8",
+    "ex-6b4e1c3072",
+    "ex-06290442ce",
+    "ex-34a0cc0ae0",
+    "ex-5738a202ec",
+    "ex-4a3ca14091",
+    "ex-f7a607f216",
+    "ex-f6eb68ae0b",
+    "ex-8e6faa1d0d",
+    "ex-14380df2c6",
+    "ex-c229980b0b",
+    "ex-13a9092611",
+    "ex-a83c2409d8",
+    "ex-611a4aa64f",
+    "ex-112ed22352",
+    "ex-e1131e4d37",
+    "ex-502a2a0043",
+    "ex-dc7bfcd4a4",
+    "ex-f2914a1b7e",
+    "ex-5ea25d28ca",
+    "ex-2cd5cc51d3",
+    "ex-860fb075b0"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "VERBITYYPPI 2",
+      "en": "Verb type 2"
+     },
+     "kind": "worksheet",
+     "summary": "Verb type 2 explanation (-da/-dä; tehdä/nähdä irregular), conjugation tables to fill, five short dialogues (rubbish, shopping, salmon, sweets day, Saturday sauna) and several gap-fill and translation exercises.",
+     "source": "term-2025-autumn/Lesson 13 (1.12.2025)/VERBITYYPPI  2.docx"
+    },
+    {
+     "title": {
+      "fi": "VERBITYYPPI 2: KUVAT",
+      "en": "Verb type 2: pictures"
+     },
+     "kind": "exercise",
+     "summary": "Gap-fill sentences (accompanying picture cards) for eleven verb type 2 verbs (syödä, juoda, uida, tupakoida, imuroida, tapetoida, kaakeloida, käydä, tehdä, nähdä, voida/saada), in positive, negative and question forms, with vocabulary glosses.",
+     "source": "term-2025-autumn/Lesson 13 (1.12.2025)/VERBITYYPPI 2 KUVAT JA LAUSEET.docx"
+    },
+    {
+     "title": {
+      "fi": "1.3. Sairastaminen",
+      "en": "1.3. Being ill"
+     },
+     "kind": "worksheet",
+     "summary": "Illustrated worksheet on illness and symptoms: \"Minulla on yskä / kurkku kipeä / kuumetta…\", pair questions to ask a neighbour, and a HUOMAA box on \"Minulla on / ei ole nälkä, jano, kuuma, kiire\". Also handed out in later lessons.",
+     "source": "term-2025-autumn/Lesson 9 (3.11.2025)/1760888994602 (1).jpg"
+    },
+    {
+     "title": {
+      "fi": "Kielioppi: verbityyppi 3",
+      "en": "Grammar: verb type 3"
+     },
+     "kind": "worksheet",
+     "summary": "Grammar page (Kielioppi) on verb type 3: a short spoken dialogue, model conjugations of tulla and nousta, fill-in tables for opiskella, kävellä (negative), pestä, pestä (negative) and mennä, plus the rule and some common type-3 verbs. (Phone screenshot.)",
+     "source": "term-2026-winter/Lesson 3 (26.1.2026)/1769362934610.jpg"
+    },
+    {
+     "title": {
+      "fi": "1.2. Verbityyppi 3",
+      "en": "1.2. Verb type 3 (picture verbs)"
+     },
+     "kind": "picture_vocab",
+     "summary": "Fifteen numbered line drawings illustrating verb-type-3 verbs (-la/-lä, -na/-nä, -ra/-rä, -sta/-stä), with the key listed underneath. (Phone screenshot of a photocopy.)",
+     "source": "term-2026-winter/Lesson 3 (26.1.2026)/1769362954677.jpg"
+    },
+    {
+     "title": {
+      "fi": "VERBITYYPPI 3 JA KUVAT",
+      "en": "Verb type 3 and pictures"
+     },
+     "kind": "exercise",
+     "summary": "Gap-fill sentences (with picture cards) for 15 verb type 3 verbs (opiskella, tulla, mennä, kävellä, pestä, nousta, purra, hymyillä...) in positive, negative and question forms.",
+     "source": "term-2026-winter/Lesson 3 (26.1.2026)/VERBITYYPPI 3 JA KUVAT.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2026-winter/lesson-04",
+   "term": "term-2026-winter",
+   "number": 4,
+   "date": "2026-02-02",
+   "title": "Verb type 3 practice; what hurts?",
+   "summary": "More verb type 3 and verb type 2 practice; what hurts (kipeä).",
+   "topics": [
+    "verb-type-3",
+    "verb-type-2"
+   ],
+   "groups": [
+    "little-words",
+    "verbs",
+    "days-time",
+    "adverbs",
+    "illness",
+    "home",
+    "drinks",
+    "food-meals"
+   ],
+   "wordCount": 235,
+   "texts": [
+    "sairastaminen-fb2a9b",
+    "verb-type-3-dialogi-6b4e1c"
+   ],
+   "exercises": [
+    "ex-9d1b04d187",
+    "ex-b8ecb523a7",
+    "ex-63fd77b806",
+    "ex-e228fb305b",
+    "ex-cfaf72f608",
+    "ex-184e97156c",
+    "ex-34ad86b28b",
+    "ex-18f0b0eb6d",
+    "ex-777e305bec",
+    "ex-07a702a6f8",
+    "ex-6b4e1c3072",
+    "ex-06290442ce",
+    "ex-34a0cc0ae0",
+    "ex-5738a202ec",
+    "ex-4a3ca14091",
+    "ex-f7a607f216",
+    "ex-f6eb68ae0b",
+    "ex-8e6faa1d0d",
+    "ex-14380df2c6",
+    "ex-c229980b0b",
+    "ex-13a9092611",
+    "ex-a83c2409d8",
+    "ex-611a4aa64f",
+    "ex-112ed22352",
+    "ex-e1131e4d37",
+    "ex-502a2a0043",
+    "ex-dc7bfcd4a4",
+    "ex-f2914a1b7e",
+    "ex-5ea25d28ca",
+    "ex-2cd5cc51d3",
+    "ex-860fb075b0"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "VERBITYYPPI 2: KUVAT",
+      "en": "Verb type 2: pictures"
+     },
+     "kind": "exercise",
+     "summary": "Gap-fill sentences (accompanying picture cards) for eleven verb type 2 verbs (syödä, juoda, uida, tupakoida, imuroida, tapetoida, kaakeloida, käydä, tehdä, nähdä, voida/saada), in positive, negative and question forms, with vocabulary glosses.",
+     "source": "term-2025-autumn/Lesson 13 (1.12.2025)/VERBITYYPPI 2 KUVAT JA LAUSEET.docx"
+    },
+    {
+     "title": {
+      "fi": "1.3. Sairastaminen",
+      "en": "1.3. Being ill"
+     },
+     "kind": "worksheet",
+     "summary": "Illustrated worksheet on illness and symptoms: \"Minulla on yskä / kurkku kipeä / kuumetta…\", pair questions to ask a neighbour, and a HUOMAA box on \"Minulla on / ei ole nälkä, jano, kuuma, kiire\". Also handed out in later lessons.",
+     "source": "term-2025-autumn/Lesson 9 (3.11.2025)/1760888994602 (1).jpg"
+    },
+    {
+     "title": {
+      "fi": "Kielioppi: verbityyppi 3",
+      "en": "Grammar: verb type 3"
+     },
+     "kind": "worksheet",
+     "summary": "Grammar page (Kielioppi) on verb type 3: a short spoken dialogue, model conjugations of tulla and nousta, fill-in tables for opiskella, kävellä (negative), pestä, pestä (negative) and mennä, plus the rule and some common type-3 verbs. (Phone screenshot.)",
+     "source": "term-2026-winter/Lesson 3 (26.1.2026)/1769362934610.jpg"
+    },
+    {
+     "title": {
+      "fi": "1.2. Verbityyppi 3",
+      "en": "1.2. Verb type 3 (picture verbs)"
+     },
+     "kind": "picture_vocab",
+     "summary": "Fifteen numbered line drawings illustrating verb-type-3 verbs (-la/-lä, -na/-nä, -ra/-rä, -sta/-stä), with the key listed underneath. (Phone screenshot of a photocopy.)",
+     "source": "term-2026-winter/Lesson 3 (26.1.2026)/1769362954677.jpg"
+    },
+    {
+     "title": {
+      "fi": "VERBITYYPPI 3 JA KUVAT",
+      "en": "Verb type 3 and pictures"
+     },
+     "kind": "exercise",
+     "summary": "Gap-fill sentences (with picture cards) for 15 verb type 3 verbs (opiskella, tulla, mennä, kävellä, pestä, nousta, purra, hymyillä...) in positive, negative and question forms.",
+     "source": "term-2026-winter/Lesson 3 (26.1.2026)/VERBITYYPPI 3 JA KUVAT.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2026-winter/lesson-05",
+   "term": "term-2026-winter",
+   "number": 5,
+   "date": "2026-02-09",
+   "title": "Missä? Mistä? Mihin?",
+   "summary": "Elative -sta and ablative -lta: where, where from, where to; places; local cases with verb types 1–3.",
+   "topics": [
+    "local-cases",
+    "inner-local-cases",
+    "outer-local-cases",
+    "illative",
+    "locative-verbs"
+   ],
+   "groups": [
+    "verbs",
+    "places-town",
+    "days-time",
+    "home",
+    "transport",
+    "adverbs",
+    "hobbies-sport",
+    "postpositions"
+   ],
+   "wordCount": 191,
+   "texts": [
+    "missä-mistä-mihin-a9b9a9",
+    "missä-mistä-mihin-8f9aab"
+   ],
+   "exercises": [
+    "ex-46fcf5064c",
+    "ex-2d46386850",
+    "ex-a95bca672d",
+    "ex-4d232ea2a3",
+    "ex-e7ecc0678f",
+    "ex-9a3ad24a03",
+    "ex-9cb0cda3e6",
+    "ex-cc53593023",
+    "ex-216eb8cf0f",
+    "ex-c168af3232"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "1.2. Missä? – Mistä? – Mihin? Minne?",
+      "en": "1.2. Where? – From where? – Where to?"
+     },
+     "kind": "picture_vocab",
+     "summary": "Picture grid (photographed sideways, phone screenshot) contrasting the outer local cases with four places: asema, tori, pysäkki, kioski — being there (-lla/-llä), coming/leaving from (-lta/-ltä) and going to (-lle).",
+     "source": "term-2026-winter/Lesson 5 (9.2.2026)/1770295433627.jpg"
+    },
+    {
+     "title": {
+      "fi": "1.2. Missä? – Mistä? – Mihin? Minne?",
+      "en": "Where (at)? – Where from? – Where to?"
+     },
+     "kind": "picture_vocab",
+     "summary": "Textbook picture page (1.2) illustrating the inner local cases: being in (-ssa), coming/leaving from (-sta) and going to (illative) the post office, library, swimming hall and restaurant.",
+     "source": "term-2026-winter/Lesson 5 (9.2.2026)/1770295433635.jpg"
+    },
+    {
+     "title": {
+      "fi": "1.2. Missä? – Mistä? – Mihin? Harjoitus 2",
+      "en": "Where? – From where? – To where? Exercise 2"
+     },
+     "kind": "exercise",
+     "summary": "Exercise 2: put nouns into the adessive (-lla), ablative (-lta) and allative (-lle); a HUOMAA box shows irregular where/from/to forms (kotiin/kotona/kotoa, ulos/ulkona/ulkoa, taakse/takana/takaa, luokse/luona/luota).",
+     "source": "term-2026-winter/Lesson 5 (9.2.2026)/1770295433644.jpg"
+    },
+    {
+     "title": {
+      "fi": "1.2. Missä? – Mistä? – Mihin? Harjoitus 1",
+      "en": "1.2. Where? – From where? – Where to? Exercise 1"
+     },
+     "kind": "exercise",
+     "summary": "Fill-in exercise on the inner local cases: inessive (-ssa/-ssä), elative (-sta/-stä) and the three illative endings (-Vn, -hVn, -seen), with the base word given in capitals. (Phone screenshot.)",
+     "source": "term-2026-winter/Lesson 5 (9.2.2026)/1770295433654.jpg"
+    },
+    {
+     "title": {
+      "fi": "Paikat (kuvat 1–32)",
+      "en": "Places (pictures 1–32)"
+     },
+     "kind": "picture_vocab",
+     "summary": "Unlabelled page of 32 numbered line drawings of places (park, swimming pool, library, dentist, café, classroom, hospital, plane, shop, concert, cinema, church, day care, square, railway station, kiosk, street, bus stop, theatre, countryside, indoors/outdoors, shower …), used for Missä?/Mistä?/Mihin? practice. The sheet has no Finnish text; the words below are identified from the drawings and marked uncertain.",
+     "source": "term-2026-winter/Lesson 5 (9.2.2026)/1770295515205.jpg"
+    },
+    {
+     "title": {
+      "fi": "PAIKALLISSIJA JA VERBIT 1-3",
+      "en": "Local cases and verb types 1–3"
+     },
+     "kind": "exercise",
+     "summary": "Two-part gap fill: 13 places to put into the right local case (in / from / into, e.g. puistossa – puistosta, kouluun) and 19 sentences to complete with verb types 1–3 given in English, including negatives and questions.",
+     "source": "term-2026-winter/Lesson 5 (9.2.2026)/PAIKALLISSIJA JA VERBIT 1-3.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2026-winter/lesson-06",
+   "term": "term-2026-winter",
+   "number": 6,
+   "date": "2026-02-16",
+   "title": "Verb types 4 & 5",
+   "summary": "Verb types 4 and 5 in the present tense; text: What do you do in Finland in winter?",
+   "topics": [
+    "verb-type-4",
+    "verb-type-5",
+    "locative-verbs",
+    "verb-types",
+    "pronouns"
+   ],
+   "groups": [
+    "verbs",
+    "winter",
+    "hobbies-sport",
+    "little-words",
+    "adjectives",
+    "adverbs",
+    "days-time",
+    "places-town"
+   ],
+   "wordCount": 414,
+   "texts": [
+    "mitä-te-teette-suomessa-talvella-050a15"
+   ],
+   "exercises": [
+    "ex-216eb8cf0f",
+    "ex-c168af3232"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "PAIKALLISSIJA JA VERBIT 1-3",
+      "en": "Local cases and verb types 1–3"
+     },
+     "kind": "exercise",
+     "summary": "Two-part gap fill: 13 places to put into the right local case (in / from / into, e.g. puistossa – puistosta, kouluun) and 19 sentences to complete with verb types 1–3 given in English, including negatives and questions.",
+     "source": "term-2026-winter/Lesson 5 (9.2.2026)/PAIKALLISSIJA JA VERBIT 1-3.docx"
+    },
+    {
+     "title": {
+      "fi": "1.3. Sairastaminen",
+      "en": "Being ill"
+     },
+     "kind": "picture_vocab",
+     "summary": "Textbook page 1.3 on illness: picture sentences 'Minulla on yskä / nuha / kurkku kipeä / kuumetta …', questions to ask a partner, and a HUOMAA box of 'Minulla on nälkä/jano/kuuma/kiire' with negatives.",
+     "source": "term-2026-winter/Lesson 6 (16.2.2026)/1678365764810.jpg"
+    },
+    {
+     "title": {
+      "fi": "Verbityypit 4 ja 5: preesens",
+      "en": "Verb types 4 and 5: conjugation (present tense)"
+     },
+     "kind": "grammar",
+     "summary": "Grammar sheet (in English) explaining how to recognise and conjugate verb type 4 (-ta/-tä after a vowel) and verb type 5 (-ita/-itä) verbs in the present tense, with full paradigms of haluta, avata, herätä, valita and häiritä.",
+     "source": "term-2026-winter/Lesson 6 (16.2.2026)/VERB TYPES 4 AND 5 PRESENT.docx"
+    },
+    {
+     "title": {
+      "fi": "MITÄ TE TEETTE SUOMESSA TALVELLA?",
+      "en": "What do you do in Finland in winter?"
+     },
+     "kind": "text",
+     "summary": "Reading text: eleven Finns of different ages describe their winter hobbies (sledding, downhill and cross-country skiing, ice hockey, snowboarding, ice swimming, snow work, figure skating), rich in verb types 4 and 5, with glossed vocabulary.",
+     "source": "term-2026-winter/Lesson 6 (16.2.2026)/verbit 4 ja 5 MITÄ TE TEETTE SUOMESSA TALVELLA.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2026-winter/lesson-07",
+   "term": "term-2026-winter",
+   "number": 7,
+   "date": "2026-02-23",
+   "title": "Months, seasons & holidays",
+   "summary": "Months, seasons, times of day, transport with -lla and 'When are you going on holiday?'",
+   "topics": [
+    "months-seasons",
+    "outer-local-cases",
+    "verb-types"
+   ],
+   "groups": [
+    "months-seasons",
+    "illness",
+    "transport",
+    "colours",
+    "days-time",
+    "travel",
+    "question-words",
+    "adjectives"
+   ],
+   "wordCount": 145,
+   "texts": [],
+   "exercises": [
+    "ex-02032322ec",
+    "ex-577fed72f6"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "1.3. Sairastaminen",
+      "en": "Being ill"
+     },
+     "kind": "picture_vocab",
+     "summary": "Textbook page 1.3 on illness: picture sentences 'Minulla on yskä / nuha / kurkku kipeä / kuumetta …', questions to ask a partner, and a HUOMAA box of 'Minulla on nälkä/jano/kuuma/kiire' with negatives.",
+     "source": "term-2026-winter/Lesson 6 (16.2.2026)/1678365764810.jpg"
+    },
+    {
+     "title": {
+      "fi": "1.2. Millä sinä matkustat? Harjoitus 3",
+      "en": "How do you travel? Exercise 3"
+     },
+     "kind": "exercise",
+     "summary": "Picture of 15 means of transport and Exercise 3: put the vehicle in the adessive (millä? – bussilla, junalla …) to say how someone travels.",
+     "source": "term-2026-winter/Lesson 7 (23.2.2026)/1771322876835.jpg"
+    },
+    {
+     "title": {
+      "fi": "Vuorokausi, vuodenajat, kuukaudet, värit",
+      "en": "Times of day, seasons, months, colours"
+     },
+     "kind": "vocab_list",
+     "summary": "Reference page: times of day and seasons with the adessive (-lla/-llä: aamulla, talvella), the twelve months with the inessive (-ssa: tammikuussa), and ten colours (Minkävärinen?).",
+     "source": "term-2026-winter/Lesson 7 (23.2.2026)/1771340072211.jpg"
+    },
+    {
+     "title": {
+      "fi": "Milloin te menette lomalle?",
+      "en": "When are you going on holiday?"
+     },
+     "kind": "exercise",
+     "summary": "Translation exercise: 16 English dialogue lines about holiday plans to say in Finnish, practising verb types 1–3 and the months (-kuussa), with vocabulary hints in brackets.",
+     "source": "term-2026-winter/Lesson 7 (23.2.2026)/verbit 1-3, ja kuukaudet MILLOIN TE MENETTE LOMALLE.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2026-winter/lesson-08",
+   "term": "term-2026-winter",
+   "number": 8,
+   "date": "2026-03-02",
+   "title": "Winter in Finland",
+   "summary": "Translating the winter text, a short verb 4/5 exercise and the winter crossword.",
+   "topics": [
+    "verb-type-4",
+    "verb-type-5",
+    "months-seasons"
+   ],
+   "groups": [
+    "winter",
+    "hobbies-sport",
+    "verbs",
+    "little-words",
+    "adjectives",
+    "adverbs",
+    "days-time",
+    "home"
+   ],
+   "wordCount": 344,
+   "texts": [
+    "mitä-te-teette-suomessa-talvella-050a15"
+   ],
+   "exercises": [
+    "ex-865bd62d81",
+    "ex-c8f2ac6c0f"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "MITÄ TE TEETTE SUOMESSA TALVELLA?",
+      "en": "What do you do in Finland in winter?"
+     },
+     "kind": "text",
+     "summary": "Reading text: eleven Finns of different ages describe their winter hobbies (sledding, downhill and cross-country skiing, ice hockey, snowboarding, ice swimming, snow work, figure skating), rich in verb types 4 and 5, with glossed vocabulary.",
+     "source": "term-2026-winter/Lesson 6 (16.2.2026)/verbit 4 ja 5 MITÄ TE TEETTE SUOMESSA TALVELLA.docx"
+    },
+    {
+     "title": {
+      "fi": "24. Talvella",
+      "en": "In winter"
+     },
+     "kind": "exercise",
+     "summary": "Crossword (24. Talvella): name ten pictured winter items (kick sled, skis, hockey stick, puck, sled, snow shovel, toboggan, snow castle, skates, ski poles); the highlighted column completes 'Silloin on hauskaa, kun tulee lunta.'",
+     "source": "term-2026-winter/Lesson 8 (2.3.2026)/1770880701228.jpg"
+    },
+    {
+     "title": {
+      "fi": "Mennään ulos!",
+      "en": "Let's go outside!"
+     },
+     "kind": "picture_vocab",
+     "summary": "Children's picture vocabulary page for winter outdoor play, words split into syllables: sleds, skis, skates, hockey gear, snow words, and the verbs hiihtää, luistella, lasketella, kaatua, rakentaa; a rabbit on a snow racer shouts 'Pois alta! Varokaa!'.",
+     "source": "term-2026-winter/Lesson 8 (2.3.2026)/1771693495987.jpg"
+    },
+    {
+     "title": {
+      "fi": "Lyhyt verbityyppi 4 ja 5 -harjoitus",
+      "en": "Short exercise: verb types 4 and 5"
+     },
+     "kind": "exercise",
+     "summary": "Fill-in exercise of nine short mini-dialogues practising present-tense forms (affirmative, negative and -ko questions) of verb type 4 and 5 verbs such as siivota, osata, tarvita, lukita, maalata and kerätä.",
+     "source": "term-2026-winter/Lesson 8 (2.3.2026)/LYHYT HARJOITUS VERBITYYPPI 4 JA 5.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2026-winter/lesson-09",
+   "term": "term-2026-winter",
+   "number": 9,
+   "date": "2026-03-09",
+   "title": "Farm animals & K-P-T in nouns",
+   "summary": "If there's snow in winter… (verbs 1–5); consonant gradation in nouns; farm animals, furniture, body parts; Donald Duck spot-the-difference.",
+   "topics": [
+    "kpt-nouns",
+    "verb-types",
+    "have-adessive"
+   ],
+   "groups": [
+    "nationalities",
+    "verbs",
+    "farm-animals",
+    "winter",
+    "illness",
+    "adjectives",
+    "home",
+    "little-words"
+   ],
+   "wordCount": 421,
+   "texts": [
+    "herkkuhetki-753d3c",
+    "jos-talvella-on-lunta-me-voimme-hiihtää-9c8210"
+   ],
+   "exercises": [
+    "ex-4de34419b7",
+    "ex-3068aa75f5",
+    "ex-a8652c8ed3"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "Huonekalut ja kodin tavarat",
+      "en": "Furniture and household items"
+     },
+     "kind": "picture_vocab",
+     "summary": "Photo vocabulary page of furniture and household items grouped by room: kitchen, living room, bedroom, hall and bathroom.",
+     "source": "term-2025-autumn/Lesson 12 (24.11.2025)/1763834848922.jpg"
+    },
+    {
+     "title": {
+      "fi": "Herkkuhetki",
+      "en": "Treat time (spot the difference)"
+     },
+     "kind": "other",
+     "summary": "Newspaper Donald Duck (Aku Ankka) spot-the-difference puzzle: Donald waits by a barbecue to grill a corn cob; find the differences between the two pictures.",
+     "source": "term-2026-winter/Lesson 9 (9.3.2026)/1771322682039.jpg"
+    },
+    {
+     "title": {
+      "fi": "Mikä vaivaa? (kuvat 1–9)",
+      "en": "What's wrong? (pictures 1–9)"
+     },
+     "kind": "exercise",
+     "summary": "Nine photos of health problems (broken arm, back pain, red eye, vomiting, runny nose, headache, sore throat, itchy rash, eye examination) each with two blank lines for the learner to write what is wrong. No printed text; answers are derived.",
+     "source": "term-2026-winter/Lesson 9 (9.3.2026)/1771322906345.jpg"
+    },
+    {
+     "title": {
+      "fi": "Sairaana",
+      "en": "Being ill"
+     },
+     "kind": "picture_vocab",
+     "summary": "Children's picture vocabulary page on illness, words split into syllables: symptoms (headache, fever, cough, sore throat, runny nose, stomach ache), health care words (doctor, nurse, patient, medicine, plaster, cast, vaccination), sairas/terve, and verbs sairastaa, parantua, yskiä, niistää, oksentaa; a fox says 'Parane pian!'.",
+     "source": "term-2026-winter/Lesson 9 (9.3.2026)/1771322966017.jpg"
+    },
+    {
+     "title": {
+      "fi": "Ihmiset ja kehonosat",
+      "en": "People and body parts"
+     },
+     "kind": "picture_vocab",
+     "summary": "Children's picture vocabulary page (syllabified): 12 body parts and 5 people words, each with its nominative plural (pää – päät, käsi – kädet, jalka – jalat, poika – pojat …); a rabbit says 'Tässä on pää.'",
+     "source": "term-2026-winter/Lesson 9 (9.3.2026)/1771322966031.jpg"
+    },
+    {
+     "title": {
+      "fi": "Euroopan kartta",
+      "en": "Map of Europe"
+     },
+     "kind": "other",
+     "summary": "Map of Europe with Finnish names of countries, capitals and seas, plus the model question 'Minkä maan pääkaupunki on Pariisi? – Se on Ranskan pääkaupunki.' A route around European capitals is hand-drawn with arrows and some countries highlighted.",
+     "source": "term-2026-winter/Lesson 9 (9.3.2026)/1772525779409.jpg"
+    },
+    {
+     "title": {
+      "fi": "Maatilalla",
+      "en": "On the farm"
+     },
+     "kind": "picture_vocab",
+     "summary": "Bilingual picture dictionary page 61 'on the farm': 16 labelled farm animals and objects (haystack, turkey, goose, horse, bull, tractor, goat, pig, hen, field, fence …).",
+     "source": "term-2026-winter/Lesson 9 (9.3.2026)/1772526804590.jpg"
+    },
+    {
+     "title": {
+      "fi": "Maatilalla",
+      "en": "On the farm"
+     },
+     "kind": "picture_vocab",
+     "summary": "Bilingual picture dictionary page 'maatilalla' (on the farm): a farm scene plus labelled sheep, lamb, cow, calf, duck, ducklings, milk containers, orchard and cockerel.",
+     "source": "term-2026-winter/Lesson 9 (9.3.2026)/1772526804599.jpg"
+    },
+    {
+     "title": {
+      "fi": "k-p-t-vaihtelu",
+      "en": "Consonant gradation (k-p-t)"
+     },
+     "kind": "grammar",
+     "summary": "Grammar box on consonant gradation in nouns: strong → weak pairs (kk→k, pp→p, tt→t, k→–, p→v, t→d, nk→ng, nt→nn, mp→mm, lt→ll, rt→rr) with examples, plus exceptions (sk, st, tk; words ending in two vowels).",
+     "source": "term-2026-winter/Lesson 9 (9.3.2026)/1772528204667.jpg"
+    },
+    {
+     "title": {
+      "fi": "Jos talvella on lunta, me voimme hiihtää",
+      "en": "If there is snow in winter, we can ski"
+     },
+     "kind": "text",
+     "summary": "Long reading text in five paragraphs about hobbies and winter life in Finland (winter sports, ice swimming, snow lanterns, slippery roads, snowploughs, heating), with bolded words glossed in English and comprehension questions after each paragraph; practises verb types 1–5.",
+     "source": "term-2026-winter/Lesson 9 (9.3.2026)/JOS TALVELLA ON LUNTA verbit 1-5.docx"
+    },
+    {
+     "title": {
+      "fi": "Maatilan eläimet ja KPT",
+      "en": "Farm animals and consonant gradation"
+     },
+     "kind": "exercise",
+     "summary": "Farm-animal vocabulary list (lammas, lehmä, vasikka, ankka, hanhi, kukko, hevonen, vuohi, sika, kana…) where each word heads a sentence with an English phrase in brackets to translate, practising KPT gradation in plurals, local cases, genitive and 'have' (-lla on).",
+     "source": "term-2026-winter/Lesson 9 (9.3.2026)/Maatilan eläimet ja KPT.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2026-winter/lesson-10",
+   "term": "term-2026-winter",
+   "number": 10,
+   "date": "2026-03-16",
+   "title": "Where do you live? — K-P-T text",
+   "summary": "K-P-T text 'Missä te asutte?' and the Tero & Pasi verb dialogue with negatives.",
+   "topics": [
+    "kpt-nouns",
+    "place-names",
+    "negation",
+    "verb-types"
+   ],
+   "groups": [
+    "verbs",
+    "adjectives",
+    "adverbs",
+    "home",
+    "little-words",
+    "food-meals",
+    "shopping-money",
+    "days-time"
+   ],
+   "wordCount": 177,
+   "texts": [
+    "missä-te-asutte-d78527",
+    "tero-ja-pasi-baarissa-c4d022"
+   ],
+   "exercises": [
+    "ex-c4d02224be"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "Missä te asutte?",
+      "en": "Where do you live?"
+     },
+     "kind": "text",
+     "summary": "Reading text: four people (Riitta in Turku, Eeropekka in Helsinki, Johanna in Lahti, Eemeli in Seinäjoki) describe where and how they live; bold words are glossed in English. Practises KPT in place names and nouns (Turussa, Lahdessa, Helsingissä, joen rannalla).",
+     "source": "term-2026-winter/Lesson 10 (16.3.2026)/KPT MISSÄ TE ASUTTE teksti.docx"
+    },
+    {
+     "title": {
+      "fi": "Tero ja Pasi — verbiharjoitus",
+      "en": "Tero and Pasi — verb exercise (Monday group)"
+     },
+     "kind": "dialogue",
+     "summary": "Gap-fill dialogue between Tero and Pasi at a bar: fill in present-tense verbs of all types (some negative, marked NEG!) and translate English phrases; italic words glossed underneath.",
+     "source": "term-2026-winter/Lesson 10 (16.3.2026)/maanantai verbit.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2026-winter/lesson-12",
+   "term": "term-2026-winter",
+   "number": 12,
+   "date": "2026-03-30",
+   "title": "Food plurals & K-P-T",
+   "summary": "Plural forms of food words with consonant gradation.",
+   "topics": [
+    "kpt-nouns",
+    "plural"
+   ],
+   "groups": [
+    "food-meals",
+    "food-fruit-veg",
+    "verbs",
+    "drinks",
+    "furniture",
+    "household",
+    "question-words",
+    "tableware"
+   ],
+   "wordCount": 57,
+   "texts": [],
+   "exercises": [
+    "ex-a5dce0705e",
+    "ex-3aafb15a5d"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "Ruoka: ruoat — KPT",
+      "en": "Food: plural forms and consonant gradation"
+     },
+     "kind": "exercise",
+     "summary": "Food vocabulary list (33 words) to put into the -t plural with KPT changes (persikka → persikat, papu → pavut, leipä → leivät …), followed by 15 English sentences about food and the kitchen to translate into Finnish.",
+     "source": "term-2026-winter/Lesson 12 (30.3.2026)/RUOKA kpt maanantai.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2026-spring/lesson-01",
+   "term": "term-2026-spring",
+   "number": 1,
+   "date": "2026-04-20",
+   "title": "Start of the summer term",
+   "summary": "Getting to know each other again: questions about yourself, verb revision; autumn walk picture.",
+   "topics": [
+    "verb-types",
+    "questions-ko",
+    "negation"
+   ],
+   "groups": [
+    "verbs",
+    "little-words",
+    "family",
+    "adverbs",
+    "clothes",
+    "days-time",
+    "weather",
+    "nature"
+   ],
+   "wordCount": 108,
+   "texts": [
+    "jokisen-perhe-puistossa-a6fbb8"
+   ],
+   "exercises": [
+    "ex-a6fbb81552"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "",
+      "en": "A family on an autumn walk (picture)"
+     },
+     "kind": "picture_vocab",
+     "summary": "Watercolour illustration with no Finnish text: a father in a green hat and jacket holds the hand of a small child in a pink snowsuit picking up a maple leaf; a mother in a purple jacket and blue hat pushes a pram along a path with fallen autumn leaves. Used as a speaking/vocabulary prompt.",
+     "source": "term-2026-spring/Lesson 1 (20.4.2026)/1775653882256.jpg"
+    },
+    {
+     "title": {
+      "fi": "Beginners maanantai: kesälukukauden alku",
+      "en": "Beginners Monday: start of the summer term"
+     },
+     "kind": "exercise",
+     "summary": "Gap-fill story (20 numbered sentences) about the Jokinen family's walk in the park: fill in present-tense verbs from English cues (affirmative, negative and questions); bold words are listed in a vocabulary (SANASTO) at the end.",
+     "source": "term-2026-spring/Lesson 1 (20.4.2026)/BEGINNERS MAANANTAI KESÄLUKUKAUDEN ALKU.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2026-spring/lesson-02",
+   "term": "term-2026-spring",
+   "number": 2,
+   "date": "2026-04-27",
+   "title": "K-P-T in verb type 1",
+   "summary": "Consonant gradation in verb type 1 (exercises 18, 20, 21), K-P-T and vowel harmony with -ssa/-sta; local cases revision.",
+   "topics": [
+    "kpt-verbs",
+    "kpt-nouns",
+    "local-cases",
+    "vowel-harmony",
+    "verb-type-1",
+    "negation"
+   ],
+   "groups": [
+    "verbs",
+    "classroom",
+    "little-words",
+    "nationalities",
+    "travel",
+    "places-town",
+    "adverbs",
+    "transport"
+   ],
+   "wordCount": 163,
+   "texts": [
+    "matka-pariisiin-56d8fd"
+   ],
+   "exercises": [
+    "ex-56d8fd117e",
+    "ex-df282c8c12",
+    "ex-18a0bd3738",
+    "ex-d45d71ea86",
+    "ex-a9484a238c",
+    "ex-be627dfd8d",
+    "ex-5860b3230b",
+    "ex-7cb576d89b",
+    "ex-32342089d3",
+    "ex-cb29d330f9"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "Harjoitus 21. Valitse verbi ja kirjoita oikea persoona.",
+      "en": "Exercise 21. Choose the verb and write the correct person."
+     },
+     "kind": "exercise",
+     "summary": "Cloze story about Pekka and the narrator travelling to Paris: choose a verb from an 18-verb bank and conjugate it (many with k-p-t gradation; two negative forms). Item 1 is filled in (lähdemme).",
+     "source": "term-2026-spring/Lesson 2 (27.4.2026)/1776150796726.jpg"
+    },
+    {
+     "title": {
+      "fi": "Harjoitus 20. K-p-t-vaihtelu. Kirjoita verbit.",
+      "en": "Exercise 20. K-p-t gradation. Write the verbs."
+     },
+     "kind": "exercise",
+     "summary": "Ten sentences: conjugate the capitalised verb with k-p-t consonant gradation, including negatives and -ko/-kö questions. Item 1 is filled in (otan).",
+     "source": "term-2026-spring/Lesson 2 (27.4.2026)/1776150796735.jpg"
+    },
+    {
+     "title": {
+      "fi": "Harjoitus 18. K-p-t-vaihtelu. Kirjoita verbin persoonat.",
+      "en": "Exercise 18. K-p-t gradation. Write the persons of the verb."
+     },
+     "kind": "exercise",
+     "summary": "Conjugation table: nukkua is given as a model (weak grade in minä/sinä/me/te, strong in hän/he); conjugate antaa, leipoa, lukea, ymmärtää and pitää in all six persons.",
+     "source": "term-2026-spring/Lesson 2 (27.4.2026)/1776150796743.jpg"
+    },
+    {
+     "title": {
+      "fi": "Harjoitus 3. K-p-t-vaihtelu ja vokaaliharmonia. Kirjoita sanat.",
+      "en": "Exercise 3. K-p-t gradation and vowel harmony. Write the words."
+     },
+     "kind": "exercise",
+     "summary": "Form the inessive (ssa/ssä, part A) and elative (sta/stä, part B) of eight words each, applying k-p-t gradation and vowel harmony. First item of each part is filled in.",
+     "source": "term-2026-spring/Lesson 2 (27.4.2026)/1776150796752.jpg"
+    },
+    {
+     "title": {
+      "fi": "k-p-t-vaihtelu: verbityyppi 1",
+      "en": "K-p-t gradation: verb type 1"
+     },
+     "kind": "grammar",
+     "summary": "Grammar box: nukkua conjugated showing strong grade (vahva) in hän/he forms and weak grade elsewhere, the negative forms (en nuku …), a list of type-1 gradation verbs, and the full k-p-t strong–weak table.",
+     "source": "term-2026-spring/Lesson 2 (27.4.2026)/1776150796762.jpg"
+    },
+    {
+     "title": {
+      "fi": "Paikallissijat",
+      "en": "Local cases"
+     },
+     "kind": "exercise",
+     "summary": "Short rule (closed space -ssa/-sta/-Vn vs open space/surface -lla/-lta/-lle) followed by 30 sentences about Mum's trip to London where English place words in brackets must be put into Finnish with the right local case.",
+     "source": "term-2026-spring/Lesson 2 (27.4.2026)/PAIKALLISSIJAT.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2026-spring/lesson-03",
+   "term": "term-2026-spring",
+   "number": 3,
+   "date": "2026-05-04",
+   "title": "K-P-T verb vocabulary",
+   "summary": "Vocabulary for the K-P-T verb type 1 exercises.",
+   "topics": [
+    "kpt-verbs"
+   ],
+   "groups": [
+    "verbs",
+    "school-work",
+    "travel",
+    "classroom",
+    "daily-routine",
+    "hobbies-sport",
+    "shopping-money",
+    "transport"
+   ],
+   "wordCount": 23,
+   "texts": [],
+   "exercises": [],
+   "materials": [
+    {
+     "title": {
+      "fi": "Sanasto, KPT verbityyppi 1 -harjoitukset",
+      "en": "Vocabulary for the KPT verb type 1 exercises"
+     },
+     "kind": "vocab_list",
+     "summary": "Vocabulary list (Finnish = English) of the 21 type-1 verbs used in textbook exercises 20 and 21 on consonant gradation (KPT) in verbs.",
+     "source": "term-2026-spring/Lesson 3 (4.5.2026)/SANASTO harjoituksiin kpt verb 1.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2026-spring/lesson-04",
+   "term": "term-2026-spring",
+   "number": 4,
+   "date": "2026-05-11",
+   "title": "Verb pictures & K-P-T",
+   "summary": "Verbs with pictures and verb type 1 K-P-T sentences.",
+   "topics": [
+    "kpt-verbs",
+    "verb-types",
+    "verb-type-1",
+    "negation"
+   ],
+   "groups": [
+    "verbs",
+    "adverbs",
+    "hobbies-sport",
+    "days-time",
+    "little-words",
+    "shopping-money",
+    "food-meals",
+    "home"
+   ],
+   "wordCount": 172,
+   "texts": [],
+   "exercises": [
+    "ex-a57e2a7f82"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "Katso esimerkkejä. Mikä muuttuu?",
+      "en": "Look at the examples. What changes?"
+     },
+     "kind": "grammar",
+     "summary": "Four conjugation charts (pukea, tietää, laittaa, antaa) with the gradating consonants bolded: weak grade in minä/sinä/me/te, strong in hän/he, plus negative forms with the weak stem (pue, tiedä, laita, anna).",
+     "source": "term-2026-spring/Lesson 4 (11.5.2026)/1675089629337 (1).jpg"
+    },
+    {
+     "title": {
+      "fi": "Kielioppi: Verbityyppi 1 ja KPT",
+      "en": "Verb type 1 and KPT"
+     },
+     "kind": "grammar",
+     "summary": "Grammar explanation (in English) of consonant gradation in type 1 verbs: strong grade in the infinitive and third-person forms, weak grade in first and second person; model conjugation of antaa (nt → nn).",
+     "source": "term-2026-spring/Lesson 4 (11.5.2026)/1675089629341 (1).jpg"
+    },
+    {
+     "title": {
+      "fi": "Verbit",
+      "en": "Verbs"
+     },
+     "kind": "picture_vocab",
+     "summary": "Illustrated verb vocabulary box: 19 everyday verbs/verb phrases, each labelled with its verb type number (1–5).",
+     "source": "term-2026-spring/Lesson 4 (11.5.2026)/1777830795763.jpg"
+    },
+    {
+     "title": {
+      "fi": "Verbit",
+      "en": "Verbs (continued)"
+     },
+     "kind": "picture_vocab",
+     "summary": "Illustrated verb vocabulary box (continuation of 'Verbit'): 30 everyday verbs for housework, shopping, hobbies, movement, travel and feelings, each labelled with its verb type number.",
+     "source": "term-2026-spring/Lesson 4 (11.5.2026)/1777830795773.jpg"
+    },
+    {
+     "title": {
+      "fi": "Verbit ja verbityyppi 1 KPT-vaihdos: SM-kuvat",
+      "en": "Verbs and verb type 1 consonant gradation: picture exercise"
+     },
+     "kind": "exercise",
+     "summary": "49 gap-fill sentences, one per verb in the textbook 'Verbit' picture pages (puhua, lukea, kirjoittaa … nauraa, hymyillä, itkeä, in picture order), practising present-tense conjugation with KPT, negatives and questions, plus place/time phrases in brackets to put into Finnish with local-case endings.",
+     "source": "term-2026-spring/Lesson 4 (11.5.2026)/VERBIT JA VERBITYYPPI 1 KPT  sm.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2026-spring/lesson-05",
+   "term": "term-2026-spring",
+   "number": 5,
+   "date": "2026-05-18",
+   "title": "K-P-T dream pictures",
+   "summary": "More verb type 1 K-P-T: picture sentences (uni-kuvat), some negative, some questions.",
+   "topics": [
+    "kpt-verbs",
+    "negation",
+    "questions-ko"
+   ],
+   "groups": [
+    "hobbies-sport",
+    "adverbs",
+    "food-meals",
+    "adjectives",
+    "animals",
+    "clothes",
+    "cottage",
+    "feelings"
+   ],
+   "wordCount": 46,
+   "texts": [],
+   "exercises": [],
+   "materials": [
+    {
+     "title": {
+      "fi": "Verbityyppi 1 KPT: käytä kuvan verbiä",
+      "en": "Verb type 1 K-P-T: use the verb in the picture"
+     },
+     "kind": "exercise",
+     "summary": "32 sentences to complete with the type-1 K-P-T verb shown in each picture (some negative, some questions), with a glossary. The pictures (1778564831484.jpg) are only in Gmail, so no answer key is derived here.",
+     "source": "term-2026-spring/Lesson 5 (18.5.2026)/VERBITYYPPI 1 KPT uni-kuvat.docx"
+    }
+   ],
+   "pending": [
+    "1778564831484.jpg (the pictures for the exercise)"
+   ]
+  },
+  {
+   "id": "term-2026-spring/lesson-06",
+   "term": "term-2026-spring",
+   "number": 6,
+   "date": "2026-05-25",
+   "title": "Tiina's birthday; postpositions",
+   "summary": "Reading text with K-P-T verbs (Tiina's birthday) and an introduction to postpositions.",
+   "topics": [
+    "kpt-verbs",
+    "postpositions",
+    "genitive",
+    "local-cases",
+    "question-words"
+   ],
+   "groups": [
+    "verbs",
+    "postpositions",
+    "food-meals",
+    "celebrations",
+    "little-words",
+    "adjectives",
+    "cottage",
+    "days-time"
+   ],
+   "wordCount": 234,
+   "texts": [
+    "postpositiot-594250",
+    "mihin-missä-mistä-f55684",
+    "tiinalla-on-synttärit-bbdaf4"
+   ],
+   "exercises": [
+    "ex-7da11f8a74"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "Harjoitus 22. Katso kuvaa. A. Kirjoita, missä.",
+      "en": "Exercise 22. Look at the picture. A. Write where."
+     },
+     "kind": "exercise",
+     "summary": "Kitchen picture with eleven 'Missä … on?' questions to answer with location words (vieressä, päällä, takana, ääressä, edessä, keskellä, välissä, alla, vasemmalla/oikealla puolella) plus the genitive. Item 1 is answered on the sheet.",
+     "source": "term-2026-spring/Lesson 6 (25.5.2026)/1779452625339.jpg"
+    },
+    {
+     "title": {
+      "fi": "Postpositiot",
+      "en": "Postpositions"
+     },
+     "kind": "text",
+     "summary": "Illustrated reading text about a party in a living room, with ten postpositions in bold (edessä, takana, ympärillä, ääressä, keskellä, päällä, välissä, oikealla/vasemmalla puolella, vieressä) each used after a genitive.",
+     "source": "term-2026-spring/Lesson 6 (25.5.2026)/1779452625350.jpg"
+    },
+    {
+     "title": {
+      "fi": "Mihin? Missä? Mistä?",
+      "en": "Where to? Where? Where from?"
+     },
+     "kind": "grammar",
+     "summary": "Illustrated grammar box showing the three directional forms of the postposition edessä after a genitive: eteen (where to), edessä (where), edestä (where from).",
+     "source": "term-2026-spring/Lesson 6 (25.5.2026)/1779452625360.jpg"
+    },
+    {
+     "title": {
+      "fi": "Tiinalla on synttärit",
+      "en": "Tiina's birthday party"
+     },
+     "kind": "dialogue",
+     "summary": "Dialogue between Paula and Arto about Tiina's 16th birthday party and Arto's cottage plans (painting, building, fishing, relaxing), full of type-1 verbs with consonant gradation (pidämme, unohdan, rakennamme, ongimme, kudon, leivon, mahdumme); bold words glossed at the end.",
+     "source": "term-2026-spring/Lesson 6 (25.5.2026)/verb type 1 kpt teksti.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2026-spring/lesson-07",
+   "term": "term-2026-spring",
+   "number": 7,
+   "date": "2026-06-01",
+   "title": "Postpositions at the cinema",
+   "summary": "Postpositions list, the 'Leffassa' seating text and the K-P-T crossword.",
+   "topics": [
+    "postpositions",
+    "kpt-verbs",
+    "genitive",
+    "local-cases"
+   ],
+   "groups": [
+    "postpositions",
+    "verbs",
+    "little-words",
+    "feelings",
+    "places-town",
+    "adverbs",
+    "adjectives",
+    "people"
+   ],
+   "wordCount": 146,
+   "texts": [
+    "leffassa-9e05ce"
+   ],
+   "exercises": [
+    "ex-ad079d56b5",
+    "ex-9e05ce0087"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "39. Mitä sinä teet?",
+      "en": "39. What are you doing?"
+     },
+     "kind": "exercise",
+     "summary": "Picture crossword: write the minä form of the verb shown in each of 12 pictures (all type-1 verbs with k-p-t gradation); the highlighted column spells the hidden word ASTEVAIHTELU ('Tässä on ____').",
+     "source": "term-2026-spring/Lesson 7 (1.6.2026)/1777967003153.jpg"
+    },
+    {
+     "title": {
+      "fi": "Postpositiot",
+      "en": "Postpositions"
+     },
+     "kind": "grammar",
+     "summary": "Reference list of Finnish postpositions with English meanings, giving their missä/mistä/mihin forms where they exist (edessä–edestä–eteen, takana–takaa–taakse …), plus five words used as prepositions (pitkin, kohti, vastapäätä, ilman, ennen).",
+     "source": "term-2026-spring/Lesson 7 (1.6.2026)/POSTPOSITIOT (3).docx"
+    },
+    {
+     "title": {
+      "fi": "Leffassa",
+      "en": "At the cinema"
+     },
+     "kind": "text",
+     "summary": "Reading text about a group of friends at the cinema, told through postpositions (keskellä, takana, oikealla puolella, välissä, vieressä, luo, ohi, kuluttua, lähellä); students draw the seating plan from sentences 1–8. Bold words glossed at the end.",
+     "source": "term-2026-spring/Lesson 7 (1.6.2026)/postpositiot teksti ja piirrä LEFFASSA.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2026-spring/lesson-08",
+   "term": "term-2026-spring",
+   "number": 8,
+   "date": "2026-06-08",
+   "title": "Holiday plans",
+   "summary": "Lomasuunnitelmia verb exercise; setting the table with postpositions.",
+   "topics": [
+    "verb-types",
+    "kpt-verbs",
+    "postpositions"
+   ],
+   "groups": [
+    "verbs",
+    "adjectives",
+    "hobbies-sport",
+    "little-words",
+    "travel",
+    "days-time",
+    "adverbs",
+    "months-seasons"
+   ],
+   "wordCount": 104,
+   "texts": [
+    "lomasuunnitelmia-28367d"
+   ],
+   "exercises": [
+    "ex-28367d9453"
+   ],
+   "materials": [
+    {
+     "title": {
+      "fi": "Lomasuunnitelmia",
+      "en": "Holiday plans"
+     },
+     "kind": "dialogue",
+     "summary": "Gap-fill dialogue between Anne and Juha about their summer holiday plans (camper van to Lapland, the cottage in Porvoo, an old dog, a dance pavilion): fill in present-tense verbs from English cues, many with KPT; bold words glossed at the end.",
+     "source": "term-2026-spring/Lesson 8 (8.6.2026)/LOMASUUNNITELMIA verbiharjoitus.docx"
+    }
+   ]
+  },
+  {
+   "id": "term-2026-spring/lesson-09",
+   "term": "term-2026-spring",
+   "number": 9,
+   "date": "2026-06-15",
+   "title": "Last lesson: the imperative",
+   "summary": "First look at the imperative (giving orders) and älä.",
+   "topics": [
+    "imperative",
+    "negation"
+   ],
+   "groups": [
+    "verbs",
+    "directions",
+    "little-words",
+    "people",
+    "adverbs",
+    "feelings",
+    "food-fruit-veg",
+    "food-meals"
+   ],
+   "wordCount": 20,
+   "texts": [],
+   "exercises": [],
+   "materials": [
+    {
+     "title": {
+      "fi": "Imperatiivi",
+      "en": "Imperative"
+     },
+     "kind": "grammar",
+     "summary": "Grammar explanation (in English) of the singular imperative: common commands, forming it from the sinä form by dropping the final -t, and the negative imperative with älä + stem.",
+     "source": "term-2026-spring/Lesson 9 (15.6.2026)/1774538618305 (1).jpg"
+    }
+   ]
+  },
+  {
+   "id": "term-2026-autumn/lesson-01",
+   "term": "term-2026-autumn",
+   "number": 1,
+   "date": "2026-09-14",
+   "title": "Back to class: weather-map revision",
+   "summary": "Revision: tell what the weather is like in Finnish cities from a weather map. Term plan: K-P-T revision, K-P-T in verb types 3 & 4, imperative, object case, imperfect tense, ordinal numbers.",
+   "topics": [
+    "weather",
+    "place-names",
+    "kpt-nouns",
+    "kpt-verbs"
+   ],
+   "groups": [],
+   "wordCount": 0,
+   "texts": [],
+   "exercises": [],
+   "materials": [],
+   "pending": [
+    "MAANANTAI syksy 2026 aloitus.docx",
+    "Sääkartta screenshot"
+   ]
+  },
+  {
+   "id": "term-2026-autumn/lesson-02",
+   "term": "term-2026-autumn",
+   "number": 2,
+   "date": "2026-09-21",
+   "title": "K-P-T in verb types 3 & 4",
+   "summary": "Verb type 1 K-P-T homework and the 'verb types 3 and 4 K-P-T' package.",
+   "topics": [
+    "kpt-verbs-3-4",
+    "kpt-verbs",
+    "verb-type-3",
+    "verb-type-4"
+   ],
+   "groups": [],
+   "wordCount": 0,
+   "texts": [],
+   "exercises": [],
+   "materials": [],
+   "pending": [
+    "maananta verb 1 kpt.docx",
+    "VERBITYYPPI 3 JA 4 kpt (1).docx",
+    "1789452887588.jpg",
+    "1789452724979.jpg",
+    "1789452709371.jpg",
+    "1683195388238 (1).jpg"
+   ]
+  },
+  {
+   "id": "term-2026-autumn/lesson-03",
+   "term": "term-2026-autumn",
+   "number": 3,
+   "date": "2026-09-28",
+   "title": "Work meeting & the garden — K-P-T 1, 3, 4",
+   "summary": "Exercise 18 A & B and 'KPT työkokous' (work meeting); reading together: 'Syksyllä mökillä on paljon töitä' (autumn work at the cottage).",
+   "topics": [
+    "kpt-verbs-3-4",
+    "kpt-verbs"
+   ],
+   "groups": [],
+   "wordCount": 0,
+   "texts": [],
+   "exercises": [],
+   "materials": [],
+   "pending": [
+    "verb type 3 and 4 kpt työkokous.docx",
+    "kpt verbit SYKSYLLÄ MÖKILLÄ ON PALJON TÖITÄ.docx",
+    "puutarha screenshot"
+   ]
+  },
+  {
+   "id": "term-2026-autumn/lesson-04",
+   "term": "term-2026-autumn",
+   "number": 4,
+   "date": "2026-10-05",
+   "title": "Yoga dialogue & the imperative",
+   "summary": "Questions on 'Syksyllä mökillä on paljon töitä' and the JOOGA-DIALOGI (K-P-T in verb types 1, 3 and 4); new topic: the imperative — at the airport (Lentokentällä).",
+   "topics": [
+    "imperative",
+    "kpt-verbs-3-4",
+    "kpt-verbs"
+   ],
+   "groups": [],
+   "wordCount": 0,
+   "texts": [],
+   "exercises": [],
+   "materials": [],
+   "pending": [
+    "KPT verbit jooga.docx",
+    "imperatiivi englanniksi.docx",
+    "imperatiivi  LENTOKENTÄLLÄ.docx",
+    "1790683575934.jpg"
+   ]
+  }
+ ]
+}

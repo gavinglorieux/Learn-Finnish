@@ -1,0 +1,175 @@
+{
+  "source": "term-2025-autumn/Lesson 6 (6.10.2025)/1759158791602.jpg",
+  "md5": "dda4776e51b7de64f10acf9f873ad8d5",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 6,
+    "date": "2025-10-06"
+  },
+  "kind": "picture_vocab",
+  "title": {
+    "fi": "Juomat, aamiainen",
+    "en": "Drinks, breakfast"
+  },
+  "topics": [],
+  "summary": "Illustrated textbook page labelling drinks (Juomat) and breakfast foods (Aamiainen).",
+  "transcript": "Juomat\nvesi, maito, piimä, mehu, viini, kahvi, tee, kaakao, limu, siideri, olut\nAamiainen\nmehu, murot, puuro, jogurtti, kahvi, tee, leipä, voi, sämpylä, muna, hunaja, kinkku, makkara, hillo, juusto",
+  "words": [
+    {
+      "fi": "juoma",
+      "en": "drink",
+      "pos": "noun",
+      "form_seen": "juomat",
+      "theme": "drinks"
+    },
+    {
+      "fi": "vesi",
+      "en": "water",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "maito",
+      "en": "milk",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "piimä",
+      "en": "buttermilk, soured milk",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "mehu",
+      "en": "juice",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "viini",
+      "en": "wine",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "kahvi",
+      "en": "coffee",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "tee",
+      "en": "tea",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "kaakao",
+      "en": "cocoa, hot chocolate",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "limu",
+      "en": "soft drink, fizzy drink",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "siideri",
+      "en": "cider",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "olut",
+      "en": "beer",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "aamiainen",
+      "en": "breakfast",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "murot",
+      "en": "cereal (breakfast cereal)",
+      "pos": "noun",
+      "note": "plural only",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "puuro",
+      "en": "porridge",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "jogurtti",
+      "en": "yoghurt",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "leipä",
+      "en": "bread",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "voi",
+      "en": "butter",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "sämpylä",
+      "en": "bread roll",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "muna",
+      "en": "egg",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "hunaja",
+      "en": "honey",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "kinkku",
+      "en": "ham",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "makkara",
+      "en": "sausage",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "hillo",
+      "en": "jam",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "juusto",
+      "en": "cheese",
+      "pos": "noun",
+      "theme": "food-meals"
+    }
+  ],
+  "texts": [],
+  "exercises": [],
+  "grammar_notes": []
+}

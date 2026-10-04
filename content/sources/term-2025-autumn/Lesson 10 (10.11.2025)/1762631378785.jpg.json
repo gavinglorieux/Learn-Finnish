@@ -1,0 +1,327 @@
+{
+  "source": "term-2025-autumn/Lesson 10 (10.11.2025)/1762631378785.jpg",
+  "md5": "d3c278c3cd6d57bb79856bf362c1e739",
+  "also_in": [
+    "term-2025-autumn/Lesson 11 (17.11.2025)/1762631378785.jpg",
+    "term-2025-autumn/Lesson 12 (24.11.2025)/1762631378785 (2).jpg"
+  ],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 10,
+    "date": "2025-11-10"
+  },
+  "kind": "vocab_list",
+  "title": {
+    "fi": "Sää",
+    "en": "Weather"
+  },
+  "topics": [
+    "weather",
+    "partitive",
+    "numbers"
+  ],
+  "summary": "Textbook page of weather expressions: asking about the weather and temperature, temperature words (kuuma, lämmin, viileä, kylmä, pakkasta) and weather-symbol phrases.",
+  "transcript": "Sää\nMillainen sää / ilma tänään on?\nOn kaunis / hyvä ilma.\nOn huono ilma.\nKuinka monta astetta ulkona on?\nOn +30 astetta. On kuuma. On helle.\nOn +20 astetta. On lämmin.\nOn +2 astetta. On viileä.\nOn -15 astetta. On kylmä. On pakkasta.\nAurinko paistaa. On aurinkoista.\nOn pilvistä.\nOn puolipilvistä.\nOn selkeää.\nOn sumuista.\nSataa. On sateista.\nSataa räntää.\nSataa lunta.\nTuulee. On tuulista. On myrsky.\nOn ukkonen.",
+  "words": [
+    {
+      "fi": "sää",
+      "en": "weather",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "ilma",
+      "en": "weather; air",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "millainen",
+      "en": "what kind of, what … like",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "tänään",
+      "en": "today",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "kaunis",
+      "en": "beautiful",
+      "pos": "adj",
+      "theme": "weather"
+    },
+    {
+      "fi": "hyvä",
+      "en": "good",
+      "pos": "adj",
+      "theme": "weather"
+    },
+    {
+      "fi": "huono",
+      "en": "bad",
+      "pos": "adj",
+      "theme": "weather"
+    },
+    {
+      "fi": "kuinka monta",
+      "en": "how many",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "aste",
+      "en": "degree",
+      "pos": "noun",
+      "form_seen": "astetta",
+      "theme": "weather"
+    },
+    {
+      "fi": "ulkona",
+      "en": "outside",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "kuuma",
+      "en": "hot",
+      "pos": "adj",
+      "theme": "weather"
+    },
+    {
+      "fi": "helle",
+      "en": "heatwave, hot weather",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "lämmin",
+      "en": "warm",
+      "pos": "adj",
+      "theme": "weather"
+    },
+    {
+      "fi": "viileä",
+      "en": "cool",
+      "pos": "adj",
+      "theme": "weather"
+    },
+    {
+      "fi": "kylmä",
+      "en": "cold",
+      "pos": "adj",
+      "theme": "weather"
+    },
+    {
+      "fi": "pakkanen",
+      "en": "frost, below-zero weather",
+      "pos": "noun",
+      "form_seen": "pakkasta",
+      "theme": "weather"
+    },
+    {
+      "fi": "aurinko",
+      "en": "sun",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "paistaa",
+      "en": "to shine",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "weather"
+    },
+    {
+      "fi": "aurinkoinen",
+      "en": "sunny",
+      "pos": "adj",
+      "form_seen": "aurinkoista",
+      "theme": "weather"
+    },
+    {
+      "fi": "pilvinen",
+      "en": "cloudy",
+      "pos": "adj",
+      "form_seen": "pilvistä",
+      "theme": "weather"
+    },
+    {
+      "fi": "puolipilvinen",
+      "en": "partly cloudy",
+      "pos": "adj",
+      "form_seen": "puolipilvistä",
+      "theme": "weather"
+    },
+    {
+      "fi": "selkeä",
+      "en": "clear",
+      "pos": "adj",
+      "form_seen": "selkeää",
+      "theme": "weather"
+    },
+    {
+      "fi": "sumuinen",
+      "en": "foggy",
+      "pos": "adj",
+      "form_seen": "sumuista",
+      "theme": "weather"
+    },
+    {
+      "fi": "sataa",
+      "en": "to rain, to fall (precipitation)",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "weather"
+    },
+    {
+      "fi": "sateinen",
+      "en": "rainy",
+      "pos": "adj",
+      "form_seen": "sateista",
+      "theme": "weather"
+    },
+    {
+      "fi": "räntä",
+      "en": "sleet",
+      "pos": "noun",
+      "form_seen": "räntää",
+      "theme": "weather"
+    },
+    {
+      "fi": "lumi",
+      "en": "snow",
+      "pos": "noun",
+      "form_seen": "lunta",
+      "theme": "winter"
+    },
+    {
+      "fi": "tuulla",
+      "en": "to blow (wind)",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "tuulee",
+      "theme": "weather"
+    },
+    {
+      "fi": "tuulinen",
+      "en": "windy",
+      "pos": "adj",
+      "form_seen": "tuulista",
+      "theme": "weather"
+    },
+    {
+      "fi": "myrsky",
+      "en": "storm",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "ukkonen",
+      "en": "thunderstorm, thunder",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "olla",
+      "en": "to be",
+      "pos": "verb",
+      "verb_type": 3,
+      "form_seen": "on",
+      "theme": "common-verbs"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Sää",
+        "en": "Weather"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Millainen sää / ilma tänään on?",
+          "en": "What is the weather like today?"
+        },
+        {
+          "fi": "On kaunis / hyvä ilma.",
+          "en": "The weather is beautiful / good."
+        },
+        {
+          "fi": "On huono ilma.",
+          "en": "The weather is bad."
+        },
+        {
+          "fi": "Kuinka monta astetta ulkona on?",
+          "en": "How many degrees is it outside?"
+        },
+        {
+          "fi": "On +30 astetta. On kuuma. On helle.",
+          "en": "It is +30 degrees. It is hot. There is a heatwave."
+        },
+        {
+          "fi": "On +20 astetta. On lämmin.",
+          "en": "It is +20 degrees. It is warm."
+        },
+        {
+          "fi": "On +2 astetta. On viileä.",
+          "en": "It is +2 degrees. It is cool."
+        },
+        {
+          "fi": "On -15 astetta. On kylmä. On pakkasta.",
+          "en": "It is -15 degrees. It is cold. It is freezing (below zero)."
+        },
+        {
+          "fi": "Aurinko paistaa. On aurinkoista.",
+          "en": "The sun is shining. It is sunny."
+        },
+        {
+          "fi": "On pilvistä.",
+          "en": "It is cloudy."
+        },
+        {
+          "fi": "On puolipilvistä.",
+          "en": "It is partly cloudy."
+        },
+        {
+          "fi": "On selkeää.",
+          "en": "It is clear."
+        },
+        {
+          "fi": "On sumuista.",
+          "en": "It is foggy."
+        },
+        {
+          "fi": "Sataa. On sateista.",
+          "en": "It is raining. It is rainy."
+        },
+        {
+          "fi": "Sataa räntää.",
+          "en": "It is sleeting."
+        },
+        {
+          "fi": "Sataa lunta.",
+          "en": "It is snowing."
+        },
+        {
+          "fi": "Tuulee. On tuulista. On myrsky.",
+          "en": "It is windy. It is windy. There is a storm."
+        },
+        {
+          "fi": "On ukkonen.",
+          "en": "There is a thunderstorm."
+        }
+      ]
+    }
+  ],
+  "exercises": [],
+  "grammar_notes": [
+    {
+      "topic": "weather",
+      "heading": "Weather expressions",
+      "text": "Weather sentences have no subject: \"On pilvistä\", \"Sataa\", \"Tuulee\". Adjectives in -inen describing weather are in the partitive: aurinkoista, pilvistä, sumuista, sateista, tuulista, selkeää. What falls is partitive: sataa lunta / räntää. Temperature: \"On +20 astetta\" (aste → astetta after a number)."
+    }
+  ]
+}

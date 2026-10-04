@@ -1,0 +1,637 @@
+{
+  "source": "term-2025-autumn/Lesson 9 (3.11.2025)/VERBITYYPPI 1 (3).docx",
+  "md5": "2a5d031097e9a43b5e12e6da02afd92d",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2025-autumn",
+    "number": 9,
+    "date": "2025-11-03"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "MITÄ / PALJONKO / KUINKA PALJON NÄMÄ OMENAT MAKSAVAT?",
+    "en": "Verb type 1 – how much do these apples cost?"
+  },
+  "topics": [
+    "verb-type-1",
+    "negation",
+    "questions-ko",
+    "partitive"
+  ],
+  "summary": "Gap-fill/translation exercise with verb type 1 verbs (maksaa, istua, harrastaa, seisoa, asua, ostaa, katsoa, saunoa, kalastaa, metsästää, sienestää, marjastaa) in positive, negative and question forms; asking prices.",
+  "transcript": "MITÄ/ PALJONKO /KUINKA PALJON NÄMÄ OMENAT MAKSAVAT? ENTÄ TÄMÄ KESÄKURPITSA?\nHOW MUCH DO THESE APPLES COST? HOW ABOUT THIS COURGETTE?\n1. KUINKA PALJON …………………………………………..………………………………………..(THESE ORANGES COST)?\n2. MITÄ ………………………………………………………………………………………………….(THESE BLUE JEANS COST)?\n3. PALJONKO ………………………………………………………………..…………………..(ONE CHEESEBURGER COSTS)?\n4. MISSÄ TE ………………………………………………….(SIT)? ME ………………………………………………………(SIT) ULKONA. (OUTSIDE).\n6. MITÄ SINÄ ……………………………………………………………………..(”HOBBY”)? (HARRASTAA)\n7. MINÄ ………………………………………………………………….(”HOBBY”) URHEILUA. (URHEILU= SPORTS)\n8. ME …………………………………………………………………….(DON’T ”HOBBY”) HIIHTOA. (HIIHTO= SKIING)\n9. HÄN ……………………………………………………………………………………………………..(DOESN’T SPEAK FINNISH).\n10. MIKSI TE ………………………………………………………(ARE STANDING) ULKONA, KUN SATAA? (TO RAIN)\n11. …………………………………………………………………..(ARE YOU (PLURAL) PAYING) KORTILLA VAI KÄTEISELLÄ? (BY CARD, BY CASH)\n12. ……………………………………………………………………………(I WILL PAY BY CARD).\n13. …………………………………………………………………………………………….(DO YOU (PLURAL) LIVE) LONTOOSSA VAI\nBRIGHTONISSA? ME ………………………………………………………(LIVE) LONTOOSSA.\n14. MINÄ ……………………………………..(I AM NOT BUYING) LISÄÄ VESSAPAPERIA. (MORE TOILET PAPER)\n15. ………………………………………………………………………….………..…… (IS HE BUYING SOME COFFEE)?\n16. ………………………………………………………………………………………………………,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,….. (WE ALWAYS BUY ETHIOPIAN COFFEE) (ETHIOPIA= ETIOPIA)\n17. ……………………………………………………………………(IS THE SUN SHINING TOMORROW)? (AURINKO, PAISTAA)\n18. …………………………………………………………………………………………….... (WILL YOU BUY ME TWO LARGE BEERS)?\n19. ME …………………………………………………………………(WATCH) TELKKARIA JOKA ILTA. (KATSOA, TELEVISIO)\n20. MINÄ …………………………………………………………………………………….…………..(DO NOT WATCH TV ON SUNDAY).\n21. ………………………………………………………………………………………………….(ON SUNDAY WE ”SAUNA”). (SAUNOA)\n22. MINUN ISÄ …………………………………………………………………………(DOES NOT FISH). (KALASTAA)\n23. ……………………………………………………………………………………(DOES HE HUNT)? (METSÄSTÄÄ)\n24. …………………………………………………………………………………………………………,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,……………… (NO. BUT MY NEIGHBOURS HUNT).\n25. JA HE ……………………………………………………………………………….(PICK MUSHROOMS). (SIENESTÄÄ)\n26. JA MINUN ÄITI JA TÄTI …………………………………………………………..(PICK BERRIES) JOKA KESÄ. (MARJASTAA)",
+  "words": [
+    {
+      "fi": "mitä",
+      "en": "what; how much (with maksaa)",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "paljonko",
+      "en": "how much",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "kuinka paljon",
+      "en": "how much",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "nämä",
+      "en": "these",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "omena",
+      "en": "apple",
+      "pos": "noun",
+      "form_seen": "omenat",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "maksaa",
+      "en": "to cost; to pay",
+      "pos": "verb",
+      "verb_type": 1,
+      "forms": {
+        "minä": "maksan",
+        "hän": "maksaa",
+        "te": "maksatte",
+        "he": "maksavat"
+      },
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "entä",
+      "en": "how about",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "tämä",
+      "en": "this",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "kesäkurpitsa",
+      "en": "courgette, zucchini",
+      "pos": "noun",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "appelsiini",
+      "en": "orange",
+      "pos": "noun",
+      "form_seen": "appelsiinit",
+      "theme": "food-fruit-veg"
+    },
+    {
+      "fi": "sininen",
+      "en": "blue",
+      "pos": "adj",
+      "form_seen": "siniset",
+      "theme": "colours"
+    },
+    {
+      "fi": "farkut",
+      "en": "jeans",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "yksi",
+      "en": "one",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "juustohampurilainen",
+      "en": "cheeseburger",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "missä",
+      "en": "where",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "istua",
+      "en": "to sit",
+      "pos": "verb",
+      "verb_type": 1,
+      "forms": {
+        "te": "istutte",
+        "me": "istumme"
+      },
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "ulkona",
+      "en": "outside",
+      "pos": "adv",
+      "theme": "places-town"
+    },
+    {
+      "fi": "harrastaa",
+      "en": "to do as a hobby",
+      "pos": "verb",
+      "verb_type": 1,
+      "forms": {
+        "minä": "harrastan",
+        "sinä": "harrastat",
+        "me (neg)": "emme harrasta"
+      },
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "urheilu",
+      "en": "sport(s)",
+      "pos": "noun",
+      "form_seen": "urheilua",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "hiihto",
+      "en": "skiing",
+      "pos": "noun",
+      "form_seen": "hiihtoa",
+      "theme": "winter"
+    },
+    {
+      "fi": "puhua",
+      "en": "to speak",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "suomi",
+      "en": "Finnish (language)",
+      "pos": "noun",
+      "form_seen": "suomea",
+      "theme": "classroom"
+    },
+    {
+      "fi": "miksi",
+      "en": "why",
+      "pos": "question",
+      "theme": "question-words"
+    },
+    {
+      "fi": "seisoa",
+      "en": "to stand",
+      "pos": "verb",
+      "verb_type": 1,
+      "forms": {
+        "te": "seisotte"
+      },
+      "theme": "common-verbs"
+    },
+    {
+      "fi": "kun",
+      "en": "when, as",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "sataa",
+      "en": "to rain",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "weather"
+    },
+    {
+      "fi": "kortilla",
+      "en": "by card",
+      "pos": "adv",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "kortti",
+      "en": "card",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "vai",
+      "en": "or (in questions)",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "käteisellä",
+      "en": "in cash",
+      "pos": "adv",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "käteinen",
+      "en": "cash",
+      "pos": "noun",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "asua",
+      "en": "to live",
+      "pos": "verb",
+      "verb_type": 1,
+      "forms": {
+        "te": "asutte",
+        "me": "asumme"
+      },
+      "theme": "home"
+    },
+    {
+      "fi": "Lontoo",
+      "en": "London",
+      "pos": "proper",
+      "form_seen": "Lontoossa",
+      "theme": "places-town"
+    },
+    {
+      "fi": "ostaa",
+      "en": "to buy",
+      "pos": "verb",
+      "verb_type": 1,
+      "forms": {
+        "minä (neg)": "en osta",
+        "hän": "ostaa",
+        "me": "ostamme",
+        "sinä": "ostat"
+      },
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "lisää",
+      "en": "more",
+      "pos": "adv",
+      "theme": "shopping-money"
+    },
+    {
+      "fi": "vessapaperi",
+      "en": "toilet paper",
+      "pos": "noun",
+      "form_seen": "vessapaperia",
+      "theme": "household"
+    },
+    {
+      "fi": "kahvi",
+      "en": "coffee",
+      "pos": "noun",
+      "form_seen": "kahvia",
+      "theme": "drinks"
+    },
+    {
+      "fi": "aina",
+      "en": "always",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "etiopialainen",
+      "en": "Ethiopian",
+      "pos": "adj",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "Etiopia",
+      "en": "Ethiopia",
+      "pos": "proper",
+      "theme": "nationalities"
+    },
+    {
+      "fi": "aurinko",
+      "en": "sun",
+      "pos": "noun",
+      "theme": "weather"
+    },
+    {
+      "fi": "paistaa",
+      "en": "to shine (sun); to fry",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "weather"
+    },
+    {
+      "fi": "huomenna",
+      "en": "tomorrow",
+      "pos": "adv",
+      "theme": "days-time"
+    },
+    {
+      "fi": "minulle",
+      "en": "for me, to me",
+      "pos": "pron",
+      "theme": "people"
+    },
+    {
+      "fi": "kaksi",
+      "en": "two",
+      "pos": "num",
+      "theme": "numbers"
+    },
+    {
+      "fi": "iso",
+      "en": "big, large",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "olut",
+      "en": "beer",
+      "pos": "noun",
+      "theme": "drinks",
+      "note": "partitive olutta"
+    },
+    {
+      "fi": "katsoa",
+      "en": "to watch, to look at",
+      "pos": "verb",
+      "verb_type": 1,
+      "forms": {
+        "me": "katsomme",
+        "minä (neg)": "en katso"
+      },
+      "theme": "home"
+    },
+    {
+      "fi": "telkkari",
+      "en": "telly (colloquial)",
+      "pos": "noun",
+      "form_seen": "telkkaria",
+      "theme": "home"
+    },
+    {
+      "fi": "televisio",
+      "en": "television",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "joka ilta",
+      "en": "every evening",
+      "pos": "phrase",
+      "theme": "days-time"
+    },
+    {
+      "fi": "sunnuntai",
+      "en": "Sunday",
+      "pos": "noun",
+      "form_seen": "sunnuntaina",
+      "theme": "days-time"
+    },
+    {
+      "fi": "saunoa",
+      "en": "to have a sauna",
+      "pos": "verb",
+      "verb_type": 1,
+      "forms": {
+        "me": "saunomme"
+      },
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "isä",
+      "en": "father",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "kalastaa",
+      "en": "to fish",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "metsästää",
+      "en": "to hunt",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "naapuri",
+      "en": "neighbour",
+      "pos": "noun",
+      "form_seen": "naapurit",
+      "theme": "people"
+    },
+    {
+      "fi": "sienestää",
+      "en": "to pick mushrooms",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "nature"
+    },
+    {
+      "fi": "marjastaa",
+      "en": "to pick berries",
+      "pos": "verb",
+      "verb_type": 1,
+      "theme": "nature"
+    },
+    {
+      "fi": "äiti",
+      "en": "mother",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "täti",
+      "en": "aunt",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "joka kesä",
+      "en": "every summer",
+      "pos": "phrase",
+      "theme": "months-seasons"
+    },
+    {
+      "fi": "mutta",
+      "en": "but",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "ja",
+      "en": "and",
+      "pos": "conj",
+      "theme": "little-words"
+    }
+  ],
+  "texts": [
+    {
+      "title": {
+        "fi": "Mitä nämä omenat maksavat?",
+        "en": "How much do these apples cost?"
+      },
+      "kind": "reading",
+      "lines": [
+        {
+          "fi": "Mitä / Paljonko / Kuinka paljon nämä omenat maksavat?",
+          "en": "How much do these apples cost?"
+        },
+        {
+          "fi": "Entä tämä kesäkurpitsa?",
+          "en": "How about this courgette?"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Verbityyppi 1 – translate the parts in brackets",
+      "instruction": "Fill in the Finnish for the English in brackets (verb type 1: positive, negative, question).",
+      "topic": "verb-type-1",
+      "answer_source": "derived",
+      "items": [
+        {
+          "prompt": "KUINKA PALJON ____ (THESE ORANGES COST)?",
+          "answer": "nämä appelsiinit maksavat",
+          "en": "How much do these oranges cost?"
+        },
+        {
+          "prompt": "MITÄ ____ (THESE BLUE JEANS COST)?",
+          "answer": "nämä siniset farkut maksavat",
+          "en": "How much do these blue jeans cost?"
+        },
+        {
+          "prompt": "PALJONKO ____ (ONE CHEESEBURGER COSTS)?",
+          "answer": "yksi juustohampurilainen maksaa",
+          "en": "How much does one cheeseburger cost?"
+        },
+        {
+          "prompt": "MISSÄ TE ____ (SIT)?",
+          "answer": "istutte",
+          "en": "Where are you sitting?"
+        },
+        {
+          "prompt": "ME ____ (SIT) ULKONA.",
+          "answer": "istumme",
+          "en": "We are sitting outside."
+        },
+        {
+          "prompt": "MITÄ SINÄ ____ (\"HOBBY\")?",
+          "answer": "harrastat",
+          "en": "What are your hobbies?"
+        },
+        {
+          "prompt": "MINÄ ____ (\"HOBBY\") URHEILUA.",
+          "answer": "harrastan",
+          "en": "I do sports."
+        },
+        {
+          "prompt": "ME ____ (DON'T \"HOBBY\") HIIHTOA.",
+          "answer": "emme harrasta",
+          "en": "We don't do skiing."
+        },
+        {
+          "prompt": "HÄN ____ (DOESN'T SPEAK FINNISH).",
+          "answer": "ei puhu suomea",
+          "en": "He/she doesn't speak Finnish."
+        },
+        {
+          "prompt": "MIKSI TE ____ (ARE STANDING) ULKONA, KUN SATAA?",
+          "answer": "seisotte",
+          "en": "Why are you standing outside when it's raining?"
+        },
+        {
+          "prompt": "____ (ARE YOU (PLURAL) PAYING) KORTILLA VAI KÄTEISELLÄ?",
+          "answer": "Maksatteko",
+          "en": "Are you paying by card or in cash?"
+        },
+        {
+          "prompt": "____ (I WILL PAY BY CARD).",
+          "answer": "Maksan kortilla.",
+          "en": "I'll pay by card."
+        },
+        {
+          "prompt": "____ (DO YOU (PLURAL) LIVE) LONTOOSSA VAI BRIGHTONISSA?",
+          "answer": "Asutteko te",
+          "en": "Do you live in London or Brighton?"
+        },
+        {
+          "prompt": "ME ____ (LIVE) LONTOOSSA.",
+          "answer": "asumme",
+          "en": "We live in London."
+        },
+        {
+          "prompt": "MINÄ ____ (I AM NOT BUYING) LISÄÄ VESSAPAPERIA.",
+          "answer": "en osta",
+          "en": "I am not buying more toilet paper."
+        },
+        {
+          "prompt": "____ (IS HE BUYING SOME COFFEE)?",
+          "answer": "Ostaako hän kahvia",
+          "en": "Is he buying (some) coffee?"
+        },
+        {
+          "prompt": "____ (WE ALWAYS BUY ETHIOPIAN COFFEE)",
+          "answer": "Me ostamme aina etiopialaista kahvia.",
+          "en": "We always buy Ethiopian coffee."
+        },
+        {
+          "prompt": "____ (IS THE SUN SHINING TOMORROW)?",
+          "answer": "Paistaako aurinko huomenna",
+          "en": "Will the sun shine tomorrow?"
+        },
+        {
+          "prompt": "____ (WILL YOU BUY ME TWO LARGE BEERS)?",
+          "answer": "Ostatko minulle kaksi isoa olutta",
+          "en": "Will you buy me two large beers?"
+        },
+        {
+          "prompt": "ME ____ (WATCH) TELKKARIA JOKA ILTA.",
+          "answer": "katsomme",
+          "en": "We watch TV every evening."
+        },
+        {
+          "prompt": "MINÄ ____ (DO NOT WATCH TV ON SUNDAY).",
+          "answer": "en katso televisiota sunnuntaina",
+          "en": "I don't watch TV on Sunday."
+        },
+        {
+          "prompt": "____ (ON SUNDAY WE \"SAUNA\").",
+          "answer": "Sunnuntaina me saunomme.",
+          "en": "On Sunday we have a sauna."
+        },
+        {
+          "prompt": "MINUN ISÄ ____ (DOES NOT FISH).",
+          "answer": "ei kalasta",
+          "en": "My father doesn't fish."
+        },
+        {
+          "prompt": "____ (DOES HE HUNT)?",
+          "answer": "Metsästääkö hän",
+          "en": "Does he hunt?"
+        },
+        {
+          "prompt": "____ (NO. BUT MY NEIGHBOURS HUNT).",
+          "answer": "Ei. Mutta minun naapurit metsästävät.",
+          "en": "No. But my neighbours hunt."
+        },
+        {
+          "prompt": "JA HE ____ (PICK MUSHROOMS).",
+          "answer": "sienestävät",
+          "en": "And they pick mushrooms."
+        },
+        {
+          "prompt": "JA MINUN ÄITI JA TÄTI ____ (PICK BERRIES) JOKA KESÄ.",
+          "answer": "marjastavat",
+          "en": "And my mother and aunt pick berries every summer."
+        }
+      ]
+    }
+  ],
+  "grammar_notes": []
+}

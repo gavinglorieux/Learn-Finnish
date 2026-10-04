@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
 import { useNavigate, useParams, useSearchParams } from 'react-router-dom'
-import { WORDS, CATEGORIES, wordsByCategory, type Word } from '@/data/vocabulary'
-type CategoryId = string
+import { WORDS, CATEGORIES, wordsByCategory, wordById, type Word, type CategoryId } from '@/data/vocabulary'
+import { lessonById, lessonLabel, wordsForLesson } from '@/data/content'
 import { useApp } from '@/state/AppState'
 import { dueWordIds } from '@/lib/srs'
 import Flashcards from '@/exercises/Flashcards'
@@ -9,8 +9,8 @@ import MultipleChoice from '@/exercises/MultipleChoice'
 import TypingExercise from '@/exercises/TypingExercise'
 import MatchPairs from '@/exercises/MatchPairs'
 import ListenMatch from '@/exercises/ListenMatch'
-import Conjugator from '@/exercises/Conjugator'
-import FillGap from '@/exercises/FillGap'
+import Conjugator, { CONJUGATOR_TOTAL, type ConjugatorMode, type ConjugatorOptions } from '@/exercises/Conjugator'
+import FillGap, { FILL_GAP_TOTAL } from '@/exercises/FillGap'
 import ExerciseShell from '@/exercises/ExerciseShell'
 import SessionSummary from '@/exercises/SessionSummary'
 import { shuffle } from '@/lib/utils'
@@ -39,20 +39,24 @@ export default function ExercisePage() {
 
   const ex = (exerciseId ?? 'flashcards') as ExerciseId
   const categoryFilter = search.get('category') as CategoryId | null
+  const lessonFilter = search.get('lesson')
+  // Bumped by "Play again" so the round re-shuffles without a full page reload.
+  const [round, setRound] = useState(0)
+  const conjugatorOptions = useMemo<ConjugatorOptions>(() => ({
+    mode: (search.get('mode') as ConjugatorMode | null) ?? undefined,
+    types: search.get('type')?.split(',').map(Number).filter((n) => n >= 1 && n <= 6),
+    verb: search.get('verb') ?? undefined
+  }), [search])
 
   const pool = useMemo<Word[]>(() => {
     let list = WORDS
-    if (categoryFilter) {
-      // wordsByCategory handles synthetic categories (e.g. "verbs") that aren't
-      // backed by a single source item — fall back to the simple filter for the rest.
-      const scoped = wordsByCategory(categoryFilter)
-      list = scoped.length > 0 ? scoped : list.filter((w) => w.category === categoryFilter)
-    }
+    if (categoryFilter) list = wordsByCategory(categoryFilter)
+    if (lessonFilter) list = wordsForLesson(lessonFilter).map((w) => wordById(w.id)).filter((w): w is Word => !!w)
     if (ex === 'review') {
-      const dueIds = dueWordIds(srs)
-      const dueWords = dueIds.map((id) => WORDS.find((w) => w.id === id)).filter((w): w is Word => !!w)
-      // fill with unseen / lowest-mastery if we don't have enough
-      const unseen = list.filter((w) => !srs[w.id])
+      // Only real words: the SRS store also tracks verb-drill and exercise keys.
+      const dueWords = dueWordIds(srs).map(wordById).filter((w): w is Word => !!w)
+      // Fill up with unseen words (shuffled, so it's not always the same alphabetical batch).
+      const unseen = shuffle(list.filter((w) => !srs[w.id]))
       const combined = [...dueWords, ...unseen]
       if (combined.length < SESSION_LEN) {
         combined.push(...shuffle(list).slice(0, SESSION_LEN - combined.length))
@@ -65,7 +69,7 @@ export default function ExercisePage() {
     }
     return shuffle(list).slice(0, SESSION_LEN)
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [ex, categoryFilter])
+  }, [ex, categoryFilter, lessonFilter, round])
 
   const [results, setResults] = useState<{ correct: number; total: number; xp: number } | null>(null)
 
@@ -82,7 +86,7 @@ export default function ExercisePage() {
   }
 
   const onExit = () => navigate(-1)
-  const onRestart = () => window.location.reload()
+  const onRestart = () => { setResults(null); setRound((r) => r + 1) }
 
   if (!TITLES[ex]) {
     return (
@@ -93,9 +97,12 @@ export default function ExercisePage() {
     )
   }
 
-  const categoryLabel = categoryFilter ? CATEGORIES.find((c) => c.id === categoryFilter)?.title : undefined
+  const lesson = lessonFilter ? lessonById(lessonFilter) : undefined
+  const categoryLabel = categoryFilter
+    ? CATEGORIES.find((c) => c.id === categoryFilter)?.title
+    : lesson ? lessonLabel(lesson) : undefined
 
-  if (pool.length === 0) {
+  if (pool.length === 0 && ex !== 'conjugate' && ex !== 'fill-gap') {
     return (
       <div className="card p-6 text-center space-y-3 animate-fade-in">
         <div className="text-4xl">🎉</div>
@@ -124,7 +131,7 @@ export default function ExercisePage() {
           </div>
         </div>
       </div>
-      <ExerciseShell total={ex === 'match' ? 1 : pool.length} exerciseKey={ex}>
+      <ExerciseShell total={ex === 'match' ? 1 : ex === 'conjugate' ? CONJUGATOR_TOTAL : ex === 'fill-gap' ? FILL_GAP_TOTAL : pool.length} exerciseKey={ex} key={round}>
         {(ctx) => {
           const shared = { pool, onAnswer, onComplete, ctx, autoSpeak: settings.autoSpeakFinnish }
           switch (ex) {
@@ -141,7 +148,7 @@ export default function ExercisePage() {
             case 'listen':
               return <ListenMatch {...shared} />
             case 'conjugate':
-              return <Conjugator onAnswer={onAnswer} onComplete={onComplete} ctx={ctx} />
+              return <Conjugator onAnswer={onAnswer} onComplete={onComplete} ctx={ctx} options={conjugatorOptions} />
             case 'fill-gap':
               return <FillGap onAnswer={onAnswer} onComplete={onComplete} ctx={ctx} />
           }
