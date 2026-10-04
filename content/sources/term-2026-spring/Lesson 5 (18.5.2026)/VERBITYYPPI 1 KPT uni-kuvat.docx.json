@@ -1,0 +1,305 @@
+{
+  "source": "term-2026-spring/Lesson 5 (18.5.2026)/VERBITYYPPI 1 KPT uni-kuvat.docx",
+  "md5": "e959aacf22e35fa47665809927baf515",
+  "also_in": [],
+  "lesson": {
+    "term": "term-2026-spring",
+    "number": 5,
+    "date": "2026-05-18"
+  },
+  "kind": "exercise",
+  "title": {
+    "fi": "Verbityyppi 1 KPT: käytä kuvan verbiä",
+    "en": "Verb type 1 K-P-T: use the verb in the picture"
+  },
+  "topics": [
+    "kpt-verbs",
+    "negation",
+    "questions-ko"
+  ],
+  "summary": "32 sentences to complete with the type-1 K-P-T verb shown in each picture (some negative, some questions), with a glossary. The pictures (1778564831484.jpg) are only in Gmail, so no answer key is derived here.",
+  "transcript": "VERBITYYPPI 1 KPT: KÄYTÄ KUVAN VERBIÄ (use the verb in the picture):\n\n1.  Me ……………………………………………… syntymäpäiväkorttia isälle.\n\n2.  ……………………………………………. sinä minua? Tämä matkalaukku on tosi painava.\n\n3.  Minä ……………………………………………. bussia aina aamulla Tarkinkadun pysäkillä.\n\n4.  Mihin te ………………………………………………………. ? – Helsinkiin.\n\n5.  Minä …………………………………….. kitaraa ja siskoni ……………………………….. pianoa.\n\n6.  ……………………………………………. te, kun käytte Suomessa talvella? – Emme.\n\n7.  Mitä Tiina ja Anna …………………………………………………… taidekurssilla?\n\n8.  Minä ……………………………………………… (NEG!) Mikolle ruusuja. Hän inhoaa ruusuja.\n\n9.  ……………………………………………. sinä lisää keksiä?\n\n10. Minä ………………………………………….. minun koiralle, mutta se ei kuule minua.\n\n11. Meidän lapset …………………………………………………. (NEG!) koskaan lisää karkkia. He tietävät, että heillä on karkkipäivä joka lauantai ja he saavat karkkia vain silloin.\n\n12. Huomenna me ………………………………………….. nämä tekstit.\n\n13. Mihin te ………………………………………………? – Espanjaan.\n\n14. He ……………………………………………….. koiralle, mutta koira ei tule heidän luo.\n\n15. ……………………………….. sinä hypätä? - ………………………………………….. (NEG! reply).\n\n16. …………………………………… lapset teltassa pihalla? - …………………………. (NEG! reply).\n\n17. Minä ……………………………………. kirjaa olohuoneen sohvalla.\n\n18. He ……………………………. vaatteet ylle kuntosalin pukuhuoneessa. Siellä on lämmin.\n\n19. Mitä äiti ……………………………………………. ? – Hän …………………………………… (NEG!) tänään. Hän menee tänään lääkäriin. Hänellä on lääkärintarkastus kello 10.30.\n\n20. Minä …………………………………………….. aina hotellin kylpyammeessa, koska meillä ei ole kylpyammetta kotona.\n\n21. Varas …………………………………. ulos kaupasta viinipullo taskussa.\n\n22. Minä …………………………………………. vauvan aamulla ennen kuin lähden töihin.\n\n23. …………………………………………. sinä lapset kouluun?\n\n24. Isä ja pikku Juhani ………………………………… järvellä. He menevät kalaan jo kello 5.30.\n\n25. Me ………………………………………………… laiturilla. Usein saamme pari ahventa ja teemme ahvensoppaa.\n\n26. Missä te ……………………………………………. vaatteet? – Pukuhuoneessa.\n\n27. Huomenna …………………………………….., mutta keskiviikkona ………………………………. (NEG!). Silloin paistaa aurinko, mutta on tuulista.\n\n28. Me ………………………………………………… (NEG!) Tiinaa asemalle. Hän menee sinne taksilla.\n\n29. Metsästysseurat ……………………………………………. hirviä syksyllä.\n\n30. Me ……………………………………………… (NEG!) käärmeitä. Ne syövät hiiriä puutarhassa ja sitten hiiret eivät tule sisälle mökkiin.\n\n31. ……………………………………………. Te minun isääni? Millä osastolla hän on?\n\n32. Riitta ja Minna ……………………………………………….. (NEG!) enää yhdessä. Riitta on suuttunut Minnalle, koska Minnalla on niin hieno leikkitraktori.\n\npainava= heavy taide= art ruusu= rose vain silloin= only then nämä= these hypätä= to jump teltta= tent pukea ylle= to put on (clothes) pukuhuone= changing room tarkastus= check-up kylpyamme= bath tub varas= thief tasku= pocket vauva= baby ennen kuin= before pikku= little laituri= jetty usein= often ahven= perch soppa= keitto metsästysseura= hunting club hirvi= moose käärme= snake hiiri= mouse sisälle= inside osasto= department, wing yhdessä= together olla suuttunut= to be mad at niin= so hieno= nice, fine leikkitraktori= toy tractor",
+  "words": [
+    {
+      "fi": "painava",
+      "en": "heavy",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "taide",
+      "en": "art",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "ruusu",
+      "en": "rose",
+      "pos": "noun",
+      "theme": "garden"
+    },
+    {
+      "fi": "vain silloin",
+      "en": "only then",
+      "pos": "phrase",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "nämä",
+      "en": "these",
+      "pos": "pron",
+      "theme": "little-words"
+    },
+    {
+      "fi": "hypätä",
+      "en": "to jump",
+      "pos": "verb",
+      "theme": "verbs",
+      "verb_type": 4
+    },
+    {
+      "fi": "teltta",
+      "en": "tent",
+      "pos": "noun",
+      "theme": "travel"
+    },
+    {
+      "fi": "pukea ylle",
+      "en": "to put on (clothes)",
+      "pos": "phrase",
+      "theme": "clothes"
+    },
+    {
+      "fi": "pukuhuone",
+      "en": "changing room",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "tarkastus",
+      "en": "check-up",
+      "pos": "noun",
+      "theme": "health"
+    },
+    {
+      "fi": "kylpyamme",
+      "en": "bath tub",
+      "pos": "noun",
+      "theme": "home"
+    },
+    {
+      "fi": "varas",
+      "en": "thief",
+      "pos": "noun",
+      "theme": "people"
+    },
+    {
+      "fi": "tasku",
+      "en": "pocket",
+      "pos": "noun",
+      "theme": "clothes"
+    },
+    {
+      "fi": "vauva",
+      "en": "baby",
+      "pos": "noun",
+      "theme": "family"
+    },
+    {
+      "fi": "ennen kuin",
+      "en": "before (conjunction)",
+      "pos": "conj",
+      "theme": "little-words"
+    },
+    {
+      "fi": "pikku",
+      "en": "little",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "laituri",
+      "en": "jetty",
+      "pos": "noun",
+      "theme": "cottage"
+    },
+    {
+      "fi": "usein",
+      "en": "often",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "ahven",
+      "en": "perch (fish)",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "soppa",
+      "en": "soup (= keitto)",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "metsästysseura",
+      "en": "hunting club",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "hirvi",
+      "en": "moose, elk",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "käärme",
+      "en": "snake",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "hiiri",
+      "en": "mouse",
+      "pos": "noun",
+      "theme": "animals"
+    },
+    {
+      "fi": "sisälle",
+      "en": "inside, indoors (to)",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "osasto",
+      "en": "department, ward",
+      "pos": "noun",
+      "theme": "health"
+    },
+    {
+      "fi": "yhdessä",
+      "en": "together",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "olla suuttunut",
+      "en": "to be angry (at someone: -lle)",
+      "pos": "phrase",
+      "theme": "feelings"
+    },
+    {
+      "fi": "niin",
+      "en": "so",
+      "pos": "adv",
+      "theme": "adverbs"
+    },
+    {
+      "fi": "hieno",
+      "en": "nice, fine",
+      "pos": "adj",
+      "theme": "adjectives"
+    },
+    {
+      "fi": "leikkitraktori",
+      "en": "toy tractor",
+      "pos": "noun",
+      "theme": "other"
+    },
+    {
+      "fi": "syntymäpäiväkortti",
+      "en": "birthday card",
+      "pos": "noun",
+      "theme": "celebrations"
+    },
+    {
+      "fi": "matkalaukku",
+      "en": "suitcase",
+      "pos": "noun",
+      "theme": "travel"
+    },
+    {
+      "fi": "pysäkki",
+      "en": "stop (bus)",
+      "pos": "noun",
+      "theme": "transport"
+    },
+    {
+      "fi": "kitara",
+      "en": "guitar",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "piano",
+      "en": "piano",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "keksi",
+      "en": "biscuit",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "karkki",
+      "en": "sweet, candy",
+      "pos": "noun",
+      "theme": "food-meals"
+    },
+    {
+      "fi": "karkkipäivä",
+      "en": "sweets day (Saturday treat)",
+      "pos": "noun",
+      "theme": "celebrations"
+    },
+    {
+      "fi": "inhota",
+      "en": "to hate, detest",
+      "pos": "verb",
+      "theme": "feelings",
+      "verb_type": 4
+    },
+    {
+      "fi": "kuntosali",
+      "en": "gym",
+      "pos": "noun",
+      "theme": "hobbies-sport"
+    },
+    {
+      "fi": "lääkäri",
+      "en": "doctor",
+      "pos": "noun",
+      "theme": "health"
+    },
+    {
+      "fi": "viinipullo",
+      "en": "wine bottle",
+      "pos": "noun",
+      "theme": "drinks"
+    },
+    {
+      "fi": "järvi",
+      "en": "lake",
+      "pos": "noun",
+      "theme": "nature"
+    },
+    {
+      "fi": "kalaan",
+      "en": "(going) fishing",
+      "pos": "phrase",
+      "theme": "cottage"
+    },
+    {
+      "fi": "taksi",
+      "en": "taxi",
+      "pos": "noun",
+      "theme": "transport"
+    }
+  ],
+  "texts": [],
+  "exercises": [],
+  "grammar_notes": []
+}

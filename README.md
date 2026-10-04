@@ -10,7 +10,7 @@ Every push to `main` rebuilds and redeploys via the `.github/workflows/deploy.ym
 
 All content comes from Gavin's Monday Finnish course with **Teija Perttilä** (Finnish Institute, London): every worksheet, photo, text and dialogue handed out from autumn 2025 to autumn 2026, checked and filled out with web references (Wiktionary, uusikielemme.fi, Wikipedia's Finnish grammar).
 
-- **2,312 words** in **54 groups** across 10 sections (basics, people, time, home, food, out & about, nature, health, free time, word types), each with English, word class, verb type and notes
+- **2,333 words** in **54 groups** across 10 sections (basics, people, time, home, food, out & about, nature, health, free time, word types), each with English, word class, verb type and notes
 - **44 grammar lessons** in 6 parts, in learning order: sounds & spelling → first steps → nouns & cases → verbs (types 1–6, K-P-T, imperative) → places & movement (local cases, postpositions) → time & everyday life. Each has rules, full tables, course examples, exceptions, cross-links and practice links
 - **37 lessons** (every class across Autumn 2025, Spring 2026, Summer 2026 and Autumn 2026), each linking its grammar, vocabulary, texts, exercises and the full handout transcripts
 - **61 reading texts & dialogues** with line-by-line translations and tap-to-translate

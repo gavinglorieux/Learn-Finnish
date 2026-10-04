@@ -2560,14 +2560,32 @@
     "negation",
     "questions-ko"
    ],
-   "groups": [],
-   "wordCount": 0,
+   "groups": [
+    "hobbies-sport",
+    "adverbs",
+    "food-meals",
+    "adjectives",
+    "animals",
+    "clothes",
+    "cottage",
+    "feelings"
+   ],
+   "wordCount": 46,
    "texts": [],
    "exercises": [],
-   "materials": [],
+   "materials": [
+    {
+     "title": {
+      "fi": "Verbityyppi 1 KPT: käytä kuvan verbiä",
+      "en": "Verb type 1 K-P-T: use the verb in the picture"
+     },
+     "kind": "exercise",
+     "summary": "32 sentences to complete with the type-1 K-P-T verb shown in each picture (some negative, some questions), with a glossary. The pictures (1778564831484.jpg) are only in Gmail, so no answer key is derived here.",
+     "source": "term-2026-spring/Lesson 5 (18.5.2026)/VERBITYYPPI 1 KPT uni-kuvat.docx"
+    }
+   ],
    "pending": [
-    "VERBITYYPPI 1 KPT uni-kuvat.docx",
-    "1778564831484.jpg"
+    "1778564831484.jpg (the pictures for the exercise)"
    ]
   },
   {
@@ -2659,9 +2677,9 @@
     "postpositions",
     "verbs",
     "little-words",
+    "feelings",
     "places-town",
     "adverbs",
-    "feelings",
     "adjectives",
     "people"
    ],

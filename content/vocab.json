@@ -587,6 +587,7 @@
     "term-2025-autumn/lesson-06",
     "term-2025-autumn/lesson-12",
     "term-2026-spring/lesson-01",
+    "term-2026-spring/lesson-05",
     "term-2026-spring/lesson-06",
     "term-2026-spring/lesson-08"
    ]
@@ -1068,6 +1069,16 @@
    ]
   },
   {
+   "id": "painava",
+   "fi": "painava",
+   "en": "heavy",
+   "pos": "adj",
+   "group": "adjectives",
+   "lessons": [
+    "term-2026-spring/lesson-05"
+   ]
+  },
+  {
    "id": "paksu",
    "fi": "paksu",
    "en": "thick",
@@ -1162,7 +1173,8 @@
    "group": "adjectives",
    "lessons": [
     "term-2025-autumn/lesson-06",
-    "term-2026-spring/lesson-01"
+    "term-2026-spring/lesson-01",
+    "term-2026-spring/lesson-05"
    ]
   },
   {
@@ -2110,6 +2122,7 @@
    "lessons": [
     "term-2025-autumn/lesson-12",
     "term-2025-autumn/lesson-13",
+    "term-2026-spring/lesson-05",
     "term-2026-winter/lesson-01",
     "term-2026-winter/lesson-02",
     "term-2026-winter/lesson-03",
@@ -2260,6 +2273,16 @@
    ]
   },
   {
+   "id": "sisälle",
+   "fi": "sisälle",
+   "en": "inside, indoors (to)",
+   "pos": "adv",
+   "group": "adverbs",
+   "lessons": [
+    "term-2026-spring/lesson-05"
+   ]
+  },
+  {
    "id": "taas",
    "fi": "taas",
    "en": "again",
@@ -2385,6 +2408,7 @@
     "term-2025-autumn/lesson-10",
     "term-2025-autumn/lesson-14",
     "term-2026-spring/lesson-01",
+    "term-2026-spring/lesson-05",
     "term-2026-spring/lesson-06",
     "term-2026-winter/lesson-01",
     "term-2026-winter/lesson-05",
@@ -2392,6 +2416,16 @@
     "term-2026-winter/lesson-07",
     "term-2026-winter/lesson-08",
     "term-2026-winter/lesson-10"
+   ]
+  },
+  {
+   "id": "vain-silloin",
+   "fi": "vain silloin",
+   "en": "only then",
+   "pos": "phrase",
+   "group": "adverbs",
+   "lessons": [
+    "term-2026-spring/lesson-05"
    ]
   },
   {
@@ -2444,6 +2478,7 @@
     "term-2025-autumn/lesson-02",
     "term-2025-autumn/lesson-06",
     "term-2026-spring/lesson-01",
+    "term-2026-spring/lesson-05",
     "term-2026-spring/lesson-07",
     "term-2026-winter/lesson-06",
     "term-2026-winter/lesson-08"
@@ -2558,7 +2593,18 @@
    "pos": "noun",
    "group": "animals",
    "lessons": [
-    "term-2025-autumn/lesson-01"
+    "term-2025-autumn/lesson-01",
+    "term-2026-spring/lesson-05"
+   ]
+  },
+  {
+   "id": "hirvi",
+   "fi": "hirvi",
+   "en": "moose, elk",
+   "pos": "noun",
+   "group": "animals",
+   "lessons": [
+    "term-2026-spring/lesson-05"
    ]
   },
   {
@@ -2651,6 +2697,16 @@
    "lessons": [
     "term-2025-autumn/lesson-02",
     "term-2025-autumn/lesson-03"
+   ]
+  },
+  {
+   "id": "käärme",
+   "fi": "käärme",
+   "en": "snake",
+   "pos": "noun",
+   "group": "animals",
+   "lessons": [
+    "term-2026-spring/lesson-05"
    ]
   },
   {
@@ -3972,6 +4028,16 @@
    "group": "celebrations",
    "lessons": [
     "term-2026-winter/lesson-02"
+   ]
+  },
+  {
+   "id": "syntymäpäiväkortti",
+   "fi": "syntymäpäiväkortti",
+   "en": "birthday card",
+   "pos": "noun",
+   "group": "celebrations",
+   "lessons": [
+    "term-2026-spring/lesson-05"
    ]
   },
   {
@@ -5312,6 +5378,16 @@
    "note": "k → ∅"
   },
   {
+   "id": "pukea-ylle",
+   "fi": "pukea ylle",
+   "en": "to put on (clothes)",
+   "pos": "phrase",
+   "group": "clothes",
+   "lessons": [
+    "term-2026-spring/lesson-05"
+   ]
+  },
+  {
    "id": "puku",
    "fi": "puku",
    "en": "suit",
@@ -5462,6 +5538,16 @@
     "term-2026-spring/lesson-01"
    ],
    "note": "depicted in the picture, not labelled on the page"
+  },
+  {
+   "id": "tasku",
+   "fi": "tasku",
+   "en": "pocket",
+   "pos": "noun",
+   "group": "clothes",
+   "lessons": [
+    "term-2026-spring/lesson-05"
+   ]
   },
   {
    "id": "tossu",
@@ -5853,6 +5939,16 @@
    ]
   },
   {
+   "id": "kalaan",
+   "fi": "kalaan",
+   "en": "(going) fishing",
+   "pos": "phrase",
+   "group": "cottage",
+   "lessons": [
+    "term-2026-spring/lesson-05"
+   ]
+  },
+  {
    "id": "kesämökki",
    "fi": "kesämökki",
    "en": "summer cottage",
@@ -5869,6 +5965,7 @@
    "pos": "noun",
    "group": "cottage",
    "lessons": [
+    "term-2026-spring/lesson-05",
     "term-2026-spring/lesson-06"
    ]
   },
@@ -6523,6 +6620,7 @@
    "group": "days-time",
    "lessons": [
     "term-2025-autumn/lesson-13",
+    "term-2026-spring/lesson-05",
     "term-2026-winter/lesson-01",
     "term-2026-winter/lesson-02",
     "term-2026-winter/lesson-03"
@@ -7779,6 +7877,16 @@
    ]
   },
   {
+   "id": "viinipullo",
+   "fi": "viinipullo",
+   "en": "wine bottle",
+   "pos": "noun",
+   "group": "drinks",
+   "lessons": [
+    "term-2026-spring/lesson-05"
+   ]
+  },
+  {
    "id": "viski",
    "fi": "viski",
    "en": "whisky",
@@ -8782,6 +8890,7 @@
     "term-2025-autumn/lesson-01",
     "term-2025-autumn/lesson-06",
     "term-2026-spring/lesson-01",
+    "term-2026-spring/lesson-05",
     "term-2026-winter/lesson-09"
    ],
    "forms": {
@@ -9364,6 +9473,21 @@
    ]
   },
   {
+   "id": "inhota",
+   "fi": "inhota",
+   "en": "to hate, detest",
+   "pos": "verb",
+   "group": "feelings",
+   "lessons": [
+    "term-2026-spring/lesson-05",
+    "term-2026-spring/lesson-07",
+    "term-2026-winter/lesson-06",
+    "term-2026-winter/lesson-08",
+    "term-2026-winter/lesson-10"
+   ],
+   "verbType": 4
+  },
+  {
    "id": "itkeä",
    "fi": "itkeä",
    "en": "to cry",
@@ -9566,6 +9690,16 @@
    "lessons": [
     "term-2026-spring/lesson-01",
     "term-2026-winter/lesson-10"
+   ]
+  },
+  {
+   "id": "olla-suuttunut",
+   "fi": "olla suuttunut",
+   "en": "to be angry (at someone: -lle)",
+   "pos": "phrase",
+   "group": "feelings",
+   "lessons": [
+    "term-2026-spring/lesson-05"
    ]
   },
   {
@@ -10223,7 +10357,8 @@
    "pos": "noun",
    "group": "food-meals",
    "lessons": [
-    "term-2025-autumn/lesson-09"
+    "term-2025-autumn/lesson-09",
+    "term-2026-spring/lesson-05"
    ]
   },
   {
@@ -10607,13 +10742,14 @@
   {
    "id": "karkki",
    "fi": "karkki",
-   "en": "sweets",
+   "en": "sweet, candy / sweets",
    "pos": "noun",
    "group": "food-meals",
    "lessons": [
     "term-2025-autumn/lesson-06",
     "term-2025-autumn/lesson-13",
     "term-2026-spring/lesson-02",
+    "term-2026-spring/lesson-05",
     "term-2026-winter/lesson-01",
     "term-2026-winter/lesson-02",
     "term-2026-winter/lesson-03",
@@ -10754,6 +10890,7 @@
    "group": "food-meals",
    "lessons": [
     "term-2025-autumn/lesson-06",
+    "term-2026-spring/lesson-05",
     "term-2026-winter/lesson-12"
    ],
    "note": "plural keksit"
@@ -11586,6 +11723,16 @@
    "group": "food-meals",
    "lessons": [
     "term-2025-autumn/lesson-09"
+   ]
+  },
+  {
+   "id": "soppa",
+   "fi": "soppa",
+   "en": "soup (= keitto)",
+   "pos": "noun",
+   "group": "food-meals",
+   "lessons": [
+    "term-2026-spring/lesson-05"
    ]
   },
   {
@@ -12581,6 +12728,16 @@
    ]
   },
   {
+   "id": "ruusu",
+   "fi": "ruusu",
+   "en": "rose",
+   "pos": "noun",
+   "group": "garden",
+   "lessons": [
+    "term-2026-spring/lesson-05"
+   ]
+  },
+  {
    "id": "sato",
    "fi": "sato",
    "en": "harvest, crop",
@@ -13419,6 +13576,16 @@
    ]
   },
   {
+   "id": "osasto",
+   "fi": "osasto",
+   "en": "department, ward",
+   "pos": "noun",
+   "group": "health",
+   "lessons": [
+    "term-2026-spring/lesson-05"
+   ]
+  },
+  {
    "id": "painaa",
    "fi": "painaa",
    "en": "to weigh",
@@ -13515,6 +13682,16 @@
    "lessons": [
     "term-2025-autumn/lesson-14",
     "term-2026-winter/lesson-01"
+   ]
+  },
+  {
+   "id": "tarkastus",
+   "fi": "tarkastus",
+   "en": "check-up",
+   "pos": "noun",
+   "group": "health",
+   "lessons": [
+    "term-2026-spring/lesson-05"
    ]
   },
   {
@@ -13851,6 +14028,7 @@
     "term-2025-autumn/lesson-07",
     "term-2025-autumn/lesson-09",
     "term-2026-spring/lesson-02",
+    "term-2026-spring/lesson-05",
     "term-2026-spring/lesson-06",
     "term-2026-winter/lesson-02"
    ]
@@ -13888,6 +14066,7 @@
    "lessons": [
     "term-2025-autumn/lesson-10",
     "term-2025-autumn/lesson-11",
+    "term-2026-spring/lesson-05",
     "term-2026-winter/lesson-06",
     "term-2026-winter/lesson-08",
     "term-2026-winter/lesson-10"
@@ -14068,6 +14247,16 @@
    ]
   },
   {
+   "id": "metsästysseura",
+   "fi": "metsästysseura",
+   "en": "hunting club",
+   "pos": "noun",
+   "group": "hobbies-sport",
+   "lessons": [
+    "term-2026-spring/lesson-05"
+   ]
+  },
+  {
    "id": "metsästää",
    "fi": "metsästää",
    "en": "to hunt",
@@ -14242,6 +14431,7 @@
    "lessons": [
     "term-2025-autumn/lesson-09",
     "term-2025-autumn/lesson-12",
+    "term-2026-spring/lesson-05",
     "term-2026-winter/lesson-02",
     "term-2026-winter/lesson-08"
    ]
@@ -14278,6 +14468,16 @@
    "group": "hobbies-sport",
    "lessons": [
     "term-2026-spring/lesson-08"
+   ]
+  },
+  {
+   "id": "pukuhuone",
+   "fi": "pukuhuone",
+   "en": "changing room",
+   "pos": "noun",
+   "group": "hobbies-sport",
+   "lessons": [
+    "term-2026-spring/lesson-05"
    ]
   },
   {
@@ -14445,6 +14645,16 @@
     "sinä": "soitat"
    },
    "note": "soittaa pianoa; tt → t"
+  },
+  {
+   "id": "taide",
+   "fi": "taide",
+   "en": "art",
+   "pos": "noun",
+   "group": "hobbies-sport",
+   "lessons": [
+    "term-2026-spring/lesson-05"
+   ]
   },
   {
    "id": "tamburiini",
@@ -15884,12 +16094,13 @@
   {
    "id": "kylpyamme",
    "fi": "kylpyamme",
-   "en": "bathtub",
+   "en": "bathtub / bath tub",
    "pos": "noun",
    "group": "household",
    "lessons": [
     "term-2025-autumn/lesson-13",
     "term-2025-autumn/lesson-14",
+    "term-2026-spring/lesson-05",
     "term-2026-winter/lesson-01"
    ]
   },
@@ -16936,10 +17147,11 @@
   {
    "id": "ennen-kuin",
    "fi": "ennen kuin",
-   "en": "before; (here) not until",
+   "en": "before (conjunction)",
    "pos": "conj",
    "group": "little-words",
    "lessons": [
+    "term-2026-spring/lesson-05",
     "term-2026-winter/lesson-07"
    ]
   },
@@ -17623,6 +17835,7 @@
     "term-2025-autumn/lesson-11",
     "term-2025-autumn/lesson-13",
     "term-2026-spring/lesson-04",
+    "term-2026-spring/lesson-05",
     "term-2026-winter/lesson-01",
     "term-2026-winter/lesson-02",
     "term-2026-winter/lesson-03"
@@ -19802,6 +20015,7 @@
    "group": "nature",
    "lessons": [
     "term-2026-spring/lesson-04",
+    "term-2026-spring/lesson-05",
     "term-2026-spring/lesson-06",
     "term-2026-winter/lesson-06",
     "term-2026-winter/lesson-08",
@@ -20994,6 +21208,16 @@
    ]
   },
   {
+   "id": "leikkitraktori",
+   "fi": "leikkitraktori",
+   "en": "toy tractor",
+   "pos": "noun",
+   "group": "other",
+   "lessons": [
+    "term-2026-spring/lesson-05"
+   ]
+  },
+  {
    "id": "lempi",
    "fi": "lempi-",
    "en": "favourite (prefix)",
@@ -21852,6 +22076,16 @@
     "plural": "tytöt"
    },
    "note": "tt → t; tt → t: tytöt"
+  },
+  {
+   "id": "varas",
+   "fi": "varas",
+   "en": "thief",
+   "pos": "noun",
+   "group": "people",
+   "lessons": [
+    "term-2026-spring/lesson-05"
+   ]
   },
   {
    "id": "ystävä",
@@ -23424,6 +23658,7 @@
     "term-2025-autumn/lesson-02",
     "term-2025-autumn/lesson-03",
     "term-2025-autumn/lesson-04",
+    "term-2026-spring/lesson-05",
     "term-2026-winter/lesson-09"
    ]
   },
@@ -26201,10 +26436,11 @@
   {
    "id": "pysäkki",
    "fi": "pysäkki",
-   "en": "(bus) stop",
+   "en": "stop (bus)",
    "pos": "noun",
    "group": "transport",
    "lessons": [
+    "term-2026-spring/lesson-05",
     "term-2026-winter/lesson-05"
    ],
    "note": "kk → k"
@@ -26267,6 +26503,7 @@
    "lessons": [
     "term-2025-autumn/lesson-02",
     "term-2025-autumn/lesson-10",
+    "term-2026-spring/lesson-05",
     "term-2026-winter/lesson-07"
    ]
   },
@@ -26497,7 +26734,8 @@
    "pos": "noun",
    "group": "travel",
    "lessons": [
-    "term-2026-spring/lesson-02"
+    "term-2026-spring/lesson-02",
+    "term-2026-spring/lesson-05"
    ],
    "note": "kk → k"
   },
@@ -26609,6 +26847,7 @@
    "pos": "noun",
    "group": "travel",
    "lessons": [
+    "term-2026-spring/lesson-05",
     "term-2026-spring/lesson-08",
     "term-2026-winter/lesson-07"
    ],
@@ -26920,6 +27159,17 @@
    "note": "t → d (huudan)"
   },
   {
+   "id": "hypätä",
+   "fi": "hypätä",
+   "en": "to jump",
+   "pos": "verb",
+   "group": "verbs",
+   "lessons": [
+    "term-2026-spring/lesson-05"
+   ],
+   "verbType": 4
+  },
+  {
    "id": "häiritä",
    "fi": "häiritä",
    "en": "to disturb",
@@ -26940,20 +27190,6 @@
     "te": "häiritsette",
     "he": "häiritsevät"
    }
-  },
-  {
-   "id": "inhota",
-   "fi": "inhota",
-   "en": "to hate / to loathe, to detest",
-   "pos": "verb",
-   "group": "verbs",
-   "lessons": [
-    "term-2026-spring/lesson-07",
-    "term-2026-winter/lesson-06",
-    "term-2026-winter/lesson-08",
-    "term-2026-winter/lesson-10"
-   ],
-   "verbType": 4
   },
   {
    "id": "istua",
